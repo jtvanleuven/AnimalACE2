@@ -1,0 +1,1469 @@
+scientific,acc_num,db
+Homo sapiens,NP_001358344.1,refseq
+Mus musculus,NP_081562.2,refseq
+Rattus norvegicus,NP_001012006.1,refseq
+Gallus gallus,XP_416822.2,refseq
+Pan troglodytes,XP_016798468.1,refseq
+Canis lupus familiaris,NP_001158732.1,refseq
+Danio rerio,XP_005169416.1,refseq
+Bos taurus,XP_005228485.1,refseq
+Felis catus,XP_023104564.1,refseq
+Macaca mulatta,NP_001129168.1,refseq
+Monodelphis domestica,XP_007500935.1,refseq
+Equus caballus,XP_001490241.1,refseq
+Ornithorhynchus anatinus,XP_001515597.2,refseq
+Sus scrofa,NP_001116542.1,refseq
+Pongo abelii,NP_001124604.1,refseq
+Taeniopygia guttata,XP_002194303.4,refseq
+Cavia porcellus,XP_023417808.1,refseq
+Oryctolagus cuniculus,XP_002719891.1,refseq
+Callithrix jacchus,XP_008987241.1,refseq
+Ailuropoda melanoleuca,XP_034505781.1,refseq
+Xenopus tropicalis,XP_002938293.2,refseq
+Meleagris gallopavo,XP_019467554.1,refseq
+Anolis carolinensis,XP_008105455.1,refseq
+Nomascus leucogenys,XP_003261132.2,refseq
+Loxodonta africana,XP_023410960.1,refseq
+Oreochromis niloticus,XP_003445853.2,refseq
+Cricetulus griseus,XP_003503283.1,refseq
+Sarcophilus harrisii,XP_031814825.1,refseq
+Otolemur garnettii,XP_003791912.1,refseq
+Pan paniscus,XP_008972428.2,refseq
+Papio anubis,XP_021788732.1,refseq
+Saimiri boliviensis boliviensis,XP_010334925.1,refseq
+Takifugu rubripes,XP_029702274.1,refseq
+Ovis aries,XP_011961657.1,refseq
+Gorilla gorilla gorilla,XP_018874749.1,refseq
+Orcinus orca,XP_004269705.1,refseq
+Tursiops truncatus,XP_019781177.2,refseq
+Trichechus manatus latirostris,XP_004386381.1,refseq
+Odobenus rosmarus divergens,XP_004415448.1,refseq
+Ceratotherium simum simum,XP_004435206.1,refseq
+Dasypus novemcinctus,XP_004449124.1,refseq
+Maylandia zebra,XP_004543482.1,refseq
+Ochotona princeps,XP_004597549.2,refseq
+Sorex araneus,XP_004612266.1,refseq
+Octodon degus,XP_023575315.1,refseq
+Jaculus jaculus,XP_004671523.1,refseq
+Condylura cristata,XP_012585871.1,refseq
+Echinops telfairi,XP_004710002.1,refseq
+Mustela putorius furo,NP_001297119.1,refseq
+Heterocephalus glaber,XP_004866157.1,refseq
+Anas platyrhynchos,XP_012949915.2,refseq
+Ficedula albicollis,XP_005037422.1,refseq
+Mesocricetus auratus,XP_005074266.1,refseq
+Melopsittacus undulatus,XP_005151516.2,refseq
+Falco peregrinus,XP_005231984.2,refseq
+Chrysemys picta bellii,XP_023964517.1,refseq
+Ictidomys tridecemlineatus,XP_005316051.3,refseq
+Microtus ochrogaster,XP_005358818.1,refseq
+Chinchilla lanigera,XP_013362428.1,refseq
+Geospiza fortis,XP_005426221.1,refseq
+Falco cherrug,XP_005443093.2,refseq
+Zonotrichia albicollis,XP_005491832.2,refseq
+Columba livia,XP_021154486.1,refseq
+Pseudopodoces humilis,XP_005516712.1,refseq
+Macaca fascicularis,XP_005593094.1,refseq
+Capra hircus,NP_001277036.1,refseq
+Pundamilia nyererei,XP_005724169.1,refseq
+Xiphophorus maculatus,XP_005799835.1,refseq
+Myotis brandtii,XP_014399780.1,refseq
+Bos mutus,XP_005903173.1,refseq
+Haplochromis burtoni,XP_005943362.1,refseq
+Latimeria chalumnae,XP_005997915.2,refseq
+Alligator sinensis,XP_025066628.1,refseq
+Bubalus bubalis,XP_006041602.1,refseq
+Myotis lucifugus,XP_023609437.1,refseq
+Pelodiscus sinensis,XP_006122891.1,refseq
+Tupaia chinensis,XP_006164754.1,refseq
+Camelus ferus,XP_006194263.1,refseq
+Vicugna pacos,XP_006212709.1,refseq
+Alligator mississippiensis,XP_019350687.1,refseq
+Lepisosteus oculatus,XP_006639185.1,refseq
+Leptonychotes weddellii,XP_030886750.1,refseq
+Myotis davidii,XP_006775273.1,refseq
+Neolamprologus brichardi,XP_006780474.1,refseq
+Chrysochloris asiatica,XP_006835673.1,refseq
+Elephantulus edwardii,XP_006892457.1,refseq
+Pteropus alecto,XP_006911709.1,refseq
+Peromyscus maniculatus bairdii,XP_006973269.1,refseq
+Chelonia mydas,XP_007070561.1,refseq
+Panthera tigris altaica,XP_007090142.1,refseq
+Physeter catodon,XP_023971279.1,refseq
+Balaenoptera acutorostrata scammoni,XP_028020351.1,refseq
+Astyanax mexicanus,XP_022523929.1,refseq
+Python bivittatus,XP_007431942.2,refseq
+Lipotes vexillifer,XP_007466389.1,refseq
+Erinaceus europaeus,XP_007538670.1,refseq
+Poecilia formosa,XP_007560208.1,refseq
+Callorhinchus milii,XP_007889845.1,refseq
+Orycteropus afer afer,XP_007951028.1,refseq
+Chlorocebus sabaeus,XP_007989304.1,refseq
+Carlito syrichta,XP_008062810.1,refseq
+Eptesicus fuscus,XP_008153150.1,refseq
+Stegastes partitus,XP_008290762.1,refseq
+Cynoglossus semilaevis,XP_016887914.1,refseq
+Poecilia reticulata,XP_008402714.1,refseq
+Calypte anna,XP_008492997.2,refseq
+Equus przewalskii,XP_008542995.1,refseq
+Corvus brachyrhynchos,XP_017583883.1,refseq
+Ursus maritimus,XP_008694637.1,refseq
+Nannospalax galili,XP_008839098.1,refseq
+Manacus vitellinus,XP_017939494.2,refseq
+Merops nubicus,XP_008937519.1,refseq
+Acanthisitta chloris,XP_009082150.1,refseq
+Serinus canaria,XP_009087922.1,refseq
+Aptenodytes forsteri,XP_009275140.1,refseq
+Pygoscelis adeliae,XP_009323767.1,refseq
+Nipponia nippon,XP_009474590.1,refseq
+Pelecanus crispus,XP_009478920.1,refseq
+Phalacrocorax carbo,XP_009509070.1,refseq
+Cuculus canorus,XP_009563864.1,refseq
+Fulmarus glacialis,XP_009574896.1,refseq
+Egretta garzetta,XP_009638257.1,refseq
+Struthio camelus australis,XP_009667495.1,refseq
+Cariama cristata,XP_009703695.1,refseq
+Gavia stellata,XP_009816127.1,refseq
+Apaloderma vittatum,XP_009867056.1,refseq
+Charadrius vociferus,XP_009887331.1,refseq
+Picoides pubescens,XP_009909849.1,refseq
+Haliaeetus albicilla,XP_009925641.1,refseq
+Opisthocomus hoazin,XP_009938970.1,refseq
+Leptosomus discolor,XP_009954393.1,refseq
+Tyto alba alba,XP_032865981.1,refseq
+Tauraco erythrolophus,XP_009978415.1,refseq
+Chaetura pelagica,XP_009992128.1,refseq
+Nestor notabilis,XP_010012481.1,refseq
+Pterocles gutturalis,XP_010084373.1,refseq
+Chlamydotis macqueenii,XP_010120523.1,refseq
+Buceros rhinoceros silvestris,XP_010136813.1,refseq
+Eurypyga helias,XP_010156467.1,refseq
+Antrostomus carolinensis,XP_010169238.1,refseq
+Mesitornis unicolor,XP_010178703.1,refseq
+Colius striatus,XP_010206054.1,refseq
+Tinamus guttatus,XP_010217584.1,refseq
+Phaethon lepturus,XP_010290019.1,refseq
+Rhinopithecus roxellana,XP_010364367.2,refseq
+Corvus cornix cornix,XP_010392735.2,refseq
+Haliaeetus leucocephalus,XP_010579828.1,refseq
+Fukomys damarensis,XP_010643477.1,refseq
+Larimichthys crocea,XP_010730146.1,refseq
+Notothenia coriiceps,XP_010790455.1,refseq
+Bison bison bison,XP_010833001.1,refseq
+Esox lucius,XP_010884777.2,refseq
+Camelus bactrianus,XP_010966303.1,refseq
+Camelus dromedarius,XP_010991717.1,refseq
+Pteropus vampyrus,XP_011361275.1,refseq
+Macaca nemestrina,XP_011733505.1,refseq
+Mandrillus leucophaeus,XP_011850923.1,refseq
+Cercocebus atys,XP_011891198.1,refseq
+Aotus nancymaae,XP_012290105.1,refseq
+Propithecus coquereli,XP_012494185.1,refseq
+Microcebus murinus,XP_020140826.1,refseq
+Clupea harengus,XP_031414786.1,refseq
+Fundulus heteroclitus,XP_021178197.1,refseq
+Dipodomys ordii,XP_012887572.1,refseq
+Anser cygnoides domesticus,XP_013039300.1,refseq
+Apteryx mantelli mantelli,XP_013805736.1,refseq
+Austrofundulus limnaeus,XP_013888928.1,refseq
+Thamnophis sirtalis,XP_013926936.1,refseq
+Salmo salar,XP_014062928.1,refseq
+Equus asinus,XP_014713133.1,refseq
+Sturnus vulgaris,XP_014731370.1,refseq
+Calidris pugnax,XP_014815705.1,refseq
+Poecilia mexicana,XP_014837025.1,refseq
+Poecilia latipinna,XP_014895313.1,refseq
+Acinonyx jubatus,XP_026910297.1,refseq
+Cyprinodon variegatus,XP_015226730.1,refseq
+Gekko japonicus,XP_015273067.1,refseq
+Marmota marmota marmota,XP_015343540.1,refseq
+Parus major,XP_015486815.1,refseq
+Protobothrops mucrosquamatus,XP_029140508.1,refseq
+Coturnix japonica,XP_015742063.1,refseq
+Nothobranchius furzeri,XP_015808977.1,refseq
+Rousettus aegyptiacus,XP_015974412.1,refseq
+Miniopterus natalensis,XP_016058453.1,refseq
+Sinocyclocheilus anshuiensis,XP_016345325.1,refseq
+Sinocyclocheilus rhinocerous,XP_016422243.1,refseq
+Kryptolebias marmoratus,XP_017295385.1,refseq
+Ictalurus punctatus,XP_017313836.1,refseq
+Cebus capucinus imitator,XP_017367865.1,refseq
+Manis javanica,XP_017505746.1,refseq
+Pygocentrus nattereri,XP_017550079.1,refseq
+Lepidothrix coronata,XP_017667729.1,refseq
+Rhinopithecus bieti,XP_017744069.1,refseq
+Nanorana parkeri,XP_018418558.1,refseq
+Lates calcarifer,XP_018539189.1,refseq
+Scleropages formosus,XP_018584732.1,refseq
+Panthera pardus,XP_019273508.1,refseq
+Gavialis gangeticus,XP_019381060.1,refseq
+Crocodylus porosus,XP_019384826.1,refseq
+Hipposideros armiger,XP_019522936.1,refseq
+Hippocampus comes,XP_019742561.1,refseq
+Bos indicus,XP_019811719.1,refseq
+Paralichthys olivaceus,XP_019935235.1,refseq
+Monopterus albus,XP_020465646.1,refseq
+Labrus bergylta,XP_020493627.1,refseq
+Pogona vitticeps,XP_020642422.1,refseq
+Odocoileus virginianus texanus,XP_020768965.1,refseq
+Boleophthalmus pectinirostris,XP_020781598.1,refseq
+Phascolarctos cinereus,XP_020863153.1,refseq
+Mus caroli,XP_021009138.1,refseq
+Mus pahari,XP_021043935.1,refseq
+Numida meleagris,XP_021240731.1,refseq
+Lonchura striata domestica,XP_021388026.1,refseq
+Oncorhynchus mykiss,XP_021433278.1,refseq
+Neomonachus schauinslandi,XP_021536480.1,refseq
+Acanthochromis polyacanthus,XP_022063988.1,refseq
+Enhydra lutris kenyoni,XP_022374078.1,refseq
+Delphinapterus leucas,XP_022418360.1,refseq
+Seriola dumerili,XP_022605054.1,refseq
+Piliocolobus tephrosceles,XP_023054821.1,refseq
+Amphiprion ocellaris,XP_023124156.1,refseq
+Seriola lalandi dorsalis,XP_023257445.1,refseq
+Paramormyrops kingsleyae,XP_023679669.1,refseq
+Cyanistes caeruleus,XP_023774184.1,refseq
+Salvelinus alpinus,XP_023998967.1,refseq
+Oryzias melastigma,XP_024150631.1,refseq
+Desmodus rotundus,XP_024425698.1,refseq
+Neophocaena asiaeorientalis asiaeorientalis,XP_024599894.1,refseq
+Theropithecus gelada,XP_025227847.1,refseq
+Canis lupus dingo,XP_025292925.2,refseq
+Callorhinus ursinus,XP_025713397.1,refseq
+Puma concolor,XP_025790417.1,refseq
+Vulpes vulpes,XP_025842512.1,refseq
+Nothoprocta perdicaria,XP_025891105.1,refseq
+Apteryx rowi,XP_025942946.1,refseq
+Dromaius novaehollandiae,XP_025976569.1,refseq
+Astatotilapia calliptera,XP_026020155.1,refseq
+Carassius auratus,XP_026131313.1,refseq
+Mastacembelus armatus,XP_026175949.1,refseq
+Anabas testudineus,XP_026233431.1,refseq
+Urocitellus parryii,XP_026252505.1,refseq
+Ursus arctos horribilis,XP_026333865.1,refseq
+Notechis scutatus,XP_026530754.1,refseq
+Pseudonaja textilis,XP_026570054.1,refseq
+Athene cunicularia,XP_026705725.1,refseq
+Pangasianodon hypophthalmus,XP_026803610.1,refseq
+Electrophorus electricus,XP_026867211.2,refseq
+Lagenorhynchus obliquidens,XP_026951598.1,refseq
+Tachysurus fulvidraco,XP_027024524.1,refseq
+Bos indicus x Bos taurus,XP_027389727.1,refseq
+Zalophus californianus,XP_027465353.1,refseq
+Corapipo altera,XP_027494818.1,refseq
+Neopelma chrysocephalum,XP_027544864.1,refseq
+Pipra filicauda,XP_027593974.1,refseq
+Vombatus ursinus,XP_027691156.1,refseq
+Empidonax traillii,XP_027757151.1,refseq
+Marmota flaviventris,XP_027802308.1,refseq
+Xiphophorus couchianus,XP_027871671.1,refseq
+Eumetopias jubatus,XP_027970822.1,refseq
+Parambassis ranga,XP_028257887.1,refseq
+Gouania willdenowi,XP_028297875.1,refseq
+Phyllostomus discolor,XP_028378317.1,refseq
+Perca flavescens,XP_028441363.1,refseq
+Grammomys surdaster,XP_028617961.1,refseq
+Erpetoichthys calabaricus,XP_028655640.1,refseq
+Peromyscus leucopus,XP_028743609.1,refseq
+Denticeps clupeoides,XP_028837781.1,refseq
+Betta splendens,XP_028999570.1,refseq
+Monodon monoceros,XP_029095804.1,refseq
+Cottoperca gobio,XP_029283581.1,refseq
+Echeneis naucrates,XP_029354066.1,refseq
+Rhinatrema bivittatum,XP_029459086.1,refseq
+Suricata suricatta,XP_029786256.1,refseq
+Aquila chrysaetos chrysaetos,XP_029855025.1,refseq
+Myripristis murdjan,XP_029904152.1,refseq
+Salarias fasciatus,XP_029949252.1,refseq
+Microcaecilia unicolor,XP_030058174.1,refseq
+Lynx canadensis,XP_030160839.1,refseq
+Gadus morhua,XP_030232530.1,refseq
+Sparus aurata,XP_030271236.1,refseq
+Strigops habroptila,XP_030332639.1,refseq
+Gopherus evgoodei,XP_030407881.1,refseq
+Archocentrus centrarchus,XP_030582139.1,refseq
+Chanos chanos,XP_030627971.1,refseq
+Globicephala melas,XP_030703991.1,refseq
+Camarhynchus parvulus,XP_030811385.1,refseq
+Sander lucioperca,XP_031162227.1,refseq
+Mastomys coucha,XP_031226742.1,refseq
+Phasianus colchicus,XP_031451919.1,refseq
+Oreochromis aureus,XP_031584810.1,refseq
+Anarrhichthys ocellatus,XP_031702716.1,refseq
+Corvus moneduloides,XP_031956594.1,refseq
+Aythya fuligula,XP_032058386.1,refseq
+Thamnophis elegans,XP_032082934.1,refseq
+Sapajus apella,XP_032141854.1,refseq
+Mustela erminea,XP_032187677.1,refseq
+Phoca vitulina,XP_032245506.1,refseq
+Etheostoma spectabile,XP_032355526.1,refseq
+Xiphophorus hellerii,XP_032417398.1,refseq
+Phocoena sinus,XP_032476001.1,refseq
+Chiroxiphia lanceolata,XP_032536093.1,refseq
+Hylobates moloch,XP_032612508.1,refseq
+Chelonoidis abingdonii,XP_032631197.1,refseq
+Lontra canadensis,XP_032736028.1,refseq
+Rattus rattus,XP_032746145.1,refseq
+Petromyzon marinus,XP_032835032.1,refseq
+Amblyraja radiata,XP_032888812.1,refseq
+Catharus ustulatus,XP_032907631.1,refseq
+Rhinolophus ferrumequinum,XP_032963186.1,refseq
+Trachypithecus francoisi,XP_033056809.1,refseq
+Geotrypetes seraphini,XP_033806113.1,refseq
+Pantherophis guttatus,XP_034290793.1,refseq
+Arvicanthis niloticus,XP_034341939.1,refseq
+Trachemys scripta elegans,XP_034612285.1,refseq
+Mirounga leonina,XP_034852450.1,refseq
+Zootoca vivipara,XP_034971718.1,refseq
+Oxyura jamaicensis,XP_035182951.1,refseq
+Cygnus atratus,XP_035398116.1,refseq
+Rhinolophus pearsonii,ABU54053.1,bats
+Rhinolophus landeri,ALJ94034.1,bats
+Rhinolophus macrotis,ADN93471.1,bats
+Syconycteris australis,QJF77811.1,bats
+Rhinolophus sinicus,ADN93475.1,bats
+Rhinolophus alcyone,ALJ94035.1,bats
+Myotis tricolor,QJF77803.1,bats
+Myotis keaysi,QJF77801.1,bats
+Myotis riparius,QJF77802.1,bats
+Eptesicus brasiliensis,QJF77791.1,bats
+Rousettus leschenaultii,BAF50705.1,bats
+Rhinolophus pusillus,ADN93477.1,bats
+Aeorestes cinereus,QJF77796.1,bats
+Kerivoula pellucida,QJF77795.1,bats
+Antrozous pallidus,QJF77789.1,bats
+Dobsonia viridis,QJF77815.1,bats
+Taphozous theobaldi,QJF77840.1,bats
+Scotophilus dinganii,QJF77809.1,bats
+Pteropus lylei,QJF77806.1,bats
+Neoromicia nanus,QJF77804.1,bats
+Scotophilus kuhlii,QJF77810.1,bats
+Taphozous melanopogon,QJF77841.1,bats
+Emballonura alecto,QJF77816.1,bats
+Rhynchonycteris naso,QJF77807.1,bats
+Artibeus lituratus,QJF77822.1,bats
+Chiroderma salvini,QJF77829.1,bats
+Artibeus phaeotis,QJF77823.1,bats
+Uroderma bilobatum,QJF77842.1,bats
+Artibeus jamaicensis,QJF77821.1,bats
+Artibeus glaucus watsoni,QJF77824.1,bats
+Balantiopteryx plicata,QJF77825.1,bats
+Chiroderma villosum,QJF77830.1,bats
+Cynopterus sphinx,QJF77831.1,bats
+Platyrrhinus helleri,QJF77834.1,bats
+Carollia castanea,QJF77827.1,bats
+Platyrrhinus vittatus,QJF77835.1,bats
+Saccopteryx bilineata,QJF77808.1,bats
+Glossophaga soricina,QJF77794.1,bats
+Rousettus leschenaultii,QJF77836.1,bats
+Epomophorus wahlbergi,QJF77792.1,bats
+Coleura afra,QJF77826.1,bats
+Carollia perspicillata,QJF77828.1,bats
+Glossophaga commissarisi,QJF77793.1,bats
+Tylonycteris robustula,QJF77813.1,bats
+Pipistrellus abramus,ACT66266.1,bats
+Artibeus hartii,QJF77832.1,bats
+Lonchophylla robusta,QJF77797.1,bats
+Hylonycteris underwoodi,QJF77833.1,bats
+Anoura cultrata,QJF77819.1,bats
+Phyllostomus hastatus,QJF77805.1,bats
+Carollia sowelli,QJF77814.1,bats
+Anoura geoffroyi,QJF77820.1,bats
+Sturnira parvidens,QJF77839.1,bats
+Sturnira hondurensis,QJF77837.1,bats
+Micronycteris hirsuta,QJF77798.1,bats
+Micronycteris schmidtorum,QJF77799.1,bats
+Centronycteris centralis,QJF77790.1,bats
+Thyroptera tricolor,QJF77812.1,bats
+Sturnira ludovici,QJF77838.1,bats
+Micronycteris microtis, QJF77800.1,bats
+Pipistrellus javanicus,QJF77817.1,bats
+Myotis daubentonii,ADN93476.1,bats
+Hipposideros pratti,ADN93473.1,bats
+Acanthochromis polyacanthus,XP_022063988.1,blast
+Acanthochromis polyacanthus,XP_022063989.1,blast
+Acanthochromis polyacanthus,XP_022063991.1,blast
+Acinonyx jubatus,XP_026910297.1,blast
+Acinonyx jubatus,XP_026910299.1,blast
+Acipenser ruthenus,RXM99888.1,blast
+Acipenser ruthenus,RXM32683.1,blast
+Ailuropoda melanoleuca,XP_002930657.1,blast
+Alligator mississippiensis,XP_019350687.1,blast
+Alligator sinensis,XP_025066629.1,blast
+Alligator sinensis,XP_025066628.1,blast
+Amazona aestiva,KQK80079.1,blast
+Amblyraja radiata,XP_032888812.1,blast
+Amphiprion ocellaris,XP_023124156.1,blast
+Anabas testudineus,XP_026233431.1,blast
+Anabas testudineus,XP_026233433.1,blast
+Anarrhichthys ocellatus,XP_031702716.1,blast
+Anas platyrhynchos,EOB05299.1,blast
+Anas platyrhynchos,XP_012949915.2,blast
+Anolis carolinensis,XP_008105455.1,blast
+Anser cygnoides domesticus,XP_013039300.1,blast
+Antrostomus carolinensis,XP_010169238.1,blast
+Antrostomus carolinensis,KFZ61156.1,blast
+Apaloderma vittatum,XP_009867056.1,blast
+Aptenodytes forsteri,XP_009275140.1,blast
+Aptenodytes forsteri,XP_009275141.1,blast
+Aptenodytes patagonicus,KAF1644867.1,blast
+Apteryx rowi,XP_025942946.1,blast
+Aquila chrysaetos chrysaetos,XP_029855025.1,blast
+Archocentrus centrarchus,XP_030582139.1,blast
+Astatotilapia calliptera,XP_026020155.1,blast
+Astyanax mexicanus,XP_022523929.1,blast
+Athene cunicularia,XP_026705725.1,blast
+Austrofundulus limnaeus,XP_013888928.1,blast
+Aythya fuligula,XP_032058386.1,blast
+Bagarius yarrelli,TSY13820.1,blast
+Balaenoptera acutorostrata scammoni,XP_028020351.1,blast
+Balaenoptera physalus,KAB0390968.1,blast
+Betta splendens,XP_028999570.1,blast
+Boleophthalmus pectinirostris,XP_020781598.1,blast
+Bos indicus,XP_019811719.1,blast
+Bos indicus,XP_019811720.1,blast
+Bos indicus x Bos taurus,XP_027389727.1,blast
+Bos indicus x Bos taurus,XP_027389729.1,blast
+Bos indicus x Bos taurus,XP_027389730.1,blast
+Bos mutus,XP_005903173.1,blast
+Bos mutus,MXQ98806.1,blast
+Bos taurus,XP_005228485.1,blast
+Bos taurus,XP_005228486.1,blast
+Bos taurus,NP_001019673.2,blast
+Bos taurus,XP_015317271.1,blast
+Bubalus bubalis,XP_006041602.1,blast
+Buceros rhinoceros silvestris,KFO91230.1,blast
+Buceros rhinoceros silvestris,XP_010136813.1,blast
+Calidris pugnax,XP_014815705.1,blast
+Callipepla squamata,OXB65505.1,blast
+Callorhinchus milii,XP_007889845.1,blast
+Callorhinchus milii,XP_007889846.1,blast
+Callorhinus ursinus,XP_025713397.1,blast
+Calypte anna,XP_008492997.2,blast
+Camarhynchus parvulus,XP_030811385.1,blast
+Camelus dromedarius,KAB1253106.1,blast
+Camelus ferus,XP_006194263.1,blast
+Canis lupus dingo,XP_025292925.1,blast
+Canis lupus familiaris,XP_005641049.1,blast
+Canis lupus familiaris,NP_001158732.1,blast
+Capra hircus,NP_001277036.1,blast
+Capra hircus,XP_005701129.2,blast
+Capra hircus,XP_017899103.1,blast
+Carassius auratus,XP_026077260.1,blast
+Carassius auratus,XP_026131313.1,blast
+Cariama cristata,XP_009703695.1,blast
+Cariama cristata,KFP67600.1,blast
+Cathartes aura,KFP57867.1,blast
+Catharus ustulatus,XP_032907631.1,blast
+Cavia porcellus,XP_023417808.1,blast
+Cavia porcellus,ACT66270.1,blast
+Ceratotherium simum simum,XP_004435206.1,blast
+Chaetura pelagica,XP_009992128.1,blast
+Channa argus,KAF3686611.1,blast
+Chanos chanos,XP_030642567.1,blast
+Chanos chanos,XP_030627971.1,blast
+Charadrius vociferus,XP_009887331.1,blast
+Charadrius vociferus,XP_009887332.1,blast
+Chelonia mydas,XP_007070561.1,blast
+Chelonoidis abingdonii,XP_032631197.1,blast
+Chinchilla lanigera,XP_013362428.1,blast
+Chinchilla lanigera,NP_001269290.1,blast
+Chlamydotis macqueenii,XP_010120523.1,blast
+Chlamydotis macqueenii,KFP42826.1,blast
+Chrysemys picta bellii,XP_005287845.1,blast
+Chrysemys picta bellii,XP_023964517.1,blast
+Chrysochloris asiatica,XP_006835673.1,blast
+Clupea harengus,XP_012675889.2,blast
+Clupea harengus,XP_031414786.1,blast
+Colinus virginianus,OXB80355.1,blast
+Collichthys lucidus,TKS69643.1,blast
+Columba livia,XP_021154486.1,blast
+Condylura cristata,XP_012585871.1,blast
+Corapipo altera,XP_027494818.1,blast
+Coregonus sp. 'balchen',CAB1327497.1,blast
+Corvus brachyrhynchos,KFO55775.1,blast
+Corvus brachyrhynchos,XP_017583883.1,blast
+Corvus cornix cornix,XP_010392735.2,blast
+Corvus moneduloides,XP_031956594.1,blast
+Cottoperca gobio,XP_029283581.1,blast
+Coturnix japonica,XP_015742063.1,blast
+Cricetulus griseus,XP_003503283.1,blast
+Cricetulus griseus,XP_027288607.1,blast
+Cricetulus griseus,EGW01658.1,blast
+Cricetulus griseus,RLQ60272.1,blast
+Crocodylus porosus,XP_019384827.1,blast
+Crocodylus porosus,XP_019384826.1,blast
+Crocuta crocuta,KAF0878287.1,blast
+Cuculus canorus,XP_009563864.1,blast
+Cyanistes caeruleus,XP_023774184.1,blast
+Cynoglossus semilaevis,XP_016887914.1,blast
+Cyprinodon variegatus,XP_015226730.1,blast
+Cyprinus carpio,KTF89199.1,blast
+Cyprinus carpio,KTF80794.1,blast
+Danio rerio,XP_005169417.1,blast
+Danio rerio,NP_001007298.1,blast
+Danio rerio,XP_005169416.1,blast
+Danionella translucida,TRY62286.1,blast
+Dasypus novemcinctus,XP_004449124.1,blast
+Delphinapterus leucas,XP_022418360.1,blast
+Denticeps clupeoides,XP_028837781.1,blast
+Desmodus rotundus,XP_024425698.1,blast
+Desmodus rotundus,XP_024425699.1,blast
+Dipodomys ordii,XP_012887572.1,blast
+Dipodomys ordii,XP_012887573.1,blast
+Dissostichus mawsoni,KAF3832838.1,blast
+Dromaius novaehollandiae,XP_025976569.1,blast
+Echeneis naucrates,XP_029354067.1,blast
+Echeneis naucrates,XP_029354066.1,blast
+Echinops telfairi,XP_004710002.1,blast
+Egretta garzetta,XP_009638257.1,blast
+Electrophorus electricus,XP_026867211.1,blast
+Elephantulus edwardii,XP_006892457.1,blast
+Empidonax traillii,XP_027757151.1,blast
+Enhydra lutris kenyoni,XP_022374078.1,blast
+Enhydra lutris kenyoni,XP_022374079.1,blast
+Eptesicus fuscus,XP_008153150.1,blast
+Eptesicus fuscus,XP_027986092.1,blast
+Equus asinus,XP_014713133.1,blast
+Equus caballus,XP_001490241.1,blast
+Equus przewalskii,XP_008542995.1,blast
+Erinaceus europaeus,XP_007538670.1,blast
+Erpetoichthys calabaricus,XP_028655640.1,blast
+Erythrura gouldiae,RLW07695.1,blast
+Esox lucius,XP_010884777.1,blast
+Etheostoma spectabile,XP_032355526.1,blast
+Etheostoma spectabile,KAA8595870.1,blast
+Eudyptes chrysocome,KAF1650452.1,blast
+Eudyptes chrysolophus,KAF1608779.1,blast
+Eudyptes filholi,KAF1629602.1,blast
+Eudyptes pachyrhynchus,KAF1575046.1,blast
+Eudyptes robustus,KAF1593913.1,blast
+Eudyptes schlegeli,KAF1567194.1,blast
+Eudyptes sclateri,KAF1522443.1,blast
+Eudyptula albosignata,KAF1516848.1,blast
+Eudyptula minor,KAF1544712.1,blast
+Eudyptula novaehollandiae,KAF1479752.1,blast
+Eumetopias jubatus,XP_027970822.1,blast
+Eurypyga helias,XP_010156467.1,blast
+Falco cherrug,XP_005443093.2,blast
+Falco peregrinus,XP_005231984.2,blast
+Felis catus,NP_001034545.1,blast
+Felis catus,XP_023104564.1,blast
+Felis catus,ACT66276.1,blast
+Ficedula albicollis,XP_005037422.1,blast
+Fukomys damarensis,XP_010643477.1,blast
+Fundulus heteroclitus,XP_021178197.1,blast
+Gadus morhua,XP_030232530.1,blast
+Gallus gallus,XP_416822.2,blast
+Gallus gallus,QEQ50331.1,blast
+Gallus gallus,ACT66264.1,blast
+Gambusia affinis,PWA19048.1,blast
+Gavia stellata,XP_009816127.1,blast
+Gavialis gangeticus,XP_019381061.1,blast
+Gavialis gangeticus,XP_019381060.1,blast
+Gekko japonicus,XP_015273067.1,blast
+Geospiza fortis,XP_005426221.1,blast
+Globicephala melas,XP_030703991.1,blast
+Gopherus evgoodei,XP_030407881.1,blast
+Gouania willdenowi,XP_028297875.1,blast
+Gouania willdenowi,XP_028297880.1,blast
+Grammomys surdaster,XP_028617961.1,blast
+Haliaeetus leucocephalus,XP_010579828.1,blast
+Haplochromis burtoni,XP_005943362.1,blast
+Heterocephalus glaber,XP_004866157.1,blast
+Heterocephalus glaber,EHB15595.1,blast
+Hippocampus comes,XP_019742561.1,blast
+Hipposideros armiger,XP_019522936.1,blast
+Hirundo rustica rustica,RMC06429.1,blast
+Ictalurus punctatus,XP_017313836.1,blast
+Ictidomys tridecemlineatus,XP_005316051.3,blast
+Jaculus jaculus,XP_004671523.1,blast
+Kryptolebias marmoratus,XP_017295385.1,blast
+Labeo rohita,RXN26547.1,blast
+Labrus bergylta,XP_020493627.1,blast
+Lagenorhynchus obliquidens,XP_026951598.1,blast
+Larimichthys crocea,TMS13523.1,blast
+Larimichthys crocea,XP_010730146.1,blast
+Lates calcarifer,XP_018539189.1,blast
+Latimeria chalumnae,XP_005997915.2,blast
+Lepidothrix coronata,XP_017667729.1,blast
+Lepisosteus oculatus,XP_006639185.1,blast
+Leptosomus discolor,XP_009954393.1,blast
+Limosa lapponica baueri,PKU45654.1,blast
+Lipotes vexillifer,XP_007466389.1,blast
+Lonchura striata domestica,XP_021388026.1,blast
+Lonchura striata domestica,OWK55002.1,blast
+Lontra canadensis,XP_032736028.1,blast
+Lottia gigantea,XP_009055043.1,blast
+Loxodonta africana,XP_023410960.1,blast
+Lynx canadensis,XP_030160839.1,blast
+Lynx pardinus,VFV30336.1,blast
+Manacus vitellinus,XP_017939494.2,blast
+Manacus vitellinus,KFW83101.1,blast
+Manis javanica,XP_017505746.1,blast
+Marmota flaviventris,XP_027802308.1,blast
+Marmota marmota marmota,XP_015343540.1,blast
+Marmota monax,VTJ58197.1,blast
+Mastacembelus armatus,XP_026175949.1,blast
+Mastomys coucha,XP_031226742.1,blast
+Maylandia zebra,XP_004543482.1,blast
+Megadyptes antipodes antipodes,KAF1485285.1,blast
+Meleagris gallopavo,XP_019467554.1,blast
+Melopsittacus undulatus,XP_005151516.1,blast
+Melospiza melodia maxima,KAF2980691.1,blast
+Merops nubicus,XP_008937519.1,blast
+Mesitornis unicolor,XP_010178703.1,blast
+Mesocricetus auratus,XP_005074266.1,blast
+Mesocricetus auratus,ACT66278.1,blast
+Microcaecilia unicolor,XP_030058174.1,blast
+Microtus ochrogaster,XP_005358818.1,blast
+Miniopterus natalensis,XP_016058453.1,blast
+Mirounga leonina,KAF3812876.1,blast
+Monodelphis domestica,XP_007500935.1,blast
+Monodelphis domestica,XP_007500941.1,blast
+Monodon monoceros,XP_029095804.1,blast
+Monodon monoceros,TKC38591.1,blast
+Monopterus albus,XP_020465646.1,blast
+Muntiacus muntjak,KAB0345583.1,blast
+Muntiacus reevesi,KAB0353863.1,blast
+Mus caroli,XP_021009138.1,blast
+Mus musculus,NP_001123985.1,blast
+Mus musculus,BAB40431.1,blast
+Mus musculus,ACT66269.1,blast
+Mus pahari,XP_021043935.1,blast
+Mustela erminea,XP_032187677.1,blast
+Mustela putorius furo,NP_001297119.1,blast
+Myotis brandtii,XP_014399780.1,blast
+Myotis brandtii,XP_014399782.1,blast
+Myotis brandtii,XP_014399783.1,blast
+Myotis davidii,XP_006775273.1,blast
+Myotis davidii,XP_015426919.1,blast
+Myotis lucifugus,XP_023609437.1,blast
+Myotis lucifugus,XP_023609439.1,blast
+Myripristis murdjan,XP_029904152.1,blast
+Nannospalax galili,XP_008839098.1,blast
+Nanorana parkeri,XP_018418558.1,blast
+Neolamprologus brichardi,XP_006780474.1,blast
+Neomonachus schauinslandi,XP_021536480.1,blast
+Neomonachus schauinslandi,XP_021536486.1,blast
+Neopelma chrysocephalum,XP_027544864.1,blast
+Neophocaena asiaeorientalis asiaeorientalis,XP_024599894.1,blast
+Neotoma lepida,OBS71437.1,blast
+Nipponia nippon,XP_009474590.1,blast
+Nipponia nippon,KFQ92425.1,blast
+Notechis scutatus,XP_026530754.1,blast
+Nothobranchius furzeri,XP_015808977.1,blast
+Nothoprocta perdicaria,XP_025891105.1,blast
+Notothenia coriiceps,XP_010790455.1,blast
+Numida meleagris,XP_021240731.1,blast
+Nyctereutes procyonoides,ABW16956.1,blast
+Ochotona princeps,XP_004597549.2,blast
+Octodon degus,XP_023575315.1,blast
+Oncorhynchus kisutch,XP_031669258.1,blast
+Oncorhynchus kisutch,XP_031677944.1,blast
+Oncorhynchus mykiss,XP_021433278.1,blast
+Ophiophagus hannah,ETE61880.1,blast
+Opisthocomus hoazin,KFR15510.1,blast
+Opisthocomus hoazin,XP_009938970.1,blast
+Orcinus orca,XP_004269705.1,blast
+Oreochromis aureus,XP_031584810.1,blast
+Oreochromis niloticus,XP_005466868.1,blast
+Oreochromis niloticus,XP_003445853.2,blast
+Ornithorhynchus anatinus,XP_001515597.2,blast
+Orycteropus afer afer,XP_007951028.1,blast
+Oryctolagus cuniculus,ACT66271.1,blast
+Oryctolagus cuniculus,XP_002719891.1,blast
+Oryctolagus cuniculus,QHX39726.1,blast
+Oryzias javanicus,RVE74318.1,blast
+Oryzias melastigma,XP_024150631.1,blast
+Ovis aries,XP_011961657.1,blast
+Paguma larvata,Q56NL1.1,blast
+Pangasianodon hypophthalmus,XP_026803610.1,blast
+Panthera pardus,XP_019273508.1,blast
+Panthera tigris altaica,XP_007090142.1,blast
+Parambassis ranga,XP_028257887.1,blast
+Parambassis ranga,XP_028257888.1,blast
+Paramormyrops kingsleyae,XP_023679669.1,blast
+Paroedura picta,GCF40292.1,blast
+Parus major,XP_015486815.1,blast
+Patagioenas fasciata monilis,OPJ69605.1,blast
+Pelecanus crispus,XP_009478920.1,blast
+Pelodiscus sinensis,XP_006122891.1,blast
+Perca flavescens,XP_028441363.1,blast
+Perca fluviatilis,KAF1392660.1,blast
+Peromyscus leucopus,XP_028743609.1,blast
+Peromyscus maniculatus bairdii,XP_006973269.1,blast
+Phaethon lepturus,XP_010290019.1,blast
+Phalacrocorax carbo,XP_009509070.1,blast
+Phalacrocorax carbo,KFW94280.1,blast
+Phascolarctos cinereus,XP_020863153.1,blast
+Phasianus colchicus,XP_031451919.1,blast
+Phoca vitulina,XP_032245506.1,blast
+Phocoena sinus,XP_032476001.1,blast
+Phodopus campbelli,ACT66274.1,blast
+Phoenicopterus ruber ruber,KFQ88824.1,blast
+Phyllostomus discolor,XP_028378317.1,blast
+Physeter catodon,XP_023971279.1,blast
+Pipistrellus abramus,ACT66266.1,blast
+Pipra filicauda,XP_027593974.1,blast
+Platysternon megacephalum,TFK10262.1,blast
+Poecilia formosa,XP_007560208.1,blast
+Poecilia latipinna,XP_014895313.1,blast
+Poecilia mexicana,XP_014837025.1,blast
+Poecilia reticulata,XP_008402714.1,blast
+Pogona vitticeps,XP_020642422.1,blast
+Procyon lotor,BAE72462.1,blast
+Protobothrops mucrosquamatus,XP_029140508.1,blast
+Pseudonaja textilis,XP_026570054.1,blast
+Pseudopodoces humilis,XP_005516712.1,blast
+Pteropus alecto,XP_006911709.1,blast
+Pteropus alecto,ELK12924.1,blast
+Pteropus vampyrus,XP_011361275.1,blast
+Puma concolor,XP_025790417.1,blast
+Pundamilia nyererei,XP_005724169.1,blast
+Pygocentrus nattereri,XP_017550079.1,blast
+Pygoscelis adeliae,XP_009323767.1,blast
+Pygoscelis adeliae,KFW68094.1,blast
+Pygoscelis antarcticus,KAF1478330.1,blast
+Pygoscelis papua,KAF1676228.1,blast
+Python bivittatus,XP_007431942.2,blast
+Rattus norvegicus,NP_001012006.1,blast
+Rattus rattus,XP_032746145.1,blast
+Rhinatrema bivittatum,XP_029459086.1,blast
+Rhinatrema bivittatum,XP_029459087.1,blast
+Rhinolophus alcyone,ALJ94035.1,blast
+Rhinolophus ferrumequinum,ADN93470.1,blast
+Rhinolophus ferrumequinum,ACM45790.1,blast
+Rhinolophus ferrumequinum,XP_032963186.1,blast
+Rhinolophus ferrumequinum,BAH02663.1,blast
+Rhinolophus landeri,ALJ94034.1,blast
+Rhinolophus macrotis,ADN93471.1,blast
+Rhinolophus pearsonii,ABU54053.1,blast
+Rhinolophus pusillus,ADN93477.1,blast
+Rhinolophus sinicus,ADN93475.1,blast
+Rhinolophus sinicus,ADN93472.1,blast
+Rhinolophus sinicus,AGZ48803.1,blast
+Rhinolophus sinicus,ACT66275.1,blast
+Rousettus aegyptiacus,XP_015974412.1,blast
+Rousettus leschenaultii,ADJ19219.1,blast
+Rousettus leschenaultii,BAF50705.1,blast
+Salarias fasciatus,XP_029949257.1,blast
+Salarias fasciatus,XP_029949252.1,blast
+Salmo trutta,XP_029603502.1,blast
+Salmo trutta,XP_029603257.1,blast
+Salvelinus alpinus,XP_023998967.1,blast
+Sander lucioperca,XP_031162227.1,blast
+Sarcophilus harrisii,XP_031814825.1,blast
+Scleropages formosus,XP_018584732.1,blast
+Scleropages formosus,KPP70804.1,blast
+Scophthalmus maximus,AWP01324.1,blast
+Scyliorhinus torazame,GCB71908.1,blast
+Serinus canaria,XP_009087922.1,blast
+Seriola dumerili,XP_022605054.1,blast
+Seriola dumerili,XP_022605063.1,blast
+Seriola lalandi dorsalis,XP_023257445.1,blast
+Sinocyclocheilus anshuiensis,XP_016350321.1,blast
+Sinocyclocheilus anshuiensis,XP_016350320.1,blast
+Sinocyclocheilus anshuiensis,XP_016345325.1,blast
+Sinocyclocheilus rhinocerous,XP_016404211.1,blast
+Sinocyclocheilus rhinocerous,XP_016404210.1,blast
+Sinocyclocheilus rhinocerous,XP_016422243.1,blast
+Sorex araneus,XP_004612266.1,blast
+Sparus aurata,XP_030271236.1,blast
+Sphaeramia orbicularis,XP_029978918.1,blast
+Sphaeramia orbicularis,XP_029978931.1,blast
+Spheniscus demersus,KAF1452145.1,blast
+Spheniscus magellanicus,KAF1401258.1,blast
+Stegastes partitus,XP_008290762.1,blast
+Strigops habroptila,XP_030332639.1,blast
+Struthio camelus australis,XP_009667495.1,blast
+Sturnus vulgaris,XP_014731370.1,blast
+Suricata suricatta,XP_029786256.1,blast
+Sus scrofa,XP_020935033.1,blast
+Sus scrofa,XP_020935034.1,blast
+Sus scrofa,NP_001116542.1,blast
+Sus scrofa domesticus,ACT66265.1,blast
+Tachysurus fulvidraco,XP_027024524.1,blast
+Tadorna cana,QFX67703.1,blast
+Taeniopygia guttata,XP_002194303.4,blast
+Takifugu bimaculatus,TNM90895.1,blast
+Takifugu flavidus,TWW67837.1,blast
+Takifugu rubripes,XP_029702274.1,blast
+Tauraco erythrolophus,XP_009978415.1,blast
+Terrapene carolina triunguis,XP_026504918.1,blast
+Terrapene carolina triunguis,XP_026503951.1,blast
+Thamnophis elegans,XP_032082934.1,blast
+Thamnophis sirtalis,XP_013912095.1,blast
+Tinamus guttatus,XP_010217584.1,blast
+Trichechus manatus latirostris,XP_004386381.1,blast
+Triplophysa tibetana,KAA0707616.1,blast
+Tupaia chinensis,XP_006164754.1,blast
+Tursiops truncatus,XP_019781177.1,blast
+Tyto alba alba,XP_032865981.1,blast
+Urocitellus parryii,XP_026252505.1,blast
+Urocitellus parryii,XP_026252506.1,blast
+Ursus arctos horribilis,XP_026333865.1,blast
+Ursus maritimus,XP_008694637.1,blast
+Vicugna pacos,XP_006212709.1,blast
+Vombatus ursinus,XP_027691156.1,blast
+Vulpes vulpes,XP_025842512.1,blast
+Xenopus laevis,XP_018104311.1,blast
+Xenopus laevis,AAI29587.1,blast
+Xenopus laevis,XP_018100934.1,blast
+Xenopus tropicalis,XP_002938293.2,blast
+Xiphophorus couchianus,XP_027871671.1,blast
+Xiphophorus hellerii,XP_032417398.1,blast
+Xiphophorus maculatus,XP_005799835.1,blast
+Zalophus californianus,XP_027465353.1,blast
+Zonotrichia albicollis,XP_005491832.2,blast
+Zosterops borbonicus,TRZ26454.1,blast
+Synthetic construct,BAJ21180.1,blast
+Pygathrix nemaeus,GCA_004024825.1 (NCBI assembly),damas
+Nasalis larvatus,GCA_004027105.1 (NCBI assembly),damas
+Erythrocebus patas,GCA_004027335.1 (NCBI assembly),damas
+Pongo abelii,NP_001124604.1 (NCBI protein),damas
+Macaca mulatta,NP_001129168.1 (NCBI protein),damas
+Homo sapiens,NP_068576.1 (NCBI protein),damas
+Nomascus leucogenys,XP_003261132.2 (NCBI protein),damas
+Macaca fascicularis,XP_005593094.1 (NCBI protein),damas
+Chlorocebus sabaeus,XP_007989304.1 (NCBI protein),damas
+Pan paniscus,XP_008972428.1 (NCBI protein),damas
+Rhinopithecus roxellana,XP_010364367.2 (NCBI protein),damas
+Macaca nemestrina,XP_011733505.1 (NCBI protein),damas
+Mandrillus leucophaeus,XP_011850923.1 (NCBI protein),damas
+Cercocebus atys,XP_011891201.1 (NCBI protein),damas
+Pan troglodytes,XP_016798468.1 (NCBI protein),damas
+Gorilla gorilla gorilla,XP_018874749.1 (NCBI protein),damas
+Papio anubis,XP_021788732.1 (NCBI protein),damas
+Piliocolobus tephrosceles,XP_023054821.1 (NCBI protein),damas
+Theropithecus gelada,XP_025227847.1 (NCBI protein),damas
+Balaenoptera bonaerensis,GCA_000978805.1 (NCBI assembly),damas
+Eulemur flavifrons,GCA_001262665.1 (NCBI assembly),damas
+Ellobius lutescens,GCA_001685075.1 (NCBI assembly),damas
+Elaphurus davidianus,GCA_002443075.1 (NCBI assembly),damas
+Dipodomys stephensi,GCA_004024685.1 (NCBI assembly),damas
+Tamandua tetradactyla,GCA_004025105.1 (NCBI assembly),damas
+Rangifer tarandus,GCA_004026565.1 (NCBI assembly),damas
+Ondatra zibethicus,GCA_004026605.1 (NCBI assembly),damas
+Myrmecophaga tridactyla,GCA_004026745.1 (NCBI assembly),damas
+Ctenodactylus gundi,GCA_004027205.1 (NCBI assembly),damas
+Cricetomys gambianus,GCA_004027575.1 (NCBI assembly),damas
+Eschrichtius robustus,GCA_004363415.1 (NCBI assembly),damas
+Phocoena phocoena,GCA_004363495.1 (NCBI assembly),damas
+Indri indri,GCA_004363605.1 (NCBI assembly),damas
+Colobus angolensis,GCF_000951035.1 (NCBI assembly),damas
+Cricetulus griseus,XP_003503283.1 (NCBI protein),damas
+Orcinus orca,XP_004269705.1 (NCBI protein),damas
+Lipotes vexillifer,XP_007466389.1 (NCBI protein),damas
+Nannospalax galili,XP_008839098.1 (NCBI protein),damas
+Propithecus coquereli,XP_012494185.1 (NCBI protein),damas
+Tursiops truncatus,XP_019781177.1 (NCBI protein),damas
+Odocoileus virginianus texanus,XP_020768965.1 (NCBI protein),damas
+Delphinapterus leucas,XP_022418360.1 (NCBI protein),damas
+Neophocaena asiaeorientalis asiaeorientalis,XP_024599894.1 (NCBI protein),damas
+Lagenorhynchus obliquidens,XP_026951598.1 (NCBI protein),damas
+Balaenoptera acutorostrata scammoni,XP_028020351.1 (NCBI protein),damas
+Monodon monoceros,XP_029095804.1 (NCBI protein),damas
+Globicephala melas,XP_030703991.1 (NCBI protein),damas
+Nanger dama,MT560519 (NCBI gene),damas
+Neofelis diardi,MT560522 (NCBI gene),damas
+Neofelis nebulosa,MT560524 (NCBI gene),damas
+Pantholops hodgsonii,GCA_000400835.1 (NCBI assembly),damas
+Capra aegagrus,GCA_000978405.1 (NCBI assembly),damas
+Giraffa tippelskirchi,GCA_001651235.1 (NCBI assembly),damas
+Okapia johnstoni,GCA_001660835.1 (NCBI assembly),damas
+Ammotragus lervia,GCA_002201775.1 (NCBI assembly),damas
+Spermophilus dauricus,GCA_002406435.1 (NCBI assembly),damas
+Panthera onca,GCA_004023805.1 (NCBI assembly),damas
+Mirza coquereli,GCA_004024645.1 (NCBI assembly),damas
+Moschus moschiferus,GCA_004024705.1 (NCBI assembly),damas
+Cheirogaleus medius,GCA_004024725.1 (NCBI assembly),damas
+Ateles geoffroyi,GCA_004024785.1 (NCBI assembly),damas
+Saguinus imperator,GCA_004024885.1 (NCBI assembly),damas
+Pithecia pithecia,GCA_004026645.1 (NCBI assembly),damas
+Hemitragus hylocrius,GCA_004026825.1 (NCBI assembly),damas
+Lepus americanus,GCA_004026855.1 (NCBI assembly),damas
+Hippopotamus amphibius,GCA_004027065.1 (NCBI assembly),damas
+Daubentonia madagascariensis,GCA_004027145.1 (NCBI assembly),damas
+Beatragus hunteri,GCA_004027495.1 (NCBI assembly),damas
+Antilocapra americana,GCA_004027515.1 (NCBI assembly),damas
+Callicebus donacophilus,GCA_004027715.1 (NCBI assembly),damas
+Alouatta palliata,GCA_004027835.1 (NCBI assembly),damas
+Allactaga bullata,GCA_004027895.1 (NCBI assembly),damas
+Perognathus longimembris,GCA_004363475.1 (NCBI assembly),damas
+Oryx dammah,https://www.dnazoo.org/assemblies/Oryx_dammah (genome),damas
+Bos taurus,NP_001019673.2 (NCBI protein),damas
+Felis catus,NP_001034545.1 (NCBI protein),damas
+Capra hircus,NP_001277036.1 (NCBI protein),damas
+Oryctolagus cuniculus,XP_002719891.1 (NCBI protein),damas
+Heterocephalus glaber,XP_004866157.1 (NCBI protein),damas
+Mesocricetus auratus,XP_005074266.1 (NCBI protein),damas
+Ictidomys tridecemlineatus,XP_005316051.3 (NCBI protein),damas
+Bos mutus,XP_005903173.1 (NCBI protein),damas
+Bubalus bubalis,XP_006041602.1 (NCBI protein),damas
+Vicugna pacos,XP_006212709.1 (NCBI protein),damas
+Peromyscus maniculatus bairdii,XP_006973269.1 (NCBI protein),damas
+Panthera tigris altaica,XP_007090142.1 (NCBI protein),damas
+Callithrix jacchus,XP_008987241.1 (NCBI protein),damas
+Saimiri boliviensis boliviensis,XP_010334925.1 (NCBI protein),damas
+Fukomys damarensis,XP_010643477.1 (NCBI protein),damas
+Bison bison bison,XP_010833001.1 (NCBI protein),damas
+Ovis aries,XP_011961657.1 (NCBI protein),damas
+Aotus nancymaae,XP_012290105.1 (NCBI protein),damas
+Marmota marmota marmota,XP_015343540.1 (NCBI protein),damas
+Cebus capucinus imitator,XP_017367865.1 (NCBI protein),damas
+Panthera pardus,XP_019273508.1 (NCBI protein),damas
+Bos indicus,XP_019811719.1 (NCBI protein),damas
+Physeter catodon,XP_023971279.1 (NCBI protein),damas
+Puma concolor,XP_025790417.1 (NCBI protein),damas
+Urocitellus parryii,XP_026252505.1 (NCBI protein),damas
+Acinonyx jubatus,XP_026910297.1 (NCBI protein),damas
+Bos indicus x Bos taurus,XP_027389727.1 (NCBI protein),damas
+Marmota flaviventris,XP_027802308.1 (NCBI protein),damas
+Lynx canadensis,XP_030160839.1 (NCBI protein),damas
+Sapajus apella,XP_032141854.1 (NCBI protein),damas
+Chrysocyon brachyurus,MT560523 (NCBI gene),damas
+Speothos venaticus,MT560521 (NCBI gene),damas
+Procavia capensis,GCA_000152225.2 (NCBI assembly),damas
+Eidolon helvum,GCA_000465285.1 (NCBI assembly),damas
+Dicerorhinus sumatrensis,GCA_002844835.1 (NCBI assembly),damas
+Eonycteris spelaea,GCA_003508835.1 (NCBI assembly),damas
+Vulpes lagopus,GCA_004023825.1 (NCBI assembly),damas
+Tapirus indicus,GCA_004024905.1 (NCBI assembly),damas
+Tragulus javanicus,GCA_004024965.1 (NCBI assembly),damas
+Tapirus terrestris,GCA_004025025.1 (NCBI assembly),damas
+Hystrix cristata,GCA_004026905.1 (NCBI assembly),damas
+Galeopterus variegatus,GCA_004027255.1 (NCBI assembly),damas
+Dolichotis patagonum,GCA_004027295.1 (NCBI assembly),damas
+Diceros bicornis,GCA_004027315.1 (NCBI assembly),damas
+Hydrochoerus hydrochaeris,GCA_004027455.1 (NCBI assembly),damas
+Graphiurus murinus,GCA_004027655.1 (NCBI assembly),damas
+Ceratotherium simum cottoni,GCA_004027795.1 (NCBI assembly),damas
+Dasyprocta punctata,GCA_004363535.1 (NCBI assembly),damas
+Balaena mysticetus,http://alfred.liv.ac.uk/downloads/bowhead_whale/bowhead_whale_scaffolds.zip (genome),damas
+Rhinolophus pearsonii,MT515622 (NCBI gene),damas
+Megaderma lyra,MT515624 (NCBI gene),damas
+Sus scrofa,NP_001116542.1 (NCBI protein),damas
+Canis lupus familiaris,NP_001158732.1 (NCBI protein),damas
+Chinchilla lanigera,NP_001269290.1 (NCBI protein),damas
+Equus caballus,XP_001490241.1 (NCBI protein),damas
+Ailuropoda melanoleuca,XP_002930657.1 (NCBI protein),damas
+Trichechus manatus latirostris,XP_004386381.1 (NCBI protein),damas
+Ceratotherium simum simum,XP_004435206.1 (NCBI protein),damas
+Ochotona princeps,XP_004597549.2 (NCBI protein),damas
+Microtus ochrogaster,XP_005358818.1 (NCBI protein),damas
+Camelus ferus,XP_006194263.1 (NCBI protein),damas
+Pteropus alecto,XP_006911709.1 (NCBI protein),damas
+Carlito syrichta,XP_008062810.1 (NCBI protein),damas
+Equus przewalskii,XP_008542995.1 (NCBI protein),damas
+Ursus maritimus,XP_008694637.1 (NCBI protein),damas
+Camelus bactrianus,XP_010966303.1 (NCBI protein),damas
+Camelus dromedarius,XP_010991717.1 (NCBI protein),damas
+Pteropus vampyrus,XP_011361275.1 (NCBI protein),damas
+Dipodomys ordii,XP_012887572.1 (NCBI protein),damas
+Equus asinus,XP_014713133.1 (NCBI protein),damas
+Rousettus aegyptiacus,XP_015974412.1 (NCBI protein),damas
+Rhinolophus sinicus,XP_019601896.1 (NCBI protein),damas
+Microcebus murinus,XP_020140826.1 (NCBI protein),damas
+Loxodonta africana,XP_023410960.1 (NCBI protein),damas
+Octodon degus,XP_023575315.1 (NCBI protein),damas
+Canis lupus dingo,XP_025292925.1 (NCBI protein),damas
+Vulpes vulpes,XP_025842512.1 (NCBI protein),damas
+Ursus arctos horribilis,XP_026333865.1 (NCBI protein),damas
+Peromyscus leucopus,XP_028743609.1 (NCBI protein),damas
+Danio rerio,NP_001007298.1 (NCBI protein),damas
+Oreochromis niloticus,XP_003445853.2 (NCBI protein),damas
+Maylandia zebra,XP_004543482.1 (NCBI protein),damas
+Pundamilia nyererei,XP_005724169.1 (NCBI protein),damas
+Xiphophorus maculatus,XP_005799835.1 (NCBI protein),damas
+Haplochromis burtoni,XP_005943362.1 (NCBI protein),damas
+Lepisosteus oculatus,XP_006639185.1 (NCBI protein),damas
+Poecilia formosa,XP_007560208.1 (NCBI protein),damas
+Stegastes partitus,XP_008290762.1 (NCBI protein),damas
+Poecilia reticulata,XP_008402714.1 (NCBI protein),damas
+Larimichthys crocea,XP_010730146.1 (NCBI protein),damas
+Notothenia coriiceps,XP_010790455.1 (NCBI protein),damas
+Esox lucius,XP_010884777.1 (NCBI protein),damas
+Austrofundulus limnaeus,XP_013888928.1 (NCBI protein),damas
+Poecilia mexicana,XP_014837025.1 (NCBI protein),damas
+Poecilia latipinna,XP_014895313.1 (NCBI protein),damas
+Cyprinodon variegatus,XP_015226730.1 (NCBI protein),damas
+Nothobranchius furzeri,XP_015808977.1 (NCBI protein),damas
+Sinocyclocheilus anshuiensis,XP_016345325.1 (NCBI protein),damas
+Cynoglossus semilaevis,XP_016887914.1 (NCBI protein),damas
+Kryptolebias marmoratus,XP_017295385.1 (NCBI protein),damas
+Ictalurus punctatus,XP_017313836.1 (NCBI protein),damas
+Pygocentrus nattereri,XP_017550079.1 (NCBI protein),damas
+Lates calcarifer,XP_018539189.1 (NCBI protein),damas
+Scleropages formosus,XP_018584732.1 (NCBI protein),damas
+Hippocampus comes,XP_019742561.1 (NCBI protein),damas
+Paralichthys olivaceus,XP_019935235.1 (NCBI protein),damas
+Monopterus albus,XP_020465646.1 (NCBI protein),damas
+Labrus bergylta,XP_020493627.1 (NCBI protein),damas
+Boleophthalmus pectinirostris,XP_020781598.1 (NCBI protein),damas
+Fundulus heteroclitus,XP_021178197.1 (NCBI protein),damas
+Oncorhynchus mykiss,XP_021433278.1 (NCBI protein),damas
+Acanthochromis polyacanthus,XP_022063988.1 (NCBI protein),damas
+Astyanax mexicanus,XP_022523929.1 (NCBI protein),damas
+Seriola dumerili,XP_022605054.1 (NCBI protein),damas
+Amphiprion ocellaris,XP_023124156.1 (NCBI protein),damas
+Seriola lalandi dorsalis,XP_023257445.1 (NCBI protein),damas
+Paramormyrops kingsleyae,XP_023679669.1 (NCBI protein),damas
+Salvelinus alpinus,XP_023998967.1 (NCBI protein),damas
+Oryzias melastigma,XP_024150631.1 (NCBI protein),damas
+Astatotilapia calliptera,XP_026020155.1 (NCBI protein),damas
+Carassius auratus,XP_026131313.1 (NCBI protein),damas
+Mastacembelus armatus,XP_026175949.1 (NCBI protein),damas
+Anabas testudineus,XP_026233431.1 (NCBI protein),damas
+Pangasianodon hypophthalmus,XP_026803610.1 (NCBI protein),damas
+Electrophorus electricus,XP_026867211.1 (NCBI protein),damas
+Tachysurus fulvidraco,XP_027024524.1 (NCBI protein),damas
+Xiphophorus couchianus,XP_027871671.1 (NCBI protein),damas
+Parambassis ranga,XP_028257887.1 (NCBI protein),damas
+Gouania willdenowi,XP_028297875.1 (NCBI protein),damas
+Perca flavescens,XP_028441363.1 (NCBI protein),damas
+Erpetoichthys calabaricus,XP_028655640.1 (NCBI protein),damas
+Denticeps clupeoides,XP_028837781.1 (NCBI protein),damas
+Betta splendens,XP_028999570.1 (NCBI protein),damas
+Cottoperca gobio,XP_029283581.1 (NCBI protein),damas
+Echeneis naucrates,XP_029354066.1 (NCBI protein),damas
+Takifugu rubripes,XP_029702274.1 (NCBI protein),damas
+Myripristis murdjan,XP_029904152.1 (NCBI protein),damas
+Salarias fasciatus,XP_029949252.1 (NCBI protein),damas
+Gadus morhua,XP_030232530.1 (NCBI protein),damas
+Sparus aurata,XP_030271236.1 (NCBI protein),damas
+Archocentrus centrarchus,XP_030582139.1 (NCBI protein),damas
+Sander lucioperca,XP_031162227.1 (NCBI protein),damas
+Clupea harengus,XP_031414786.1 (NCBI protein),damas
+Oreochromis aureus,XP_031584810.1 (NCBI protein),damas
+Anarrhichthys ocellatus,XP_031702716.1 (NCBI protein),damas
+Xenopus tropicalis,XP_002938293.2 (NCBI protein),damas
+Nanorana parkeri,XP_018418558.1 (NCBI protein),damas
+Rhinatrema bivittatum,XP_029459086.1 (NCBI protein),damas
+Microcaecilia unicolor,XP_030058174.1 (NCBI protein),damas
+Taeniopygia guttata,XP_002194303.4 (NCBI protein),damas
+Ficedula albicollis,XP_005037422.1 (NCBI protein),damas
+Melopsittacus undulatus,XP_005151516.1 (NCBI protein),damas
+Falco peregrinus,XP_005231984.2 (NCBI protein),damas
+Geospiza fortis,XP_005426221.1 (NCBI protein),damas
+Falco cherrug,XP_005443093.2 (NCBI protein),damas
+Zonotrichia albicollis,XP_005491832.2 (NCBI protein),damas
+Pseudopodoces humilis,XP_005516712.1 (NCBI protein),damas
+Calypte anna,XP_008492997.2 (NCBI protein),damas
+Merops nubicus,XP_008937519.1 (NCBI protein),damas
+Serinus canaria,XP_009087922.1 (NCBI protein),damas
+Aptenodytes forsteri,XP_009275140.1 (NCBI protein),damas
+Pygoscelis adeliae,XP_009323767.1 (NCBI protein),damas
+Nipponia nippon,XP_009474590.1 (NCBI protein),damas
+Pelecanus crispus,XP_009478920.1 (NCBI protein),damas
+Phalacrocorax carbo,XP_009509070.1 (NCBI protein),damas
+Cuculus canorus,XP_009563864.1 (NCBI protein),damas
+Fulmarus glacialis,XP_009574896.1 (NCBI protein),damas
+Egretta garzetta,XP_009638257.1 (NCBI protein),damas
+Struthio camelus australis,XP_009667495.1 (NCBI protein),damas
+Cariama cristata,XP_009703695.1 (NCBI protein),damas
+Gavia stellata,XP_009816127.1 (NCBI protein),damas
+Apaloderma vittatum,XP_009867056.1 (NCBI protein),damas
+Charadrius vociferus,XP_009887331.1 (NCBI protein),damas
+Haliaeetus albicilla,XP_009925641.1 (NCBI protein),damas
+Opisthocomus hoazin,XP_009938970.1 (NCBI protein),damas
+Leptosomus discolor,XP_009954393.1 (NCBI protein),damas
+Tyto alba,XP_009969209.1 (NCBI protein),damas
+Tauraco erythrolophus,XP_009978415.1 (NCBI protein),damas
+Chaetura pelagica,XP_009992128.1 (NCBI protein),damas
+Pterocles gutturalis,XP_010084373.1 (NCBI protein),damas
+Chlamydotis macqueenii,XP_010120523.1 (NCBI protein),damas
+Buceros rhinoceros silvestris,XP_010136813.1 (NCBI protein),damas
+Eurypyga helias,XP_010156467.1 (NCBI protein),damas
+Antrostomus carolinensis,XP_010169238.1 (NCBI protein),damas
+Mesitornis unicolor,XP_010178703.1 (NCBI protein),damas
+Tinamus guttatus,XP_010217584.1 (NCBI protein),damas
+Phaethon lepturus,XP_010290019.1 (NCBI protein),damas
+Corvus cornix cornix,XP_010392735.2 (NCBI protein),damas
+Haliaeetus leucocephalus,XP_010579828.1 (NCBI protein),damas
+Anas platyrhynchos,XP_012949915.2 (NCBI protein),damas
+Anser cygnoides domesticus,XP_013039300.1 (NCBI protein),damas
+Sturnus vulgaris,XP_014731370.1 (NCBI protein),damas
+Calidris pugnax,XP_014815705.1 (NCBI protein),damas
+Parus major,XP_015486815.1 (NCBI protein),damas
+Coturnix japonica,XP_015742063.1 (NCBI protein),damas
+Corvus brachyrhynchos,XP_017583883.1 (NCBI protein),damas
+Lepidothrix coronata,XP_017667731.1 (NCBI protein),damas
+Manacus vitellinus,XP_017939494.2 (NCBI protein),damas
+Meleagris gallopavo,XP_019467554.1 (NCBI protein),damas
+Columba livia,XP_021154486.1 (NCBI protein),damas
+Numida meleagris,XP_021240731.1 (NCBI protein),damas
+Lonchura striata domestica,XP_021388026.1 (NCBI protein),damas
+Cyanistes caeruleus,XP_023774184.1 (NCBI protein),damas
+Nothoprocta perdicaria,XP_025891105.1 (NCBI protein),damas
+Apteryx rowi,XP_025942946.1 (NCBI protein),damas
+Dromaius novaehollandiae,XP_025976569.1 (NCBI protein),damas
+Athene cunicularia,XP_026705725.1 (NCBI protein),damas
+Corapipo altera,XP_027494818.1 (NCBI protein),damas
+Neopelma chrysocephalum,XP_027544864.1 (NCBI protein),damas
+Pipra filicauda,XP_027593974.1 (NCBI protein),damas
+Empidonax traillii,XP_027757151.1 (NCBI protein),damas
+Aquila chrysaetos chrysaetos,XP_029855025.1 (NCBI protein),damas
+Strigops habroptila,XP_030332639.1 (NCBI protein),damas
+Camarhynchus parvulus,XP_030811385.1 (NCBI protein),damas
+Phasianus colchicus,XP_031451919.1 (NCBI protein),damas
+Corvus moneduloides,XP_031956594.1 (NCBI protein),damas
+Aythya fuligula,XP_032058386.1 (NCBI protein),damas
+Gallus gallus,XP_416822.2 (NCBI protein),damas
+Callorhinchus milii,XP_007889845.1 (NCBI protein),damas
+Latimeria chalumnae,XP_005997915.2 (NCBI protein),damas
+Paguma larvata,AAX63775.1 (NCBI protein),damas
+Mustela lutreola,MT560518 (NCBI gene),damas
+Mustela nigripes,MT560520 (NCBI gene),damas
+Choloepus hoffmanni,GCA_000164785.2 (NCBI assembly),damas
+Pteronotus parnellii,GCA_000465405.1 (NCBI assembly),damas
+Manis pentadactyla,GCA_000738955.1 (NCBI assembly),damas
+Miniopterus natalensis,GCA_001595765.1 (NCBI assembly),damas
+Mus spretus,GCA_001624865.1 (NCBI assembly),damas
+Ailurus fulgens styani,GCA_002007465.1 (NCBI assembly),damas
+Psammomys obesus,GCA_002215935.1 (NCBI assembly),damas
+Taxidea taxus,GCA_003697995.1 (NCBI assembly),damas
+Mungos mungo,GCA_004023785.1 (NCBI assembly),damas
+Helogale parvula,GCA_004023845.1 (NCBI assembly),damas
+Mirounga angustirostris,GCA_004023865.1 (NCBI assembly),damas
+Cryptoprocta ferox,GCA_004023885.1 (NCBI assembly),damas
+Hyaena hyaena,GCA_004023945.1 (NCBI assembly),damas
+Spilogale gracilis,GCA_004023965.1 (NCBI assembly),damas
+Paradoxurus hermaphroditus,GCA_004024585.1 (NCBI assembly),damas
+Pteronura brasiliensis,GCA_004024605.1 (NCBI assembly),damas
+Mellivora capensis,GCA_004024625.1 (NCBI assembly),damas
+Catagonus wagneri,GCA_004024745.1 (NCBI assembly),damas
+Zapus hudsonius,GCA_004024765.1 (NCBI assembly),damas
+Tonatia saurophila,GCA_004024845.1 (NCBI assembly),damas
+Scalopus aquaticus,GCA_004024925.1 (NCBI assembly),damas
+Uropsilus gracilis,GCA_004024945.1 (NCBI assembly),damas
+Tadarida brasiliensis,GCA_004025005.1 (NCBI assembly),damas
+Thryonomys swinderianus,GCA_004025085.1 (NCBI assembly),damas
+Miniopterus schreibersii,GCA_004026525.1 (NCBI assembly),damas
+Mormoops blainvillei,GCA_004026545.1 (NCBI assembly),damas
+Noctilio leporinus,GCA_004026585.1 (NCBI assembly),damas
+Pipistrellus pipistrellus,GCA_004026625.1 (NCBI assembly),damas
+Murina feae,GCA_004026665.1 (NCBI assembly),damas
+Microgale talazaci,GCA_004026705.1 (NCBI assembly),damas
+Micronycteris hirsuta,GCA_004026765.1 (NCBI assembly),damas
+Meriones unguiculatus,GCA_004026785.1 (NCBI assembly),damas
+Heterohyrax brucei,GCA_004026845.1 (NCBI assembly),damas
+Petromus typicus,GCA_004026965.1 (NCBI assembly),damas
+Myocastor coypus,GCA_004027025.1 (NCBI assembly),damas
+Mesoplodon bidens,GCA_004027085.1 (NCBI assembly),damas
+Ctenomys sociabilis,GCA_004027165.1 (NCBI assembly),damas
+Macroglossus sobrinus,GCA_004027375.1 (NCBI assembly),damas
+Hipposideros galeritus,GCA_004027415.1 (NCBI assembly),damas
+Artibeus jamaicensis,GCA_004027435.1 (NCBI assembly),damas
+Anoura caudifer,GCA_004027475.1 (NCBI assembly),damas
+Acomys cahirinus,GCA_004027535.1 (NCBI assembly),damas
+Cavia tschudii,GCA_004027695.1 (NCBI assembly),damas
+Carollia perspicillata,GCA_004027735.1 (NCBI assembly),damas
+Rhinolophus ferrumequinum,GCA_004115265.2 (NCBI assembly),damas
+Solenodon paradoxus,GCA_004363575.1 (NCBI assembly),damas
+Cynopterus brachyotis,GCA_009793145.1 (NCBI assembly),damas
+Gulo gulo,GCA_900006375.2 (NCBI assembly),damas
+Neovison vison,GCA_900108605.1 (NCBI assembly),damas
+Molossus molossus,https://vgp.github.io/genomeark/Molossus_molossus (genome),damas
+Myotis myotis,https://vgp.github.io/genomeark/Myotis_myotis (genome),damas
+Pipistrellus kuhlii,https://vgp.github.io/genomeark/Pipistrellus_kuhlii (genome),damas
+Phataginus tricuspis,https://www.dnazoo.org/assemblies/Phataginus_tricuspis (genome),damas
+Hipposideros pratti,MT515621 (NCBI gene),damas
+Cynopterus sphinx,MT515623 (NCBI gene),damas
+Rattus norvegicus,NP_001012006.1 (NCBI protein),damas
+Mustela putorius furo,NP_001297119.1 (NCBI protein),damas
+Mus musculus,NP_081562.2 (NCBI protein),damas
+Ornithorhynchus anatinus,XP_001515597.2 (NCBI protein),damas
+Otolemur garnettii,XP_003791912.1 (NCBI protein),damas
+Odobenus rosmarus divergens,XP_004415448.1 (NCBI protein),damas
+Dasypus novemcinctus,XP_004449124.1 (NCBI protein),damas
+Sorex araneus,XP_004612266.1 (NCBI protein),damas
+Jaculus jaculus,XP_004671523.1 (NCBI protein),damas
+Echinops telfairi,XP_004710002.1 (NCBI protein),damas
+Tupaia chinensis,XP_006164754.1 (NCBI protein),damas
+Myotis davidii,XP_006775273.1 (NCBI protein),damas
+Chrysochloris asiatica,XP_006835673.1 (NCBI protein),damas
+Elephantulus edwardii,XP_006892457.1 (NCBI protein),damas
+Monodelphis domestica,XP_007500935.1 (NCBI protein),damas
+Erinaceus europaeus,XP_007538670.1 (NCBI protein),damas
+Orycteropus afer afer,XP_007951028.1 (NCBI protein),damas
+Eptesicus fuscus,XP_008153150.1 (NCBI protein),damas
+Condylura cristata,XP_012585871.1 (NCBI protein),damas
+Myotis brandtii,XP_014399780.1 (NCBI protein),damas
+Manis javanica,XP_017505746.1 (NCBI protein),damas
+Hipposideros armiger,XP_019522936.1 (NCBI protein),damas
+Phascolarctos cinereus,XP_020863153.1 (NCBI protein),damas
+Mus caroli,XP_021009138.1 (NCBI protein),damas
+Mus pahari,XP_021043935.1 (NCBI protein),damas
+Neomonachus schauinslandi,XP_021536480.1 (NCBI protein),damas
+Enhydra lutris kenyoni,XP_022374078.1 (NCBI protein),damas
+Cavia porcellus,XP_023417808.1 (NCBI protein),damas
+Myotis lucifugus,XP_023609437.1 (NCBI protein),damas
+Desmodus rotundus,XP_024425698.1 (NCBI protein),damas
+Callorhinus ursinus,XP_025713397.1 (NCBI protein),damas
+Zalophus californianus,XP_027465353.1 (NCBI protein),damas
+Vombatus ursinus,XP_027691156.1 (NCBI protein),damas
+Eumetopias jubatus,XP_027970822.1 (NCBI protein),damas
+Phyllostomus discolor,XP_028378317.1 (NCBI protein),damas
+Grammomys surdaster,XP_028617961.1 (NCBI protein),damas
+Suricata suricatta,XP_029786256.1 (NCBI protein),damas
+Mastomys coucha,XP_031226742.1 (NCBI protein),damas
+Sarcophilus harrisii,XP_031814825.1 (NCBI protein),damas
+Mustela erminea,XP_032187677.1 (NCBI protein),damas
+Phoca vitulina,XP_032245506.1 (NCBI protein),damas
+Pelodiscus sinensis,XP_006122891.1 (NCBI protein),damas
+Chelonia mydas,XP_007070561.1 (NCBI protein),damas
+Python bivittatus,XP_007431942.2 (NCBI protein),damas
+Anolis carolinensis,XP_008105455.1 (NCBI protein),damas
+Thamnophis sirtalis,XP_013926936.1 (NCBI protein),damas
+Gekko japonicus,XP_015273067.1 (NCBI protein),damas
+Alligator mississippiensis,XP_019350687.1 (NCBI protein),damas
+Gavialis gangeticus,XP_019381060.1 (NCBI protein),damas
+Crocodylus porosus,XP_019384826.1 (NCBI protein),damas
+Pogona vitticeps,XP_020642422.1 (NCBI protein),damas
+Chrysemys picta bellii,XP_023964517.1 (NCBI protein),damas
+Alligator sinensis,XP_025066628.1 (NCBI protein),damas
+Notechis scutatus,XP_026530754.1 (NCBI protein),damas
+Pseudonaja textilis,XP_026570054.1 (NCBI protein),damas
+Protobothrops mucrosquamatus,XP_029140508.1 (NCBI protein),damas
+Gopherus evgoodei,XP_030407881.1 (NCBI protein),damas
+Thamnophis elegans,XP_032082934.1 (NCBI protein),damas
+NA,ENSEBUP00000008798_Ebur/1-727,ensembl
+Callorhinchus milii,ENSCMIP00000022586_Cmil/1-838,ensembl
+Sinocyclocheilus grahami,ENSSGRP00000034807_Sgra/1-725,ensembl
+Sinocyclocheilus rhinocerous,ENSSRHP00000075010_Srhi/1-777,ensembl
+Sinocyclocheilus anshuiensis,ENSSANP00000049344_Sans/1-810,ensembl
+NA,ENSCCRP00010010298_Ccge/1-811,ensembl
+NA,ENSCCRP00020099350_Cche/1-773,ensembl
+NA,ENSCCRP00015072463_Cchu/1-779,ensembl
+NA,ENSCCRP00015092138_Cchu/1-826,ensembl
+NA,ENSCCRP00010032462_Ccge/1-826,ensembl
+NA,ENSCCRP00020104239_Cche/1-826,ensembl
+Sinocyclocheilus grahami,ENSSGRP00000111021_Sgra/1-762,ensembl
+Sinocyclocheilus anshuiensis,ENSSANP00000104341_Sans/1-799,ensembl
+Sinocyclocheilus rhinocerous,ENSSRHP00000086083_Srhi/1-808,ensembl
+Danio rerio,ENSDARP00000106752_Drer/1-818,ensembl
+Electrophorus electricus,ENSEEEP00000010240_Eele/1-782,ensembl
+Astyanax mexicanus,ENSAMXP00000008703_Amex/1-805,ensembl
+NA,ENSAMXP00005008647_Ampa/1-759,ensembl
+Pygocentrus nattereri,ENSPNAP00000027968_Pnat/1-683,ensembl
+Ictalurus punctatus,ENSIPUP00000021362_Ipun/1-805,ensembl
+Denticeps clupeoides,ENSDCDP00000020614_Dclu/1-806,ensembl
+Clupea harengus,ENSCHAP00000007314_Char/1-821,ensembl
+NA,ENSNMLP00000042004_Nmel/1-798,ensembl
+NA,ENSPMGP00000017256_Pmag/1-666,ensembl
+Cynoglossus semilaevis,ENSCSEP00000001568_Csem/1-802,ensembl
+Gouania willdenowi,ENSGWIP00000004444_Gwil/1-793,ensembl
+Salarias fasciatus,ENSSFAP00005011731_Sfas/1-782,ensembl
+Kryptolebias marmoratus,ENSKMAP00000024993_Kmar/1-814,ensembl
+Fundulus heteroclitus,ENSFHEP00000027121_Fhet/1-809,ensembl
+NA,ENSGAFP00000012585_Gaff/1-808,ensembl
+NA,ENSXCOP00000000488_Xcou/1-684,ensembl
+Xiphophorus maculatus,ENSXMAP00000001985_Xmac/1-808,ensembl
+Poecilia reticulata,ENSPREP00000028975_Pret/1-685,ensembl
+Poecilia mexicana,ENSPMEP00000034848_Pmex/1-808,ensembl
+Poecilia formosa,ENSPFOP00000017013_Pfor/1-810,ensembl
+Poecilia latipinna,ENSPLAP00000029724_Plat/1-684,ensembl
+Cyprinodon variegatus,ENSCVAP00000007823_Cvar/1-819,ensembl
+NA,ENSORLP00015033711_Olhs/1-822,ensembl
+NA,ENSORLP00020018998_Olhn/1-786,ensembl
+Oryzias melastigma,ENSOMEP00000011111_Omel/1-847,ensembl
+Stegastes partitus,ENSSPAP00000019779_Spar/1-684,ensembl
+NA,ENSAPEP00000034669_Aper/1-770,ensembl
+Amphiprion ocellaris,ENSAOCP00000032143_Aoce/1-786,ensembl
+Acanthochromis polyacanthus,ENSAPOP00000029514_Apol/1-817,ensembl
+Parambassis ranga,ENSPRNP00000023179_Pran/1-806,ensembl
+NA,ENSACIP00000006327_Acit/1-784,ensembl
+Oreochromis aureus,ENSOABP00000014235_Oaur/1-808,ensembl
+Oreochromis niloticus,ENSONIP00000061341_Onil/1-821,ensembl
+Haplochromis burtoni,ENSHBUP00000035213_Hbur/1-803,ensembl
+Maylandia zebra,ENSMZEP00005008212_Mzeb/1-803,ensembl
+Astatotilapia calliptera,ENSACLP00000030383_Acal/1-803,ensembl
+Pundamilia nyererei,ENSPNYP00000030809_Pnye/1-772,ensembl
+Neolamprologus brichardi,ENSNBRP00000027355_Nbri/1-769,ensembl
+NA,ENSLBEP00000033675_Lber/1-787,ensembl
+NA,ENSGACP00000019926_Gacu/1-808,ensembl
+Sparus aurata,ENSSAUP00010041250_Saur/1-807,ensembl
+NA,ENSMMOP00000024461_Mmol/1-779,ensembl
+Larimichthys crocea,ENSLCRP00005034598_Lcro/1-810,ensembl
+Cottoperca gobio,ENSCGOP00000052319_Cgob/1-794,ensembl
+NA,ENSTNIP00000012378_Tnig/1-808,ensembl
+Takifugu rubripes,ENSTRUP00000080132_Trub/1-818,ensembl
+NA,ENSLCAP00010012624_Lcal/1-805,ensembl
+Echeneis naucrates,ENSENLP00000036071_Enau/1-805,ensembl
+Seriola lalandi dorsalis,ENSSLDP00000030491_Sldo/1-807,ensembl
+Seriola dumerili,ENSSDUP00000003028_Sdum/1-677,ensembl
+NA,ENSSMAP00000021642_Smax/1-814,ensembl
+Mastacembelus armatus,ENSMAMP00000015203_Marm/1-807,ensembl
+NA,ENSMALP00000019424_Malb/1-797,ensembl
+Betta splendens,ENSBSLP00000001288_Bspl/1-814,ensembl
+Anabas testudineus,ENSATEP00000023481_Ates/1-791,ensembl
+NA,ENSHCOP00000016641_Hcom/1-681,ensembl
+NA,ENSSORP00005031460_Sorb/1-645,ensembl
+Sphaeramia orbicularis,ENSSORP00005031450_Sorb/1-750,ensembl
+Myripristis murdjan,ENSMMDP00005008687_Mmur/1-781,ensembl
+NA,ENSGMOP00000008812_Gmor/1-764,ensembl
+Esox lucius,ENSELUP00000033512_Eluc/1-812,ensembl
+NA,ENSHHUP00000061568_Hhuc/1-750,ensembl
+Salmo trutta,ENSSTUP00000096621_Stru/1-807,ensembl
+Salmo trutta,ENSSTUP00000068325_Stru/1-829,ensembl
+Salmo salar,ENSSSAP00000082815_Ssal/1-742,ensembl
+NA,ENSSSAP00000032791_Ssal/1-477,ensembl
+Paramormyrops kingsleyae,ENSPKIP00000033366_Pkin/1-695,ensembl
+Scleropages formosus,ENSSFOP00015014958_Sfor/1-809,ensembl
+Clupea harengus,ENSCHAP00000050679_Char/1-815,ensembl
+Lepisosteus oculatus,ENSLOCP00000009362_Locu/1-811,ensembl
+Erpetoichthys calabaricus,ENSECRP00000002547_Ecal/1-776,ensembl
+Latimeria chalumnae,ENSLACP00000016231_Lcha/1-814,ensembl
+Pelodiscus sinensis,ENSPSIP00000008051_Psin/1-808,ensembl
+Chelonoidis abingdonii,ENSCABP00000022558_Cabi/1-805,ensembl
+Chrysemys picta,ENSCPBP00000021630_Cpbe/1-804,ensembl
+Terrapene carolina triunguis,ENSTMTP00000003698_Tctr/1-806,ensembl
+Terrapene carolina triunguis,ENSTMTP00000011111_Tctr/1-808,ensembl
+Lepidothrix coronata,ENSLCOP00000003526_Lcor/1-803,ensembl
+Manacus vitellinus,ENSMVIP00005022060_Mvit/1-809,ensembl
+NA,ENSFALP00000004577_Falb/1-810,ensembl
+Zonotrichia albicollis,ENSZALP00000010592_Zalb/1-803,ensembl
+NA,ENSJHYP00000009822_Jhye/1-805,ensembl
+NA,ENSEGOP00005009542_Egou/1-797,ensembl
+Taeniopygia guttata,ENSTGUP00000020568_Tgut/1-804,ensembl
+Lonchura striata domestica,ENSLSDP00000001157_Lsdo/1-935,ensembl
+Serinus canaria,ENSSCAP00000018750_Scan/1-789,ensembl
+Cyanistes caeruleus,ENSCCEP00000006410_Ccae/1-814,ensembl
+Parus major,ENSPMJP00000015158_Pmaj/1-814,ensembl
+Calidris pugnax,ENSCPUP00000010531_Cpug/1-808,ensembl
+NA,ENSCPGP00000007987_Cpyg/1-802,ensembl
+Melopsittacus undulatus,ENSMUNP00000003900_Mund/1-782,ensembl
+NA,ENSACOP00000001045_Acol/1-803,ensembl
+Strigops habroptila,ENSSHBP00005022750_Shab/1-758,ensembl
+NA,ENSANIP00000024403_Anis/1-804,ensembl
+Aquila chrysaetos chrysaetos,ENSACCP00020014222_Acch/1-803,ensembl
+Athene cunicularia,ENSACUP00000008152_Acun/1-827,ensembl
+NA,ENSMGAP00000015565_Mgal/1-807,ensembl
+Phasianus colchicus,ENSPCLP00000009331_Pcol/1-805,ensembl
+NA,ENSCPIP00010006017_Cpic/1-780,ensembl
+Coturnix japonica,ENSCJPP00005022803_Cjap/1-807,ensembl
+Gallus gallus,ENSGALP00000026662_Ggal/1-808,ensembl
+NA,ENSPSTP00000018227_Pcri/1-694,ensembl
+Numida meleagris,ENSNMEP00000017895_Nmel/1-810,ensembl
+Anas platyrhynchos,ENSAPLP00000014389_Appl/1-653,ensembl
+NA,ENSABRP00000011483_Abra/1-808,ensembl
+NA,ENSACDP00005003620_Acyg/1-790,ensembl
+Struthio camelus australis,ENSSCUP00000010523_Scau/1-796,ensembl
+Apteryx rowi,ENSARWP00000016566_Arow/1-794,ensembl
+NA,ENSAOWP00000027232_Aowe/1-794,ensembl
+NA,ENSAHAP00000002908_Ahaa/1-794,ensembl
+Dromaius novaehollandiae,ENSDNVP00000022831_Dnov/1-804,ensembl
+Nothoprocta perdicaria,ENSNPEP00000015571_Nper/1-780,ensembl
+Crocodylus porosus,ENSCPRP00005008023_Cpor/1-792,ensembl
+NA,ENSSMRP00000029381_Smer/1-785,ensembl
+Anolis carolinensis,ENSACAP00000016751_Acar/1-814,ensembl
+NA,ENSPVIP00000025807_Pvit/1-820,ensembl
+NA,ENSVKKP00000008337_Vkom/1-802,ensembl
+Pseudonaja textilis,ENSPTXP00000008013_Ptex/1-797,ensembl
+Notechis scutatus,ENSNSUP00000017429_Nscu/1-805,ensembl
+NA,ENSSPUP00000009708_Spun/1-823,ensembl
+Ornithorhynchus anatinus,ENSOANP00000004083_Oana/1-806,ensembl
+NA,ENSEEUP00000006099_Eeur/1-806,ensembl
+NA,ENSSARP00000002205_Sara/1-790,ensembl
+NA,ENSCHOP00000005282_Chof/1-742,ensembl
+Dasypus novemcinctus,ENSDNOP00000014740_Dnov/1-807,ensembl
+NA,ENSPCAP00000012014_Pcap/1-742,ensembl
+NA,ENSLAFP00000009226_Lafr/1-800,ensembl
+NA,ENSETEP00000001535_Etel/1-790,ensembl
+Otolemur garnettii,ENSOGAP00000002954_Ogar/1-807,ensembl
+Propithecus coquereli,ENSPCOP00000025814_Pcoq/1-805,ensembl
+Microcebus murinus,ENSMICP00000002910_Mmur/1-793,ensembl
+NA,ENSPSMP00000005317_Psim/1-805,ensembl
+Carlito syrichta,ENSTSYP00000010149_Csyr/1-805,ensembl
+Aotus nancymaae,ENSANAP00000023235_Anan/1-805,ensembl
+Cebus capucinus imitator,ENSCCAP00000008763_Ccap/1-801,ensembl
+Saimiri boliviensis,ENSSBOP00000004684_Sbbo/1-805,ensembl
+NA,ENSCJAP00000073088_Cjac/1-844,ensembl
+Macaca mulatta,ENSMMUP00000076885_Mmul/1-805,ensembl
+Macaca fascicularis,ENSMFAP00000043589_Mfas/1-805,ensembl
+Macaca nemestrina,ENSMNEP00000029823_Mnem/1-805,ensembl
+Papio anubis,ENSPANP00000007473_Panu/1-805,ensembl
+Theropithecus gelada,ENSTGEP00000020534_Tgel/1-805,ensembl
+Mandrillus leucophaeus,ENSMLEP00000031718_Mleu/1-805,ensembl
+Cercocebus atys,ENSCATP00000003601_Caty/1-805,ensembl
+Chlorocebus sabaeus,ENSCSAP00000011029_Csab/1-805,ensembl
+Piliocolobus tephrosceles,ENSPTEP00000002790_Ptep/1-805,ensembl
+Colobus angolensis palliatus,ENSCANP00000027116_Capa/1-666,ensembl
+Rhinopithecus bieti,ENSRBIP00000023980_Rbie/1-769,ensembl
+Rhinopithecus roxellana,ENSRROP00000003015_Rrox/1-805,ensembl
+Nomascus leucogenys,ENSNLEP00000011529_Nleu/1-805,ensembl
+Pongo abelii,ENSPPYP00000022536_Pabe/1-802,ensembl
+Pan troglodytes,ENSPTRP00000037158_Ptro/1-805,ensembl
+Pan paniscus,ENSPPAP00000029848_Ppan/1-805,ensembl
+Homo sapiens,ENSP00000389326_Hsap/1-805,ensembl
+Gorilla gorilla,ENSGGOP00000007298_Ggor/1-805,ensembl
+NA,ENSTBEP00000000243_Tbel/1-690,ensembl
+Fukomys damarensis,ENSFDAP00000021134_Fdam/1-805,ensembl
+NA,ENSHGLP00100008795_Hgma/1-805,ensembl
+Heterocephalus glaber,ENSHGLP00000000556_Hgfe/1-805,ensembl
+Chinchilla lanigera,ENSCLAP00000001359_Clan/1-805,ensembl
+Octodon degus,ENSODEP00000006043_Odeg/1-805,ensembl
+Cavia porcellus,ENSCPOP00000013557_Cpor/1-794,ensembl
+Dipodomys ordii,ENSDORP00000012777_Dord/1-805,ensembl
+Mpah,MGP_PahariEiJ_P0090921_Mpah/1-805,ensembl
+Mspr,MGP_SPRETEiJ_P0097089_Mspr/1-805,ensembl
+NA,ENSMSIP00000010562_Mspi/1-773,ensembl
+Mus musculus,ENSMUSP00000107890_Mmus/1-805,ensembl
+Mcar,MGP_CAROLIEiJ_P0093321_Mcar/1-805,ensembl
+Rattus norvegicus,ENSRNOP00000047913_Rnor/1-766,ensembl
+NA,ENSMUGP00000023567_Mung/1-581,ensembl
+NA,ENSMUGP00000022713_Mung/1-533,ensembl
+Microtus ochrogaster,ENSMOCP00000012209_Moch/1-804,ensembl
+Mesocricetus auratus,ENSMAUP00000016335_Maur/1-805,ensembl
+NA,ENSCGRP00001000071_Cgch/1-805,ensembl
+NA,ENSCGRP00000024673_Cgcr/1-805,ensembl
+Cricetulus griseus,ENSCGRP00015020600_Cgpi/1-805,ensembl
+Peromyscus maniculatus bairdii,ENSPEMP00000017679_Pmba/1-805,ensembl
+Nannospalax galili,ENSNGAP00000016609_Ngal/1-804,ensembl
+Jaculus jaculus,ENSJJAP00000000164_Jjac/1-805,ensembl
+Urocitellus parryii,ENSUPAP00010016528_Upar/1-807,ensembl
+Ictidomys tridecemlineatus,ENSSTOP00000005914_Itri/1-807,ensembl
+Marmota marmota marmota,ENSMMMP00000005538_Mmma/1-807,ensembl
+NA,ENSSDAP00000010526_Sdau/1-807,ensembl
+NA,ENSOPRP00000008034_Opri/1-787,ensembl
+Felis catus,ENSFCAP00000052000_Fcat/1-805,ensembl
+Lynx canadensis,ENSLCNP00005030881_Lcan/1-805,ensembl
+Panthera tigris altaica,ENSPTIP00000018286_Ptal/1-744,ensembl
+Panthera pardus,ENSPPRP00000027415_Ppar/1-805,ensembl
+Suricata suricatta,ENSSSUP00005027518_Ssur/1-804,ensembl
+Vulpes vulpes,ENSVVUP00000013100_Vvul/1-804,ensembl
+Canis lupus dingo,ENSCAFP00020004437_Cldi/1-804,ensembl
+NA,ENSCAFP00040021511_Clfa/1-804,ensembl
+Canis lupus familiaris,ENSCAFP00000041771_Cfam/1-804,ensembl
+NA,ENSCAFP00030035858_Clfa/1-695,ensembl
+NA,ENSNVIP00000026442_Nvis/1-805,ensembl
+Mustela putorius furo,ENSMPUP00000002630_Mpfu/1-805,ensembl
+NA,ENSAMEP00000016920_Amel/1-808,ensembl
+NA,ENSUAMP00000012193_Uame/1-805,ensembl
+Ursus maritimus,ENSUMAP00000011451_Umar/1-805,ensembl
+NA,ENSCDRP00005018983_Cdro/1-805,ensembl
+NA,ENSVPAP00000009479_Vpac/1-743,ensembl
+Physeter catodon,ENSPCTP00005001509_Pcat/1-804,ensembl
+NA,ENSTTRP00000003366_Ttru/1-804,ensembl
+Bos mutus,ENSBMUP00000026902_Bmut/1-804,ensembl
+Bos taurus,ENSBTAP00000045721_Btau/1-743,ensembl
+Bos indicus x Bos taurus,ENSBIXP00005026344_Bihy/1-811,ensembl
+NA,ENSBGRP00000018528_Bgru/1-811,ensembl
+Ovis aries,ENSOARP00000013345_Oari/1-805,ensembl
+Capra hircus,ENSCHIP00000016062_Chir/1-804,ensembl
+NA,ENSMMSP00000022538_Mmos/1-804,ensembl
+Sus scrofa,ENSSSCP00000028755_Sscr/1-805,ensembl
+NA,ENSCWAP00000019113_Cwag/1-805,ensembl
+Equus caballus,ENSECAP00000001752_Ecab/1-805,ensembl
+NA,ENSEASP00005000764_Eaas/1-805,ensembl
+Myotis lucifugus,ENSMLUP00000016146_Mluc/1-807,ensembl
+NA,ENSPVAP00000009627_Pvam/1-790,ensembl
+Rhinolophus ferrumequinum,ENSRFEP00010019187_Rfer/1-805,ensembl
+NA,ENSSHAP00000016912_Shar/1-564,ensembl
+Vombatus ursinus,ENSVURP00010029576_Vurs/1-803,ensembl
+Phascolarctos cinereus,ENSPCIP00000025943_Pcin/1-800,ensembl
+NA,ENSMEUP00000006093_Neug/1-787,ensembl
+Monodelphis domestica,ENSMODP00000021483_Mdom/1-806,ensembl
+Xenopus tropicalis,ENSXETP00000034203_Xtro/1-862,ensembl
+NA,C42D8.5a.2_Cele/1-906,ensembl

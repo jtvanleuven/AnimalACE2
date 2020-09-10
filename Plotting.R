@@ -1,0 +1,198 @@
+library(seqinr)
+library(stringr)
+library(ggplot2)
+library(Biostrings)
+library(cowplot)
+library(ape)
+library(genbankr)
+library(ggseqlogo)
+
+
+s_seq_aln <- readDNAStringSet("COVID19_S.fst")
+#exported alignment at AA from seaview
+#still contains a few indels. maybe check lit to see if correct?
+s_seq_aln_AA <- readAAStringSet("COVID19_S_AA.fst")
+sAAmat <- as.matrix(s_seq_aln_AA)
+sAAtab <- table(sAAmat)
+sAAvars <- vector(mode='list', length = ncol(sAAmat))
+sAAvarcnt <- vector(mode='list',length = ncol(sAAmat))
+for(i in 1:length(sAAvars)){
+  sAAvars[[i]] <- table(sAAmat[,i])
+  sAAvarcnt[[i]] <- length(table(sAAmat[,i]))
+}
+sAAvarcnt.df <- data.frame(sAAvarcnt)
+colnames(sAAvarcnt.df) <- 1:length(sAAvarcnt)
+plot(t(sAAvarcnt.df))
+which(sAAvarcnt.df > 1)
+
+#splot <- as.character(s_seq_aln_AA)
+#splot <- as.character(AA)
+#ggplot() + geom_logo(splot, seq_type="aa")
+
+#library(pegas)
+#s_seq_aln_stings <- as.DNAbin(s_seq_aln)
+#nuc.div(s_seq_aln_stings)
+#allelicrichness(s_seq_aln_stings)
+
+
+
+
+###load ACE2 data
+
+#SARS-CoV interaction residues: 30-41, 82-84, 353-357
+ace <- readxl::read_excel("raw_data/41421_2020_147_MOESM2_ESM.xlsx", skip = 1)  ##data from doi:10.1038/s41421-020-0147-1
+ace.all <- data.frame(ace)
+ace <- ace[,c("POS", "REF", "ALT", "Function", "Transcript")]
+ace$Mut <- str_split(ace$Transcript,"\\:p\\.", simplify = T)[,2]
+ace$Mut <- str_split(ace$Mut,"\\/", simplify = T)[,1]
+ace$AApos <- str_extract(ace$Mut,"\\d+")
+ace <- ace[!ace$Function == "synonymous_variant",]
+ace$freq <- rowMeans(ace.all[,9:20], na.rm=T)
+ace.pos.count <- as.matrix(table(ace$AApos))
+ace.pos.count <- ace.pos.count[order(as.numeric(row.names(ace.pos.count))),]
+
+
+##plots
+library(gggenes)
+ace.pdb <- read.table("ace2_interface_residues.pdb")      
+s.pdb <- read.table("S-RBD_interface_residues.pdb")
+
+ace.bind <- data.frame(unique(ace.pdb$V6))
+#ace.gene <- data.frame("molecule"="chrX","gene"="ace2", "start"=15494520, "end"=15602158, "direction"=-1)
+ace.gene <- data.frame("molecule"="chrX","gene"="ACE2", "start"=1, "end"=805)
+ace.gene[2:6,] <- ace.gene[1,]
+ace.gene$bind <- c("motif1","motif2","motif3","motif4","motif5","motif6")
+        ace.gene$from <- c(26, 79, 324, 330, 353, 393)
+ace.gene$to <- c(45, 83, 325, 331, 357, 394)
+
+s.bind <- data.frame(unique(s.pdb$V6))
+s.gene <- data.frame("molecule"="COVID19","gene"="S", "start"=1, "end"=1274)
+s.gene[2:4,] <- s.gene[1,]
+s.gene$bind <- c("motif1","motif2","motif3","motif4")
+s.gene$from <- c(403, 446, 473, 486)
+s.gene$to <- c(404, 456, 477, 505)
+
+plot <- rbind(ace.gene, s.gene)
+a <- as.numeric(row.names(ace.plot))
+s <- which(sAAvarcnt.df > 1)
+vlines <- data.frame("x"=c(a, s), "molecule"=c(rep("chrX", length(a)),rep("COVID19", length(s))))
+                     
+ggplot(plot, aes(xmin=start, xmax=end, y=molecule, fill=gene)) +
+  geom_gene_arrow() +
+  scale_fill_brewer(palette="Set3") +
+  geom_vline(data=vlines, aes(xintercept = x, color=molecule)) +
+  facet_wrap(~molecule, scale="free", ncol=1) +
+  geom_subgene_arrow(data=plot, aes(xmin=start, xmax=end, y=molecule, xsubmin=from, xsubmax=to), color="black", fill="black") +
+  #geom_segment(xintercept = as.numeric(row.names(ace.plot)), color="red") +
+  theme_genes() 
+  #theme(axis.title.y = element_blank())
+
+
+
+#############################try to make a conservation colored pdb file
+##check out list that paul made
+
+library(ggseqlogo)
+data(ggseqlogo_sample)
+ggplot() + geom_logo( seqs_aa$AKT1 ) + theme_logo()
+library(ape)
+library(vegan)
+#hmdir <- "~/Dropbox/projects/coronavirus/"
+#setwd(hmdir)
+names <- read.csv("EnsemblSpeciesTable.csv")
+#aln <- read.nexus.data("ENSGT00940000158077_gene_tree.nex")
+fa <- read.FASTA("ENSGT00940000158077_gene_tree.fa")
+for (i in 1:length(fa)){
+  string <- paste(as.character(fa[i]),collapse = "")
+  fa[i] <- str_replace_all(as.character(string),"-","")
+}
+tre <- read.tree("ENSGT00940000158077_gene_tree.newick")
+aln <- read.alignment("ENSGT00940000158077_gene_tree.msf", format = "msf")
+
+human_num <- which(str_detect(aln$nam, "Hsap"))
+human_seq <- aln$seq[[human_num]][1]
+seq.dat <- data.frame(str_split(unlist(aln$seq),"",simplify = T), stringsAsFactors = F)
+seq.dat.s <- seq.dat[,which(!as.character(seq.dat[human_num,])=="-")]
+names(seq.dat.s) <- 1:805
+human_seq_str <- str_remove_all(human_seq, "-")
+shannon <- matrix(ncol=1, nrow=805)
+simpson <- matrix(ncol=1, nrow=805)
+aacnt <- matrix(ncol=1, nrow=805)
+for(i in 1:nrow(shannon)){
+  col <- seq.dat.s[,i]
+  col <- col[!col=="-"]
+  shannon[i] <- diversity(as.numeric(factor(col)), index = "shannon")
+  simpson[i] <- diversity(as.numeric(factor(col)), index = "simpson")
+  aacnt[i] <- length(table(col))
+}
+
+hace2 <- na.omit(read.table("hace2.pdb", sep = "", comment.char = "", fill=T, header=F, stringsAsFactors = F))  ###watch out becuase this drop the last column of the pdb file
+#gpdstring <- read.table("G_penta.pdb", sep = "\t", fill=T, header=F, stringsAsFactors = F)
+hace2string <- as.matrix(readLines("hace2.pdb"))
+ace.pdb <- read.table("ace2_interface_residues.pdb")
+interface_res <- unique(ace.pdb$V6)
+###urg, pdb formats are terrible because of the weird spacing. Need to fix
+hace2shannon <- hace2string
+hace2simpson <- hace2string
+hace2div <- hace2string
+for (i in 2:nrow(hace2string)-1){
+  site <- hace2[i-1,]$V6
+  #gpdb2[i,]$V11
+  hace2shannon[i,] <- str_replace(hace2shannon[i,],"(\\w+\\s+\\w+\\s+\\w+\\s+\\w+\\s+\\w+\\s+\\S+\\s+\\S+\\s+\\S+\\s+\\S+\\s+\\S+\\s+)\\S+(.*)", paste("\\1", round(shannon[site],digits=3), "\\2",sep='')) 
+  hace2simpson[i,] <- str_replace(hace2simpson[i,],"(\\w+\\s+\\w+\\s+\\w+\\s+\\w+\\s+\\w+\\s+\\S+\\s+\\S+\\s+\\S+\\s+\\S+\\s+\\S+\\s+)\\S+(.*)", paste("\\1", round(simpson[site],digits=3), "\\2",sep='')) 
+  #print(round(shannon[site],digits=3))
+  hace2div[i,] <- str_replace(hace2shannon[i,],"(\\w+\\s+\\w+\\s+\\w+\\s+\\w+\\s+\\w+\\s+\\S+\\s+\\S+\\s+\\S+\\s+\\S+\\s+\\S+\\s+)\\S+(.*)", paste("\\1", aacnt[site], "\\2",sep=''))
+
+}
+
+write.table(hace2shannon, file="hace2_shannonbeta.pdb", quote = F, row.names = F, col.names = F)
+write.table(hace2div, file="hace2_aacntsbeta.pdb", quote = F, row.names = F, col.names = F)
+write.table(hace2simpson, file="hace2_simpsonbeta.pdb", quote = F, row.names = F, col.names = F)
+
+plot.dat <- data.frame(shannon)
+ggplot(data=plot.dat, aes(x=shannon)) +
+  geom_histogram() +
+  theme_classic() +
+  xlab("Amino acid diversity (Shannon Index)") +
+  ylab("")
+
+plot.dat2 <- data.frame(simpson)
+ggplot(data=plot.data, aes(x=simpson)) +
+  geom_histogram() +
+  theme_classic() +
+  xlab("Amino acid diversity (Simpson Index)") +
+  ylab("")
+
+seq.dat.s[115,interface_res]
+simpson[interface_res]
+
+seq.dat.heat <- seq.dat.s
+row.names(seq.dat.heat) <- aln$nam
+seq.dat.heat$name <- row.names(seq.dat.heat) 
+seq.dat.heat.l <- melt(seq.dat.heat, id.vars = "name")
+seq.dat.heat.l$name <- str_replace(seq.dat.heat.l$name, "\\/.*", "_")
+seq.dat.heat.l[which(seq.dat.heat.l$value=="-"),]$value <- NA
+ggplot(seq.dat.heat.l, aes(variable, name, fill= value)) + 
+  geom_tile() +
+  scale_y_discrete(limits=tre$tip.label) +
+  scale_fill_discrete(na.value = 'white')
+
+simpson.plot <- data.frame(simpson)
+simpson.plot$position <- 1:805
+ggplot(simpson.plot, aes(x=position, y=simpson)) +
+  geom_vline(xintercept = interface_res, color='red') +
+  geom_line()
+
+  
+aacnt.plot <- data.frame(aacnt)
+aacnt.plot$position <- 1:805
+ggplot(aacnt.plot, aes(x=position, y=aacnt)) +
+  geom_vline(xintercept = interface_res, color='red') +
+  geom_bar(stat = "identity") +
+  theme_classic()
+    
+
+#run rate4site
+#alignment and tree from ENSEMBL  
+#rate4site.exe -s ENSGT00940000158077_gene_tree.fa -t ENSGT00940000158077_gene_tree.newick -o ENSGT00940000158077_gene_tree.rate4site
+###didn't run. need to troubleshoot

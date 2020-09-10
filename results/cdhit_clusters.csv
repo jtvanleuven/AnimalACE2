@@ -1,0 +1,1357 @@
+V1,V2,V3,sci,common,kingdom,phylum,class,family,genus,header,order
+Cluster 0,XP_009055043,1247,Lottia gigantea,owl limpet,Metazoa,Mollusca,Gastropoda,Lottiidae,Lottia,owl limpet,NA
+Cluster 1,TRZ26454,1176,Zosterops borbonicus,Reunion Grey White-eye,Metazoa,Chordata,Aves,Zosteropidae,Zosterops,Reunion Grey White-eye,Passeriformes
+Cluster 2,OWK55002,936,Lonchura striata domestica,NA,Metazoa,Chordata,Aves,Estrildidae,Lonchura,Lonchura striata domestica,Passeriformes
+Cluster 3,ENSLSDP00000001157_L,935,Lonchura striata domestica,NA,Metazoa,Chordata,Aves,Estrildidae,Lonchura,Lonchura striata domestica,Passeriformes
+Cluster 4,C42D8,906,NA,NA,NA,NA,NA,NA,NA,C42D8,NA
+Cluster 5,XP_018100934,876,Xenopus laevis,African Clawed Frog,Metazoa,Chordata,Amphibia,Pipidae,Xenopus,African Clawed Frog,Anura
+Cluster 6,XP_032907631,872,Catharus ustulatus,Zorzal de Swainson,Metazoa,Chordata,Aves,Turdidae,Catharus,Zorzal de Swainson,Passeriformes
+Cluster 6,XP_032907631,872,Catharus ustulatus,Zorzal de Swainson,Metazoa,Chordata,Aves,Turdidae,Catharus,Zorzal de Swainson,Passeriformes
+Cluster 7,XP_026077260,862,Carassius auratus,goldfish,Metazoa,Chordata,Actinopteri,Cyprinidae,Carassius,goldfish,Cypriniformes
+Cluster 8,XP_002938293,862,Xenopus tropicalis,NA,Metazoa,Chordata,Amphibia,Pipidae,Xenopus,Xenopus tropicalis,Anura
+Cluster 8,XP_002938293,862,Xenopus tropicalis,NA,Metazoa,Chordata,Amphibia,Pipidae,Xenopus,Xenopus tropicalis,Anura
+Cluster 8,XP_002938293,862,Xenopus tropicalis,NA,Metazoa,Chordata,Amphibia,Pipidae,Xenopus,Xenopus tropicalis,Anura
+Cluster 9,ENSXETP00000034203_X,862,Xenopus tropicalis,NA,Metazoa,Chordata,Amphibia,Pipidae,Xenopus,Xenopus tropicalis,Anura
+Cluster 10,XP_029140508,861,Protobothrops mucrosquamatus,Brown Spotted Pitviper,Metazoa,Chordata,Lepidosauria,Viperidae,Protobothrops,Brown Spotted Pitviper,Squamata
+Cluster 10,XP_029140508,861,Protobothrops mucrosquamatus,Brown Spotted Pitviper,Metazoa,Chordata,Lepidosauria,Viperidae,Protobothrops,Brown Spotted Pitviper,Squamata
+Cluster 10,XP_029140508,861,Protobothrops mucrosquamatus,Brown Spotted Pitviper,Metazoa,Chordata,Lepidosauria,Viperidae,Protobothrops,Brown Spotted Pitviper,Squamata
+Cluster 11,XP_019467554,861,Meleagris gallopavo,Guajolote norteño,Metazoa,Chordata,Aves,Phasianidae,Meleagris,Guajolote norteño,Galliformes
+Cluster 11,XP_019467554,861,Meleagris gallopavo,Guajolote norteño,Metazoa,Chordata,Aves,Phasianidae,Meleagris,Guajolote norteño,Galliformes
+Cluster 11,XP_019467554,861,Meleagris gallopavo,Guajolote norteño,Metazoa,Chordata,Aves,Phasianidae,Meleagris,Guajolote norteño,Galliformes
+Cluster 12,XP_005997915,859,Latimeria chalumnae,West Indian Ocean coelacanth,Metazoa,Chordata,Coelacanthimorpha,Coelacanthidae,Latimeria,West Indian Ocean coelacanth,Coelacanthiformes
+Cluster 12,XP_005997915,859,Latimeria chalumnae,West Indian Ocean coelacanth,Metazoa,Chordata,Coelacanthimorpha,Coelacanthidae,Latimeria,West Indian Ocean coelacanth,Coelacanthiformes
+Cluster 12,XP_005997915,859,Latimeria chalumnae,West Indian Ocean coelacanth,Metazoa,Chordata,Coelacanthimorpha,Coelacanthidae,Latimeria,West Indian Ocean coelacanth,Coelacanthiformes
+Cluster 13,AAI29587,856,Xenopus laevis,African Clawed Frog,Metazoa,Chordata,Amphibia,Pipidae,Xenopus,African Clawed Frog,Anura
+Cluster 14,XP_018104311,853,Xenopus laevis,African Clawed Frog,Metazoa,Chordata,Amphibia,Pipidae,Xenopus,African Clawed Frog,Anura
+Cluster 15,XP_020140826,851,Microcebus murinus,Gray Mouse Lemur,Metazoa,Chordata,Mammalia,Cheirogaleidae,Microcebus,Gray Mouse Lemur,Primates
+Cluster 15,XP_020140826,851,Microcebus murinus,Gray Mouse Lemur,Metazoa,Chordata,Mammalia,Cheirogaleidae,Microcebus,Gray Mouse Lemur,Primates
+Cluster 16,XP_032835032,849,Petromyzon marinus,sea lamprey,Metazoa,Chordata,Hyperoartia,Petromyzontidae,Petromyzon,sea lamprey,Petromyzontiformes
+Cluster 17,ENSOMEP00000011111_O,847,Oryzias melastigma,NA,Metazoa,Chordata,Actinopteri,Adrianichthyidae,Oryzias,Oryzias melastigma,Beloniformes
+Cluster 18,ENSCJAP00000073088_C,844,NA,NA,NA,NA,NA,NA,NA,ENSCJAP00000073088_C,NA
+Cluster 19,ENSCMIP00000022586_C,838,Callorhinchus milii,NA,Metazoa,Chordata,Chondrichthyes,Callorhinchidae,Callorhinchus,Callorhinchus milii,Chimaeriformes
+Cluster 20,XP_007889845,836,Callorhinchus milii,NA,Metazoa,Chordata,Chondrichthyes,Callorhinchidae,Callorhinchus,Callorhinchus milii,Chimaeriformes
+Cluster 20,XP_007889846,797,Callorhinchus milii,NA,Metazoa,Chordata,Chondrichthyes,Callorhinchidae,Callorhinchus,Callorhinchus milii,Chimaeriformes
+Cluster 20,XP_007889845,836,Callorhinchus milii,NA,Metazoa,Chordata,Chondrichthyes,Callorhinchidae,Callorhinchus,Callorhinchus milii,Chimaeriformes
+Cluster 20,XP_007889845,836,Callorhinchus milii,NA,Metazoa,Chordata,Chondrichthyes,Callorhinchidae,Callorhinchus,Callorhinchus milii,Chimaeriformes
+Cluster 21,XP_026705725,834,Athene cunicularia,Tecolote llanero,Metazoa,Chordata,Aves,Strigidae,Athene,Tecolote llanero,Strigiformes
+Cluster 21,XP_026705725,834,Athene cunicularia,Tecolote llanero,Metazoa,Chordata,Aves,Strigidae,Athene,Tecolote llanero,Strigiformes
+Cluster 21,XP_026705725,834,Athene cunicularia,Tecolote llanero,Metazoa,Chordata,Aves,Strigidae,Athene,Tecolote llanero,Strigiformes
+Cluster 22,XP_023575315,831,Octodon degus,Degu,Metazoa,Chordata,Mammalia,Octodontidae,Octodon,Degu,Rodentia
+Cluster 22,XP_023575315,831,Octodon degus,Degu,Metazoa,Chordata,Mammalia,Octodontidae,Octodon,Degu,Rodentia
+Cluster 22,ENSODEP00000006043_O,805,Octodon degus,Degu,Metazoa,Chordata,Mammalia,Octodontidae,Octodon,Degu,Rodentia
+Cluster 22,XP_023575315,831,Octodon degus,Degu,Metazoa,Chordata,Mammalia,Octodontidae,Octodon,Degu,Rodentia
+Cluster 23,ENSSTUP00000068325_S,829,Salmo trutta,brown trout,Metazoa,Chordata,Actinopteri,Salmonidae,Salmo,brown trout,Salmoniformes
+Cluster 24,XP_023964517,828,Chrysemys picta bellii,Western Painted Turtle,Metazoa,Chordata,NA,Emydidae,Chrysemys,Western Painted Turtle,Testudines
+Cluster 24,XP_023964517,828,Chrysemys picta bellii,Western Painted Turtle,Metazoa,Chordata,NA,Emydidae,Chrysemys,Western Painted Turtle,Testudines
+Cluster 24,XP_023964517,828,Chrysemys picta bellii,Western Painted Turtle,Metazoa,Chordata,NA,Emydidae,Chrysemys,Western Painted Turtle,Testudines
+Cluster 25,TFK10262,828,Platysternon megacephalum,Big-headed Turtle,Metazoa,Chordata,NA,Platysternidae,Platysternon,Big-headed Turtle,Testudines
+Cluster 26,XP_026570054,828,Pseudonaja textilis,Eastern Brown Snake,Metazoa,Chordata,Lepidosauria,Elapidae,Pseudonaja,Eastern Brown Snake,Squamata
+Cluster 26,XP_026570054,828,Pseudonaja textilis,Eastern Brown Snake,Metazoa,Chordata,Lepidosauria,Elapidae,Pseudonaja,Eastern Brown Snake,Squamata
+Cluster 26,XP_026570054,828,Pseudonaja textilis,Eastern Brown Snake,Metazoa,Chordata,Lepidosauria,Elapidae,Pseudonaja,Eastern Brown Snake,Squamata
+Cluster 27,XP_032082934,828,Thamnophis elegans,Western Terrestrial Garter Snake,Metazoa,Chordata,Lepidosauria,Colubridae,Thamnophis,Western Terrestrial Garter Snake,Squamata
+Cluster 27,XP_032082934,828,Thamnophis elegans,Western Terrestrial Garter Snake,Metazoa,Chordata,Lepidosauria,Colubridae,Thamnophis,Western Terrestrial Garter Snake,Squamata
+Cluster 27,XP_032082934,828,Thamnophis elegans,Western Terrestrial Garter Snake,Metazoa,Chordata,Lepidosauria,Colubridae,Thamnophis,Western Terrestrial Garter Snake,Squamata
+Cluster 28,XP_026530754,828,Notechis scutatus,Mainland Tiger Snake,Metazoa,Chordata,Lepidosauria,Elapidae,Notechis,Mainland Tiger Snake,Squamata
+Cluster 28,XP_026530754,828,Notechis scutatus,Mainland Tiger Snake,Metazoa,Chordata,Lepidosauria,Elapidae,Notechis,Mainland Tiger Snake,Squamata
+Cluster 28,XP_026530754,828,Notechis scutatus,Mainland Tiger Snake,Metazoa,Chordata,Lepidosauria,Elapidae,Notechis,Mainland Tiger Snake,Squamata
+Cluster 29,XP_034290793,828,Pantherophis guttatus,Eastern Corn Snake,Metazoa,Chordata,Lepidosauria,Colubridae,Pantherophis,Eastern Corn Snake,Squamata
+Cluster 30,XP_034612285,828,Trachemys scripta elegans,Red-eared Slider,Metazoa,Chordata,NA,Emydidae,Trachemys,Red-eared Slider,Testudines
+Cluster 31,XP_007431942,827,Python bivittatus,Burmese Python,Metazoa,Chordata,Lepidosauria,Pythonidae,Python,Burmese Python,Squamata
+Cluster 31,XP_007431942,827,Python bivittatus,Burmese Python,Metazoa,Chordata,Lepidosauria,Pythonidae,Python,Burmese Python,Squamata
+Cluster 31,XP_007431942,827,Python bivittatus,Burmese Python,Metazoa,Chordata,Lepidosauria,Pythonidae,Python,Burmese Python,Squamata
+Cluster 32,PWA19048,827,Gambusia affinis,mosquitofish,Metazoa,Chordata,Actinopteri,Poeciliidae,Gambusia,mosquitofish,Cyprinodontiformes
+Cluster 32,ENSGAFP00000012585_G,808,NA,NA,NA,NA,NA,NA,NA,ENSGAFP00000012585_G,NA
+Cluster 33,XP_010884777,827,Esox lucius,northern pike,Metazoa,Chordata,Actinopteri,Esocidae,Esox,northern pike,Esociformes
+Cluster 34,ENSACUP00000008152_A,827,Athene cunicularia,Tecolote llanero,Metazoa,Chordata,Aves,Strigidae,Athene,Tecolote llanero,Strigiformes
+Cluster 35,XP_012494185,826,Propithecus coquereli,Coquerel's Sifaka,Metazoa,Chordata,Mammalia,Indriidae,Propithecus,Coquerel's Sifaka,Primates
+Cluster 35,ENSPCOP00000025814_P,805,Propithecus coquereli,Coquerel's Sifaka,Metazoa,Chordata,Mammalia,Indriidae,Propithecus,Coquerel's Sifaka,Primates
+Cluster 35,XP_012494185,826,Propithecus coquereli,Coquerel's Sifaka,Metazoa,Chordata,Mammalia,Indriidae,Propithecus,Coquerel's Sifaka,Primates
+Cluster 36,ENSCCRP00015092138_C,826,NA,NA,NA,NA,NA,NA,NA,ENSCCRP00015092138_C,NA
+Cluster 36,ENSCCRP00010032462_C,826,NA,NA,NA,NA,NA,NA,NA,ENSCCRP00010032462_C,NA
+Cluster 37,ENSCCRP00020104239_C,826,NA,NA,NA,NA,NA,NA,NA,ENSCCRP00020104239_C,NA
+Cluster 38,XP_005231984,824,Falco peregrinus,Peregrine Falcon,Metazoa,Chordata,Aves,Falconidae,Falco,Peregrine Falcon,Falconiformes
+Cluster 38,XP_005231984,824,Falco peregrinus,Peregrine Falcon,Metazoa,Chordata,Aves,Falconidae,Falco,Peregrine Falcon,Falconiformes
+Cluster 38,XP_005231984,824,Falco peregrinus,Peregrine Falcon,Metazoa,Chordata,Aves,Falconidae,Falco,Peregrine Falcon,Falconiformes
+Cluster 39,XP_009938970,824,Opisthocomus hoazin,Hoatzin,Metazoa,Chordata,Aves,Opisthocomidae,Opisthocomus,Hoatzin,Opisthocomiformes
+Cluster 39,XP_009938970,824,Opisthocomus hoazin,Hoatzin,Metazoa,Chordata,Aves,Opisthocomidae,Opisthocomus,Hoatzin,Opisthocomiformes
+Cluster 39,XP_009938970,824,Opisthocomus hoazin,Hoatzin,Metazoa,Chordata,Aves,Opisthocomidae,Opisthocomus,Hoatzin,Opisthocomiformes
+Cluster 40,ENSSPUP00000009708_S,823,NA,NA,NA,NA,NA,NA,NA,ENSSPUP00000009708_S,NA
+Cluster 41,GCB71908,822,Scyliorhinus torazame,cloudy catshark,Metazoa,Chordata,Chondrichthyes,Scyliorhinidae,Scyliorhinus,cloudy catshark,Carcharhiniformes
+Cluster 42,ENSORLP00015033711_O,822,NA,NA,NA,NA,NA,NA,NA,ENSORLP00015033711_O,NA
+Cluster 43,XP_031584810,821,Oreochromis aureus,tilapia azul,Metazoa,Chordata,Actinopteri,Cichlidae,Oreochromis,tilapia azul,Cichliformes
+Cluster 43,XP_031584810,821,Oreochromis aureus,tilapia azul,Metazoa,Chordata,Actinopteri,Cichlidae,Oreochromis,tilapia azul,Cichliformes
+Cluster 43,XP_031584810,821,Oreochromis aureus,tilapia azul,Metazoa,Chordata,Actinopteri,Cichlidae,Oreochromis,tilapia azul,Cichliformes
+Cluster 44,XP_003445853,821,Oreochromis niloticus,Nile mouthbreeder,Metazoa,Chordata,Actinopteri,Cichlidae,Oreochromis,Nile mouthbreeder,Cichliformes
+Cluster 44,XP_003445853,821,Oreochromis niloticus,Nile mouthbreeder,Metazoa,Chordata,Actinopteri,Cichlidae,Oreochromis,Nile mouthbreeder,Cichliformes
+Cluster 44,ENSONIP00000061341_O,821,Oreochromis niloticus,Nile mouthbreeder,Metazoa,Chordata,Actinopteri,Cichlidae,Oreochromis,Nile mouthbreeder,Cichliformes
+Cluster 44,XP_003445853,821,Oreochromis niloticus,Nile mouthbreeder,Metazoa,Chordata,Actinopteri,Cichlidae,Oreochromis,Nile mouthbreeder,Cichliformes
+Cluster 45,XP_020642422,821,Pogona vitticeps,Central Bearded Dragon,Metazoa,Chordata,Lepidosauria,Agamidae,Pogona,Central Bearded Dragon,Squamata
+Cluster 45,XP_020642422,821,Pogona vitticeps,Central Bearded Dragon,Metazoa,Chordata,Lepidosauria,Agamidae,Pogona,Central Bearded Dragon,Squamata
+Cluster 45,ENSPVIP00000025807_P,820,NA,NA,NA,NA,NA,NA,NA,ENSPVIP00000025807_P,NA
+Cluster 45,XP_020642422,821,Pogona vitticeps,Central Bearded Dragon,Metazoa,Chordata,Lepidosauria,Agamidae,Pogona,Central Bearded Dragon,Squamata
+Cluster 46,XP_031414786,821,Clupea harengus,Baltic herring,Metazoa,Chordata,Actinopteri,Clupeidae,Clupea,Baltic herring,Clupeiformes
+Cluster 46,XP_031414786,821,Clupea harengus,Baltic herring,Metazoa,Chordata,Actinopteri,Clupeidae,Clupea,Baltic herring,Clupeiformes
+Cluster 46,ENSCHAP00000007314_C,821,Clupea harengus,Baltic herring,Metazoa,Chordata,Actinopteri,Clupeidae,Clupea,Baltic herring,Clupeiformes
+Cluster 46,XP_031414786,821,Clupea harengus,Baltic herring,Metazoa,Chordata,Actinopteri,Clupeidae,Clupea,Baltic herring,Clupeiformes
+Cluster 47,XP_028441363,820,Perca flavescens,yellow perch,Metazoa,Chordata,Actinopteri,Percidae,Perca,yellow perch,Perciformes
+Cluster 47,XP_028441363,820,Perca flavescens,yellow perch,Metazoa,Chordata,Actinopteri,Percidae,Perca,yellow perch,Perciformes
+Cluster 47,XP_028441363,820,Perca flavescens,yellow perch,Metazoa,Chordata,Actinopteri,Percidae,Perca,yellow perch,Perciformes
+Cluster 48,XP_033806113,820,Geotrypetes seraphini,NA,Metazoa,Chordata,Amphibia,Dermophiidae,Geotrypetes,Geotrypetes seraphini,Gymnophiona
+Cluster 49,XP_023609437,819,Myotis lucifugus,little brown bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,little brown bat,Chiroptera
+Cluster 49,XP_023609437,819,Myotis lucifugus,little brown bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,little brown bat,Chiroptera
+Cluster 49,XP_023609437,819,Myotis lucifugus,little brown bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,little brown bat,Chiroptera
+Cluster 50,XP_014399780,819,Myotis brandtii,Brandt's Myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,Brandt's Myotis,Chiroptera
+Cluster 50,XP_014399780,819,Myotis brandtii,Brandt's Myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,Brandt's Myotis,Chiroptera
+Cluster 50,XP_014399780,819,Myotis brandtii,Brandt's Myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,Brandt's Myotis,Chiroptera
+Cluster 51,XP_006775273,819,Myotis davidii,David's Myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,David's Myotis,Chiroptera
+Cluster 51,XP_006775273,819,Myotis davidii,David's Myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,David's Myotis,Chiroptera
+Cluster 51,XP_006775273,819,Myotis davidii,David's Myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,David's Myotis,Chiroptera
+Cluster 52,XP_015226730,819,Cyprinodon variegatus,bolín,Metazoa,Chordata,Actinopteri,Cyprinodontidae,Cyprinodon,bolín,Cyprinodontiformes
+Cluster 52,XP_015226730,819,Cyprinodon variegatus,bolín,Metazoa,Chordata,Actinopteri,Cyprinodontidae,Cyprinodon,bolín,Cyprinodontiformes
+Cluster 52,ENSCVAP00000007823_C,819,Cyprinodon variegatus,bolín,Metazoa,Chordata,Actinopteri,Cyprinodontidae,Cyprinodon,bolín,Cyprinodontiformes
+Cluster 52,XP_015226730,819,Cyprinodon variegatus,bolín,Metazoa,Chordata,Actinopteri,Cyprinodontidae,Cyprinodon,bolín,Cyprinodontiformes
+Cluster 53,XP_024150631,819,Oryzias melastigma,NA,Metazoa,Chordata,Actinopteri,Adrianichthyidae,Oryzias,Oryzias melastigma,Beloniformes
+Cluster 53,XP_024150631,819,Oryzias melastigma,NA,Metazoa,Chordata,Actinopteri,Adrianichthyidae,Oryzias,Oryzias melastigma,Beloniformes
+Cluster 53,XP_024150631,819,Oryzias melastigma,NA,Metazoa,Chordata,Actinopteri,Adrianichthyidae,Oryzias,Oryzias melastigma,Beloniformes
+Cluster 54,XP_013888928,819,Austrofundulus limnaeus,NA,Metazoa,Chordata,Actinopteri,Rivulidae,Austrofundulus,Austrofundulus limnaeus,Cyprinodontiformes
+Cluster 54,XP_013888928,819,Austrofundulus limnaeus,NA,Metazoa,Chordata,Actinopteri,Rivulidae,Austrofundulus,Austrofundulus limnaeus,Cyprinodontiformes
+Cluster 54,XP_013888928,819,Austrofundulus limnaeus,NA,Metazoa,Chordata,Actinopteri,Rivulidae,Austrofundulus,Austrofundulus limnaeus,Cyprinodontiformes
+Cluster 55,XP_005169416,818,Danio rerio,zebra danio,Metazoa,Chordata,Actinopteri,Danionidae,Danio,zebra danio,Cypriniformes
+Cluster 55,XP_005169416,818,Danio rerio,zebra danio,Metazoa,Chordata,Actinopteri,Danionidae,Danio,zebra danio,Cypriniformes
+Cluster 55,ENSDARP00000106752_D,818,Danio rerio,zebra danio,Metazoa,Chordata,Actinopteri,Danionidae,Danio,zebra danio,Cypriniformes
+Cluster 56,XP_030232530,818,Gadus morhua,morue de l'Atlantique,Metazoa,Chordata,Actinopteri,Gadidae,Gadus,morue de l'Atlantique,Gadiformes
+Cluster 56,XP_030232530,818,Gadus morhua,morue de l'Atlantique,Metazoa,Chordata,Actinopteri,Gadidae,Gadus,morue de l'Atlantique,Gadiformes
+Cluster 56,XP_030232530,818,Gadus morhua,morue de l'Atlantique,Metazoa,Chordata,Actinopteri,Gadidae,Gadus,morue de l'Atlantique,Gadiformes
+Cluster 57,ENSTRUP00000080132_T,818,Takifugu rubripes,NA,Metazoa,Chordata,Actinopteri,Tetraodontidae,Takifugu,Takifugu rubripes,Tetraodontiformes
+Cluster 58,XP_005316051,817,Ictidomys tridecemlineatus,Thirteen-lined Ground Squirrel,Metazoa,Chordata,Mammalia,Sciuridae,Ictidomys,Thirteen-lined Ground Squirrel,Rodentia
+Cluster 58,XP_005316051,817,Ictidomys tridecemlineatus,Thirteen-lined Ground Squirrel,Metazoa,Chordata,Mammalia,Sciuridae,Ictidomys,Thirteen-lined Ground Squirrel,Rodentia
+Cluster 58,ENSSTOP00000005914_I,807,Ictidomys tridecemlineatus,Thirteen-lined Ground Squirrel,Metazoa,Chordata,Mammalia,Sciuridae,Ictidomys,Thirteen-lined Ground Squirrel,Rodentia
+Cluster 58,XP_005316051,817,Ictidomys tridecemlineatus,Thirteen-lined Ground Squirrel,Metazoa,Chordata,Mammalia,Sciuridae,Ictidomys,Thirteen-lined Ground Squirrel,Rodentia
+Cluster 59,XP_026252505,817,Urocitellus parryii,Arctic Ground Squirrel,Metazoa,Chordata,Mammalia,Sciuridae,Urocitellus,Arctic Ground Squirrel,Rodentia
+Cluster 59,XP_026252506,780,Urocitellus parryii,Arctic Ground Squirrel,Metazoa,Chordata,Mammalia,Sciuridae,Urocitellus,Arctic Ground Squirrel,Rodentia
+Cluster 59,XP_026252505,817,Urocitellus parryii,Arctic Ground Squirrel,Metazoa,Chordata,Mammalia,Sciuridae,Urocitellus,Arctic Ground Squirrel,Rodentia
+Cluster 59,ENSUPAP00010016528_U,807,Urocitellus parryii,Arctic Ground Squirrel,Metazoa,Chordata,Mammalia,Sciuridae,Urocitellus,Arctic Ground Squirrel,Rodentia
+Cluster 59,XP_026252505,817,Urocitellus parryii,Arctic Ground Squirrel,Metazoa,Chordata,Mammalia,Sciuridae,Urocitellus,Arctic Ground Squirrel,Rodentia
+Cluster 60,XP_015343540,817,Marmota marmota marmota,NA,Metazoa,Chordata,Mammalia,Sciuridae,Marmota,Marmota marmota marmota,Rodentia
+Cluster 60,XP_015343540,817,Marmota marmota marmota,NA,Metazoa,Chordata,Mammalia,Sciuridae,Marmota,Marmota marmota marmota,Rodentia
+Cluster 60,ENSMMMP00000005538_M,807,Marmota marmota marmota,NA,Metazoa,Chordata,Mammalia,Sciuridae,Marmota,Marmota marmota marmota,Rodentia
+Cluster 60,XP_015343540,817,Marmota marmota marmota,NA,Metazoa,Chordata,Mammalia,Sciuridae,Marmota,Marmota marmota marmota,Rodentia
+Cluster 61,XP_027802308,817,Marmota flaviventris,Yellow-bellied Marmot,Metazoa,Chordata,Mammalia,Sciuridae,Marmota,Yellow-bellied Marmot,Rodentia
+Cluster 61,XP_027802308,817,Marmota flaviventris,Yellow-bellied Marmot,Metazoa,Chordata,Mammalia,Sciuridae,Marmota,Yellow-bellied Marmot,Rodentia
+Cluster 61,XP_027802308,817,Marmota flaviventris,Yellow-bellied Marmot,Metazoa,Chordata,Mammalia,Sciuridae,Marmota,Yellow-bellied Marmot,Rodentia
+Cluster 62,MXQ98806,817,Bos mutus,wild yak,Metazoa,Chordata,Mammalia,Bovidae,Bos,wild yak,Artiodactyla
+Cluster 63,KFR15510,817,Opisthocomus hoazin,Hoatzin,Metazoa,Chordata,Aves,Opisthocomidae,Opisthocomus,Hoatzin,Opisthocomiformes
+Cluster 64,XP_022063988,817,Acanthochromis polyacanthus,spotty-tail,Metazoa,Chordata,Actinopteri,Pomacentridae,Acanthochromis,spotty-tail,NA
+Cluster 64,XP_022063991,796,Acanthochromis polyacanthus,spotty-tail,Metazoa,Chordata,Actinopteri,Pomacentridae,Acanthochromis,spotty-tail,NA
+Cluster 64,XP_022063988,817,Acanthochromis polyacanthus,spotty-tail,Metazoa,Chordata,Actinopteri,Pomacentridae,Acanthochromis,spotty-tail,NA
+Cluster 64,ENSAPOP00000029514_A,817,Acanthochromis polyacanthus,spotty-tail,Metazoa,Chordata,Actinopteri,Pomacentridae,Acanthochromis,spotty-tail,NA
+Cluster 64,XP_022063988,817,Acanthochromis polyacanthus,spotty-tail,Metazoa,Chordata,Actinopteri,Pomacentridae,Acanthochromis,spotty-tail,NA
+Cluster 65,GCF40292,817,Paroedura picta,NA,Metazoa,Chordata,Lepidosauria,Gekkonidae,Paroedura,Paroedura picta,Squamata
+Cluster 66,RXN26547,817,Labeo rohita,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Labeo,Labeo rohita,Cypriniformes
+Cluster 67,XP_029949252,816,Salarias fasciatus,lineated blenny,Metazoa,Chordata,Actinopteri,Blenniidae,Salarias,lineated blenny,Blenniiformes
+Cluster 67,XP_029949252,816,Salarias fasciatus,lineated blenny,Metazoa,Chordata,Actinopteri,Blenniidae,Salarias,lineated blenny,Blenniiformes
+Cluster 67,XP_029949252,816,Salarias fasciatus,lineated blenny,Metazoa,Chordata,Actinopteri,Blenniidae,Salarias,lineated blenny,Blenniiformes
+Cluster 68,XP_030271236,816,Sparus aurata,NA,Metazoa,Chordata,Actinopteri,Sparidae,Sparus,Sparus aurata,Spariformes
+Cluster 68,XP_030271236,816,Sparus aurata,NA,Metazoa,Chordata,Actinopteri,Sparidae,Sparus,Sparus aurata,Spariformes
+Cluster 68,ENSSAUP00010041250_S,807,Sparus aurata,NA,Metazoa,Chordata,Actinopteri,Sparidae,Sparus,Sparus aurata,Spariformes
+Cluster 68,XP_030271236,816,Sparus aurata,NA,Metazoa,Chordata,Actinopteri,Sparidae,Sparus,Sparus aurata,Spariformes
+Cluster 69,XP_015273067,816,Gekko japonicus,NA,Metazoa,Chordata,Lepidosauria,Gekkonidae,Gekko,Gekko japonicus,Squamata
+Cluster 69,XP_015273067,816,Gekko japonicus,NA,Metazoa,Chordata,Lepidosauria,Gekkonidae,Gekko,Gekko japonicus,Squamata
+Cluster 69,XP_015273067,816,Gekko japonicus,NA,Metazoa,Chordata,Lepidosauria,Gekkonidae,Gekko,Gekko japonicus,Squamata
+Cluster 70,XP_029459086,815,Rhinatrema bivittatum,NA,Metazoa,Chordata,Amphibia,Rhinatrematidae,Rhinatrema,Rhinatrema bivittatum,Gymnophiona
+Cluster 70,XP_029459086,815,Rhinatrema bivittatum,NA,Metazoa,Chordata,Amphibia,Rhinatrematidae,Rhinatrema,Rhinatrema bivittatum,Gymnophiona
+Cluster 70,XP_029459086,815,Rhinatrema bivittatum,NA,Metazoa,Chordata,Amphibia,Rhinatrematidae,Rhinatrema,Rhinatrema bivittatum,Gymnophiona
+Cluster 71,XP_031702716,815,Anarrhichthys ocellatus,northern wolffish,Metazoa,Chordata,Actinopteri,Anarhichadidae,Anarrhichthys,northern wolffish,Perciformes
+Cluster 71,XP_031702716,815,Anarrhichthys ocellatus,northern wolffish,Metazoa,Chordata,Actinopteri,Anarhichadidae,Anarrhichthys,northern wolffish,Perciformes
+Cluster 71,XP_031702716,815,Anarrhichthys ocellatus,northern wolffish,Metazoa,Chordata,Actinopteri,Anarhichadidae,Anarrhichthys,northern wolffish,Perciformes
+Cluster 72,XP_029459087,815,Rhinatrema bivittatum,NA,Metazoa,Chordata,Amphibia,Rhinatrematidae,Rhinatrema,Rhinatrema bivittatum,Gymnophiona
+Cluster 73,ENSCHAP00000050679_C,815,Clupea harengus,Baltic herring,Metazoa,Chordata,Actinopteri,Clupeidae,Clupea,Baltic herring,Clupeiformes
+Cluster 74,XP_023774184,814,Cyanistes caeruleus,Blue Tit,Metazoa,Chordata,Aves,Paridae,Cyanistes,Blue Tit,Passeriformes
+Cluster 74,XP_023774184,814,Cyanistes caeruleus,Blue Tit,Metazoa,Chordata,Aves,Paridae,Cyanistes,Blue Tit,Passeriformes
+Cluster 74,ENSCCEP00000006410_C,814,Cyanistes caeruleus,Blue Tit,Metazoa,Chordata,Aves,Paridae,Cyanistes,Blue Tit,Passeriformes
+Cluster 74,XP_023774184,814,Cyanistes caeruleus,Blue Tit,Metazoa,Chordata,Aves,Paridae,Cyanistes,Blue Tit,Passeriformes
+Cluster 75,XP_015486815,814,Parus major,Great Tit,Metazoa,Chordata,Aves,Paridae,Parus,Great Tit,Passeriformes
+Cluster 75,XP_015486815,814,Parus major,Great Tit,Metazoa,Chordata,Aves,Paridae,Parus,Great Tit,Passeriformes
+Cluster 75,ENSPMJP00000015158_P,814,Parus major,Great Tit,Metazoa,Chordata,Aves,Paridae,Parus,Great Tit,Passeriformes
+Cluster 75,XP_015486815,814,Parus major,Great Tit,Metazoa,Chordata,Aves,Paridae,Parus,Great Tit,Passeriformes
+Cluster 76,XP_008105455,814,Anolis carolinensis,Green Anole,Metazoa,Chordata,Lepidosauria,Dactyloidae,Anolis,Green Anole,Squamata
+Cluster 76,XP_008105455,814,Anolis carolinensis,Green Anole,Metazoa,Chordata,Lepidosauria,Dactyloidae,Anolis,Green Anole,Squamata
+Cluster 76,ENSACAP00000016751_A,814,Anolis carolinensis,Green Anole,Metazoa,Chordata,Lepidosauria,Dactyloidae,Anolis,Green Anole,Squamata
+Cluster 76,XP_008105455,814,Anolis carolinensis,Green Anole,Metazoa,Chordata,Lepidosauria,Dactyloidae,Anolis,Green Anole,Squamata
+Cluster 77,XP_017295385,814,Kryptolebias marmoratus,NA,Metazoa,Chordata,Actinopteri,Rivulidae,Kryptolebias,Kryptolebias marmoratus,Cyprinodontiformes
+Cluster 77,XP_017295385,814,Kryptolebias marmoratus,NA,Metazoa,Chordata,Actinopteri,Rivulidae,Kryptolebias,Kryptolebias marmoratus,Cyprinodontiformes
+Cluster 77,ENSKMAP00000024993_K,814,Kryptolebias marmoratus,NA,Metazoa,Chordata,Actinopteri,Rivulidae,Kryptolebias,Kryptolebias marmoratus,Cyprinodontiformes
+Cluster 77,XP_017295385,814,Kryptolebias marmoratus,NA,Metazoa,Chordata,Actinopteri,Rivulidae,Kryptolebias,Kryptolebias marmoratus,Cyprinodontiformes
+Cluster 78,AWP01324,814,Scophthalmus maximus,turbot,Metazoa,Chordata,Actinopteri,Scophthalmidae,Scophthalmus,turbot,Pleuronectiformes
+Cluster 78,ENSSMAP00000021642_S,814,NA,NA,NA,NA,NA,NA,NA,ENSSMAP00000021642_S,NA
+Cluster 79,XP_029354066,814,Echeneis naucrates,sharksucker,Metazoa,Chordata,Actinopteri,Echeneidae,Echeneis,sharksucker,Carangiformes
+Cluster 79,XP_029354066,814,Echeneis naucrates,sharksucker,Metazoa,Chordata,Actinopteri,Echeneidae,Echeneis,sharksucker,Carangiformes
+Cluster 79,XP_029354066,814,Echeneis naucrates,sharksucker,Metazoa,Chordata,Actinopteri,Echeneidae,Echeneis,sharksucker,Carangiformes
+Cluster 80,XP_028999570,814,Betta splendens,siamese fighting fish,Metazoa,Chordata,Actinopteri,Osphronemidae,Betta,siamese fighting fish,Anabantiformes
+Cluster 80,XP_028999570,814,Betta splendens,siamese fighting fish,Metazoa,Chordata,Actinopteri,Osphronemidae,Betta,siamese fighting fish,Anabantiformes
+Cluster 80,ENSBSLP00000001288_B,814,Betta splendens,siamese fighting fish,Metazoa,Chordata,Actinopteri,Osphronemidae,Betta,siamese fighting fish,Anabantiformes
+Cluster 80,XP_028999570,814,Betta splendens,siamese fighting fish,Metazoa,Chordata,Actinopteri,Osphronemidae,Betta,siamese fighting fish,Anabantiformes
+Cluster 81,ENSLACP00000016231_L,814,Latimeria chalumnae,West Indian Ocean coelacanth,Metazoa,Chordata,Coelacanthimorpha,Coelacanthidae,Latimeria,West Indian Ocean coelacanth,Coelacanthiformes
+Cluster 82,XP_023417808,813,Cavia porcellus,Domesticated Guinea Pig,Metazoa,Chordata,Mammalia,Caviidae,Cavia,Domesticated Guinea Pig,Rodentia
+Cluster 82,XP_023417808,813,Cavia porcellus,Domesticated Guinea Pig,Metazoa,Chordata,Mammalia,Caviidae,Cavia,Domesticated Guinea Pig,Rodentia
+Cluster 82,XP_023417808,813,Cavia porcellus,Domesticated Guinea Pig,Metazoa,Chordata,Mammalia,Caviidae,Cavia,Domesticated Guinea Pig,Rodentia
+Cluster 83,XP_005443093,813,Falco cherrug,Saker Falcon,Metazoa,Chordata,Aves,Falconidae,Falco,Saker Falcon,Falconiformes
+Cluster 83,XP_005443093,813,Falco cherrug,Saker Falcon,Metazoa,Chordata,Aves,Falconidae,Falco,Saker Falcon,Falconiformes
+Cluster 83,XP_005443093,813,Falco cherrug,Saker Falcon,Metazoa,Chordata,Aves,Falconidae,Falco,Saker Falcon,Falconiformes
+Cluster 84,XP_026131313,812,Carassius auratus,goldfish,Metazoa,Chordata,Actinopteri,Cyprinidae,Carassius,goldfish,Cypriniformes
+Cluster 84,XP_026131313,812,Carassius auratus,goldfish,Metazoa,Chordata,Actinopteri,Cyprinidae,Carassius,goldfish,Cypriniformes
+Cluster 84,XP_026131313,812,Carassius auratus,goldfish,Metazoa,Chordata,Actinopteri,Cyprinidae,Carassius,goldfish,Cypriniformes
+Cluster 85,KTF89199,812,Cyprinus carpio,common carp,Metazoa,Chordata,Actinopteri,Cyprinidae,Cyprinus,common carp,Cypriniformes
+Cluster 86,XP_020465646,812,Monopterus albus,swamp eel,Metazoa,Chordata,Actinopteri,Synbranchidae,Monopterus,swamp eel,Synbranchiformes
+Cluster 86,XP_020465646,812,Monopterus albus,swamp eel,Metazoa,Chordata,Actinopteri,Synbranchidae,Monopterus,swamp eel,Synbranchiformes
+Cluster 86,XP_020465646,812,Monopterus albus,swamp eel,Metazoa,Chordata,Actinopteri,Synbranchidae,Monopterus,swamp eel,Synbranchiformes
+Cluster 87,KAF3832838,812,Dissostichus mawsoni,NA,Metazoa,Chordata,Actinopteri,Nototheniidae,Dissostichus,Dissostichus mawsoni,Perciformes
+Cluster 88,XP_009509070,812,Phalacrocorax carbo,Great Cormorant,Metazoa,Chordata,Aves,Phalacrocoracidae,Phalacrocorax,Great Cormorant,Pelecaniformes
+Cluster 88,XP_009509070,812,Phalacrocorax carbo,Great Cormorant,Metazoa,Chordata,Aves,Phalacrocoracidae,Phalacrocorax,Great Cormorant,Pelecaniformes
+Cluster 88,XP_009509070,812,Phalacrocorax carbo,Great Cormorant,Metazoa,Chordata,Aves,Phalacrocoracidae,Phalacrocorax,Great Cormorant,Pelecaniformes
+Cluster 89,XP_010884777,812,Esox lucius,northern pike,Metazoa,Chordata,Actinopteri,Esocidae,Esox,northern pike,Esociformes
+Cluster 89,ENSELUP00000033512_E,812,Esox lucius,northern pike,Metazoa,Chordata,Actinopteri,Esocidae,Esox,northern pike,Esociformes
+Cluster 89,XP_010884777,812,Esox lucius,northern pike,Metazoa,Chordata,Actinopteri,Esocidae,Esox,northern pike,Esociformes
+Cluster 90,XP_027389727,811,Bos indicus x Bos taurus,NA,Metazoa,Chordata,Mammalia,Bovidae,Bos,Bos indicus x Bos taurus,Artiodactyla
+Cluster 90,XP_027389730,750,Bos indicus x Bos taurus,NA,Metazoa,Chordata,Mammalia,Bovidae,Bos,Bos indicus x Bos taurus,Artiodactyla
+Cluster 90,XP_010833001,431,Bison bison bison,plains bison,Metazoa,Chordata,Mammalia,Bovidae,Bison,plains bison,Artiodactyla
+Cluster 90,XP_027389727,811,Bos indicus x Bos taurus,NA,Metazoa,Chordata,Mammalia,Bovidae,Bos,Bos indicus x Bos taurus,Artiodactyla
+Cluster 90,ENSBIXP00005026344_B,811,Bos indicus x Bos taurus,NA,Metazoa,Chordata,Mammalia,Bovidae,Bos,Bos indicus x Bos taurus,Artiodactyla
+Cluster 90,XP_010833001,431,Bison bison bison,plains bison,Metazoa,Chordata,Mammalia,Bovidae,Bison,plains bison,Artiodactyla
+Cluster 90,XP_027389727,811,Bos indicus x Bos taurus,NA,Metazoa,Chordata,Mammalia,Bovidae,Bos,Bos indicus x Bos taurus,Artiodactyla
+Cluster 91,XP_005228485,811,Bos taurus,aurochs,Metazoa,Chordata,Mammalia,Bovidae,Bos,aurochs,Artiodactyla
+Cluster 91,XP_015317271,750,Bos taurus,aurochs,Metazoa,Chordata,Mammalia,Bovidae,Bos,aurochs,Artiodactyla
+Cluster 91,XP_005228485,811,Bos taurus,aurochs,Metazoa,Chordata,Mammalia,Bovidae,Bos,aurochs,Artiodactyla
+Cluster 92,XP_019811719,811,Bos indicus,Brahma cattle,Metazoa,Chordata,Mammalia,Bovidae,Bos,Brahma cattle,Artiodactyla
+Cluster 92,XP_019811719,811,Bos indicus,Brahma cattle,Metazoa,Chordata,Mammalia,Bovidae,Bos,Brahma cattle,Artiodactyla
+Cluster 92,XP_019811719,811,Bos indicus,Brahma cattle,Metazoa,Chordata,Mammalia,Bovidae,Bos,Brahma cattle,Artiodactyla
+Cluster 93,XP_008153150,811,Eptesicus fuscus,big brown bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Eptesicus,big brown bat,Chiroptera
+Cluster 93,XP_008153150,811,Eptesicus fuscus,big brown bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Eptesicus,big brown bat,Chiroptera
+Cluster 93,XP_008153150,811,Eptesicus fuscus,big brown bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Eptesicus,big brown bat,Chiroptera
+Cluster 94,XP_031956594,811,Corvus moneduloides,New Caledonian Crow,Metazoa,Chordata,Aves,Corvidae,Corvus,New Caledonian Crow,Passeriformes
+Cluster 94,XP_031956594,811,Corvus moneduloides,New Caledonian Crow,Metazoa,Chordata,Aves,Corvidae,Corvus,New Caledonian Crow,Passeriformes
+Cluster 94,XP_031956594,811,Corvus moneduloides,New Caledonian Crow,Metazoa,Chordata,Aves,Corvidae,Corvus,New Caledonian Crow,Passeriformes
+Cluster 95,XP_010392735,811,Corvus cornix cornix,NA,Metazoa,Chordata,Aves,Corvidae,Corvus,Corvus cornix cornix,Passeriformes
+Cluster 95,XP_010392735,811,Corvus cornix cornix,NA,Metazoa,Chordata,Aves,Corvidae,Corvus,Corvus cornix cornix,Passeriformes
+Cluster 95,XP_010392735,811,Corvus cornix cornix,NA,Metazoa,Chordata,Aves,Corvidae,Corvus,Corvus cornix cornix,Passeriformes
+Cluster 96,XP_027494818,811,Corapipo altera,White-ruffed Manakin,Metazoa,Chordata,Aves,Pipridae,Corapipo,White-ruffed Manakin,Passeriformes
+Cluster 96,XP_027494818,811,Corapipo altera,White-ruffed Manakin,Metazoa,Chordata,Aves,Pipridae,Corapipo,White-ruffed Manakin,Passeriformes
+Cluster 96,XP_027494818,811,Corapipo altera,White-ruffed Manakin,Metazoa,Chordata,Aves,Pipridae,Corapipo,White-ruffed Manakin,Passeriformes
+Cluster 97,XP_002194303,811,Taeniopygia guttata,Zebra Finch,Metazoa,Chordata,Aves,Estrildidae,Taeniopygia,Zebra Finch,Passeriformes
+Cluster 97,XP_002194303,811,Taeniopygia guttata,Zebra Finch,Metazoa,Chordata,Aves,Estrildidae,Taeniopygia,Zebra Finch,Passeriformes
+Cluster 97,XP_002194303,811,Taeniopygia guttata,Zebra Finch,Metazoa,Chordata,Aves,Estrildidae,Taeniopygia,Zebra Finch,Passeriformes
+Cluster 98,KQK80079,811,Amazona aestiva,Turquoise-fronted Amazon,Metazoa,Chordata,Aves,Psittacidae,Amazona,Turquoise-fronted Amazon,Psittaciformes
+Cluster 99,KAF2980691,811,Melospiza melodia maxima,NA,Metazoa,Chordata,Aves,Passerellidae,Melospiza,Melospiza melodia maxima,Passeriformes
+Cluster 100,OPJ69605,811,Patagioenas fasciata monilis,NA,Metazoa,Chordata,Aves,Columbidae,Patagioenas,Patagioenas fasciata monilis,Columbiformes
+Cluster 101,XP_027544864,811,Neopelma chrysocephalum,Saffron-crested Neopelma,Metazoa,Chordata,Aves,Pipridae,Neopelma,Saffron-crested Neopelma,Passeriformes
+Cluster 101,XP_027544864,811,Neopelma chrysocephalum,Saffron-crested Neopelma,Metazoa,Chordata,Aves,Pipridae,Neopelma,Saffron-crested Neopelma,Passeriformes
+Cluster 101,XP_027544864,811,Neopelma chrysocephalum,Saffron-crested Neopelma,Metazoa,Chordata,Aves,Pipridae,Neopelma,Saffron-crested Neopelma,Passeriformes
+Cluster 102,XP_017667729,811,Lepidothrix coronata,Blue-crowned Manakin,Metazoa,Chordata,Aves,Pipridae,Lepidothrix,Blue-crowned Manakin,Passeriformes
+Cluster 102,XP_017667729,811,Lepidothrix coronata,Blue-crowned Manakin,Metazoa,Chordata,Aves,Pipridae,Lepidothrix,Blue-crowned Manakin,Passeriformes
+Cluster 102,XP_017667731,811,Lepidothrix coronata,Blue-crowned Manakin,Metazoa,Chordata,Aves,Pipridae,Lepidothrix,Blue-crowned Manakin,Passeriformes
+Cluster 103,XP_027593974,811,Pipra filicauda,Wire-tailed Manakin,Metazoa,Chordata,Aves,Pipridae,Pipra,Wire-tailed Manakin,Passeriformes
+Cluster 103,XP_027593974,811,Pipra filicauda,Wire-tailed Manakin,Metazoa,Chordata,Aves,Pipridae,Pipra,Wire-tailed Manakin,Passeriformes
+Cluster 103,XP_027593974,811,Pipra filicauda,Wire-tailed Manakin,Metazoa,Chordata,Aves,Pipridae,Pipra,Wire-tailed Manakin,Passeriformes
+Cluster 104,XP_017939494,811,Manacus vitellinus,Golden-collared Manakin,Metazoa,Chordata,Aves,Pipridae,Manacus,Golden-collared Manakin,Passeriformes
+Cluster 104,XP_017939494,811,Manacus vitellinus,Golden-collared Manakin,Metazoa,Chordata,Aves,Pipridae,Manacus,Golden-collared Manakin,Passeriformes
+Cluster 104,XP_017939494,811,Manacus vitellinus,Golden-collared Manakin,Metazoa,Chordata,Aves,Pipridae,Manacus,Golden-collared Manakin,Passeriformes
+Cluster 105,XP_030332639,811,Strigops habroptila,Kakapo,Metazoa,Chordata,Aves,Psittacidae,Strigops,Kakapo,Psittaciformes
+Cluster 105,XP_030332639,811,Strigops habroptila,Kakapo,Metazoa,Chordata,Aves,Psittacidae,Strigops,Kakapo,Psittaciformes
+Cluster 105,XP_030332639,811,Strigops habroptila,Kakapo,Metazoa,Chordata,Aves,Psittacidae,Strigops,Kakapo,Psittaciformes
+Cluster 106,XP_005491832,811,Zonotrichia albicollis,Gorrión garganta blanca,Metazoa,Chordata,Aves,Passerellidae,Zonotrichia,Gorrión garganta blanca,Passeriformes
+Cluster 106,XP_005491832,811,Zonotrichia albicollis,Gorrión garganta blanca,Metazoa,Chordata,Aves,Passerellidae,Zonotrichia,Gorrión garganta blanca,Passeriformes
+Cluster 106,XP_005491832,811,Zonotrichia albicollis,Gorrión garganta blanca,Metazoa,Chordata,Aves,Passerellidae,Zonotrichia,Gorrión garganta blanca,Passeriformes
+Cluster 107,XP_007070561,811,Chelonia mydas,Green Sea Turtle,Metazoa,Chordata,NA,Cheloniidae,Chelonia,Green Sea Turtle,Testudines
+Cluster 107,XP_007070561,811,Chelonia mydas,Green Sea Turtle,Metazoa,Chordata,NA,Cheloniidae,Chelonia,Green Sea Turtle,Testudines
+Cluster 107,XP_007070561,811,Chelonia mydas,Green Sea Turtle,Metazoa,Chordata,NA,Cheloniidae,Chelonia,Green Sea Turtle,Testudines
+Cluster 108,XP_030058174,811,Microcaecilia unicolor,NA,Metazoa,Chordata,Amphibia,Siphonopidae,Microcaecilia,Microcaecilia unicolor,Gymnophiona
+Cluster 108,XP_030058174,811,Microcaecilia unicolor,NA,Metazoa,Chordata,Amphibia,Siphonopidae,Microcaecilia,Microcaecilia unicolor,Gymnophiona
+Cluster 108,XP_030058174,811,Microcaecilia unicolor,NA,Metazoa,Chordata,Amphibia,Siphonopidae,Microcaecilia,Microcaecilia unicolor,Gymnophiona
+Cluster 109,XP_032536093,811,Chiroxiphia lanceolata,Lance-tailed Manakin,Metazoa,Chordata,Aves,Pipridae,Chiroxiphia,Lance-tailed Manakin,Passeriformes
+Cluster 110,ENSCCRP00010010298_C,811,NA,NA,NA,NA,NA,NA,NA,ENSCCRP00010010298_C,NA
+Cluster 111,ENSLOCP00000009362_L,811,Lepisosteus oculatus,spotted gar,Metazoa,Chordata,Actinopteri,Lepisosteidae,Lepisosteus,spotted gar,Semionotiformes
+Cluster 112,ENSBGRP00000018528_B,811,NA,NA,NA,NA,NA,NA,NA,ENSBGRP00000018528_B,NA
+Cluster 113,XP_014731370,810,Sturnus vulgaris,Estornino pinto,Metazoa,Chordata,Aves,Sturnidae,Sturnus,Estornino pinto,Passeriformes
+Cluster 113,XP_014731370,810,Sturnus vulgaris,Estornino pinto,Metazoa,Chordata,Aves,Sturnidae,Sturnus,Estornino pinto,Passeriformes
+Cluster 113,XP_014731370,810,Sturnus vulgaris,Estornino pinto,Metazoa,Chordata,Aves,Sturnidae,Sturnus,Estornino pinto,Passeriformes
+Cluster 114,XP_005037422,810,Ficedula albicollis,Collared Flycatcher,Metazoa,Chordata,Aves,Muscicapidae,Ficedula,Collared Flycatcher,Passeriformes
+Cluster 114,XP_005037422,810,Ficedula albicollis,Collared Flycatcher,Metazoa,Chordata,Aves,Muscicapidae,Ficedula,Collared Flycatcher,Passeriformes
+Cluster 114,ENSFALP00000004577_F,810,NA,NA,NA,NA,NA,NA,NA,ENSFALP00000004577_F,NA
+Cluster 114,XP_005037422,810,Ficedula albicollis,Collared Flycatcher,Metazoa,Chordata,Aves,Muscicapidae,Ficedula,Collared Flycatcher,Passeriformes
+Cluster 115,XP_028837781,810,Denticeps clupeoides,NA,Metazoa,Chordata,Actinopteri,Denticipitidae,Denticeps,Denticeps clupeoides,Clupeiformes
+Cluster 115,XP_028837781,810,Denticeps clupeoides,NA,Metazoa,Chordata,Actinopteri,Denticipitidae,Denticeps,Denticeps clupeoides,Clupeiformes
+Cluster 115,XP_028837781,810,Denticeps clupeoides,NA,Metazoa,Chordata,Actinopteri,Denticipitidae,Denticeps,Denticeps clupeoides,Clupeiformes
+Cluster 116,XP_030642567,810,Chanos chanos,sabalote,Metazoa,Chordata,Actinopteri,Chanidae,Chanos,sabalote,Gonorynchiformes
+Cluster 117,XP_016350320,810,Sinocyclocheilus anshuiensis,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus anshuiensis,Cypriniformes
+Cluster 117,ENSSANP00000049344_S,810,Sinocyclocheilus anshuiensis,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus anshuiensis,Cypriniformes
+Cluster 118,XP_016404210,810,Sinocyclocheilus rhinocerous,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus rhinocerous,Cypriniformes
+Cluster 118,ENSSRHP00000075010_S,777,Sinocyclocheilus rhinocerous,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus rhinocerous,Cypriniformes
+Cluster 119,XP_021240731,810,Numida meleagris,Helmeted Guineafowl,Metazoa,Chordata,Aves,Numididae,Numida,Helmeted Guineafowl,Galliformes
+Cluster 119,XP_021240731,810,Numida meleagris,Helmeted Guineafowl,Metazoa,Chordata,Aves,Numididae,Numida,Helmeted Guineafowl,Galliformes
+Cluster 119,ENSNMEP00000017895_N,810,Numida meleagris,Helmeted Guineafowl,Metazoa,Chordata,Aves,Numididae,Numida,Helmeted Guineafowl,Galliformes
+Cluster 119,XP_021240731,810,Numida meleagris,Helmeted Guineafowl,Metazoa,Chordata,Aves,Numididae,Numida,Helmeted Guineafowl,Galliformes
+Cluster 120,TMS13523,810,Larimichthys crocea,yellow croaker,Metazoa,Chordata,Actinopteri,Sciaenidae,Larimichthys,yellow croaker,NA
+Cluster 121,XP_012675889,810,Clupea harengus,Baltic herring,Metazoa,Chordata,Actinopteri,Clupeidae,Clupea,Baltic herring,Clupeiformes
+Cluster 122,XP_010730146,810,Larimichthys crocea,yellow croaker,Metazoa,Chordata,Actinopteri,Sciaenidae,Larimichthys,yellow croaker,NA
+Cluster 122,XP_010730146,810,Larimichthys crocea,yellow croaker,Metazoa,Chordata,Actinopteri,Sciaenidae,Larimichthys,yellow croaker,NA
+Cluster 122,ENSLCRP00005034598_L,810,Larimichthys crocea,yellow croaker,Metazoa,Chordata,Actinopteri,Sciaenidae,Larimichthys,yellow croaker,NA
+Cluster 122,XP_010730146,810,Larimichthys crocea,yellow croaker,Metazoa,Chordata,Actinopteri,Sciaenidae,Larimichthys,yellow croaker,NA
+Cluster 123,XP_007560208,808,Poecilia formosa,topote amazona,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,topote amazona,Cyprinodontiformes
+Cluster 123,XP_007560208,808,Poecilia formosa,topote amazona,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,topote amazona,Cyprinodontiformes
+Cluster 123,ENSPFOP00000017013_P,810,Poecilia formosa,topote amazona,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,topote amazona,Cyprinodontiformes
+Cluster 123,XP_007560208,808,Poecilia formosa,topote amazona,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,topote amazona,Cyprinodontiformes
+Cluster 124,XP_027691156,809,Vombatus ursinus,Common Wombat,Metazoa,Chordata,Mammalia,Vombatidae,Vombatus,Common Wombat,Diprotodontia
+Cluster 124,XP_027691156,809,Vombatus ursinus,Common Wombat,Metazoa,Chordata,Mammalia,Vombatidae,Vombatus,Common Wombat,Diprotodontia
+Cluster 124,XP_027691156,809,Vombatus ursinus,Common Wombat,Metazoa,Chordata,Mammalia,Vombatidae,Vombatus,Common Wombat,Diprotodontia
+Cluster 125,XP_030811385,809,Camarhynchus parvulus,Small Tree Finch,Metazoa,Chordata,Aves,Thraupidae,Camarhynchus,Small Tree Finch,Passeriformes
+Cluster 125,XP_030811385,809,Camarhynchus parvulus,Small Tree Finch,Metazoa,Chordata,Aves,Thraupidae,Camarhynchus,Small Tree Finch,Passeriformes
+Cluster 125,XP_030811385,809,Camarhynchus parvulus,Small Tree Finch,Metazoa,Chordata,Aves,Thraupidae,Camarhynchus,Small Tree Finch,Passeriformes
+Cluster 126,XP_005426221,809,Geospiza fortis,Medium Ground Finch,Metazoa,Chordata,Aves,Thraupidae,Geospiza,Medium Ground Finch,Passeriformes
+Cluster 126,XP_005426221,809,Geospiza fortis,Medium Ground Finch,Metazoa,Chordata,Aves,Thraupidae,Geospiza,Medium Ground Finch,Passeriformes
+Cluster 126,XP_005426221,809,Geospiza fortis,Medium Ground Finch,Metazoa,Chordata,Aves,Thraupidae,Geospiza,Medium Ground Finch,Passeriformes
+Cluster 127,XP_005516712,809,Pseudopodoces humilis,NA,Metazoa,Chordata,Aves,Paridae,Pseudopodoces,Pseudopodoces humilis,Passeriformes
+Cluster 127,XP_005516712,809,Pseudopodoces humilis,NA,Metazoa,Chordata,Aves,Paridae,Pseudopodoces,Pseudopodoces humilis,Passeriformes
+Cluster 127,XP_005516712,809,Pseudopodoces humilis,NA,Metazoa,Chordata,Aves,Paridae,Pseudopodoces,Pseudopodoces humilis,Passeriformes
+Cluster 128,XP_009087922,809,Serinus canaria,Common Canary,Metazoa,Chordata,Aves,Fringillidae,Serinus,Common Canary,Passeriformes
+Cluster 128,XP_009087922,809,Serinus canaria,Common Canary,Metazoa,Chordata,Aves,Fringillidae,Serinus,Common Canary,Passeriformes
+Cluster 128,XP_009087922,809,Serinus canaria,Common Canary,Metazoa,Chordata,Aves,Fringillidae,Serinus,Common Canary,Passeriformes
+Cluster 129,XP_009816127,809,Gavia stellata,Colimbo menor,Metazoa,Chordata,Aves,Gaviidae,Gavia,Colimbo menor,Gaviiformes
+Cluster 129,XP_009816127,809,Gavia stellata,Colimbo menor,Metazoa,Chordata,Aves,Gaviidae,Gavia,Colimbo menor,Gaviiformes
+Cluster 129,XP_009816127,809,Gavia stellata,Colimbo menor,Metazoa,Chordata,Aves,Gaviidae,Gavia,Colimbo menor,Gaviiformes
+Cluster 130,XP_009275140,809,Aptenodytes forsteri,Emperor Penguin,Metazoa,Chordata,Aves,Spheniscidae,Aptenodytes,Emperor Penguin,Sphenisciformes
+Cluster 130,XP_009275141,745,Aptenodytes forsteri,Emperor Penguin,Metazoa,Chordata,Aves,Spheniscidae,Aptenodytes,Emperor Penguin,Sphenisciformes
+Cluster 130,XP_009275140,809,Aptenodytes forsteri,Emperor Penguin,Metazoa,Chordata,Aves,Spheniscidae,Aptenodytes,Emperor Penguin,Sphenisciformes
+Cluster 130,XP_009275140,809,Aptenodytes forsteri,Emperor Penguin,Metazoa,Chordata,Aves,Spheniscidae,Aptenodytes,Emperor Penguin,Sphenisciformes
+Cluster 131,XP_021388026,809,Lonchura striata domestica,NA,Metazoa,Chordata,Aves,Estrildidae,Lonchura,Lonchura striata domestica,Passeriformes
+Cluster 131,XP_021388026,809,Lonchura striata domestica,NA,Metazoa,Chordata,Aves,Estrildidae,Lonchura,Lonchura striata domestica,Passeriformes
+Cluster 131,XP_021388026,809,Lonchura striata domestica,NA,Metazoa,Chordata,Aves,Estrildidae,Lonchura,Lonchura striata domestica,Passeriformes
+Cluster 132,XP_005151516,809,Melopsittacus undulatus,Budgerigar,Metazoa,Chordata,Aves,Psittaculidae,Melopsittacus,Budgerigar,Psittaciformes
+Cluster 132,XP_005151516,809,Melopsittacus undulatus,Budgerigar,Metazoa,Chordata,Aves,Psittaculidae,Melopsittacus,Budgerigar,Psittaciformes
+Cluster 133,XP_010178703,809,Mesitornis unicolor,Brown Mesite,Metazoa,Chordata,Aves,Mesitornithidae,Mesitornis,Brown Mesite,Gruiformes
+Cluster 133,XP_010178703,809,Mesitornis unicolor,Brown Mesite,Metazoa,Chordata,Aves,Mesitornithidae,Mesitornis,Brown Mesite,Gruiformes
+Cluster 133,XP_010178703,809,Mesitornis unicolor,Brown Mesite,Metazoa,Chordata,Aves,Mesitornithidae,Mesitornis,Brown Mesite,Gruiformes
+Cluster 134,XP_009478920,809,Pelecanus crispus,Dalmatian Pelican,Metazoa,Chordata,Aves,Pelecanidae,Pelecanus,Dalmatian Pelican,Pelecaniformes
+Cluster 134,XP_009478920,809,Pelecanus crispus,Dalmatian Pelican,Metazoa,Chordata,Aves,Pelecanidae,Pelecanus,Dalmatian Pelican,Pelecaniformes
+Cluster 134,XP_009478920,809,Pelecanus crispus,Dalmatian Pelican,Metazoa,Chordata,Aves,Pelecanidae,Pelecanus,Dalmatian Pelican,Pelecaniformes
+Cluster 135,XP_029855025,809,Aquila chrysaetos chrysaetos,NA,Metazoa,Chordata,Aves,Accipitridae,Aquila,Aquila chrysaetos chrysaetos,Accipitriformes
+Cluster 135,XP_029855025,809,Aquila chrysaetos chrysaetos,NA,Metazoa,Chordata,Aves,Accipitridae,Aquila,Aquila chrysaetos chrysaetos,Accipitriformes
+Cluster 135,XP_029855025,809,Aquila chrysaetos chrysaetos,NA,Metazoa,Chordata,Aves,Accipitridae,Aquila,Aquila chrysaetos chrysaetos,Accipitriformes
+Cluster 136,XP_009954393,809,Leptosomus discolor,Cuckoo-Roller,Metazoa,Chordata,Aves,Leptosomidae,Leptosomus,Cuckoo-Roller,Coraciiformes
+Cluster 136,XP_009954393,809,Leptosomus discolor,Cuckoo-Roller,Metazoa,Chordata,Aves,Leptosomidae,Leptosomus,Cuckoo-Roller,Coraciiformes
+Cluster 136,XP_009954393,809,Leptosomus discolor,Cuckoo-Roller,Metazoa,Chordata,Aves,Leptosomidae,Leptosomus,Cuckoo-Roller,Coraciiformes
+Cluster 137,XP_027757151,809,Empidonax traillii,Mosquero saucero,Metazoa,Chordata,Aves,Tyrannidae,Empidonax,Mosquero saucero,Passeriformes
+Cluster 137,XP_027757151,809,Empidonax traillii,Mosquero saucero,Metazoa,Chordata,Aves,Tyrannidae,Empidonax,Mosquero saucero,Passeriformes
+Cluster 137,XP_027757151,809,Empidonax traillii,Mosquero saucero,Metazoa,Chordata,Aves,Tyrannidae,Empidonax,Mosquero saucero,Passeriformes
+Cluster 138,KFW83101,809,Manacus vitellinus,Golden-collared Manakin,Metazoa,Chordata,Aves,Pipridae,Manacus,Golden-collared Manakin,Passeriformes
+Cluster 139,XP_032865981,809,Tyto alba alba,NA,Metazoa,Chordata,Aves,Tytonidae,Tyto,Tyto alba alba,Strigiformes
+Cluster 139,XP_032865981,809,Tyto alba alba,NA,Metazoa,Chordata,Aves,Tytonidae,Tyto,Tyto alba alba,Strigiformes
+Cluster 140,XP_009474590,809,Nipponia nippon,Japanese Crested Ibis,Metazoa,Chordata,Aves,Threskiornithidae,Nipponia,Japanese Crested Ibis,Pelecaniformes
+Cluster 140,XP_009474590,809,Nipponia nippon,Japanese Crested Ibis,Metazoa,Chordata,Aves,Threskiornithidae,Nipponia,Japanese Crested Ibis,Pelecaniformes
+Cluster 140,XP_009474590,809,Nipponia nippon,Japanese Crested Ibis,Metazoa,Chordata,Aves,Threskiornithidae,Nipponia,Japanese Crested Ibis,Pelecaniformes
+Cluster 141,ACT66264,809,Gallus gallus,Red Junglefowl,Metazoa,Chordata,Aves,Phasianidae,Gallus,Red Junglefowl,Galliformes
+Cluster 142,KFZ61156,809,Antrostomus carolinensis,Chuck-will's-widow,Metazoa,Chordata,Aves,Caprimulgidae,Antrostomus,Chuck-will's-widow,Caprimulgiformes
+Cluster 143,XP_028297875,809,Gouania willdenowi,NA,Metazoa,Chordata,Actinopteri,Gobiesocidae,Gouania,Gouania willdenowi,Blenniiformes
+Cluster 143,XP_028297880,785,Gouania willdenowi,NA,Metazoa,Chordata,Actinopteri,Gobiesocidae,Gouania,Gouania willdenowi,Blenniiformes
+Cluster 143,XP_028297875,809,Gouania willdenowi,NA,Metazoa,Chordata,Actinopteri,Gobiesocidae,Gouania,Gouania willdenowi,Blenniiformes
+Cluster 143,XP_028297875,809,Gouania willdenowi,NA,Metazoa,Chordata,Actinopteri,Gobiesocidae,Gouania,Gouania willdenowi,Blenniiformes
+Cluster 144,XP_008402714,809,Poecilia reticulata,gupi,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,gupi,Cyprinodontiformes
+Cluster 144,XP_008402714,809,Poecilia reticulata,gupi,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,gupi,Cyprinodontiformes
+Cluster 144,ENSPREP00000028975_P,685,Poecilia reticulata,gupi,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,gupi,Cyprinodontiformes
+Cluster 144,XP_008402714,809,Poecilia reticulata,gupi,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,gupi,Cyprinodontiformes
+Cluster 145,XP_016345325,809,Sinocyclocheilus anshuiensis,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus anshuiensis,Cypriniformes
+Cluster 145,XP_016345325,809,Sinocyclocheilus anshuiensis,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus anshuiensis,Cypriniformes
+Cluster 145,XP_016345325,809,Sinocyclocheilus anshuiensis,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus anshuiensis,Cypriniformes
+Cluster 146,XP_010156467,809,Eurypyga helias,Ave sol,Metazoa,Chordata,Aves,Eurypygidae,Eurypyga,Ave sol,Gruiformes
+Cluster 146,XP_010156467,809,Eurypyga helias,Ave sol,Metazoa,Chordata,Aves,Eurypygidae,Eurypyga,Ave sol,Gruiformes
+Cluster 146,XP_010156467,809,Eurypyga helias,Ave sol,Metazoa,Chordata,Aves,Eurypygidae,Eurypyga,Ave sol,Gruiformes
+Cluster 147,XP_014815705,809,Calidris pugnax,NA,Metazoa,Chordata,Aves,Scolopacidae,Calidris,Calidris pugnax,Charadriiformes
+Cluster 147,XP_014815705,809,Calidris pugnax,NA,Metazoa,Chordata,Aves,Scolopacidae,Calidris,Calidris pugnax,Charadriiformes
+Cluster 147,XP_014815705,809,Calidris pugnax,NA,Metazoa,Chordata,Aves,Scolopacidae,Calidris,Calidris pugnax,Charadriiformes
+Cluster 148,XP_018584732,809,Scleropages formosus,Asian bonytongue,Metazoa,Chordata,Actinopteri,Osteoglossidae,Scleropages,Asian bonytongue,Osteoglossiformes
+Cluster 148,XP_018584732,809,Scleropages formosus,Asian bonytongue,Metazoa,Chordata,Actinopteri,Osteoglossidae,Scleropages,Asian bonytongue,Osteoglossiformes
+Cluster 148,ENSSFOP00015014958_S,809,Scleropages formosus,Asian bonytongue,Metazoa,Chordata,Actinopteri,Osteoglossidae,Scleropages,Asian bonytongue,Osteoglossiformes
+Cluster 148,XP_018584732,809,Scleropages formosus,Asian bonytongue,Metazoa,Chordata,Actinopteri,Osteoglossidae,Scleropages,Asian bonytongue,Osteoglossiformes
+Cluster 149,XP_021178197,809,Fundulus heteroclitus,mummichog,Metazoa,Chordata,Actinopteri,Fundulidae,Fundulus,mummichog,Cyprinodontiformes
+Cluster 149,XP_021178197,809,Fundulus heteroclitus,mummichog,Metazoa,Chordata,Actinopteri,Fundulidae,Fundulus,mummichog,Cyprinodontiformes
+Cluster 149,ENSFHEP00000027121_F,809,Fundulus heteroclitus,mummichog,Metazoa,Chordata,Actinopteri,Fundulidae,Fundulus,mummichog,Cyprinodontiformes
+Cluster 149,XP_021178197,809,Fundulus heteroclitus,mummichog,Metazoa,Chordata,Actinopteri,Fundulidae,Fundulus,mummichog,Cyprinodontiformes
+Cluster 150,XP_009887331,809,Charadrius vociferus,Chorlo tildío,Metazoa,Chordata,Aves,Charadriidae,Charadrius,Chorlo tildío,Charadriiformes
+Cluster 150,XP_009887332,745,Charadrius vociferus,Chorlo tildío,Metazoa,Chordata,Aves,Charadriidae,Charadrius,Chorlo tildío,Charadriiformes
+Cluster 150,XP_009887331,809,Charadrius vociferus,Chorlo tildío,Metazoa,Chordata,Aves,Charadriidae,Charadrius,Chorlo tildío,Charadriiformes
+Cluster 150,XP_009887331,809,Charadrius vociferus,Chorlo tildío,Metazoa,Chordata,Aves,Charadriidae,Charadrius,Chorlo tildío,Charadriiformes
+Cluster 151,XP_010290019,809,Phaethon lepturus,Rabijunco cola blanca,Metazoa,Chordata,Aves,Phaethontidae,Phaethon,Rabijunco cola blanca,Pelecaniformes
+Cluster 151,XP_010290019,809,Phaethon lepturus,Rabijunco cola blanca,Metazoa,Chordata,Aves,Phaethontidae,Phaethon,Rabijunco cola blanca,Pelecaniformes
+Cluster 151,XP_010290019,809,Phaethon lepturus,Rabijunco cola blanca,Metazoa,Chordata,Aves,Phaethontidae,Phaethon,Rabijunco cola blanca,Pelecaniformes
+Cluster 152,XP_006639185,809,Lepisosteus oculatus,spotted gar,Metazoa,Chordata,Actinopteri,Lepisosteidae,Lepisosteus,spotted gar,Semionotiformes
+Cluster 152,XP_006639185,809,Lepisosteus oculatus,spotted gar,Metazoa,Chordata,Actinopteri,Lepisosteidae,Lepisosteus,spotted gar,Semionotiformes
+Cluster 152,XP_006639185,809,Lepisosteus oculatus,spotted gar,Metazoa,Chordata,Actinopteri,Lepisosteidae,Lepisosteus,spotted gar,Semionotiformes
+Cluster 153,XP_005151516,809,Melopsittacus undulatus,Budgerigar,Metazoa,Chordata,Aves,Psittaculidae,Melopsittacus,Budgerigar,Psittaciformes
+Cluster 154,ENSMVIP00005022060_M,809,Manacus vitellinus,Golden-collared Manakin,Metazoa,Chordata,Aves,Pipridae,Manacus,Golden-collared Manakin,Passeriformes
+Cluster 155,XP_006122891,808,Pelodiscus sinensis,Chinese Softshell,Metazoa,Chordata,NA,Trionychidae,Pelodiscus,Chinese Softshell,Testudines
+Cluster 155,XP_006122891,808,Pelodiscus sinensis,Chinese Softshell,Metazoa,Chordata,NA,Trionychidae,Pelodiscus,Chinese Softshell,Testudines
+Cluster 155,ENSPSIP00000008051_P,808,Pelodiscus sinensis,Chinese Softshell,Metazoa,Chordata,NA,Trionychidae,Pelodiscus,Chinese Softshell,Testudines
+Cluster 155,XP_006122891,808,Pelodiscus sinensis,Chinese Softshell,Metazoa,Chordata,NA,Trionychidae,Pelodiscus,Chinese Softshell,Testudines
+Cluster 156,XP_004597549,808,Ochotona princeps,American Pika,Metazoa,Chordata,Mammalia,Ochotonidae,Ochotona,American Pika,Lagomorpha
+Cluster 156,XP_004597549,808,Ochotona princeps,American Pika,Metazoa,Chordata,Mammalia,Ochotonidae,Ochotona,American Pika,Lagomorpha
+Cluster 156,XP_004597549,808,Ochotona princeps,American Pika,Metazoa,Chordata,Mammalia,Ochotonidae,Ochotona,American Pika,Lagomorpha
+Cluster 157,XP_005287845,808,Chrysemys picta bellii,Western Painted Turtle,Metazoa,Chordata,NA,Emydidae,Chrysemys,Western Painted Turtle,Testudines
+Cluster 158,XP_009563864,808,Cuculus canorus,Common Cuckoo,Metazoa,Chordata,Aves,Cuculidae,Cuculus,Common Cuckoo,Cuculiformes
+Cluster 158,XP_009563864,808,Cuculus canorus,Common Cuckoo,Metazoa,Chordata,Aves,Cuculidae,Cuculus,Common Cuckoo,Cuculiformes
+Cluster 158,XP_009563864,808,Cuculus canorus,Common Cuckoo,Metazoa,Chordata,Aves,Cuculidae,Cuculus,Common Cuckoo,Cuculiformes
+Cluster 159,XP_031451919,808,Phasianus colchicus,Common Pheasant,Metazoa,Chordata,Aves,Phasianidae,Phasianus,Common Pheasant,Galliformes
+Cluster 159,XP_031451919,808,Phasianus colchicus,Common Pheasant,Metazoa,Chordata,Aves,Phasianidae,Phasianus,Common Pheasant,Galliformes
+Cluster 159,XP_031451919,808,Phasianus colchicus,Common Pheasant,Metazoa,Chordata,Aves,Phasianidae,Phasianus,Common Pheasant,Galliformes
+Cluster 160,XP_416822,808,Gallus gallus,Red Junglefowl,Metazoa,Chordata,Aves,Phasianidae,Gallus,Red Junglefowl,Galliformes
+Cluster 160,XP_416822,808,Gallus gallus,Red Junglefowl,Metazoa,Chordata,Aves,Phasianidae,Gallus,Red Junglefowl,Galliformes
+Cluster 160,ENSGALP00000026662_G,808,Gallus gallus,Red Junglefowl,Metazoa,Chordata,Aves,Phasianidae,Gallus,Red Junglefowl,Galliformes
+Cluster 160,XP_416822,808,Gallus gallus,Red Junglefowl,Metazoa,Chordata,Aves,Phasianidae,Gallus,Red Junglefowl,Galliformes
+Cluster 161,QEQ50331,808,Gallus gallus,Red Junglefowl,Metazoa,Chordata,Aves,Phasianidae,Gallus,Red Junglefowl,Galliformes
+Cluster 162,XP_026504918,808,Terrapene carolina triunguis,Three-toed Box Turtle,Metazoa,Chordata,NA,Emydidae,Terrapene,Three-toed Box Turtle,Testudines
+Cluster 162,ENSTMTP00000011111_T,808,Terrapene carolina triunguis,Three-toed Box Turtle,Metazoa,Chordata,NA,Emydidae,Terrapene,Three-toed Box Turtle,Testudines
+Cluster 163,XP_030407881,808,Gopherus evgoodei,Goode's Thornscrub Tortoise,Metazoa,Chordata,NA,Testudinidae,Gopherus,Goode's Thornscrub Tortoise,Testudines
+Cluster 163,XP_030407881,808,Gopherus evgoodei,Goode's Thornscrub Tortoise,Metazoa,Chordata,NA,Testudinidae,Gopherus,Goode's Thornscrub Tortoise,Testudines
+Cluster 163,XP_030407881,808,Gopherus evgoodei,Goode's Thornscrub Tortoise,Metazoa,Chordata,NA,Testudinidae,Gopherus,Goode's Thornscrub Tortoise,Testudines
+Cluster 164,XP_010120523,808,Chlamydotis macqueenii,Macqueen's Bustard,Metazoa,Chordata,Aves,Otididae,Chlamydotis,Macqueen's Bustard,Gruiformes
+Cluster 164,XP_010120523,808,Chlamydotis macqueenii,Macqueen's Bustard,Metazoa,Chordata,Aves,Otididae,Chlamydotis,Macqueen's Bustard,Gruiformes
+Cluster 164,XP_010120523,808,Chlamydotis macqueenii,Macqueen's Bustard,Metazoa,Chordata,Aves,Otididae,Chlamydotis,Macqueen's Bustard,Gruiformes
+Cluster 165,XP_026503951,808,Terrapene carolina triunguis,Three-toed Box Turtle,Metazoa,Chordata,NA,Emydidae,Terrapene,Three-toed Box Turtle,Testudines
+Cluster 166,XP_032631197,808,Chelonoidis abingdonii,Pinta Giant Tortoise,Metazoa,Chordata,NA,Testudinidae,Chelonoidis,Pinta Giant Tortoise,Testudines
+Cluster 166,XP_032631197,808,Chelonoidis abingdonii,Pinta Giant Tortoise,Metazoa,Chordata,NA,Testudinidae,Chelonoidis,Pinta Giant Tortoise,Testudines
+Cluster 167,XP_032417398,808,Xiphophorus hellerii,cola de espada,Metazoa,Chordata,Actinopteri,Poeciliidae,Xiphophorus,cola de espada,Cyprinodontiformes
+Cluster 167,XP_032417398,808,Xiphophorus hellerii,cola de espada,Metazoa,Chordata,Actinopteri,Poeciliidae,Xiphophorus,cola de espada,Cyprinodontiformes
+Cluster 168,XP_028257887,808,Parambassis ranga,Indian glassfish,Metazoa,Chordata,Actinopteri,Ambassidae,Parambassis,Indian glassfish,NA
+Cluster 168,XP_028257888,767,Parambassis ranga,Indian glassfish,Metazoa,Chordata,Actinopteri,Ambassidae,Parambassis,Indian glassfish,NA
+Cluster 168,XP_028257887,808,Parambassis ranga,Indian glassfish,Metazoa,Chordata,Actinopteri,Ambassidae,Parambassis,Indian glassfish,NA
+Cluster 168,XP_028257887,808,Parambassis ranga,Indian glassfish,Metazoa,Chordata,Actinopteri,Ambassidae,Parambassis,Indian glassfish,NA
+Cluster 169,XP_027871671,808,Xiphophorus couchianus,espada de Monterrey,Metazoa,Chordata,Actinopteri,Poeciliidae,Xiphophorus,espada de Monterrey,Cyprinodontiformes
+Cluster 169,XP_027871671,808,Xiphophorus couchianus,espada de Monterrey,Metazoa,Chordata,Actinopteri,Poeciliidae,Xiphophorus,espada de Monterrey,Cyprinodontiformes
+Cluster 169,ENSXCOP00000000488_X,684,NA,NA,NA,NA,NA,NA,NA,ENSXCOP00000000488_X,NA
+Cluster 169,XP_027871671,808,Xiphophorus couchianus,espada de Monterrey,Metazoa,Chordata,Actinopteri,Poeciliidae,Xiphophorus,espada de Monterrey,Cyprinodontiformes
+Cluster 170,XP_014837025,808,Poecilia mexicana,shortfin molly,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,shortfin molly,Cyprinodontiformes
+Cluster 170,XP_014837025,808,Poecilia mexicana,shortfin molly,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,shortfin molly,Cyprinodontiformes
+Cluster 170,ENSPMEP00000034848_P,808,Poecilia mexicana,shortfin molly,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,shortfin molly,Cyprinodontiformes
+Cluster 170,XP_014837025,808,Poecilia mexicana,shortfin molly,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,shortfin molly,Cyprinodontiformes
+Cluster 171,XP_014895313,808,Poecilia latipinna,sailfin molly,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,sailfin molly,Cyprinodontiformes
+Cluster 171,XP_014895313,808,Poecilia latipinna,sailfin molly,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,sailfin molly,Cyprinodontiformes
+Cluster 171,ENSPLAP00000029724_P,684,Poecilia latipinna,sailfin molly,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,sailfin molly,Cyprinodontiformes
+Cluster 171,XP_014895313,808,Poecilia latipinna,sailfin molly,Metazoa,Chordata,Actinopteri,Poeciliidae,Poecilia,sailfin molly,Cyprinodontiformes
+Cluster 172,XP_009667495,808,Struthio camelus australis,NA,Metazoa,Chordata,Aves,Struthionidae,Struthio,Struthio camelus australis,Struthioniformes
+Cluster 172,XP_009667495,808,Struthio camelus australis,NA,Metazoa,Chordata,Aves,Struthionidae,Struthio,Struthio camelus australis,Struthioniformes
+Cluster 172,XP_009667495,808,Struthio camelus australis,NA,Metazoa,Chordata,Aves,Struthionidae,Struthio,Struthio camelus australis,Struthioniformes
+Cluster 173,XP_005799835,808,Xiphophorus maculatus,platy,Metazoa,Chordata,Actinopteri,Poeciliidae,Xiphophorus,platy,Cyprinodontiformes
+Cluster 173,XP_005799835,808,Xiphophorus maculatus,platy,Metazoa,Chordata,Actinopteri,Poeciliidae,Xiphophorus,platy,Cyprinodontiformes
+Cluster 173,ENSXMAP00000001985_X,808,Xiphophorus maculatus,platy,Metazoa,Chordata,Actinopteri,Poeciliidae,Xiphophorus,platy,Cyprinodontiformes
+Cluster 173,XP_005799835,808,Xiphophorus maculatus,platy,Metazoa,Chordata,Actinopteri,Poeciliidae,Xiphophorus,platy,Cyprinodontiformes
+Cluster 174,XP_032355526,808,Etheostoma spectabile,orangethroat darter,Metazoa,Chordata,Actinopteri,Percidae,Etheostoma,orangethroat darter,Perciformes
+Cluster 174,XP_032355526,808,Etheostoma spectabile,orangethroat darter,Metazoa,Chordata,Actinopteri,Percidae,Etheostoma,orangethroat darter,Perciformes
+Cluster 175,KAF1392660,808,Perca fluviatilis,river perch,Metazoa,Chordata,Actinopteri,Percidae,Perca,river perch,Perciformes
+Cluster 176,XP_031162227,808,Sander lucioperca,pikeperch,Metazoa,Chordata,Actinopteri,Percidae,Sander,pikeperch,Perciformes
+Cluster 176,XP_031162227,808,Sander lucioperca,pikeperch,Metazoa,Chordata,Actinopteri,Percidae,Sander,pikeperch,Perciformes
+Cluster 176,XP_031162227,808,Sander lucioperca,pikeperch,Metazoa,Chordata,Actinopteri,Percidae,Sander,pikeperch,Perciformes
+Cluster 177,XP_025942946,808,Apteryx rowi,Okarito Brown Kiwi,Metazoa,Chordata,Aves,Apterygidae,Apteryx,Okarito Brown Kiwi,Apterygiformes
+Cluster 177,XP_025942946,808,Apteryx rowi,Okarito Brown Kiwi,Metazoa,Chordata,Aves,Apterygidae,Apteryx,Okarito Brown Kiwi,Apterygiformes
+Cluster 177,XP_025942946,808,Apteryx rowi,Okarito Brown Kiwi,Metazoa,Chordata,Aves,Apterygidae,Apteryx,Okarito Brown Kiwi,Apterygiformes
+Cluster 178,XP_035182951,808,Oxyura jamaicensis,Pato tepalcate,Metazoa,Chordata,Aves,Anatidae,Oxyura,Pato tepalcate,Anseriformes
+Cluster 179,XP_035398116,808,Cygnus atratus,Black Swan,Metazoa,Chordata,Aves,Anatidae,Cygnus,Black Swan,Anseriformes
+Cluster 180,ENSSRHP00000086083_S,808,Sinocyclocheilus rhinocerous,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus rhinocerous,Cypriniformes
+Cluster 181,ENSOABP00000014235_O,808,Oreochromis aureus,tilapia azul,Metazoa,Chordata,Actinopteri,Cichlidae,Oreochromis,tilapia azul,Cichliformes
+Cluster 182,ENSGACP00000019926_G,808,NA,NA,NA,NA,NA,NA,NA,ENSGACP00000019926_G,NA
+Cluster 183,ENSTNIP00000012378_T,808,NA,NA,NA,NA,NA,NA,NA,ENSTNIP00000012378_T,NA
+Cluster 184,ENSCPUP00000010531_C,808,Calidris pugnax,NA,Metazoa,Chordata,Aves,Scolopacidae,Calidris,Calidris pugnax,Charadriiformes
+Cluster 185,ENSABRP00000011483_A,808,NA,NA,NA,NA,NA,NA,NA,ENSABRP00000011483_A,NA
+Cluster 186,ENSAMEP00000016920_A,808,NA,NA,NA,NA,NA,NA,NA,ENSAMEP00000016920_A,NA
+Cluster 187,XP_009969209,808,Tyto alba,Common Barn-Owl,Metazoa,Chordata,Aves,Tytonidae,Tyto,Common Barn-Owl,Strigiformes
+Cluster 188,XP_023104564,807,Felis catus,Domestic Cat,Metazoa,Chordata,Mammalia,Felidae,Felis,Domestic Cat,Carnivora
+Cluster 188,XP_023104564,807,Felis catus,Domestic Cat,Metazoa,Chordata,Mammalia,Felidae,Felis,Domestic Cat,Carnivora
+Cluster 189,XP_020863153,807,Phascolarctos cinereus,Koala,Metazoa,Chordata,Mammalia,Phascolarctidae,Phascolarctos,Koala,Diprotodontia
+Cluster 189,XP_020863153,807,Phascolarctos cinereus,Koala,Metazoa,Chordata,Mammalia,Phascolarctidae,Phascolarctos,Koala,Diprotodontia
+Cluster 189,XP_020863153,807,Phascolarctos cinereus,Koala,Metazoa,Chordata,Mammalia,Phascolarctidae,Phascolarctos,Koala,Diprotodontia
+Cluster 190,XP_015742063,807,Coturnix japonica,Japanese Quail,Metazoa,Chordata,Aves,Phasianidae,Coturnix,Japanese Quail,Galliformes
+Cluster 190,XP_015742063,807,Coturnix japonica,Japanese Quail,Metazoa,Chordata,Aves,Phasianidae,Coturnix,Japanese Quail,Galliformes
+Cluster 190,ENSCJPP00005022803_C,807,Coturnix japonica,Japanese Quail,Metazoa,Chordata,Aves,Phasianidae,Coturnix,Japanese Quail,Galliformes
+Cluster 190,XP_015742063,807,Coturnix japonica,Japanese Quail,Metazoa,Chordata,Aves,Phasianidae,Coturnix,Japanese Quail,Galliformes
+Cluster 191,XP_010169238,807,Antrostomus carolinensis,Chuck-will's-widow,Metazoa,Chordata,Aves,Caprimulgidae,Antrostomus,Chuck-will's-widow,Caprimulgiformes
+Cluster 191,XP_010169238,807,Antrostomus carolinensis,Chuck-will's-widow,Metazoa,Chordata,Aves,Caprimulgidae,Antrostomus,Chuck-will's-widow,Caprimulgiformes
+Cluster 191,XP_010169238,807,Antrostomus carolinensis,Chuck-will's-widow,Metazoa,Chordata,Aves,Caprimulgidae,Antrostomus,Chuck-will's-widow,Caprimulgiformes
+Cluster 192,XP_029603502,807,Salmo trutta,brown trout,Metazoa,Chordata,Actinopteri,Salmonidae,Salmo,brown trout,Salmoniformes
+Cluster 192,ENSSTUP00000096621_S,807,Salmo trutta,brown trout,Metazoa,Chordata,Actinopteri,Salmonidae,Salmo,brown trout,Salmoniformes
+Cluster 193,XP_031669258,807,Oncorhynchus kisutch,coho salmon,Metazoa,Chordata,Actinopteri,Salmonidae,Oncorhynchus,coho salmon,Salmoniformes
+Cluster 194,XP_021433278,807,Oncorhynchus mykiss,rainbow trout,Metazoa,Chordata,Actinopteri,Salmonidae,Oncorhynchus,rainbow trout,Salmoniformes
+Cluster 194,XP_021433278,807,Oncorhynchus mykiss,rainbow trout,Metazoa,Chordata,Actinopteri,Salmonidae,Oncorhynchus,rainbow trout,Salmoniformes
+Cluster 194,XP_021433278,807,Oncorhynchus mykiss,rainbow trout,Metazoa,Chordata,Actinopteri,Salmonidae,Oncorhynchus,rainbow trout,Salmoniformes
+Cluster 195,XP_029603257,807,Salmo trutta,brown trout,Metazoa,Chordata,Actinopteri,Salmonidae,Salmo,brown trout,Salmoniformes
+Cluster 196,XP_031677944,807,Oncorhynchus kisutch,coho salmon,Metazoa,Chordata,Actinopteri,Salmonidae,Oncorhynchus,coho salmon,Salmoniformes
+Cluster 197,XP_022605054,807,Seriola dumerili,greater amberjack,Metazoa,Chordata,Actinopteri,Carangidae,Seriola,greater amberjack,Carangiformes
+Cluster 197,XP_022605063,767,Seriola dumerili,greater amberjack,Metazoa,Chordata,Actinopteri,Carangidae,Seriola,greater amberjack,Carangiformes
+Cluster 197,XP_022605054,807,Seriola dumerili,greater amberjack,Metazoa,Chordata,Actinopteri,Carangidae,Seriola,greater amberjack,Carangiformes
+Cluster 197,XP_022605054,807,Seriola dumerili,greater amberjack,Metazoa,Chordata,Actinopteri,Carangidae,Seriola,greater amberjack,Carangiformes
+Cluster 198,XP_023257445,807,Seriola lalandi dorsalis,NA,Metazoa,Chordata,Actinopteri,Carangidae,Seriola,Seriola lalandi dorsalis,Carangiformes
+Cluster 198,XP_023257445,807,Seriola lalandi dorsalis,NA,Metazoa,Chordata,Actinopteri,Carangidae,Seriola,Seriola lalandi dorsalis,Carangiformes
+Cluster 198,ENSSLDP00000030491_S,807,Seriola lalandi dorsalis,NA,Metazoa,Chordata,Actinopteri,Carangidae,Seriola,Seriola lalandi dorsalis,Carangiformes
+Cluster 198,XP_023257445,807,Seriola lalandi dorsalis,NA,Metazoa,Chordata,Actinopteri,Carangidae,Seriola,Seriola lalandi dorsalis,Carangiformes
+Cluster 199,XP_023124156,807,Amphiprion ocellaris,clown anemonefish,Metazoa,Chordata,Actinopteri,Pomacentridae,Amphiprion,clown anemonefish,NA
+Cluster 199,XP_023124156,807,Amphiprion ocellaris,clown anemonefish,Metazoa,Chordata,Actinopteri,Pomacentridae,Amphiprion,clown anemonefish,NA
+Cluster 199,ENSAOCP00000032143_A,786,Amphiprion ocellaris,clown anemonefish,Metazoa,Chordata,Actinopteri,Pomacentridae,Amphiprion,clown anemonefish,NA
+Cluster 199,XP_023124156,807,Amphiprion ocellaris,clown anemonefish,Metazoa,Chordata,Actinopteri,Pomacentridae,Amphiprion,clown anemonefish,NA
+Cluster 200,XP_005169417,807,Danio rerio,zebra danio,Metazoa,Chordata,Actinopteri,Danionidae,Danio,zebra danio,Cypriniformes
+Cluster 201,XP_008290762,807,Stegastes partitus,chopita bicolor,Metazoa,Chordata,Actinopteri,Pomacentridae,Stegastes,chopita bicolor,NA
+Cluster 201,XP_008290762,807,Stegastes partitus,chopita bicolor,Metazoa,Chordata,Actinopteri,Pomacentridae,Stegastes,chopita bicolor,NA
+Cluster 201,ENSSPAP00000019779_S,684,Stegastes partitus,chopita bicolor,Metazoa,Chordata,Actinopteri,Pomacentridae,Stegastes,chopita bicolor,NA
+Cluster 201,XP_008290762,807,Stegastes partitus,chopita bicolor,Metazoa,Chordata,Actinopteri,Pomacentridae,Stegastes,chopita bicolor,NA
+Cluster 202,XP_029949257,807,Salarias fasciatus,lineated blenny,Metazoa,Chordata,Actinopteri,Blenniidae,Salarias,lineated blenny,Blenniiformes
+Cluster 203,XP_025891105,807,Nothoprocta perdicaria,Chilean Tinamou,Metazoa,Chordata,Aves,Tinamidae,Nothoprocta,Chilean Tinamou,Tinamiformes
+Cluster 203,XP_025891105,807,Nothoprocta perdicaria,Chilean Tinamou,Metazoa,Chordata,Aves,Tinamidae,Nothoprocta,Chilean Tinamou,Tinamiformes
+Cluster 203,XP_025891105,807,Nothoprocta perdicaria,Chilean Tinamou,Metazoa,Chordata,Aves,Tinamidae,Nothoprocta,Chilean Tinamou,Tinamiformes
+Cluster 204,XP_026175949,807,Mastacembelus armatus,spiny eel,Metazoa,Chordata,Actinopteri,Mastacembelidae,Mastacembelus,spiny eel,Synbranchiformes
+Cluster 204,XP_026175949,807,Mastacembelus armatus,spiny eel,Metazoa,Chordata,Actinopteri,Mastacembelidae,Mastacembelus,spiny eel,Synbranchiformes
+Cluster 204,ENSMAMP00000015203_M,807,Mastacembelus armatus,spiny eel,Metazoa,Chordata,Actinopteri,Mastacembelidae,Mastacembelus,spiny eel,Synbranchiformes
+Cluster 204,XP_026175949,807,Mastacembelus armatus,spiny eel,Metazoa,Chordata,Actinopteri,Mastacembelidae,Mastacembelus,spiny eel,Synbranchiformes
+Cluster 205,XP_018539189,807,Lates calcarifer,giant perch,Metazoa,Chordata,Actinopteri,Centropomidae,Lates,giant perch,NA
+Cluster 205,XP_018539189,807,Lates calcarifer,giant perch,Metazoa,Chordata,Actinopteri,Centropomidae,Lates,giant perch,NA
+Cluster 205,XP_018539189,807,Lates calcarifer,giant perch,Metazoa,Chordata,Actinopteri,Centropomidae,Lates,giant perch,NA
+Cluster 206,XP_029283581,807,Cottoperca gobio,NA,Metazoa,Chordata,Actinopteri,Bovichtidae,Cottoperca,Cottoperca gobio,Perciformes
+Cluster 206,XP_029283581,807,Cottoperca gobio,NA,Metazoa,Chordata,Actinopteri,Bovichtidae,Cottoperca,Cottoperca gobio,Perciformes
+Cluster 206,XP_029283581,807,Cottoperca gobio,NA,Metazoa,Chordata,Actinopteri,Bovichtidae,Cottoperca,Cottoperca gobio,Perciformes
+Cluster 207,XP_029978918,807,Sphaeramia orbicularis,NA,Metazoa,Chordata,Actinopteri,Apogonidae,Sphaeramia,Sphaeramia orbicularis,Kurtiformes
+Cluster 208,XP_020781598,807,Boleophthalmus pectinirostris,NA,Metazoa,Chordata,Actinopteri,Gobiidae,Boleophthalmus,Boleophthalmus pectinirostris,Gobiiformes
+Cluster 208,XP_020781598,807,Boleophthalmus pectinirostris,NA,Metazoa,Chordata,Actinopteri,Gobiidae,Boleophthalmus,Boleophthalmus pectinirostris,Gobiiformes
+Cluster 208,XP_020781598,807,Boleophthalmus pectinirostris,NA,Metazoa,Chordata,Actinopteri,Gobiidae,Boleophthalmus,Boleophthalmus pectinirostris,Gobiiformes
+Cluster 209,QJF77811,807,Syconycteris australis,southern blossom bat,Metazoa,Chordata,Mammalia,Pteropodidae,Syconycteris,southern blossom bat,Chiroptera
+Cluster 210,QJF77803,807,Myotis tricolor,Cape hairy bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,Cape hairy bat,Chiroptera
+Cluster 211,QJF77801,807,Myotis keaysi,hairy-legged myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,hairy-legged myotis,Chiroptera
+Cluster 212,QJF77802,807,Myotis riparius,riparian myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,riparian myotis,Chiroptera
+Cluster 213,QJF77791,807,Eptesicus brasiliensis,Brazilian brown bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Eptesicus,Brazilian brown bat,Chiroptera
+Cluster 214,QJF77795,807,Kerivoula pellucida,clear-winged woolly bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Kerivoula,clear-winged woolly bat,Chiroptera
+Cluster 215,QJF77789,807,Antrozous pallidus,pallid bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Antrozous,pallid bat,Chiroptera
+Cluster 216,QJF77815,807,Dobsonia viridis,greenish naked-backed fruit bat,Metazoa,Chordata,Mammalia,Pteropodidae,Dobsonia,greenish naked-backed fruit bat,Chiroptera
+Cluster 217,QJF77840,807,Taphozous theobaldi,Theobald's tomb bat,Metazoa,Chordata,Mammalia,Emballonuridae,Taphozous,Theobald's tomb bat,Chiroptera
+Cluster 218,QJF77809,807,Scotophilus dinganii,African yellow bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Scotophilus,African yellow bat,Chiroptera
+Cluster 219,QJF77806,807,Pteropus lylei,Lyle's flying fox,Metazoa,Chordata,Mammalia,Pteropodidae,Pteropus,Lyle's flying fox,Chiroptera
+Cluster 220,QJF77804,807,Neoromicia nanus,Banana Pipistrelle,Metazoa,Chordata,Mammalia,Vespertilionidae,Neoromicia,Banana Pipistrelle,Chiroptera
+Cluster 221,QJF77810,807,Scotophilus kuhlii,lesser Asiatic yellow bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Scotophilus,lesser Asiatic yellow bat,Chiroptera
+Cluster 222,QJF77841,807,Taphozous melanopogon,black-bearded tomb bat,Metazoa,Chordata,Mammalia,Emballonuridae,Taphozous,black-bearded tomb bat,Chiroptera
+Cluster 223,QJF77816,807,Emballonura alecto,small Asian sheath-tailed bat,Metazoa,Chordata,Mammalia,Emballonuridae,Emballonura,small Asian sheath-tailed bat,Chiroptera
+Cluster 224,QJF77807,807,Rhynchonycteris naso,proboscis bat,Metazoa,Chordata,Mammalia,Emballonuridae,Rhynchonycteris,proboscis bat,Chiroptera
+Cluster 225,QJF77822,807,Artibeus lituratus,great fruit-eating bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Artibeus,great fruit-eating bat,Chiroptera
+Cluster 226,QJF77829,807,Chiroderma salvini,Salvin's big-eyed bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Chiroderma,Salvin's big-eyed bat,Chiroptera
+Cluster 227,QJF77823,807,Artibeus phaeotis,Pygmy Fruit-eating Bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Artibeus,Pygmy Fruit-eating Bat,Chiroptera
+Cluster 228,QJF77842,807,Uroderma bilobatum,tent-making bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Uroderma,tent-making bat,Chiroptera
+Cluster 229,QJF77821,807,Artibeus jamaicensis,Jamaican fruit-eating bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Artibeus,Jamaican fruit-eating bat,Chiroptera
+Cluster 230,QJF77824,807,Artibeus glaucus watsoni,NA,Metazoa,Chordata,Mammalia,Phyllostomidae,Artibeus,Artibeus glaucus watsoni,Chiroptera
+Cluster 231,QJF77825,807,Balantiopteryx plicata,gray sac-winged bat,Metazoa,Chordata,Mammalia,Emballonuridae,Balantiopteryx,gray sac-winged bat,Chiroptera
+Cluster 232,QJF77830,807,Chiroderma villosum,hairy big-eyed bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Chiroderma,hairy big-eyed bat,Chiroptera
+Cluster 233,QJF77831,807,Cynopterus sphinx,greater short-nosed fruit bat,Metazoa,Chordata,Mammalia,Pteropodidae,Cynopterus,greater short-nosed fruit bat,Chiroptera
+Cluster 234,QJF77834,807,Platyrrhinus helleri,Heller's broad-nosed bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Platyrrhinus,Heller's broad-nosed bat,Chiroptera
+Cluster 235,QJF77827,807,Carollia castanea,chestnut short-tailed bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Carollia,chestnut short-tailed bat,Chiroptera
+Cluster 236,QJF77835,807,Platyrrhinus vittatus,greater broad-nosed bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Platyrrhinus,greater broad-nosed bat,Chiroptera
+Cluster 237,QJF77808,807,Saccopteryx bilineata,greater sac-winged bat,Metazoa,Chordata,Mammalia,Emballonuridae,Saccopteryx,greater sac-winged bat,Chiroptera
+Cluster 238,QJF77794,807,Glossophaga soricina,Pallas's long-tongued bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Glossophaga,Pallas's long-tongued bat,Chiroptera
+Cluster 239,QJF77836,807,Rousettus leschenaultii,Leschenault's Rousette,Metazoa,Chordata,Mammalia,Pteropodidae,Rousettus,Leschenault's Rousette,Chiroptera
+Cluster 240,QJF77792,807,Epomophorus wahlbergi,Wahlberg's epauletted fruit bat,Metazoa,Chordata,Mammalia,Pteropodidae,Epomophorus,Wahlberg's epauletted fruit bat,Chiroptera
+Cluster 241,QJF77826,807,Coleura afra,African sheath-tailed bat,Metazoa,Chordata,Mammalia,Emballonuridae,Coleura,African sheath-tailed bat,Chiroptera
+Cluster 242,QJF77828,807,Carollia perspicillata,Seba's short-tailed bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Carollia,Seba's short-tailed bat,Chiroptera
+Cluster 243,QJF77793,807,Glossophaga commissarisi,Commissaris's long-tongued bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Glossophaga,Commissaris's long-tongued bat,Chiroptera
+Cluster 244,QJF77813,807,Tylonycteris robustula,greater bamboo bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Tylonycteris,greater bamboo bat,Chiroptera
+Cluster 245,QJF77832,807,Artibeus hartii,velvety fruit-eating bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Artibeus,velvety fruit-eating bat,Chiroptera
+Cluster 246,QJF77797,807,Lonchophylla robusta,Orange Nectar Bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Lonchophylla,Orange Nectar Bat,Chiroptera
+Cluster 247,QJF77833,807,Hylonycteris underwoodi,Underwood's long-tongued bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Hylonycteris,Underwood's long-tongued bat,Chiroptera
+Cluster 248,QJF77819,807,Anoura cultrata,Handley's tailless bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Anoura,Handley's tailless bat,Chiroptera
+Cluster 249,QJF77805,807,Phyllostomus hastatus,greater spear-nosed bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Phyllostomus,greater spear-nosed bat,Chiroptera
+Cluster 250,QJF77814,807,Carollia sowelli,Sowell's Short-tailed Bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Carollia,Sowell's Short-tailed Bat,Chiroptera
+Cluster 251,QJF77820,807,Anoura geoffroyi,Geoffroy's tailless bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Anoura,Geoffroy's tailless bat,Chiroptera
+Cluster 252,QJF77839,807,Sturnira parvidens,NA,Metazoa,Chordata,Mammalia,Phyllostomidae,Sturnira,Sturnira parvidens,Chiroptera
+Cluster 253,QJF77837,807,Sturnira hondurensis,NA,Metazoa,Chordata,Mammalia,Phyllostomidae,Sturnira,Sturnira hondurensis,Chiroptera
+Cluster 254,QJF77798,807,Micronycteris hirsuta,hairy big-eared bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Micronycteris,hairy big-eared bat,Chiroptera
+Cluster 255,QJF77799,807,Micronycteris schmidtorum,Schmidts's big-eared bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Micronycteris,Schmidts's big-eared bat,Chiroptera
+Cluster 256,QJF77790,807,Centronycteris centralis,Thomas's Shaggy Bat,Metazoa,Chordata,Mammalia,Emballonuridae,Centronycteris,Thomas's Shaggy Bat,Chiroptera
+Cluster 257,QJF77838,807,Sturnira ludovici,highland yellow-shouldered bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Sturnira,highland yellow-shouldered bat,Chiroptera
+Cluster 258,NA,807,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cluster 259,ENSMGAP00000015565_M,807,NA,NA,NA,NA,NA,NA,NA,ENSMGAP00000015565_M,NA
+Cluster 260,ENSDNOP00000014740_D,807,Dasypus novemcinctus,long-nosed armadillo,Metazoa,Chordata,Mammalia,Dasypodidae,Dasypus,long-nosed armadillo,Cingulata
+Cluster 261,ENSOGAP00000002954_O,807,Otolemur garnettii,small-eared galago,Metazoa,Chordata,Mammalia,Galagidae,Otolemur,small-eared galago,Primates
+Cluster 262,ENSSDAP00000010526_S,807,NA,NA,NA,NA,NA,NA,NA,ENSSDAP00000010526_S,NA
+Cluster 263,ENSMLUP00000016146_M,807,Myotis lucifugus,little brown bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,little brown bat,Chiroptera
+Cluster 264,XP_007500935,806,Monodelphis domestica,Gray Short-tailed Opossum,Metazoa,Chordata,Mammalia,Didelphidae,Monodelphis,Gray Short-tailed Opossum,Didelphimorphia
+Cluster 264,XP_007500941,769,Monodelphis domestica,Gray Short-tailed Opossum,Metazoa,Chordata,Mammalia,Didelphidae,Monodelphis,Gray Short-tailed Opossum,Didelphimorphia
+Cluster 264,XP_007500935,806,Monodelphis domestica,Gray Short-tailed Opossum,Metazoa,Chordata,Mammalia,Didelphidae,Monodelphis,Gray Short-tailed Opossum,Didelphimorphia
+Cluster 264,ENSMODP00000021483_M,806,Monodelphis domestica,Gray Short-tailed Opossum,Metazoa,Chordata,Mammalia,Didelphidae,Monodelphis,Gray Short-tailed Opossum,Didelphimorphia
+Cluster 264,XP_007500935,806,Monodelphis domestica,Gray Short-tailed Opossum,Metazoa,Chordata,Mammalia,Didelphidae,Monodelphis,Gray Short-tailed Opossum,Didelphimorphia
+Cluster 265,XP_009992128,806,Chaetura pelagica,Vencejo de chimenea,Metazoa,Chordata,Aves,Apodidae,Chaetura,Vencejo de chimenea,Apodiformes
+Cluster 265,XP_009992128,806,Chaetura pelagica,Vencejo de chimenea,Metazoa,Chordata,Aves,Apodidae,Chaetura,Vencejo de chimenea,Apodiformes
+Cluster 265,XP_009992128,806,Chaetura pelagica,Vencejo de chimenea,Metazoa,Chordata,Aves,Apodidae,Chaetura,Vencejo de chimenea,Apodiformes
+Cluster 266,XP_009638257,806,Egretta garzetta,Little Egret,Metazoa,Chordata,Aves,Ardeidae,Egretta,Little Egret,Pelecaniformes
+Cluster 266,XP_009638257,806,Egretta garzetta,Little Egret,Metazoa,Chordata,Aves,Ardeidae,Egretta,Little Egret,Pelecaniformes
+Cluster 266,XP_009638257,806,Egretta garzetta,Little Egret,Metazoa,Chordata,Aves,Ardeidae,Egretta,Little Egret,Pelecaniformes
+Cluster 267,XP_009703695,806,Cariama cristata,Red-legged Seriema,Metazoa,Chordata,Aves,Cariamidae,Cariama,Red-legged Seriema,Cariamiformes
+Cluster 267,XP_009703695,806,Cariama cristata,Red-legged Seriema,Metazoa,Chordata,Aves,Cariamidae,Cariama,Red-legged Seriema,Cariamiformes
+Cluster 267,XP_009703695,806,Cariama cristata,Red-legged Seriema,Metazoa,Chordata,Aves,Cariamidae,Cariama,Red-legged Seriema,Cariamiformes
+Cluster 268,KFW68094,806,Pygoscelis adeliae,Adelie Penguin,Metazoa,Chordata,Aves,Spheniscidae,Pygoscelis,Adelie Penguin,Sphenisciformes
+Cluster 269,XP_001515597,806,Ornithorhynchus anatinus,duck-billed platypus,Metazoa,Chordata,Mammalia,Ornithorhynchidae,Ornithorhynchus,duck-billed platypus,Monotremata
+Cluster 269,XP_001515597,806,Ornithorhynchus anatinus,duck-billed platypus,Metazoa,Chordata,Mammalia,Ornithorhynchidae,Ornithorhynchus,duck-billed platypus,Monotremata
+Cluster 269,XP_001515597,806,Ornithorhynchus anatinus,duck-billed platypus,Metazoa,Chordata,Mammalia,Ornithorhynchidae,Ornithorhynchus,duck-billed platypus,Monotremata
+Cluster 270,XP_027024524,806,Tachysurus fulvidraco,NA,Metazoa,Chordata,Actinopteri,Bagridae,Tachysurus,Tachysurus fulvidraco,Siluriformes
+Cluster 270,XP_027024524,806,Tachysurus fulvidraco,NA,Metazoa,Chordata,Actinopteri,Bagridae,Tachysurus,Tachysurus fulvidraco,Siluriformes
+Cluster 270,XP_027024524,806,Tachysurus fulvidraco,NA,Metazoa,Chordata,Actinopteri,Bagridae,Tachysurus,Tachysurus fulvidraco,Siluriformes
+Cluster 271,XP_029904152,806,Myripristis murdjan,blacktipped soldierfish,Metazoa,Chordata,Actinopteri,Holocentridae,Myripristis,blacktipped soldierfish,Holocentriformes
+Cluster 271,XP_029904152,806,Myripristis murdjan,blacktipped soldierfish,Metazoa,Chordata,Actinopteri,Holocentridae,Myripristis,blacktipped soldierfish,Holocentriformes
+Cluster 271,XP_029904152,806,Myripristis murdjan,blacktipped soldierfish,Metazoa,Chordata,Actinopteri,Holocentridae,Myripristis,blacktipped soldierfish,Holocentriformes
+Cluster 272,TWW67837,806,Takifugu flavidus,NA,Metazoa,Chordata,Actinopteri,Tetraodontidae,Takifugu,Takifugu flavidus,Tetraodontiformes
+Cluster 273,XP_029702274,806,Takifugu rubripes,NA,Metazoa,Chordata,Actinopteri,Tetraodontidae,Takifugu,Takifugu rubripes,Tetraodontiformes
+Cluster 273,XP_029702274,806,Takifugu rubripes,NA,Metazoa,Chordata,Actinopteri,Tetraodontidae,Takifugu,Takifugu rubripes,Tetraodontiformes
+Cluster 273,XP_029702274,806,Takifugu rubripes,NA,Metazoa,Chordata,Actinopteri,Tetraodontidae,Takifugu,Takifugu rubripes,Tetraodontiformes
+Cluster 274,XP_010790455,806,Notothenia coriiceps,NA,Metazoa,Chordata,Actinopteri,Nototheniidae,Notothenia,Notothenia coriiceps,Perciformes
+Cluster 274,XP_010790455,806,Notothenia coriiceps,NA,Metazoa,Chordata,Actinopteri,Nototheniidae,Notothenia,Notothenia coriiceps,Perciformes
+Cluster 274,XP_010790455,806,Notothenia coriiceps,NA,Metazoa,Chordata,Actinopteri,Nototheniidae,Notothenia,Notothenia coriiceps,Perciformes
+Cluster 275,XP_019522936,806,Hipposideros armiger,great roundleaf bat,Metazoa,Chordata,Mammalia,Hipposideridae,Hipposideros,great roundleaf bat,Chiroptera
+Cluster 275,XP_019522936,806,Hipposideros armiger,great roundleaf bat,Metazoa,Chordata,Mammalia,Hipposideridae,Hipposideros,great roundleaf bat,Chiroptera
+Cluster 275,XP_019522936,806,Hipposideros armiger,great roundleaf bat,Metazoa,Chordata,Mammalia,Hipposideridae,Hipposideros,great roundleaf bat,Chiroptera
+Cluster 276,XP_020493627,806,Labrus bergylta,ballan wrasse,Metazoa,Chordata,Actinopteri,Labridae,Labrus,ballan wrasse,Labriformes
+Cluster 276,XP_020493627,806,Labrus bergylta,ballan wrasse,Metazoa,Chordata,Actinopteri,Labridae,Labrus,ballan wrasse,Labriformes
+Cluster 276,XP_020493627,806,Labrus bergylta,ballan wrasse,Metazoa,Chordata,Actinopteri,Labridae,Labrus,ballan wrasse,Labriformes
+Cluster 277,XP_026233431,806,Anabas testudineus,climbing perch,Metazoa,Chordata,Actinopteri,Anabantidae,Anabas,climbing perch,Anabantiformes
+Cluster 277,XP_026233433,766,Anabas testudineus,climbing perch,Metazoa,Chordata,Actinopteri,Anabantidae,Anabas,climbing perch,Anabantiformes
+Cluster 277,XP_026233431,806,Anabas testudineus,climbing perch,Metazoa,Chordata,Actinopteri,Anabantidae,Anabas,climbing perch,Anabantiformes
+Cluster 277,XP_026233431,806,Anabas testudineus,climbing perch,Metazoa,Chordata,Actinopteri,Anabantidae,Anabas,climbing perch,Anabantiformes
+Cluster 278,XP_027970822,806,Eumetopias jubatus,Steller Sea Lion,Metazoa,Chordata,Mammalia,Otariidae,Eumetopias,Steller Sea Lion,Carnivora
+Cluster 278,XP_027970822,806,Eumetopias jubatus,Steller Sea Lion,Metazoa,Chordata,Mammalia,Otariidae,Eumetopias,Steller Sea Lion,Carnivora
+Cluster 278,XP_027970822,806,Eumetopias jubatus,Steller Sea Lion,Metazoa,Chordata,Mammalia,Otariidae,Eumetopias,Steller Sea Lion,Carnivora
+Cluster 279,XP_027465353,806,Zalophus californianus,California Sealion,Metazoa,Chordata,Mammalia,Otariidae,Zalophus,California Sealion,Carnivora
+Cluster 279,XP_027465353,806,Zalophus californianus,California Sealion,Metazoa,Chordata,Mammalia,Otariidae,Zalophus,California Sealion,Carnivora
+Cluster 279,XP_027465353,806,Zalophus californianus,California Sealion,Metazoa,Chordata,Mammalia,Otariidae,Zalophus,California Sealion,Carnivora
+Cluster 280,XP_025713397,806,Callorhinus ursinus,Northern Fur Seal,Metazoa,Chordata,Mammalia,Otariidae,Callorhinus,Northern Fur Seal,Carnivora
+Cluster 280,XP_025713397,806,Callorhinus ursinus,Northern Fur Seal,Metazoa,Chordata,Mammalia,Otariidae,Callorhinus,Northern Fur Seal,Carnivora
+Cluster 280,XP_025713397,806,Callorhinus ursinus,Northern Fur Seal,Metazoa,Chordata,Mammalia,Otariidae,Callorhinus,Northern Fur Seal,Carnivora
+Cluster 281,XP_031814825,806,Sarcophilus harrisii,Tasmanian Devil,Metazoa,Chordata,Mammalia,Dasyuridae,Sarcophilus,Tasmanian Devil,Dasyuromorphia
+Cluster 281,XP_031814825,806,Sarcophilus harrisii,Tasmanian Devil,Metazoa,Chordata,Mammalia,Dasyuridae,Sarcophilus,Tasmanian Devil,Dasyuromorphia
+Cluster 281,XP_031814825,806,Sarcophilus harrisii,Tasmanian Devil,Metazoa,Chordata,Mammalia,Dasyuridae,Sarcophilus,Tasmanian Devil,Dasyuromorphia
+Cluster 282,TSY13820,806,Bagarius yarrelli,NA,Metazoa,Chordata,Actinopteri,Sisoridae,Bagarius,Bagarius yarrelli,Siluriformes
+Cluster 283,XP_031226742,806,Mastomys coucha,Southern African Mastomys,Metazoa,Chordata,Mammalia,Muridae,Mastomys,Southern African Mastomys,Rodentia
+Cluster 283,XP_031226742,806,Mastomys coucha,Southern African Mastomys,Metazoa,Chordata,Mammalia,Muridae,Mastomys,Southern African Mastomys,Rodentia
+Cluster 283,XP_031226742,806,Mastomys coucha,Southern African Mastomys,Metazoa,Chordata,Mammalia,Muridae,Mastomys,Southern African Mastomys,Rodentia
+Cluster 284,XP_034971718,806,Zootoca vivipara,NA,Metazoa,Chordata,Lepidosauria,Lacertidae,Zootoca,Zootoca vivipara,Squamata
+Cluster 285,QJF77796,806,Aeorestes cinereus,NA,Metazoa,Chordata,Mammalia,Vespertilionidae,Aeorestes,Aeorestes cinereus,Chiroptera
+Cluster 286,ENSDCDP00000020614_D,806,Denticeps clupeoides,NA,Metazoa,Chordata,Actinopteri,Denticipitidae,Denticeps,Denticeps clupeoides,Clupeiformes
+Cluster 287,ENSPRNP00000023179_P,806,Parambassis ranga,Indian glassfish,Metazoa,Chordata,Actinopteri,Ambassidae,Parambassis,Indian glassfish,NA
+Cluster 288,ENSTMTP00000003698_T,806,Terrapene carolina triunguis,Three-toed Box Turtle,Metazoa,Chordata,NA,Emydidae,Terrapene,Three-toed Box Turtle,Testudines
+Cluster 289,ENSOANP00000004083_O,806,Ornithorhynchus anatinus,duck-billed platypus,Metazoa,Chordata,Mammalia,Ornithorhynchidae,Ornithorhynchus,duck-billed platypus,Monotremata
+Cluster 290,ENSEEUP00000006099_E,806,NA,NA,NA,NA,NA,NA,NA,ENSEEUP00000006099_E,NA
+Cluster 291,MT515621,806,Hipposideros pratti,Pratt's roundleaf bat,Metazoa,Chordata,Mammalia,Hipposideridae,Hipposideros,Pratt's roundleaf bat,Chiroptera
+Cluster 292,BAJ21180,805,Synthetic construct,NA,NA,NA,NA,NA,NA,Synthetic construct,NA
+Cluster 293,XP_013362428,805,Chinchilla lanigera,NA,Metazoa,Chordata,Mammalia,Chinchillidae,Chinchilla,Chinchilla lanigera,Rodentia
+Cluster 293,XP_013362428,805,Chinchilla lanigera,Long-tailed Chinchilla,Metazoa,Chordata,Mammalia,Chinchillidae,Chinchilla,Long-tailed Chinchilla,Rodentia
+Cluster 293,ENSCLAP00000001359_C,805,Chinchilla lanigera,Long-tailed Chinchilla,Metazoa,Chordata,Mammalia,Chinchillidae,Chinchilla,Long-tailed Chinchilla,Rodentia
+Cluster 294,XP_004866157,805,Heterocephalus glaber,Naked Mole-rat,Metazoa,Chordata,Mammalia,Bathyergidae,Heterocephalus,Naked Mole-rat,Rodentia
+Cluster 294,XP_004866157,805,Heterocephalus glaber,Naked Mole-rat,Metazoa,Chordata,Mammalia,Bathyergidae,Heterocephalus,Naked Mole-rat,Rodentia
+Cluster 294,ENSHGLP00000000556_H,805,Heterocephalus glaber,Naked Mole-rat,Metazoa,Chordata,Mammalia,Bathyergidae,Heterocephalus,Naked Mole-rat,Rodentia
+Cluster 294,XP_004866157,805,Heterocephalus glaber,Naked Mole-rat,Metazoa,Chordata,Mammalia,Bathyergidae,Heterocephalus,Naked Mole-rat,Rodentia
+Cluster 295,XP_010643477,805,Fukomys damarensis,NA,Metazoa,Chordata,Mammalia,Bathyergidae,Fukomys,Fukomys damarensis,Rodentia
+Cluster 295,XP_010643477,805,Fukomys damarensis,NA,Metazoa,Chordata,Mammalia,Bathyergidae,Fukomys,Fukomys damarensis,Rodentia
+Cluster 295,ENSFDAP00000021134_F,805,Fukomys damarensis,NA,Metazoa,Chordata,Mammalia,Bathyergidae,Fukomys,Fukomys damarensis,Rodentia
+Cluster 295,XP_010643477,805,Fukomys damarensis,NA,Metazoa,Chordata,Mammalia,Bathyergidae,Fukomys,Fukomys damarensis,Rodentia
+Cluster 296,EHB15595,805,Heterocephalus glaber,Naked Mole-rat,Metazoa,Chordata,Mammalia,Bathyergidae,Heterocephalus,Naked Mole-rat,Rodentia
+Cluster 296,ENSHGLP00100008795_H,805,NA,NA,NA,NA,NA,NA,NA,ENSHGLP00100008795_H,NA
+Cluster 297,Q56NL1,805,Paguma larvata,Masked Palm Civet,Metazoa,Chordata,Mammalia,Viverridae,Paguma,Masked Palm Civet,Carnivora
+Cluster 297,AAX63775,805,Paguma larvata,Masked Palm Civet,Metazoa,Chordata,Mammalia,Viverridae,Paguma,Masked Palm Civet,Carnivora
+Cluster 298,XP_025790417,805,Puma concolor,Cougar,Metazoa,Chordata,Mammalia,Felidae,Puma,Cougar,Carnivora
+Cluster 298,XP_025790417,805,Puma concolor,Cougar,Metazoa,Chordata,Mammalia,Felidae,Puma,Cougar,Carnivora
+Cluster 298,XP_025790417,805,Puma concolor,Cougar,Metazoa,Chordata,Mammalia,Felidae,Puma,Cougar,Carnivora
+Cluster 299,XP_006194263,805,Camelus ferus,NA,Metazoa,Chordata,Mammalia,Camelidae,Camelus,Camelus ferus,Artiodactyla
+Cluster 299,XP_006194263,805,Camelus ferus,NA,Metazoa,Chordata,Mammalia,Camelidae,Camelus,Camelus ferus,Artiodactyla
+Cluster 299,XP_010966303,805,Camelus bactrianus,Bactrian camel,Metazoa,Chordata,Mammalia,Camelidae,Camelus,Bactrian camel,Artiodactyla
+Cluster 299,XP_010991717,805,Camelus dromedarius,One-humped Camel,Metazoa,Chordata,Mammalia,Camelidae,Camelus,One-humped Camel,Artiodactyla
+Cluster 299,ENSCDRP00005018983_C,805,NA,NA,NA,NA,NA,NA,NA,ENSCDRP00005018983_C,NA
+Cluster 299,XP_006194263,805,Camelus ferus,NA,Metazoa,Chordata,Mammalia,Camelidae,Camelus,Camelus ferus,Artiodactyla
+Cluster 299,XP_010966303,805,Camelus bactrianus,Bactrian camel,Metazoa,Chordata,Mammalia,Camelidae,Camelus,Bactrian camel,Artiodactyla
+Cluster 299,XP_010991717,805,Camelus dromedarius,One-humped Camel,Metazoa,Chordata,Mammalia,Camelidae,Camelus,One-humped Camel,Artiodactyla
+Cluster 300,XP_019273508,805,Panthera pardus,Leopard,Metazoa,Chordata,Mammalia,Felidae,Panthera,Leopard,Carnivora
+Cluster 300,XP_019273508,805,Panthera pardus,Leopard,Metazoa,Chordata,Mammalia,Felidae,Panthera,Leopard,Carnivora
+Cluster 300,ENSPPRP00000027415_P,805,Panthera pardus,Leopard,Metazoa,Chordata,Mammalia,Felidae,Panthera,Leopard,Carnivora
+Cluster 300,XP_019273508,805,Panthera pardus,Leopard,Metazoa,Chordata,Mammalia,Felidae,Panthera,Leopard,Carnivora
+Cluster 301,XP_006212709,805,Vicugna pacos,NA,Metazoa,Chordata,Mammalia,Camelidae,Vicugna,Vicugna pacos,Artiodactyla
+Cluster 301,XP_006212709,805,Vicugna pacos,NA,Metazoa,Chordata,Mammalia,Camelidae,Vicugna,Vicugna pacos,Artiodactyla
+Cluster 301,XP_006212709,805,Vicugna pacos,NA,Metazoa,Chordata,Mammalia,Camelidae,Vicugna,Vicugna pacos,Artiodactyla
+Cluster 302,XP_026910297,805,Acinonyx jubatus,Cheetah,Metazoa,Chordata,Mammalia,Felidae,Acinonyx,Cheetah,Carnivora
+Cluster 302,XP_026910299,744,Acinonyx jubatus,Cheetah,Metazoa,Chordata,Mammalia,Felidae,Acinonyx,Cheetah,Carnivora
+Cluster 302,XP_026910297,805,Acinonyx jubatus,Cheetah,Metazoa,Chordata,Mammalia,Felidae,Acinonyx,Cheetah,Carnivora
+Cluster 302,XP_026910297,805,Acinonyx jubatus,Cheetah,Metazoa,Chordata,Mammalia,Felidae,Acinonyx,Cheetah,Carnivora
+Cluster 303,NP_001034545,805,Felis catus,Domestic Cat,Metazoa,Chordata,Mammalia,Felidae,Felis,Domestic Cat,Carnivora
+Cluster 303,NP_001034545,805,Felis catus,Domestic Cat,Metazoa,Chordata,Mammalia,Felidae,Felis,Domestic Cat,Carnivora
+Cluster 304,VFV30336,805,Lynx pardinus,Spanish lynx,Metazoa,Chordata,Mammalia,Felidae,Lynx,Spanish lynx,Carnivora
+Cluster 305,XP_030160839,805,Lynx canadensis,Canadian Lynx,Metazoa,Chordata,Mammalia,Felidae,Lynx,Canadian Lynx,Carnivora
+Cluster 305,XP_030160839,805,Lynx canadensis,Canadian Lynx,Metazoa,Chordata,Mammalia,Felidae,Lynx,Canadian Lynx,Carnivora
+Cluster 305,ENSLCNP00005030881_L,805,Lynx canadensis,Canadian Lynx,Metazoa,Chordata,Mammalia,Felidae,Lynx,Canadian Lynx,Carnivora
+Cluster 305,XP_030160839,805,Lynx canadensis,Canadian Lynx,Metazoa,Chordata,Mammalia,Felidae,Lynx,Canadian Lynx,Carnivora
+Cluster 306,KAF0878287,805,Crocuta crocuta,Spotted Hyena,Metazoa,Chordata,Mammalia,Hyaenidae,Crocuta,Spotted Hyena,Carnivora
+Cluster 307,XP_020935033,805,Sus scrofa,wild boar,Metazoa,Chordata,Mammalia,Suidae,Sus,wild boar,Artiodactyla
+Cluster 307,ENSSSCP00000028755_S,805,Sus scrofa,wild boar,Metazoa,Chordata,Mammalia,Suidae,Sus,wild boar,Artiodactyla
+Cluster 308,XP_029786256,805,Suricata suricatta,Meerkat,Metazoa,Chordata,Mammalia,Herpestidae,Suricata,Meerkat,Carnivora
+Cluster 308,XP_029786256,805,Suricata suricatta,Meerkat,Metazoa,Chordata,Mammalia,Herpestidae,Suricata,Meerkat,Carnivora
+Cluster 308,XP_029786256,805,Suricata suricatta,Meerkat,Metazoa,Chordata,Mammalia,Herpestidae,Suricata,Meerkat,Carnivora
+Cluster 309,NP_001116542,805,Sus scrofa,wild boar,Metazoa,Chordata,Mammalia,Suidae,Sus,wild boar,Artiodactyla
+Cluster 309,NP_001116542,805,Sus scrofa,wild boar,Metazoa,Chordata,Mammalia,Suidae,Sus,wild boar,Artiodactyla
+Cluster 309,NP_001116542,805,Sus scrofa,wild boar,Metazoa,Chordata,Mammalia,Suidae,Sus,wild boar,Artiodactyla
+Cluster 310,XP_006911709,805,Pteropus alecto,black flying fox,Metazoa,Chordata,Mammalia,Pteropodidae,Pteropus,black flying fox,Chiroptera
+Cluster 310,XP_006911709,805,Pteropus alecto,black flying fox,Metazoa,Chordata,Mammalia,Pteropodidae,Pteropus,black flying fox,Chiroptera
+Cluster 310,XP_006911709,805,Pteropus alecto,black flying fox,Metazoa,Chordata,Mammalia,Pteropodidae,Pteropus,black flying fox,Chiroptera
+Cluster 311,ABU54053,805,Rhinolophus pearsonii,Pearson's horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Pearson's horseshoe bat,Chiroptera
+Cluster 311,ABU54053,805,Rhinolophus pearsonii,Pearson's horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Pearson's horseshoe bat,Chiroptera
+Cluster 312,XP_006164754,805,Tupaia chinensis,NA,Metazoa,Chordata,Mammalia,Tupaiidae,Tupaia,Tupaia chinensis,Scandentia
+Cluster 312,XP_006164754,805,Tupaia chinensis,NA,Metazoa,Chordata,Mammalia,Tupaiidae,Tupaia,Tupaia chinensis,Scandentia
+Cluster 312,XP_006164754,805,Tupaia chinensis,NA,Metazoa,Chordata,Mammalia,Tupaiidae,Tupaia,Tupaia chinensis,Scandentia
+Cluster 313,ADN93471,805,Rhinolophus macrotis,big-eared horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,big-eared horseshoe bat,Chiroptera
+Cluster 313,ADN93471,805,Rhinolophus macrotis,big-eared horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,big-eared horseshoe bat,Chiroptera
+Cluster 314,ALJ94034,805,Rhinolophus landeri,Lander's horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Lander's horseshoe bat,Chiroptera
+Cluster 314,ALJ94034,805,Rhinolophus landeri,Lander's horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Lander's horseshoe bat,Chiroptera
+Cluster 315,ADN93475,805,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Chinese Rufous Horseshoe Bat,Chiroptera
+Cluster 315,ADN93475,805,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Chinese Rufous Horseshoe Bat,Chiroptera
+Cluster 316,ALJ94035,805,Rhinolophus alcyone,Halcyon horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Halcyon horseshoe bat,Chiroptera
+Cluster 316,ALJ94035,805,Rhinolophus alcyone,Halcyon horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Halcyon horseshoe bat,Chiroptera
+Cluster 317,ADN93470,805,Rhinolophus ferrumequinum,greater horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,greater horseshoe bat,Chiroptera
+Cluster 318,ADN93472,805,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Chinese Rufous Horseshoe Bat,Chiroptera
+Cluster 319,ACM45790,805,Rhinolophus ferrumequinum,greater horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,greater horseshoe bat,Chiroptera
+Cluster 320,ADJ19219,805,Rousettus leschenaultii,Leschenault's Rousette,Metazoa,Chordata,Mammalia,Pteropodidae,Rousettus,Leschenault's Rousette,Chiroptera
+Cluster 321,BAF50705,805,Rousettus leschenaultii,Leschenault's Rousette,Metazoa,Chordata,Mammalia,Pteropodidae,Rousettus,Leschenault's Rousette,Chiroptera
+Cluster 321,BAF50705,805,Rousettus leschenaultii,Leschenault's Rousette,Metazoa,Chordata,Mammalia,Pteropodidae,Rousettus,Leschenault's Rousette,Chiroptera
+Cluster 322,XP_015974412,805,Rousettus aegyptiacus,Egyptian rousette,Metazoa,Chordata,Mammalia,Pteropodidae,Rousettus,Egyptian rousette,Chiroptera
+Cluster 322,XP_015974412,805,Rousettus aegyptiacus,Egyptian rousette,Metazoa,Chordata,Mammalia,Pteropodidae,Rousettus,Egyptian rousette,Chiroptera
+Cluster 322,XP_015974412,805,Rousettus aegyptiacus,Egyptian rousette,Metazoa,Chordata,Mammalia,Pteropodidae,Rousettus,Egyptian rousette,Chiroptera
+Cluster 323,XP_008492997,805,Calypte anna,Anna's Hummingbird,Metazoa,Chordata,Aves,Trochilidae,Calypte,Anna's Hummingbird,Apodiformes
+Cluster 323,XP_008492997,805,Calypte anna,Anna's Hummingbird,Metazoa,Chordata,Aves,Trochilidae,Calypte,Anna's Hummingbird,Apodiformes
+Cluster 323,XP_008492997,805,Calypte anna,Anna's Hummingbird,Metazoa,Chordata,Aves,Trochilidae,Calypte,Anna's Hummingbird,Apodiformes
+Cluster 324,XP_022523929,805,Astyanax mexicanus,sardinita mexicana,Metazoa,Chordata,Actinopteri,Characidae,Astyanax,sardinita mexicana,Characiformes
+Cluster 324,XP_022523929,805,Astyanax mexicanus,sardinita mexicana,Metazoa,Chordata,Actinopteri,Characidae,Astyanax,sardinita mexicana,Characiformes
+Cluster 324,ENSAMXP00000008703_A,805,Astyanax mexicanus,sardinita mexicana,Metazoa,Chordata,Actinopteri,Characidae,Astyanax,sardinita mexicana,Characiformes
+Cluster 324,XP_022523929,805,Astyanax mexicanus,sardinita mexicana,Metazoa,Chordata,Actinopteri,Characidae,Astyanax,sardinita mexicana,Characiformes
+Cluster 325,KAA0707616,805,Triplophysa tibetana,NA,Metazoa,Chordata,Actinopteri,Nemacheilidae,Triplophysa,Triplophysa tibetana,Cypriniformes
+Cluster 326,XP_026867211,805,Electrophorus electricus,electric eel,Metazoa,Chordata,Actinopteri,Gymnotidae,Electrophorus,electric eel,Gymnotiformes
+Cluster 326,XP_026867211,805,Electrophorus electricus,electric eel,Metazoa,Chordata,Actinopteri,Gymnotidae,Electrophorus,electric eel,Gymnotiformes
+Cluster 327,XP_022063989,805,Acanthochromis polyacanthus,spotty-tail,Metazoa,Chordata,Actinopteri,Pomacentridae,Acanthochromis,spotty-tail,NA
+Cluster 328,XP_029354067,805,Echeneis naucrates,sharksucker,Metazoa,Chordata,Actinopteri,Echeneidae,Echeneis,sharksucker,Carangiformes
+Cluster 328,ENSENLP00000036071_E,805,Echeneis naucrates,sharksucker,Metazoa,Chordata,Actinopteri,Echeneidae,Echeneis,sharksucker,Carangiformes
+Cluster 329,XP_002719891,805,Oryctolagus cuniculus,European Rabbit,Metazoa,Chordata,Mammalia,Leporidae,Oryctolagus,European Rabbit,Lagomorpha
+Cluster 329,XP_002719891,805,Oryctolagus cuniculus,European Rabbit,Metazoa,Chordata,Mammalia,Leporidae,Oryctolagus,European Rabbit,Lagomorpha
+Cluster 329,XP_002719891,805,Oryctolagus cuniculus,European Rabbit,Metazoa,Chordata,Mammalia,Leporidae,Oryctolagus,European Rabbit,Lagomorpha
+Cluster 330,QHX39726,805,Oryctolagus cuniculus,European Rabbit,Metazoa,Chordata,Mammalia,Leporidae,Oryctolagus,European Rabbit,Lagomorpha
+Cluster 331,XP_008542995,805,Equus przewalskii,Przewalski's horse,Metazoa,Chordata,Mammalia,Equidae,Equus,Przewalski's horse,Perissodactyla
+Cluster 331,XP_008542995,805,Equus przewalskii,Przewalski's horse,Metazoa,Chordata,Mammalia,Equidae,Equus,Przewalski's horse,Perissodactyla
+Cluster 331,XP_008542995,805,Equus przewalskii,Przewalski's horse,Metazoa,Chordata,Mammalia,Equidae,Equus,Przewalski's horse,Perissodactyla
+Cluster 332,XP_001490241,805,Equus caballus,feral horse,Metazoa,Chordata,Mammalia,Equidae,Equus,feral horse,Perissodactyla
+Cluster 332,XP_001490241,805,Equus caballus,feral horse,Metazoa,Chordata,Mammalia,Equidae,Equus,feral horse,Perissodactyla
+Cluster 332,ENSECAP00000001752_E,805,Equus caballus,feral horse,Metazoa,Chordata,Mammalia,Equidae,Equus,feral horse,Perissodactyla
+Cluster 332,XP_001490241,805,Equus caballus,feral horse,Metazoa,Chordata,Mammalia,Equidae,Equus,feral horse,Perissodactyla
+Cluster 333,XP_004671523,805,Jaculus jaculus,Lesser Egyptian Jerboa,Metazoa,Chordata,Mammalia,Dipodidae,Jaculus,Lesser Egyptian Jerboa,Rodentia
+Cluster 333,XP_004671523,805,Jaculus jaculus,Lesser Egyptian Jerboa,Metazoa,Chordata,Mammalia,Dipodidae,Jaculus,Lesser Egyptian Jerboa,Rodentia
+Cluster 333,ENSJJAP00000000164_J,805,Jaculus jaculus,Lesser Egyptian Jerboa,Metazoa,Chordata,Mammalia,Dipodidae,Jaculus,Lesser Egyptian Jerboa,Rodentia
+Cluster 333,XP_004671523,805,Jaculus jaculus,Lesser Egyptian Jerboa,Metazoa,Chordata,Mammalia,Dipodidae,Jaculus,Lesser Egyptian Jerboa,Rodentia
+Cluster 334,XP_005074266,805,Mesocricetus auratus,Golden Hamster,Metazoa,Chordata,Mammalia,Cricetidae,Mesocricetus,Golden Hamster,Rodentia
+Cluster 334,XP_005074266,805,Mesocricetus auratus,Golden Hamster,Metazoa,Chordata,Mammalia,Cricetidae,Mesocricetus,Golden Hamster,Rodentia
+Cluster 334,ENSMAUP00000016335_M,805,Mesocricetus auratus,Golden Hamster,Metazoa,Chordata,Mammalia,Cricetidae,Mesocricetus,Golden Hamster,Rodentia
+Cluster 334,XP_005074266,805,Mesocricetus auratus,Golden Hamster,Metazoa,Chordata,Mammalia,Cricetidae,Mesocricetus,Golden Hamster,Rodentia
+Cluster 335,XP_004435206,805,Ceratotherium simum simum,NA,Metazoa,Chordata,Mammalia,Rhinocerotidae,Ceratotherium,Ceratotherium simum simum,Perissodactyla
+Cluster 335,XP_004435206,805,Ceratotherium simum simum,NA,Metazoa,Chordata,Mammalia,Rhinocerotidae,Ceratotherium,Ceratotherium simum simum,Perissodactyla
+Cluster 335,XP_004435206,805,Ceratotherium simum simum,NA,Metazoa,Chordata,Mammalia,Rhinocerotidae,Ceratotherium,Ceratotherium simum simum,Perissodactyla
+Cluster 336,XP_003503283,805,Cricetulus griseus,NA,Metazoa,Chordata,Mammalia,Cricetidae,Cricetulus,Cricetulus griseus,Rodentia
+Cluster 336,XP_003503283,805,Cricetulus griseus,NA,Metazoa,Chordata,Mammalia,Cricetidae,Cricetulus,Cricetulus griseus,Rodentia
+Cluster 336,ENSCGRP00001000071_C,805,NA,NA,NA,NA,NA,NA,NA,ENSCGRP00001000071_C,NA
+Cluster 336,ENSCGRP00000024673_C,805,NA,NA,NA,NA,NA,NA,NA,ENSCGRP00000024673_C,NA
+Cluster 336,XP_003503283,805,Cricetulus griseus,NA,Metazoa,Chordata,Mammalia,Cricetidae,Cricetulus,Cricetulus griseus,Rodentia
+Cluster 337,XP_027288607,805,Cricetulus griseus,NA,Metazoa,Chordata,Mammalia,Cricetidae,Cricetulus,Cricetulus griseus,Rodentia
+Cluster 337,ENSCGRP00015020600_C,805,Cricetulus griseus,NA,Metazoa,Chordata,Mammalia,Cricetidae,Cricetulus,Cricetulus griseus,Rodentia
+Cluster 338,XP_012887572,805,Dipodomys ordii,Rata-canguro común,Metazoa,Chordata,Mammalia,Heteromyidae,Dipodomys,Rata-canguro común,Rodentia
+Cluster 338,XP_012887572,805,Dipodomys ordii,Rata-canguro común,Metazoa,Chordata,Mammalia,Heteromyidae,Dipodomys,Rata-canguro común,Rodentia
+Cluster 338,ENSDORP00000012777_D,805,Dipodomys ordii,Rata-canguro común,Metazoa,Chordata,Mammalia,Heteromyidae,Dipodomys,Rata-canguro común,Rodentia
+Cluster 338,XP_012887572,805,Dipodomys ordii,Rata-canguro común,Metazoa,Chordata,Mammalia,Heteromyidae,Dipodomys,Rata-canguro común,Rodentia
+Cluster 339,XP_006973269,805,Peromyscus maniculatus bairdii,NA,Metazoa,Chordata,Mammalia,Cricetidae,Peromyscus,Peromyscus maniculatus bairdii,Rodentia
+Cluster 339,XP_006973269,805,Peromyscus maniculatus bairdii,NA,Metazoa,Chordata,Mammalia,Cricetidae,Peromyscus,Peromyscus maniculatus bairdii,Rodentia
+Cluster 339,ENSPEMP00000017679_P,805,Peromyscus maniculatus bairdii,NA,Metazoa,Chordata,Mammalia,Cricetidae,Peromyscus,Peromyscus maniculatus bairdii,Rodentia
+Cluster 339,XP_006973269,805,Peromyscus maniculatus bairdii,NA,Metazoa,Chordata,Mammalia,Cricetidae,Peromyscus,Peromyscus maniculatus bairdii,Rodentia
+Cluster 340,XP_021043935,805,Mus pahari,Indochinese Shrewlike Mouse,Metazoa,Chordata,Mammalia,Muridae,Mus,Indochinese Shrewlike Mouse,Rodentia
+Cluster 340,XP_021043935,805,Mus pahari,Indochinese Shrewlike Mouse,Metazoa,Chordata,Mammalia,Muridae,Mus,Indochinese Shrewlike Mouse,Rodentia
+Cluster 340,MGP_P,805,Mpah,NA,NA,NA,NA,NA,NA,Mpah,NA
+Cluster 340,XP_021043935,805,Mus pahari,Indochinese Shrewlike Mouse,Metazoa,Chordata,Mammalia,Muridae,Mus,Indochinese Shrewlike Mouse,Rodentia
+Cluster 341,XP_028743609,805,Peromyscus leucopus,souris à pattes blanches,Metazoa,Chordata,Mammalia,Cricetidae,Peromyscus,souris à pattes blanches,Rodentia
+Cluster 341,XP_028743609,805,Peromyscus leucopus,souris à pattes blanches,Metazoa,Chordata,Mammalia,Cricetidae,Peromyscus,souris à pattes blanches,Rodentia
+Cluster 341,XP_028743609,805,Peromyscus leucopus,souris à pattes blanches,Metazoa,Chordata,Mammalia,Cricetidae,Peromyscus,souris à pattes blanches,Rodentia
+Cluster 342,XP_017505746,805,Manis javanica,Sunda Pangolin,Metazoa,Chordata,Mammalia,Manidae,Manis,Sunda Pangolin,Pholidota
+Cluster 342,XP_017505746,805,Manis javanica,Sunda Pangolin,Metazoa,Chordata,Mammalia,Manidae,Manis,Sunda Pangolin,Pholidota
+Cluster 342,XP_017505746,805,Manis javanica,Sunda Pangolin,Metazoa,Chordata,Mammalia,Manidae,Manis,Sunda Pangolin,Pholidota
+Cluster 343,XP_021009138,805,Mus caroli,Ryukyu Mouse,Metazoa,Chordata,Mammalia,Muridae,Mus,Ryukyu Mouse,Rodentia
+Cluster 343,XP_021009138,805,Mus caroli,Ryukyu Mouse,Metazoa,Chordata,Mammalia,Muridae,Mus,Ryukyu Mouse,Rodentia
+Cluster 343,MGP_CAROLIE,805,Mcar,NA,NA,NA,NA,NA,NA,Mcar,NA
+Cluster 343,XP_021009138,805,Mus caroli,Ryukyu Mouse,Metazoa,Chordata,Mammalia,Muridae,Mus,Ryukyu Mouse,Rodentia
+Cluster 344,NP_001123985,805,Mus musculus,souris commune,Metazoa,Chordata,Mammalia,Muridae,Mus,souris commune,Rodentia
+Cluster 344,NP_081562,805,Mus musculus,souris commune,Metazoa,Chordata,Mammalia,Muridae,Mus,souris commune,Rodentia
+Cluster 344,ENSMUSP00000107890_M,805,Mus musculus,souris commune,Metazoa,Chordata,Mammalia,Muridae,Mus,souris commune,Rodentia
+Cluster 344,NP_081562,805,Mus musculus,souris commune,Metazoa,Chordata,Mammalia,Muridae,Mus,souris commune,Rodentia
+Cluster 345,NP_001012006,805,Rattus norvegicus,rat surmulot,Metazoa,Chordata,Mammalia,Muridae,Rattus,rat surmulot,Rodentia
+Cluster 345,NP_001012006,805,Rattus norvegicus,rat surmulot,Metazoa,Chordata,Mammalia,Muridae,Rattus,rat surmulot,Rodentia
+Cluster 345,NP_001012006,805,Rattus norvegicus,rat surmulot,Metazoa,Chordata,Mammalia,Muridae,Rattus,rat surmulot,Rodentia
+Cluster 346,XP_032963186,805,Rhinolophus ferrumequinum,greater horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,greater horseshoe bat,Chiroptera
+Cluster 346,XP_032963186,805,Rhinolophus ferrumequinum,greater horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,greater horseshoe bat,Chiroptera
+Cluster 346,ENSRFEP00010019187_R,805,Rhinolophus ferrumequinum,greater horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,greater horseshoe bat,Chiroptera
+Cluster 347,BAH02663,805,Rhinolophus ferrumequinum,greater horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,greater horseshoe bat,Chiroptera
+Cluster 348,AGZ48803,805,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Chinese Rufous Horseshoe Bat,Chiroptera
+Cluster 349,ADN93477,805,Rhinolophus pusillus,least horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,least horseshoe bat,Chiroptera
+Cluster 349,ADN93477,805,Rhinolophus pusillus,least horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,least horseshoe bat,Chiroptera
+Cluster 350,ACT66275,805,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Chinese Rufous Horseshoe Bat,Chiroptera
+Cluster 351,XP_032058386,805,Aythya fuligula,Tufted Duck,Metazoa,Chordata,Aves,Anatidae,Aythya,Tufted Duck,Anseriformes
+Cluster 351,XP_032058386,805,Aythya fuligula,Tufted Duck,Metazoa,Chordata,Aves,Anatidae,Aythya,Tufted Duck,Anseriformes
+Cluster 351,XP_032058386,805,Aythya fuligula,Tufted Duck,Metazoa,Chordata,Aves,Anatidae,Aythya,Tufted Duck,Anseriformes
+Cluster 352,QFX67703,805,Tadorna cana,South African Shelduck,Metazoa,Chordata,Aves,Anatidae,Tadorna,South African Shelduck,Anseriformes
+Cluster 353,XP_013039300,805,Anser cygnoides domesticus,NA,Metazoa,Chordata,Aves,Anatidae,Anser,Anser cygnoides domesticus,Anseriformes
+Cluster 353,XP_013039300,805,Anser cygnoides domesticus,NA,Metazoa,Chordata,Aves,Anatidae,Anser,Anser cygnoides domesticus,Anseriformes
+Cluster 353,XP_013039300,805,Anser cygnoides domesticus,NA,Metazoa,Chordata,Aves,Anatidae,Anser,Anser cygnoides domesticus,Anseriformes
+Cluster 354,EOB05299,805,Anas platyrhynchos,Pato de collar,Metazoa,Chordata,Aves,Anatidae,Anas,Pato de collar,Anseriformes
+Cluster 355,XP_012949915,805,Anas platyrhynchos,Pato de collar,Metazoa,Chordata,Aves,Anatidae,Anas,Pato de collar,Anseriformes
+Cluster 355,XP_012949915,805,Anas platyrhynchos,Pato de collar,Metazoa,Chordata,Aves,Anatidae,Anas,Pato de collar,Anseriformes
+Cluster 355,XP_012949915,805,Anas platyrhynchos,Pato de collar,Metazoa,Chordata,Aves,Anatidae,Anas,Pato de collar,Anseriformes
+Cluster 356,XP_019350687,805,Alligator mississippiensis,American Alligator,Metazoa,Chordata,NA,Alligatoridae,Alligator,American Alligator,Crocodylia
+Cluster 356,XP_019350687,805,Alligator mississippiensis,American Alligator,Metazoa,Chordata,NA,Alligatoridae,Alligator,American Alligator,Crocodylia
+Cluster 356,XP_019350687,805,Alligator mississippiensis,American Alligator,Metazoa,Chordata,NA,Alligatoridae,Alligator,American Alligator,Crocodylia
+Cluster 357,XP_015808977,805,Nothobranchius furzeri,NA,Metazoa,Chordata,Actinopteri,Nothobranchiidae,Nothobranchius,Nothobranchius furzeri,Cyprinodontiformes
+Cluster 357,XP_015808977,805,Nothobranchius furzeri,NA,Metazoa,Chordata,Actinopteri,Nothobranchiidae,Nothobranchius,Nothobranchius furzeri,Cyprinodontiformes
+Cluster 357,XP_015808977,805,Nothobranchius furzeri,NA,Metazoa,Chordata,Actinopteri,Nothobranchiidae,Nothobranchius,Nothobranchius furzeri,Cyprinodontiformes
+Cluster 358,XP_026803610,805,Pangasianodon hypophthalmus,NA,Metazoa,Chordata,Actinopteri,Pangasiidae,Pangasianodon,Pangasianodon hypophthalmus,Siluriformes
+Cluster 358,XP_026803610,805,Pangasianodon hypophthalmus,NA,Metazoa,Chordata,Actinopteri,Pangasiidae,Pangasianodon,Pangasianodon hypophthalmus,Siluriformes
+Cluster 358,XP_026803610,805,Pangasianodon hypophthalmus,NA,Metazoa,Chordata,Actinopteri,Pangasiidae,Pangasianodon,Pangasianodon hypophthalmus,Siluriformes
+Cluster 359,XP_017313836,805,Ictalurus punctatus,channel catfish,Metazoa,Chordata,Actinopteri,Ictaluridae,Ictalurus,channel catfish,Siluriformes
+Cluster 359,XP_017313836,805,Ictalurus punctatus,channel catfish,Metazoa,Chordata,Actinopteri,Ictaluridae,Ictalurus,channel catfish,Siluriformes
+Cluster 359,ENSIPUP00000021362_I,805,Ictalurus punctatus,channel catfish,Metazoa,Chordata,Actinopteri,Ictaluridae,Ictalurus,channel catfish,Siluriformes
+Cluster 359,XP_017313836,805,Ictalurus punctatus,channel catfish,Metazoa,Chordata,Actinopteri,Ictaluridae,Ictalurus,channel catfish,Siluriformes
+Cluster 360,XP_019742561,805,Hippocampus comes,NA,Metazoa,Chordata,Actinopteri,Syngnathidae,Hippocampus,Hippocampus comes,Syngnathiformes
+Cluster 360,XP_019742561,805,Hippocampus comes,NA,Metazoa,Chordata,Actinopteri,Syngnathidae,Hippocampus,Hippocampus comes,Syngnathiformes
+Cluster 360,XP_019742561,805,Hippocampus comes,NA,Metazoa,Chordata,Actinopteri,Syngnathidae,Hippocampus,Hippocampus comes,Syngnathiformes
+Cluster 361,XP_023679669,805,Paramormyrops kingsleyae,NA,Metazoa,Chordata,Actinopteri,Mormyridae,Paramormyrops,Paramormyrops kingsleyae,Osteoglossiformes
+Cluster 361,XP_023679669,805,Paramormyrops kingsleyae,NA,Metazoa,Chordata,Actinopteri,Mormyridae,Paramormyrops,Paramormyrops kingsleyae,Osteoglossiformes
+Cluster 361,XP_023679669,805,Paramormyrops kingsleyae,NA,Metazoa,Chordata,Actinopteri,Mormyridae,Paramormyrops,Paramormyrops kingsleyae,Osteoglossiformes
+Cluster 362,XP_026333865,805,Ursus arctos horribilis,brown bear,Metazoa,Chordata,Mammalia,Ursidae,Ursus,brown bear,Carnivora
+Cluster 362,XP_026333865,805,Ursus arctos horribilis,brown bear,Metazoa,Chordata,Mammalia,Ursidae,Ursus,brown bear,Carnivora
+Cluster 362,XP_026333865,805,Ursus arctos horribilis,brown bear,Metazoa,Chordata,Mammalia,Ursidae,Ursus,brown bear,Carnivora
+Cluster 363,XP_002930657,805,Ailuropoda melanoleuca,Giant Panda,Metazoa,Chordata,Mammalia,Ursidae,Ailuropoda,Giant Panda,Carnivora
+Cluster 363,XP_034505781,705,Ailuropoda melanoleuca,Giant Panda,Metazoa,Chordata,Mammalia,Ursidae,Ailuropoda,Giant Panda,Carnivora
+Cluster 363,XP_002930657,805,Ailuropoda melanoleuca,Giant Panda,Metazoa,Chordata,Mammalia,Ursidae,Ailuropoda,Giant Panda,Carnivora
+Cluster 364,XP_032187677,805,Mustela erminea,Ermine,Metazoa,Chordata,Mammalia,Mustelidae,Mustela,Ermine,Carnivora
+Cluster 364,XP_032187677,805,Mustela erminea,Ermine,Metazoa,Chordata,Mammalia,Mustelidae,Mustela,Ermine,Carnivora
+Cluster 364,XP_032187677,805,Mustela erminea,Ermine,Metazoa,Chordata,Mammalia,Mustelidae,Mustela,Ermine,Carnivora
+Cluster 365,XP_028617961,805,Grammomys surdaster,NA,Metazoa,Chordata,Mammalia,Muridae,Grammomys,Grammomys surdaster,Rodentia
+Cluster 365,XP_028617961,805,Grammomys surdaster,NA,Metazoa,Chordata,Mammalia,Muridae,Grammomys,Grammomys surdaster,Rodentia
+Cluster 365,XP_028617961,805,Grammomys surdaster,NA,Metazoa,Chordata,Mammalia,Muridae,Grammomys,Grammomys surdaster,Rodentia
+Cluster 366,XP_022374078,805,Enhydra lutris kenyoni,northern sea otter,Metazoa,Chordata,Mammalia,Mustelidae,Enhydra,northern sea otter,Carnivora
+Cluster 366,XP_022374078,805,Enhydra lutris kenyoni,northern sea otter,Metazoa,Chordata,Mammalia,Mustelidae,Enhydra,northern sea otter,Carnivora
+Cluster 366,XP_022374078,805,Enhydra lutris kenyoni,northern sea otter,Metazoa,Chordata,Mammalia,Mustelidae,Enhydra,northern sea otter,Carnivora
+Cluster 367,BAE72462,805,Procyon lotor,Raccoon,Metazoa,Chordata,Mammalia,Procyonidae,Procyon,Raccoon,Carnivora
+Cluster 368,XP_022374079,805,Enhydra lutris kenyoni,northern sea otter,Metazoa,Chordata,Mammalia,Mustelidae,Enhydra,northern sea otter,Carnivora
+Cluster 369,XP_032245506,805,Phoca vitulina,Harbor Seal,Metazoa,Chordata,Mammalia,Phocidae,Phoca,Harbor Seal,Carnivora
+Cluster 369,XP_032245506,805,Phoca vitulina,Harbor Seal,Metazoa,Chordata,Mammalia,Phocidae,Phoca,Harbor Seal,Carnivora
+Cluster 369,XP_032245506,805,Phoca vitulina,Harbor Seal,Metazoa,Chordata,Mammalia,Phocidae,Phoca,Harbor Seal,Carnivora
+Cluster 370,XP_021536480,805,Neomonachus schauinslandi,Hawaiian monk seal,Metazoa,Chordata,Mammalia,Phocidae,Neomonachus,Hawaiian monk seal,Carnivora
+Cluster 370,XP_021536480,805,Neomonachus schauinslandi,Hawaiian monk seal,Metazoa,Chordata,Mammalia,Phocidae,Neomonachus,Hawaiian monk seal,Carnivora
+Cluster 370,XP_021536480,805,Neomonachus schauinslandi,Hawaiian monk seal,Metazoa,Chordata,Mammalia,Phocidae,Neomonachus,Hawaiian monk seal,Carnivora
+Cluster 371,NP_001297119,805,Mustela putorius furo,NA,Metazoa,Chordata,Mammalia,Mustelidae,Mustela,Mustela putorius furo,Carnivora
+Cluster 371,NP_001297119,805,Mustela putorius furo,NA,Metazoa,Chordata,Mammalia,Mustelidae,Mustela,Mustela putorius furo,Carnivora
+Cluster 371,ENSMPUP00000002630_M,805,Mustela putorius furo,NA,Metazoa,Chordata,Mammalia,Mustelidae,Mustela,Mustela putorius furo,Carnivora
+Cluster 371,NP_001297119,805,Mustela putorius furo,NA,Metazoa,Chordata,Mammalia,Mustelidae,Mustela,Mustela putorius furo,Carnivora
+Cluster 372,XP_032736028,805,Lontra canadensis,North American River Otter,Metazoa,Chordata,Mammalia,Mustelidae,Lontra,North American River Otter,Carnivora
+Cluster 372,XP_032736028,805,Lontra canadensis,North American River Otter,Metazoa,Chordata,Mammalia,Mustelidae,Lontra,North American River Otter,Carnivora
+Cluster 373,XP_010217584,805,Tinamus guttatus,White-throated Tinamou,Metazoa,Chordata,Aves,Tinamidae,Tinamus,White-throated Tinamou,Tinamiformes
+Cluster 373,XP_010217584,805,Tinamus guttatus,White-throated Tinamou,Metazoa,Chordata,Aves,Tinamidae,Tinamus,White-throated Tinamou,Tinamiformes
+Cluster 373,XP_010217584,805,Tinamus guttatus,White-throated Tinamou,Metazoa,Chordata,Aves,Tinamidae,Tinamus,White-throated Tinamou,Tinamiformes
+Cluster 374,ACT66274,805,Phodopus campbelli,Campbell's hamster,Metazoa,Chordata,Mammalia,Cricetidae,Phodopus,Campbell's hamster,Rodentia
+Cluster 375,NP_001358344,805,Homo sapiens,man,Metazoa,Chordata,Mammalia,Hominidae,Homo,man,Primates
+Cluster 375,ENSP00000389326_H,805,Homo sapiens,man,Metazoa,Chordata,Mammalia,Hominidae,Homo,man,Primates
+Cluster 375,NP_068576,805,Homo sapiens,man,Metazoa,Chordata,Mammalia,Hominidae,Homo,man,Primates
+Cluster 376,XP_016798468,805,Pan troglodytes,Chimpanzee,Metazoa,Chordata,Mammalia,Hominidae,Pan,Chimpanzee,Primates
+Cluster 376,ENSPTRP00000037158_P,805,Pan troglodytes,Chimpanzee,Metazoa,Chordata,Mammalia,Hominidae,Pan,Chimpanzee,Primates
+Cluster 376,XP_016798468,805,Pan troglodytes,Chimpanzee,Metazoa,Chordata,Mammalia,Hominidae,Pan,Chimpanzee,Primates
+Cluster 377,NP_001129168,805,Macaca mulatta,Rhesus Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Macaca,Rhesus Monkey,Primates
+Cluster 377,NP_001129168,805,Macaca mulatta,Rhesus Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Macaca,Rhesus Monkey,Primates
+Cluster 378,NP_001124604,805,Pongo abelii,Sumatran Orangutan,Metazoa,Chordata,Mammalia,Hominidae,Pongo,Sumatran Orangutan,Primates
+Cluster 378,NP_001124604,805,Pongo abelii,Sumatran Orangutan,Metazoa,Chordata,Mammalia,Hominidae,Pongo,Sumatran Orangutan,Primates
+Cluster 379,XP_008987241,805,Callithrix jacchus,white-tufted-ear marmoset,Metazoa,Chordata,Mammalia,Cebidae,Callithrix,white-tufted-ear marmoset,Primates
+Cluster 379,XP_008987241,805,Callithrix jacchus,white-tufted-ear marmoset,Metazoa,Chordata,Mammalia,Cebidae,Callithrix,white-tufted-ear marmoset,Primates
+Cluster 380,XP_003261132,805,Nomascus leucogenys,Northern White-cheeked Crested Gibbon,Metazoa,Chordata,Mammalia,Hylobatidae,Nomascus,Northern White-cheeked Crested Gibbon,Primates
+Cluster 380,XP_003261132,805,Nomascus leucogenys,Northern White-cheeked Crested Gibbon,Metazoa,Chordata,Mammalia,Hylobatidae,Nomascus,Northern White-cheeked Crested Gibbon,Primates
+Cluster 381,XP_003791912,805,Otolemur garnettii,small-eared galago,Metazoa,Chordata,Mammalia,Galagidae,Otolemur,small-eared galago,Primates
+Cluster 381,XP_003791912,805,Otolemur garnettii,small-eared galago,Metazoa,Chordata,Mammalia,Galagidae,Otolemur,small-eared galago,Primates
+Cluster 382,XP_008972428,805,Pan paniscus,pygmy chimpanzee,Metazoa,Chordata,Mammalia,Hominidae,Pan,pygmy chimpanzee,Primates
+Cluster 383,XP_021788732,805,Papio anubis,Olive Baboon,Metazoa,Chordata,Mammalia,Cercopithecidae,Papio,Olive Baboon,Primates
+Cluster 383,ENSPANP00000007473_P,805,Papio anubis,Olive Baboon,Metazoa,Chordata,Mammalia,Cercopithecidae,Papio,Olive Baboon,Primates
+Cluster 383,XP_021788732,805,Papio anubis,Olive Baboon,Metazoa,Chordata,Mammalia,Cercopithecidae,Papio,Olive Baboon,Primates
+Cluster 384,XP_010334925,805,Saimiri boliviensis boliviensis,Bolivian Squirrel Monkey,Metazoa,Chordata,Mammalia,Cebidae,Saimiri,Bolivian Squirrel Monkey,Primates
+Cluster 384,ENSSBOP00000004684_S,805,Saimiri boliviensis,Bolivian squirrel monkey,Metazoa,Chordata,Mammalia,Cebidae,Saimiri,Bolivian squirrel monkey,Primates
+Cluster 384,XP_010334925,805,Saimiri boliviensis boliviensis,Bolivian Squirrel Monkey,Metazoa,Chordata,Mammalia,Cebidae,Saimiri,Bolivian Squirrel Monkey,Primates
+Cluster 385,XP_018874749,805,Gorilla gorilla gorilla,Western Lowland Gorilla,Metazoa,Chordata,Mammalia,Hominidae,Gorilla,Western Lowland Gorilla,Primates
+Cluster 385,ENSGGOP00000007298_G,805,Gorilla gorilla,gorilla,Metazoa,Chordata,Mammalia,Hominidae,Gorilla,gorilla,Primates
+Cluster 385,XP_018874749,805,Gorilla gorilla gorilla,Western Lowland Gorilla,Metazoa,Chordata,Mammalia,Hominidae,Gorilla,Western Lowland Gorilla,Primates
+Cluster 386,XP_005593094,805,Macaca fascicularis,Long-tailed Macaque,Metazoa,Chordata,Mammalia,Cercopithecidae,Macaca,Long-tailed Macaque,Primates
+Cluster 386,ENSMMUP00000076885_M,805,Macaca mulatta,Rhesus Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Macaca,Rhesus Monkey,Primates
+Cluster 386,ENSMFAP00000043589_M,805,Macaca fascicularis,Long-tailed Macaque,Metazoa,Chordata,Mammalia,Cercopithecidae,Macaca,Long-tailed Macaque,Primates
+Cluster 386,XP_005593094,805,Macaca fascicularis,Long-tailed Macaque,Metazoa,Chordata,Mammalia,Cercopithecidae,Macaca,Long-tailed Macaque,Primates
+Cluster 387,XP_007989304,805,Chlorocebus sabaeus,Green Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Chlorocebus,Green Monkey,Primates
+Cluster 387,ENSCSAP00000011029_C,805,Chlorocebus sabaeus,Green Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Chlorocebus,Green Monkey,Primates
+Cluster 387,XP_007989304,805,Chlorocebus sabaeus,Green Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Chlorocebus,Green Monkey,Primates
+Cluster 388,XP_008062810,805,Carlito syrichta,Philippine Tarsier,Metazoa,Chordata,Mammalia,Tarsiidae,Carlito,Philippine Tarsier,Primates
+Cluster 388,ENSTSYP00000010149_C,805,Carlito syrichta,Philippine Tarsier,Metazoa,Chordata,Mammalia,Tarsiidae,Carlito,Philippine Tarsier,Primates
+Cluster 388,XP_008062810,805,Carlito syrichta,Philippine Tarsier,Metazoa,Chordata,Mammalia,Tarsiidae,Carlito,Philippine Tarsier,Primates
+Cluster 389,XP_010364367,805,Rhinopithecus roxellana,Golden Snub-nosed Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Rhinopithecus,Golden Snub-nosed Monkey,Primates
+Cluster 389,XP_010364367,805,Rhinopithecus roxellana,Golden Snub-nosed Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Rhinopithecus,Golden Snub-nosed Monkey,Primates
+Cluster 390,XP_011733505,805,Macaca nemestrina,pigtail macaque,Metazoa,Chordata,Mammalia,Cercopithecidae,Macaca,pigtail macaque,Primates
+Cluster 390,ENSMNEP00000029823_M,805,Macaca nemestrina,pigtail macaque,Metazoa,Chordata,Mammalia,Cercopithecidae,Macaca,pigtail macaque,Primates
+Cluster 390,XP_011733505,805,Macaca nemestrina,pigtail macaque,Metazoa,Chordata,Mammalia,Cercopithecidae,Macaca,pigtail macaque,Primates
+Cluster 391,XP_011850923,805,Mandrillus leucophaeus,Drill,Metazoa,Chordata,Mammalia,Cercopithecidae,Mandrillus,Drill,Primates
+Cluster 391,ENSMLEP00000031718_M,805,Mandrillus leucophaeus,Drill,Metazoa,Chordata,Mammalia,Cercopithecidae,Mandrillus,Drill,Primates
+Cluster 391,XP_011850923,805,Mandrillus leucophaeus,Drill,Metazoa,Chordata,Mammalia,Cercopithecidae,Mandrillus,Drill,Primates
+Cluster 392,XP_011891198,805,Cercocebus atys,Sooty Mangabey,Metazoa,Chordata,Mammalia,Cercopithecidae,Cercocebus,Sooty Mangabey,Primates
+Cluster 392,ENSCATP00000003601_C,805,Cercocebus atys,Sooty Mangabey,Metazoa,Chordata,Mammalia,Cercopithecidae,Cercocebus,Sooty Mangabey,Primates
+Cluster 392,XP_011891201,805,Cercocebus atys,Sooty Mangabey,Metazoa,Chordata,Mammalia,Cercopithecidae,Cercocebus,Sooty Mangabey,Primates
+Cluster 393,XP_012290105,805,Aotus nancymaae,Ma's Night Monkey,Metazoa,Chordata,Mammalia,Aotidae,Aotus,Ma's Night Monkey,Primates
+Cluster 393,ENSANAP00000023235_A,805,Aotus nancymaae,Ma's Night Monkey,Metazoa,Chordata,Mammalia,Aotidae,Aotus,Ma's Night Monkey,Primates
+Cluster 393,XP_012290105,805,Aotus nancymaae,Ma's Night Monkey,Metazoa,Chordata,Mammalia,Aotidae,Aotus,Ma's Night Monkey,Primates
+Cluster 394,XP_017367865,805,Cebus capucinus imitator,NA,Metazoa,Chordata,Mammalia,Cebidae,Cebus,Cebus capucinus imitator,Primates
+Cluster 394,XP_017367865,805,Cebus capucinus imitator,NA,Metazoa,Chordata,Mammalia,Cebidae,Cebus,Cebus capucinus imitator,Primates
+Cluster 395,XP_023054821,805,Piliocolobus tephrosceles,Ashy Red Colobus,Metazoa,Chordata,Mammalia,Cercopithecidae,Piliocolobus,Ashy Red Colobus,Primates
+Cluster 395,ENSPTEP00000002790_P,805,Piliocolobus tephrosceles,Ashy Red Colobus,Metazoa,Chordata,Mammalia,Cercopithecidae,Piliocolobus,Ashy Red Colobus,Primates
+Cluster 395,XP_023054821,805,Piliocolobus tephrosceles,Ashy Red Colobus,Metazoa,Chordata,Mammalia,Cercopithecidae,Piliocolobus,Ashy Red Colobus,Primates
+Cluster 396,XP_025227847,805,Theropithecus gelada,gelada baboon,Metazoa,Chordata,Mammalia,Cercopithecidae,Theropithecus,gelada baboon,Primates
+Cluster 396,ENSTGEP00000020534_T,805,Theropithecus gelada,gelada baboon,Dipnotetrapodomorpha,Vertebrata,NA,NA,NA,gelada baboon,NA
+Cluster 396,XP_025227847,805,Theropithecus gelada,gelada baboon,Metazoa,Chordata,Mammalia,Cercopithecidae,Theropithecus,gelada baboon,Primates
+Cluster 397,XP_026867211,805,Electrophorus electricus,electric eel,Metazoa,Chordata,Actinopteri,Gymnotidae,Electrophorus,electric eel,Gymnotiformes
+Cluster 398,XP_032141854,805,Sapajus apella,Guianan Brown Capuchin,Metazoa,Chordata,Mammalia,Cebidae,Sapajus,Guianan Brown Capuchin,Primates
+Cluster 398,XP_032141854,805,Sapajus apella,Guianan Brown Capuchin,Metazoa,Chordata,Mammalia,Cebidae,Sapajus,Guianan Brown Capuchin,Primates
+Cluster 399,XP_032612508,805,Hylobates moloch,silvery gibbon,Metazoa,Chordata,Mammalia,Hylobatidae,Hylobates,silvery gibbon,Primates
+Cluster 400,XP_033056809,805,Trachypithecus francoisi,François' leaf monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Trachypithecus,François' leaf monkey,Primates
+Cluster 401,XP_034341939,805,Arvicanthis niloticus,African Arvicanthis,Metazoa,Chordata,Mammalia,Muridae,Arvicanthis,African Arvicanthis,Rodentia
+Cluster 402,XP_034852450,805,Mirounga leonina,Southern Elephant Seal,Metazoa,Chordata,Mammalia,Phocidae,Mirounga,Southern Elephant Seal,Carnivora
+Cluster 403,ENSLCAP00010012624_L,805,NA,NA,NA,NA,NA,NA,NA,ENSLCAP00010012624_L,NA
+Cluster 404,ENSCABP00000022558_C,805,Chelonoidis abingdonii,Pinta Giant Tortoise,Metazoa,Chordata,NA,Testudinidae,Chelonoidis,Pinta Giant Tortoise,Testudines
+Cluster 405,ENSJHYP00000009822_J,805,NA,NA,NA,NA,NA,NA,NA,ENSJHYP00000009822_J,NA
+Cluster 406,ENSPCLP00000009331_P,805,Phasianus colchicus,Common Pheasant,Metazoa,Chordata,Aves,Phasianidae,Phasianus,Common Pheasant,Galliformes
+Cluster 407,ENSNSUP00000017429_N,805,Notechis scutatus,Mainland Tiger Snake,Metazoa,Chordata,Lepidosauria,Elapidae,Notechis,Mainland Tiger Snake,Squamata
+Cluster 408,ENSPSMP00000005317_P,805,NA,NA,NA,NA,NA,NA,NA,ENSPSMP00000005317_P,NA
+Cluster 409,ENSRROP00000003015_R,805,Rhinopithecus roxellana,Golden Snub-nosed Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Rhinopithecus,Golden Snub-nosed Monkey,Primates
+Cluster 410,ENSNLEP00000011529_N,805,Nomascus leucogenys,Northern White-cheeked Crested Gibbon,Metazoa,Chordata,Mammalia,Hylobatidae,Nomascus,Northern White-cheeked Crested Gibbon,Primates
+Cluster 411,ENSPPAP00000029848_P,805,Pan paniscus,pygmy chimpanzee,Metazoa,Chordata,Mammalia,Hominidae,Pan,pygmy chimpanzee,Primates
+Cluster 411,XP_008972428,805,Pan paniscus,pygmy chimpanzee,Metazoa,Chordata,Mammalia,Hominidae,Pan,pygmy chimpanzee,Primates
+Cluster 412,MGP_SPRETE,805,Mspr,NA,NA,NA,NA,NA,NA,Mspr,NA
+Cluster 413,ENSFCAP00000052000_F,805,Felis catus,Domestic Cat,Metazoa,Chordata,Mammalia,Felidae,Felis,Domestic Cat,Carnivora
+Cluster 414,ENSNVIP00000026442_N,805,NA,NA,NA,NA,NA,NA,NA,ENSNVIP00000026442_N,NA
+Cluster 415,ENSUAMP00000012193_U,805,NA,NA,NA,NA,NA,NA,NA,ENSUAMP00000012193_U,NA
+Cluster 416,ENSUMAP00000011451_U,805,Ursus maritimus,Polar Bear,Metazoa,Chordata,Mammalia,Ursidae,Ursus,Polar Bear,Carnivora
+Cluster 417,ENSOARP00000013345_O,805,Ovis aries,Red Sheep,Metazoa,Chordata,Mammalia,Bovidae,Ovis,Red Sheep,Artiodactyla
+Cluster 418,ENSCWAP00000019113_C,805,NA,NA,NA,NA,NA,NA,NA,ENSCWAP00000019113_C,NA
+Cluster 419,ENSEASP00005000764_E,805,NA,NA,NA,NA,NA,NA,NA,ENSEASP00005000764_E,NA
+Cluster 420,MT560522,805,Neofelis diardi,NA,Metazoa,Chordata,Mammalia,Felidae,Neofelis,Neofelis diardi,Carnivora
+Cluster 420,MT560524,805,Neofelis nebulosa,Clouded Leopard,Metazoa,Chordata,Mammalia,Felidae,Neofelis,Clouded Leopard,Carnivora
+Cluster 421,MT515622,805,Rhinolophus pearsonii,Pearson's horseshoe bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Pearson's horseshoe bat,Chiroptera
+Cluster 422,XP_019601896,805,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Rhinolophidae,Rhinolophus,Chinese Rufous Horseshoe Bat,Chiroptera
+Cluster 423,MT560518,805,Mustela lutreola,European Mink,Metazoa,Chordata,Mammalia,Mustelidae,Mustela,European Mink,Carnivora
+Cluster 424,MT560520,805,Mustela nigripes,Black-footed Ferret,Metazoa,Chordata,Mammalia,Mustelidae,Mustela,Black-footed Ferret,Carnivora
+Cluster 425,MT515623,805,Cynopterus sphinx,greater short-nosed fruit bat,Metazoa,Chordata,Mammalia,Pteropodidae,Cynopterus,greater short-nosed fruit bat,Chiroptera
+Cluster 426,XP_028020351,804,Balaenoptera acutorostrata scammoni,North Pacific minke whale,Metazoa,Chordata,Mammalia,Balaenopteridae,Balaenoptera,North Pacific minke whale,Artiodactyla
+Cluster 426,XP_028020351,804,Balaenoptera acutorostrata scammoni,North Pacific minke whale,Metazoa,Chordata,Mammalia,Balaenopteridae,Balaenoptera,North Pacific minke whale,Artiodactyla
+Cluster 426,XP_028020351,804,Balaenoptera acutorostrata scammoni,North Pacific minke whale,Metazoa,Chordata,Mammalia,Balaenopteridae,Balaenoptera,North Pacific minke whale,Artiodactyla
+Cluster 427,XP_023971279,804,Physeter catodon,Sperm Whale,Metazoa,Chordata,Mammalia,Physeteridae,Physeter,Sperm Whale,Artiodactyla
+Cluster 427,XP_023971279,804,Physeter catodon,Sperm Whale,Metazoa,Chordata,Mammalia,Physeteridae,Physeter,Sperm Whale,Artiodactyla
+Cluster 427,ENSPCTP00005001509_P,804,Physeter catodon,Sperm Whale,Metazoa,Chordata,Mammalia,Physeteridae,Physeter,Sperm Whale,Artiodactyla
+Cluster 427,XP_023971279,804,Physeter catodon,Sperm Whale,Metazoa,Chordata,Mammalia,Physeteridae,Physeter,Sperm Whale,Artiodactyla
+Cluster 428,XP_007466389,804,Lipotes vexillifer,Chinese river dolphin,Metazoa,Chordata,Mammalia,Lipotidae,Lipotes,Chinese river dolphin,Artiodactyla
+Cluster 428,XP_007466389,804,Lipotes vexillifer,Chinese river dolphin,Metazoa,Chordata,Mammalia,Lipotidae,Lipotes,Chinese river dolphin,Artiodactyla
+Cluster 428,XP_007466389,804,Lipotes vexillifer,Chinese river dolphin,Metazoa,Chordata,Mammalia,Lipotidae,Lipotes,Chinese river dolphin,Artiodactyla
+Cluster 429,XP_029095804,804,Monodon monoceros,Narwhal,Metazoa,Chordata,Mammalia,Monodontidae,Monodon,Narwhal,Artiodactyla
+Cluster 429,TKC38591,794,Monodon monoceros,Narwhal,Metazoa,Chordata,Mammalia,Monodontidae,Monodon,Narwhal,Artiodactyla
+Cluster 429,XP_029095804,804,Monodon monoceros,Narwhal,Metazoa,Chordata,Mammalia,Monodontidae,Monodon,Narwhal,Artiodactyla
+Cluster 429,XP_029095804,804,Monodon monoceros,Narwhal,Metazoa,Chordata,Mammalia,Monodontidae,Monodon,Narwhal,Artiodactyla
+Cluster 430,KAB0345583,804,Muntiacus muntjak,Red Muntjac,Metazoa,Chordata,Mammalia,Cervidae,Muntiacus,Red Muntjac,Artiodactyla
+Cluster 431,XP_022418360,804,Delphinapterus leucas,white whale,Metazoa,Chordata,Mammalia,Monodontidae,Delphinapterus,white whale,Artiodactyla
+Cluster 431,XP_022418360,804,Delphinapterus leucas,white whale,Metazoa,Chordata,Mammalia,Monodontidae,Delphinapterus,white whale,Artiodactyla
+Cluster 431,XP_022418360,804,Delphinapterus leucas,white whale,Metazoa,Chordata,Mammalia,Monodontidae,Delphinapterus,white whale,Artiodactyla
+Cluster 432,XP_026951598,804,Lagenorhynchus obliquidens,Pacific White-sided Dolphin,Metazoa,Chordata,Mammalia,Delphinidae,Lagenorhynchus,Pacific White-sided Dolphin,Artiodactyla
+Cluster 432,XP_026951598,804,Lagenorhynchus obliquidens,Pacific White-sided Dolphin,Metazoa,Chordata,Mammalia,Delphinidae,Lagenorhynchus,Pacific White-sided Dolphin,Artiodactyla
+Cluster 432,XP_026951598,804,Lagenorhynchus obliquidens,Pacific White-sided Dolphin,Metazoa,Chordata,Mammalia,Delphinidae,Lagenorhynchus,Pacific White-sided Dolphin,Artiodactyla
+Cluster 433,XP_004269705,804,Orcinus orca,Killer Whale,Metazoa,Chordata,Mammalia,Delphinidae,Orcinus,Killer Whale,Artiodactyla
+Cluster 433,XP_004269705,804,Orcinus orca,Killer Whale,Metazoa,Chordata,Mammalia,Delphinidae,Orcinus,Killer Whale,Artiodactyla
+Cluster 433,XP_004269705,804,Orcinus orca,Killer Whale,Metazoa,Chordata,Mammalia,Delphinidae,Orcinus,Killer Whale,Artiodactyla
+Cluster 434,XP_005903173,804,Bos mutus,wild yak,Metazoa,Chordata,Mammalia,Bovidae,Bos,wild yak,Artiodactyla
+Cluster 434,XP_005903173,804,Bos mutus,wild yak,Metazoa,Chordata,Mammalia,Bovidae,Bos,wild yak,Artiodactyla
+Cluster 434,ENSBMUP00000026902_B,804,Bos mutus,wild yak,Metazoa,Chordata,Mammalia,Bovidae,Bos,wild yak,Artiodactyla
+Cluster 434,XP_005903173,804,Bos mutus,wild yak,Metazoa,Chordata,Mammalia,Bovidae,Bos,wild yak,Artiodactyla
+Cluster 435,XP_019781177,804,Tursiops truncatus,Bottlenose Dolphin,Metazoa,Chordata,Mammalia,Delphinidae,Tursiops,Bottlenose Dolphin,Artiodactyla
+Cluster 435,XP_019781177,804,Tursiops truncatus,Bottlenose Dolphin,Metazoa,Chordata,Mammalia,Delphinidae,Tursiops,Bottlenose Dolphin,Artiodactyla
+Cluster 436,XP_011961657,804,Ovis aries,Red Sheep,Metazoa,Chordata,Mammalia,Bovidae,Ovis,Red Sheep,Artiodactyla
+Cluster 436,XP_011961657,804,Ovis aries,Red Sheep,Metazoa,Chordata,Mammalia,Bovidae,Ovis,Red Sheep,Artiodactyla
+Cluster 436,XP_011961657,804,Ovis aries,Red Sheep,Metazoa,Chordata,Mammalia,Bovidae,Ovis,Red Sheep,Artiodactyla
+Cluster 437,XP_030703991,804,Globicephala melas,globicéphale noir de l'Atlantique,Metazoa,Chordata,Mammalia,Delphinidae,Globicephala,globicéphale noir de l'Atlantique,Artiodactyla
+Cluster 437,XP_030703991,804,Globicephala melas,globicéphale noir de l'Atlantique,Metazoa,Chordata,Mammalia,Delphinidae,Globicephala,globicéphale noir de l'Atlantique,Artiodactyla
+Cluster 437,XP_030703991,804,Globicephala melas,globicéphale noir de l'Atlantique,Metazoa,Chordata,Mammalia,Delphinidae,Globicephala,globicéphale noir de l'Atlantique,Artiodactyla
+Cluster 438,NP_001277036,804,Capra hircus,domestic goat,Metazoa,Chordata,Mammalia,Bovidae,Capra,domestic goat,Artiodactyla
+Cluster 438,NP_001277036,804,Capra hircus,domestic goat,Metazoa,Chordata,Mammalia,Bovidae,Capra,domestic goat,Artiodactyla
+Cluster 438,NP_001277036,804,Capra hircus,domestic goat,Metazoa,Chordata,Mammalia,Bovidae,Capra,domestic goat,Artiodactyla
+Cluster 439,XP_027389729,804,Bos indicus x Bos taurus,NA,Metazoa,Chordata,Mammalia,Bovidae,Bos,Bos indicus x Bos taurus,Artiodactyla
+Cluster 440,XP_005228486,804,Bos taurus,aurochs,Metazoa,Chordata,Mammalia,Bovidae,Bos,aurochs,Artiodactyla
+Cluster 440,ENSBTAP00000045721_B,743,Bos taurus,aurochs,Metazoa,Chordata,Mammalia,Bovidae,Bos,aurochs,Artiodactyla
+Cluster 441,XP_005701129,804,Capra hircus,domestic goat,Metazoa,Chordata,Mammalia,Bovidae,Capra,domestic goat,Artiodactyla
+Cluster 441,XP_017899103,743,Capra hircus,domestic goat,Metazoa,Chordata,Mammalia,Bovidae,Capra,domestic goat,Artiodactyla
+Cluster 441,ENSCHIP00000016062_C,804,Capra hircus,domestic goat,Metazoa,Chordata,Mammalia,Bovidae,Capra,domestic goat,Artiodactyla
+Cluster 442,XP_024599894,804,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,Metazoa,Chordata,Mammalia,Phocoenidae,Neophocaena,Yangtze finless porpoise,Artiodactyla
+Cluster 442,XP_024599894,804,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,Metazoa,Chordata,Mammalia,Phocoenidae,Neophocaena,Yangtze finless porpoise,Artiodactyla
+Cluster 442,XP_024599894,804,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,Metazoa,Chordata,Mammalia,Phocoenidae,Neophocaena,Yangtze finless porpoise,Artiodactyla
+Cluster 443,NP_001019673,804,Bos taurus,aurochs,Metazoa,Chordata,Mammalia,Bovidae,Bos,aurochs,Artiodactyla
+Cluster 443,NP_001019673,804,Bos taurus,aurochs,Metazoa,Chordata,Mammalia,Bovidae,Bos,aurochs,Artiodactyla
+Cluster 444,XP_032476001,804,Phocoena sinus,cochito,Metazoa,Chordata,Mammalia,Phocoenidae,Phocoena,cochito,Artiodactyla
+Cluster 444,XP_032476001,804,Phocoena sinus,cochito,Metazoa,Chordata,Mammalia,Phocoenidae,Phocoena,cochito,Artiodactyla
+Cluster 445,XP_019811720,804,Bos indicus,Brahma cattle,Metazoa,Chordata,Mammalia,Bovidae,Bos,Brahma cattle,Artiodactyla
+Cluster 446,XP_016058453,804,Miniopterus natalensis,Natal Long-fingered Bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Miniopterus,Natal Long-fingered Bat,Chiroptera
+Cluster 446,XP_016058453,804,Miniopterus natalensis,Natal Long-fingered Bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Miniopterus,Natal Long-fingered Bat,Chiroptera
+Cluster 447,XP_004449124,804,Dasypus novemcinctus,long-nosed armadillo,Metazoa,Chordata,Mammalia,Dasypodidae,Dasypus,long-nosed armadillo,Cingulata
+Cluster 447,XP_004449124,804,Dasypus novemcinctus,long-nosed armadillo,Metazoa,Chordata,Mammalia,Dasypodidae,Dasypus,long-nosed armadillo,Cingulata
+Cluster 447,XP_004449124,804,Dasypus novemcinctus,long-nosed armadillo,Metazoa,Chordata,Mammalia,Dasypodidae,Dasypus,long-nosed armadillo,Cingulata
+Cluster 448,XP_011361275,804,Pteropus vampyrus,large flying fox,Metazoa,Chordata,Mammalia,Pteropodidae,Pteropus,large flying fox,Chiroptera
+Cluster 448,XP_011361275,804,Pteropus vampyrus,large flying fox,Metazoa,Chordata,Mammalia,Pteropodidae,Pteropus,large flying fox,Chiroptera
+Cluster 448,XP_011361275,804,Pteropus vampyrus,large flying fox,Metazoa,Chordata,Mammalia,Pteropodidae,Pteropus,large flying fox,Chiroptera
+Cluster 449,XP_024425698,804,Desmodus rotundus,vampire bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Desmodus,vampire bat,Chiroptera
+Cluster 449,XP_024425699,737,Desmodus rotundus,vampire bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Desmodus,vampire bat,Chiroptera
+Cluster 449,XP_024425698,804,Desmodus rotundus,vampire bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Desmodus,vampire bat,Chiroptera
+Cluster 449,XP_024425698,804,Desmodus rotundus,vampire bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Desmodus,vampire bat,Chiroptera
+Cluster 450,XP_028378317,804,Phyllostomus discolor,pale spear-nosed bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Phyllostomus,pale spear-nosed bat,Chiroptera
+Cluster 450,XP_028378317,804,Phyllostomus discolor,pale spear-nosed bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Phyllostomus,pale spear-nosed bat,Chiroptera
+Cluster 450,XP_028378317,804,Phyllostomus discolor,pale spear-nosed bat,Metazoa,Chordata,Mammalia,Phyllostomidae,Phyllostomus,pale spear-nosed bat,Chiroptera
+Cluster 451,KFO55775,804,Corvus brachyrhynchos,Cuervo americano,Metazoa,Chordata,Aves,Corvidae,Corvus,Cuervo americano,Passeriformes
+Cluster 452,XP_025976569,804,Dromaius novaehollandiae,Emu,Metazoa,Chordata,Aves,Dromaiidae,Dromaius,Emu,Casuariiformes
+Cluster 452,XP_025976569,804,Dromaius novaehollandiae,Emu,Metazoa,Chordata,Aves,Dromaiidae,Dromaius,Emu,Casuariiformes
+Cluster 452,ENSDNVP00000022831_D,804,Dromaius novaehollandiae,Emu,Metazoa,Chordata,Aves,Dromaiidae,Dromaius,Emu,Casuariiformes
+Cluster 452,XP_025976569,804,Dromaius novaehollandiae,Emu,Metazoa,Chordata,Aves,Dromaiidae,Dromaius,Emu,Casuariiformes
+Cluster 453,XP_017550079,804,Pygocentrus nattereri,NA,Metazoa,Chordata,Actinopteri,Serrasalmidae,Pygocentrus,Pygocentrus nattereri,Characiformes
+Cluster 453,XP_017550079,804,Pygocentrus nattereri,NA,Metazoa,Chordata,Actinopteri,Serrasalmidae,Pygocentrus,Pygocentrus nattereri,Characiformes
+Cluster 453,ENSPNAP00000027968_P,683,Pygocentrus nattereri,NA,Metazoa,Chordata,Actinopteri,Serrasalmidae,Pygocentrus,Pygocentrus nattereri,Characiformes
+Cluster 453,XP_017550079,804,Pygocentrus nattereri,NA,Metazoa,Chordata,Actinopteri,Serrasalmidae,Pygocentrus,Pygocentrus nattereri,Characiformes
+Cluster 454,XP_016350321,804,Sinocyclocheilus anshuiensis,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus anshuiensis,Cypriniformes
+Cluster 455,XP_016404211,804,Sinocyclocheilus rhinocerous,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus rhinocerous,Cypriniformes
+Cluster 456,XP_030627971,804,Chanos chanos,sabalote,Metazoa,Chordata,Actinopteri,Chanidae,Chanos,sabalote,Gonorynchiformes
+Cluster 456,XP_030627971,804,Chanos chanos,sabalote,Metazoa,Chordata,Actinopteri,Chanidae,Chanos,sabalote,Gonorynchiformes
+Cluster 457,NP_001269290,804,Chinchilla lanigera,Long-tailed Chinchilla,Metazoa,Chordata,Mammalia,Chinchillidae,Chinchilla,Long-tailed Chinchilla,Rodentia
+Cluster 457,NP_001269290,804,Chinchilla lanigera,Long-tailed Chinchilla,Metazoa,Chordata,Mammalia,Chinchillidae,Chinchilla,Long-tailed Chinchilla,Rodentia
+Cluster 458,XP_005358818,804,Microtus ochrogaster,Prairie Vole,Metazoa,Chordata,Mammalia,Cricetidae,Microtus,Prairie Vole,Rodentia
+Cluster 458,XP_005358818,804,Microtus ochrogaster,Prairie Vole,Metazoa,Chordata,Mammalia,Cricetidae,Microtus,Prairie Vole,Rodentia
+Cluster 458,ENSMOCP00000012209_M,804,Microtus ochrogaster,Prairie Vole,Metazoa,Chordata,Mammalia,Cricetidae,Microtus,Prairie Vole,Rodentia
+Cluster 458,XP_005358818,804,Microtus ochrogaster,Prairie Vole,Metazoa,Chordata,Mammalia,Cricetidae,Microtus,Prairie Vole,Rodentia
+Cluster 459,XP_008839098,804,Nannospalax galili,NA,Metazoa,Chordata,Mammalia,Spalacidae,Nannospalax,Nannospalax galili,Rodentia
+Cluster 459,XP_008839098,804,Nannospalax galili,NA,Metazoa,Chordata,Mammalia,Spalacidae,Nannospalax,Nannospalax galili,Rodentia
+Cluster 459,ENSNGAP00000016609_N,804,Nannospalax galili,NA,Metazoa,Chordata,Mammalia,Spalacidae,Nannospalax,Nannospalax galili,Rodentia
+Cluster 459,XP_008839098,804,Nannospalax galili,NA,Metazoa,Chordata,Mammalia,Spalacidae,Nannospalax,Nannospalax galili,Rodentia
+Cluster 460,XP_005641049,804,Canis lupus familiaris,domestic dog,Metazoa,Chordata,Mammalia,Canidae,Canis,domestic dog,Carnivora
+Cluster 460,XP_025292925,804,Canis lupus dingo,dingo,Metazoa,Chordata,Mammalia,Canidae,Canis,dingo,Carnivora
+Cluster 460,ENSCAFP00040021511_C,804,NA,NA,NA,NA,NA,NA,NA,ENSCAFP00040021511_C,NA
+Cluster 460,ENSCAFP00000041771_C,804,Canis lupus familiaris,domestic dog,Metazoa,Chordata,Mammalia,Canidae,Canis,domestic dog,Carnivora
+Cluster 461,ABW16956,804,Nyctereutes procyonoides,Raccoon dog,Metazoa,Chordata,Mammalia,Canidae,Nyctereutes,Raccoon dog,Carnivora
+Cluster 462,XP_025292925,804,Canis lupus dingo,dingo,Metazoa,Chordata,Mammalia,Canidae,Canis,dingo,Carnivora
+Cluster 462,ENSCAFP00020004437_C,804,Canis lupus dingo,dingo,Metazoa,Chordata,Mammalia,Canidae,Canis,dingo,Carnivora
+Cluster 462,XP_025292925,804,Canis lupus dingo,dingo,Metazoa,Chordata,Mammalia,Canidae,Canis,dingo,Carnivora
+Cluster 463,XP_025842512,804,Vulpes vulpes,Red Fox,Metazoa,Chordata,Mammalia,Canidae,Vulpes,Red Fox,Carnivora
+Cluster 463,XP_025842512,804,Vulpes vulpes,Red Fox,Metazoa,Chordata,Mammalia,Canidae,Vulpes,Red Fox,Carnivora
+Cluster 463,ENSVVUP00000013100_V,804,Vulpes vulpes,Red Fox,Metazoa,Chordata,Mammalia,Canidae,Vulpes,Red Fox,Carnivora
+Cluster 463,XP_025842512,804,Vulpes vulpes,Red Fox,Metazoa,Chordata,Mammalia,Canidae,Vulpes,Red Fox,Carnivora
+Cluster 464,NP_001158732,804,Canis lupus familiaris,domestic dog,Metazoa,Chordata,Mammalia,Canidae,Canis,domestic dog,Carnivora
+Cluster 464,NP_001158732,804,Canis lupus familiaris,domestic dog,Metazoa,Chordata,Mammalia,Canidae,Canis,domestic dog,Carnivora
+Cluster 464,NP_001158732,804,Canis lupus familiaris,domestic dog,Metazoa,Chordata,Mammalia,Canidae,Canis,domestic dog,Carnivora
+Cluster 465,XP_007538670,804,Erinaceus europaeus,West European Hedgehog,Metazoa,Chordata,Mammalia,Erinaceidae,Erinaceus,West European Hedgehog,Eulipotyphla
+Cluster 465,XP_007538670,804,Erinaceus europaeus,West European Hedgehog,Metazoa,Chordata,Mammalia,Erinaceidae,Erinaceus,West European Hedgehog,Eulipotyphla
+Cluster 465,XP_007538670,804,Erinaceus europaeus,West European Hedgehog,Metazoa,Chordata,Mammalia,Erinaceidae,Erinaceus,West European Hedgehog,Eulipotyphla
+Cluster 466,XP_019781177,804,Tursiops truncatus,Bottlenose Dolphin,Metazoa,Chordata,Mammalia,Delphinidae,Tursiops,Bottlenose Dolphin,Artiodactyla
+Cluster 467,ENSCPBP00000021630_C,804,Chrysemys picta,Painted Turtle,Metazoa,Chordata,NA,Emydidae,Chrysemys,Painted Turtle,Testudines
+Cluster 468,ENSTGUP00000020568_T,804,Taeniopygia guttata,Zebra Finch,Metazoa,Chordata,Aves,Estrildidae,Taeniopygia,Zebra Finch,Passeriformes
+Cluster 469,ENSANIP00000024403_A,804,NA,NA,NA,NA,NA,NA,NA,ENSANIP00000024403_A,NA
+Cluster 470,ENSSSUP00005027518_S,804,Suricata suricatta,NA,Metazoa,Chordata,Mammalia,Herpestidae,Suricata,Suricata suricatta,Carnivora
+Cluster 471,ENSTTRP00000003366_T,804,NA,NA,NA,NA,NA,NA,NA,ENSTTRP00000003366_T,NA
+Cluster 472,ENSMMSP00000022538_M,804,NA,NA,NA,NA,NA,NA,NA,ENSMMSP00000022538_M,NA
+Cluster 473,MT515624,804,Megaderma lyra,greater false vampire bat,Metazoa,Chordata,Mammalia,Megadermatidae,Megaderma,greater false vampire bat,Chiroptera
+Cluster 474,XP_006041602,803,Bubalus bubalis,water buffalo,Metazoa,Chordata,Mammalia,Bovidae,Bubalus,water buffalo,Artiodactyla
+Cluster 474,XP_006041602,803,Bubalus bubalis,water buffalo,Metazoa,Chordata,Mammalia,Bovidae,Bubalus,water buffalo,Artiodactyla
+Cluster 474,XP_006041602,803,Bubalus bubalis,water buffalo,Metazoa,Chordata,Mammalia,Bovidae,Bubalus,water buffalo,Artiodactyla
+Cluster 475,KFO91230,803,Buceros rhinoceros silvestris,NA,Metazoa,Chordata,Aves,Bucerotidae,Buceros,Buceros rhinoceros silvestris,Bucerotiformes
+Cluster 476,KFP57867,803,Cathartes aura,Zopilote aura,Metazoa,Chordata,Aves,Cathartidae,Cathartes,Zopilote aura,Accipitriformes
+Cluster 477,KFQ92425,803,Nipponia nippon,Japanese Crested Ibis,Metazoa,Chordata,Aves,Threskiornithidae,Nipponia,Japanese Crested Ibis,Pelecaniformes
+Cluster 478,KFP42826,803,Chlamydotis macqueenii,Macqueen's Bustard,Metazoa,Chordata,Aves,Otididae,Chlamydotis,Macqueen's Bustard,Gruiformes
+Cluster 479,RMC06429,803,Hirundo rustica rustica,NA,Metazoa,Chordata,Aves,Hirundinidae,Hirundo,Hirundo rustica rustica,Passeriformes
+Cluster 480,XP_026020155,803,Astatotilapia calliptera,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Astatotilapia,Astatotilapia calliptera,Cichliformes
+Cluster 480,XP_026020155,803,Astatotilapia calliptera,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Astatotilapia,Astatotilapia calliptera,Cichliformes
+Cluster 480,ENSACLP00000030383_A,803,Astatotilapia calliptera,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Astatotilapia,Astatotilapia calliptera,Cichliformes
+Cluster 480,XP_026020155,803,Astatotilapia calliptera,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Astatotilapia,Astatotilapia calliptera,Cichliformes
+Cluster 481,XP_004543482,803,Maylandia zebra,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Maylandia,Maylandia zebra,Cichliformes
+Cluster 481,XP_004543482,803,Maylandia zebra,NA,Actinopteri,Vertebrata,NA,NA,NA,Maylandia zebra,NA
+Cluster 481,ENSMZEP00005008212_M,803,Maylandia zebra,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Maylandia,Maylandia zebra,Cichliformes
+Cluster 481,XP_004543482,803,Maylandia zebra,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Maylandia,Maylandia zebra,Cichliformes
+Cluster 482,ACT66266,803,Pipistrellus abramus,Japanese Pipistrelle,Metazoa,Chordata,Mammalia,Vespertilionidae,Pipistrellus,Japanese Pipistrelle,Chiroptera
+Cluster 482,ACT66266,803,Pipistrellus abramus,Japanese Pipistrelle,Metazoa,Chordata,Mammalia,Vespertilionidae,Pipistrellus,Japanese Pipistrelle,Chiroptera
+Cluster 483,XP_004612266,803,Sorex araneus,Common Shrew,Metazoa,Chordata,Mammalia,Soricidae,Sorex,Common Shrew,Eulipotyphla
+Cluster 483,XP_004612266,803,Sorex araneus,Common Shrew,Metazoa,Chordata,Mammalia,Soricidae,Sorex,Common Shrew,Eulipotyphla
+Cluster 483,XP_004612266,803,Sorex araneus,Common Shrew,Metazoa,Chordata,Mammalia,Soricidae,Sorex,Common Shrew,Eulipotyphla
+Cluster 484,KFW94280,803,Phalacrocorax carbo,Great Cormorant,Metazoa,Chordata,Aves,Phalacrocoracidae,Phalacrocorax,Great Cormorant,Pelecaniformes
+Cluster 485,XP_019384827,765,Crocodylus porosus,saltwater crocodile,Metazoa,Chordata,NA,Crocodylidae,Crocodylus,saltwater crocodile,Crocodylia
+Cluster 485,XP_019384826,803,Crocodylus porosus,saltwater crocodile,Metazoa,Chordata,NA,Crocodylidae,Crocodylus,saltwater crocodile,Crocodylia
+Cluster 485,XP_019384826,803,Crocodylus porosus,saltwater crocodile,Metazoa,Chordata,NA,Crocodylidae,Crocodylus,saltwater crocodile,Crocodylia
+Cluster 485,XP_019384826,803,Crocodylus porosus,saltwater crocodile,Metazoa,Chordata,NA,Crocodylidae,Crocodylus,saltwater crocodile,Crocodylia
+Cluster 486,XP_019381061,765,Gavialis gangeticus,Gavial,Metazoa,Chordata,NA,Gavialidae,Gavialis,Gavial,Crocodylia
+Cluster 486,XP_019381060,803,Gavialis gangeticus,Gavial,Metazoa,Chordata,NA,Gavialidae,Gavialis,Gavial,Crocodylia
+Cluster 486,XP_019381060,803,Gavialis gangeticus,Gavial,Metazoa,Chordata,NA,Gavialidae,Gavialis,Gavial,Crocodylia
+Cluster 486,XP_019381060,803,Gavialis gangeticus,Gavial,Metazoa,Chordata,NA,Gavialidae,Gavialis,Gavial,Crocodylia
+Cluster 487,XP_025066629,765,Alligator sinensis,Chinese Alligator,Metazoa,Chordata,NA,Alligatoridae,Alligator,Chinese Alligator,Crocodylia
+Cluster 487,XP_025066628,803,Alligator sinensis,Chinese Alligator,Metazoa,Chordata,NA,Alligatoridae,Alligator,Chinese Alligator,Crocodylia
+Cluster 487,XP_025066628,803,Alligator sinensis,Chinese Alligator,Metazoa,Chordata,NA,Alligatoridae,Alligator,Chinese Alligator,Crocodylia
+Cluster 487,XP_025066628,803,Alligator sinensis,Chinese Alligator,Metazoa,Chordata,NA,Alligatoridae,Alligator,Chinese Alligator,Crocodylia
+Cluster 488,XP_030582139,803,Archocentrus centrarchus,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Archocentrus,Archocentrus centrarchus,Cichliformes
+Cluster 488,XP_030582139,803,Archocentrus centrarchus,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Archocentrus,Archocentrus centrarchus,Cichliformes
+Cluster 488,XP_030582139,803,Archocentrus centrarchus,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Archocentrus,Archocentrus centrarchus,Cichliformes
+Cluster 489,XP_005943362,803,Haplochromis burtoni,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Haplochromis,Haplochromis burtoni,Cichliformes
+Cluster 489,XP_005943362,803,Haplochromis burtoni,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Haplochromis,Haplochromis burtoni,Cichliformes
+Cluster 489,ENSHBUP00000035213_H,803,Haplochromis burtoni,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Haplochromis,Haplochromis burtoni,Cichliformes
+Cluster 489,XP_005943362,803,Haplochromis burtoni,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Haplochromis,Haplochromis burtoni,Cichliformes
+Cluster 490,XP_005724169,803,Pundamilia nyererei,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Pundamilia,Pundamilia nyererei,Cichliformes
+Cluster 490,XP_005724169,803,Pundamilia nyererei,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Pundamilia,Pundamilia nyererei,Cichliformes
+Cluster 490,ENSPNYP00000030809_P,772,Pundamilia nyererei,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Pundamilia,Pundamilia nyererei,Cichliformes
+Cluster 490,XP_005724169,803,Pundamilia nyererei,NA,Metazoa,Chordata,Actinopteri,Cichlidae,Pundamilia,Pundamilia nyererei,Cichliformes
+Cluster 491,XP_006780474,803,Neolamprologus brichardi,fairy cichlid,Metazoa,Chordata,Actinopteri,Cichlidae,Neolamprologus,fairy cichlid,Cichliformes
+Cluster 491,XP_006780474,803,Neolamprologus brichardi,fairy cichlid,Metazoa,Chordata,Actinopteri,Cichlidae,Neolamprologus,fairy cichlid,Cichliformes
+Cluster 492,ENSLCOP00000003526_L,803,Lepidothrix coronata,Blue-crowned Manakin,Metazoa,Chordata,Aves,Pipridae,Lepidothrix,Blue-crowned Manakin,Passeriformes
+Cluster 493,ENSZALP00000010592_Z,803,Zonotrichia albicollis,Gorrión garganta blanca,Metazoa,Chordata,Aves,Passerellidae,Zonotrichia,Gorrión garganta blanca,Passeriformes
+Cluster 494,ENSACOP00000001045_A,803,NA,NA,NA,NA,NA,NA,NA,ENSACOP00000001045_A,NA
+Cluster 495,ENSACCP00020014222_A,803,Aquila chrysaetos chrysaetos,NA,Metazoa,Chordata,Aves,Accipitridae,Aquila,Aquila chrysaetos chrysaetos,Accipitriformes
+Cluster 496,ENSVURP00010029576_V,803,Vombatus ursinus,Common Wombat,Metazoa,Chordata,Mammalia,Vombatidae,Vombatus,Common Wombat,Diprotodontia
+Cluster 497,XP_005466868,802,Oreochromis niloticus,Nile mouthbreeder,Metazoa,Chordata,Actinopteri,Cichlidae,Oreochromis,Nile mouthbreeder,Cichliformes
+Cluster 498,XP_029978931,802,Sphaeramia orbicularis,NA,Metazoa,Chordata,Actinopteri,Apogonidae,Sphaeramia,Sphaeramia orbicularis,Kurtiformes
+Cluster 499,XP_016887914,802,Cynoglossus semilaevis,NA,Metazoa,Chordata,Actinopteri,Cynoglossidae,Cynoglossus,Cynoglossus semilaevis,Pleuronectiformes
+Cluster 499,XP_016887914,802,Cynoglossus semilaevis,NA,Metazoa,Chordata,Actinopteri,Cynoglossidae,Cynoglossus,Cynoglossus semilaevis,Pleuronectiformes
+Cluster 499,ENSCSEP00000001568_C,802,Cynoglossus semilaevis,NA,Metazoa,Chordata,Actinopteri,Cynoglossidae,Cynoglossus,Cynoglossus semilaevis,Pleuronectiformes
+Cluster 499,XP_016887914,802,Cynoglossus semilaevis,NA,Metazoa,Chordata,Actinopteri,Cynoglossidae,Cynoglossus,Cynoglossus semilaevis,Pleuronectiformes
+Cluster 500,ENSCPGP00000007987_C,802,NA,NA,NA,NA,NA,NA,NA,ENSCPGP00000007987_C,NA
+Cluster 501,ENSVKKP00000008337_V,802,NA,NA,NA,NA,NA,NA,NA,ENSVKKP00000008337_V,NA
+Cluster 502,ENSPPYP00000022536_P,802,Pongo abelii,Sumatran Orangutan,Metazoa,Chordata,Mammalia,Hominidae,Pongo,Sumatran Orangutan,Primates
+Cluster 503,MT560523,802,Chrysocyon brachyurus,Maned Wolf,Metazoa,Chordata,Mammalia,Canidae,Chrysocyon,Maned Wolf,Carnivora
+Cluster 504,MT560521,802,Speothos venaticus,Bush Dog,Metazoa,Chordata,Mammalia,Canidae,Speothos,Bush Dog,Carnivora
+Cluster 505,KAA8595870,801,Etheostoma spectabile,orangethroat darter,Metazoa,Chordata,Actinopteri,Percidae,Etheostoma,orangethroat darter,Perciformes
+Cluster 506,ENSCCAP00000008763_C,801,Cebus capucinus imitator,NA,Metazoa,Chordata,Mammalia,Cebidae,Cebus,Cebus capucinus imitator,Primates
+Cluster 507,XP_004386381,800,Trichechus manatus latirostris,Florida manatee,Metazoa,Chordata,Mammalia,Trichechidae,Trichechus,Florida manatee,Sirenia
+Cluster 507,XP_004386381,800,Trichechus manatus latirostris,Florida manatee,Metazoa,Chordata,Mammalia,Trichechidae,Trichechus,Florida manatee,Sirenia
+Cluster 507,XP_004386381,800,Trichechus manatus latirostris,Florida manatee,Metazoa,Chordata,Mammalia,Trichechidae,Trichechus,Florida manatee,Sirenia
+Cluster 508,XP_023410960,800,Loxodonta africana,African savannah elephant,Metazoa,Chordata,Mammalia,Elephantidae,Loxodonta,African savannah elephant,Proboscidea
+Cluster 508,XP_023410960,800,Loxodonta africana,African savannah elephant,Metazoa,Chordata,Mammalia,Elephantidae,Loxodonta,African savannah elephant,Proboscidea
+Cluster 508,ENSLAFP00000009226_L,800,NA,NA,NA,NA,NA,NA,NA,ENSLAFP00000009226_L,NA
+Cluster 508,XP_023410960,800,Loxodonta africana,African savannah elephant,Metazoa,Chordata,Mammalia,Elephantidae,Loxodonta,African savannah elephant,Proboscidea
+Cluster 509,XP_012585871,800,Condylura cristata,condylure étoilé,Metazoa,Chordata,Mammalia,Talpidae,Condylura,condylure étoilé,Eulipotyphla
+Cluster 509,XP_012585871,800,Condylura cristata,condylure étoilé,Metazoa,Chordata,Mammalia,Talpidae,Condylura,condylure étoilé,Eulipotyphla
+Cluster 509,XP_012585871,800,Condylura cristata,condylure étoilé,Metazoa,Chordata,Mammalia,Talpidae,Condylura,condylure étoilé,Eulipotyphla
+Cluster 510,KFP67600,800,Cariama cristata,Red-legged Seriema,Metazoa,Chordata,Aves,Cariamidae,Cariama,Red-legged Seriema,Cariamiformes
+Cluster 511,ENSPCIP00000025943_P,800,Phascolarctos cinereus,Koala,Metazoa,Chordata,Mammalia,Phascolarctidae,Phascolarctos,Koala,Diprotodontia
+Cluster 512,XP_023609439,799,Myotis lucifugus,little brown bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,little brown bat,Chiroptera
+Cluster 513,XP_014399782,799,Myotis brandtii,Brandt's Myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,Brandt's Myotis,Chiroptera
+Cluster 514,XP_015426919,799,Myotis davidii,David's Myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,David's Myotis,Chiroptera
+Cluster 515,XP_027986092,799,Eptesicus fuscus,big brown bat,Metazoa,Chordata,Mammalia,Vespertilionidae,Eptesicus,big brown bat,Chiroptera
+Cluster 516,XP_006835673,799,Chrysochloris asiatica,Cape Golden Mole,Metazoa,Chordata,Mammalia,Chrysochloridae,Chrysochloris,Cape Golden Mole,NA
+Cluster 516,XP_006835673,799,Chrysochloris asiatica,Cape Golden Mole,Metazoa,Chordata,Mammalia,Chrysochloridae,Chrysochloris,Cape Golden Mole,NA
+Cluster 516,XP_006835673,799,Chrysochloris asiatica,Cape Golden Mole,Metazoa,Chordata,Mammalia,Chrysochloridae,Chrysochloris,Cape Golden Mole,NA
+Cluster 517,XP_007951028,799,Orycteropus afer afer,NA,Metazoa,Chordata,Mammalia,Orycteropodidae,Orycteropus,Orycteropus afer afer,Tubulidentata
+Cluster 517,XP_007951028,799,Orycteropus afer afer,NA,Metazoa,Chordata,Mammalia,Orycteropodidae,Orycteropus,Orycteropus afer afer,Tubulidentata
+Cluster 517,XP_007951028,799,Orycteropus afer afer,NA,Metazoa,Chordata,Mammalia,Orycteropodidae,Orycteropus,Orycteropus afer afer,Tubulidentata
+Cluster 518,XP_008937519,799,Merops nubicus,Northern Carmine Bee-eater,Metazoa,Chordata,Aves,Meropidae,Merops,Northern Carmine Bee-eater,Coraciiformes
+Cluster 518,XP_008937519,799,Merops nubicus,Northern Carmine Bee-eater,Metazoa,Chordata,Aves,Meropidae,Merops,Northern Carmine Bee-eater,Coraciiformes
+Cluster 518,XP_008937519,799,Merops nubicus,Northern Carmine Bee-eater,Metazoa,Chordata,Aves,Meropidae,Merops,Northern Carmine Bee-eater,Coraciiformes
+Cluster 519,XP_021154486,799,Columba livia,Paloma doméstica,Metazoa,Chordata,Aves,Columbidae,Columba,Paloma doméstica,Columbiformes
+Cluster 519,XP_021154486,799,Columba livia,Paloma doméstica,Metazoa,Chordata,Aves,Columbidae,Columba,Paloma doméstica,Columbiformes
+Cluster 519,XP_021154486,799,Columba livia,Paloma doméstica,Metazoa,Chordata,Aves,Columbidae,Columba,Paloma doméstica,Columbiformes
+Cluster 520,XP_028655640,799,Erpetoichthys calabaricus,snakefish,Metazoa,Chordata,Cladistia,Polypteridae,Erpetoichthys,snakefish,Polypteriformes
+Cluster 520,XP_028655640,799,Erpetoichthys calabaricus,snakefish,Metazoa,Chordata,Cladistia,Polypteridae,Erpetoichthys,snakefish,Polypteriformes
+Cluster 520,XP_028655640,799,Erpetoichthys calabaricus,snakefish,Metazoa,Chordata,Cladistia,Polypteridae,Erpetoichthys,snakefish,Polypteriformes
+Cluster 521,ENSSANP00000104341_S,799,Sinocyclocheilus anshuiensis,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus anshuiensis,Cypriniformes
+Cluster 522,XP_006892457,798,Elephantulus edwardii,Cape Elephant Shrew,Metazoa,Chordata,Mammalia,Macroscelididae,Elephantulus,Cape Elephant Shrew,Macroscelidea
+Cluster 522,XP_006892457,798,Elephantulus edwardii,Cape Elephant Shrew,Metazoa,Chordata,Mammalia,Macroscelididae,Elephantulus,Cape Elephant Shrew,Macroscelidea
+Cluster 522,XP_006892457,798,Elephantulus edwardii,Cape Elephant Shrew,Metazoa,Chordata,Mammalia,Macroscelididae,Elephantulus,Cape Elephant Shrew,Macroscelidea
+Cluster 523,XP_004710002,798,Echinops telfairi,Lesser Hedgehog Tenrec,Metazoa,Chordata,Mammalia,Tenrecidae,Echinops,Lesser Hedgehog Tenrec,NA
+Cluster 523,XP_004710002,798,Echinops telfairi,Lesser Hedgehog Tenrec,Metazoa,Chordata,Mammalia,Tenrecidae,Echinops,Lesser Hedgehog Tenrec,NA
+Cluster 523,XP_004710002,798,Echinops telfairi,Lesser Hedgehog Tenrec,Metazoa,Chordata,Mammalia,Tenrecidae,Echinops,Lesser Hedgehog Tenrec,NA
+Cluster 524,XP_009323767,798,Pygoscelis adeliae,Adelie Penguin,Metazoa,Chordata,Aves,Spheniscidae,Pygoscelis,Adelie Penguin,Sphenisciformes
+Cluster 524,XP_009323767,798,Pygoscelis adeliae,Adelie Penguin,Metazoa,Chordata,Aves,Spheniscidae,Pygoscelis,Adelie Penguin,Sphenisciformes
+Cluster 524,XP_009323767,798,Pygoscelis adeliae,Adelie Penguin,Metazoa,Chordata,Aves,Spheniscidae,Pygoscelis,Adelie Penguin,Sphenisciformes
+Cluster 525,BAB40431,798,Mus musculus,souris commune,Metazoa,Chordata,Mammalia,Muridae,Mus,souris commune,Rodentia
+Cluster 526,ENSNMLP00000042004_N,798,NA,NA,NA,NA,NA,NA,NA,ENSNMLP00000042004_N,NA
+Cluster 527,XP_007090142,797,Panthera tigris altaica,Siberian tiger,Metazoa,Chordata,Mammalia,Felidae,Panthera,Siberian tiger,Carnivora
+Cluster 527,XP_007090142,797,Panthera tigris altaica,Siberian tiger,Metazoa,Chordata,Mammalia,Felidae,Panthera,Siberian tiger,Carnivora
+Cluster 527,ENSPTIP00000018286_P,744,Panthera tigris altaica,Siberian tiger,Metazoa,Chordata,Mammalia,Felidae,Panthera,Siberian tiger,Carnivora
+Cluster 527,XP_007090142,797,Panthera tigris altaica,Siberian tiger,Metazoa,Chordata,Mammalia,Felidae,Panthera,Siberian tiger,Carnivora
+Cluster 528,ENSMALP00000019424_M,797,NA,NA,NA,NA,NA,NA,NA,ENSMALP00000019424_M,NA
+Cluster 529,ENSEGOP00005009542_E,797,NA,NA,NA,NA,NA,NA,NA,ENSEGOP00005009542_E,NA
+Cluster 530,ENSPTXP00000008013_P,797,Pseudonaja textilis,Eastern Brown Snake,Metazoa,Chordata,Lepidosauria,Elapidae,Pseudonaja,Eastern Brown Snake,Squamata
+Cluster 531,KFQ88824,796,Phoenicopterus ruber ruber,NA,Metazoa,Chordata,Aves,Phoenicopteridae,Phoenicopterus,Phoenicopterus ruber ruber,Phoenicopteriformes
+Cluster 532,ENSSCUP00000010523_S,796,Struthio camelus australis,NA,Metazoa,Chordata,Aves,Struthionidae,Struthio,Struthio camelus australis,Struthioniformes
+Cluster 533,XP_010136813,794,Buceros rhinoceros silvestris,NA,Metazoa,Chordata,Aves,Bucerotidae,Buceros,Buceros rhinoceros silvestris,Bucerotiformes
+Cluster 533,XP_010136813,794,Buceros rhinoceros silvestris,NA,Metazoa,Chordata,Aves,Bucerotidae,Buceros,Buceros rhinoceros silvestris,Bucerotiformes
+Cluster 533,XP_010136813,794,Buceros rhinoceros silvestris,NA,Metazoa,Chordata,Aves,Bucerotidae,Buceros,Buceros rhinoceros silvestris,Bucerotiformes
+Cluster 534,ENSCGOP00000052319_C,794,Cottoperca gobio,NA,Metazoa,Chordata,Actinopteri,Bovichtidae,Cottoperca,Cottoperca gobio,Perciformes
+Cluster 535,ENSARWP00000016566_A,794,Apteryx rowi,Okarito Brown Kiwi,Metazoa,Chordata,Aves,Apterygidae,Apteryx,Okarito Brown Kiwi,Apterygiformes
+Cluster 536,ENSAOWP00000027232_A,794,NA,NA,NA,NA,NA,NA,NA,ENSAOWP00000027232_A,NA
+Cluster 537,ENSAHAP00000002908_A,794,NA,NA,NA,NA,NA,NA,NA,ENSAHAP00000002908_A,NA
+Cluster 538,ENSCPOP00000013557_C,794,Cavia porcellus,Domesticated Guinea Pig,Metazoa,Chordata,Mammalia,Caviidae,Cavia,Domesticated Guinea Pig,Rodentia
+Cluster 539,XP_032746145,793,Rattus rattus,rat noir,Metazoa,Chordata,Mammalia,Muridae,Rattus,rat noir,Rodentia
+Cluster 539,XP_032746145,793,Rattus rattus,rat noir,Metazoa,Chordata,Mammalia,Muridae,Rattus,rat noir,Rodentia
+Cluster 540,ENSGWIP00000004444_G,793,Gouania willdenowi,NA,Metazoa,Chordata,Actinopteri,Gobiesocidae,Gouania,Gouania willdenowi,Blenniiformes
+Cluster 541,ENSMICP00000002910_M,793,Microcebus murinus,Gray Mouse Lemur,Metazoa,Chordata,Mammalia,Cheirogaleidae,Microcebus,Gray Mouse Lemur,Primates
+Cluster 542,XP_020935034,792,Sus scrofa,wild boar,Metazoa,Chordata,Mammalia,Suidae,Sus,wild boar,Artiodactyla
+Cluster 543,ENSCPRP00005008023_C,792,Crocodylus porosus,saltwater crocodile,Metazoa,Chordata,NA,Crocodylidae,Crocodylus,saltwater crocodile,Crocodylia
+Cluster 544,XP_009867056,791,Apaloderma vittatum,Bar-tailed Trogon,Metazoa,Chordata,Aves,Trogonidae,Apaloderma,Bar-tailed Trogon,Trogoniformes
+Cluster 544,XP_009867056,791,Apaloderma vittatum,Bar-tailed Trogon,Metazoa,Chordata,Aves,Trogonidae,Apaloderma,Bar-tailed Trogon,Trogoniformes
+Cluster 544,XP_009867056,791,Apaloderma vittatum,Bar-tailed Trogon,Metazoa,Chordata,Aves,Trogonidae,Apaloderma,Bar-tailed Trogon,Trogoniformes
+Cluster 545,KAF3686611,791,Channa argus,snakehead,Metazoa,Chordata,Actinopteri,Channidae,Channa,snakehead,Anabantiformes
+Cluster 546,ENSATEP00000023481_A,791,Anabas testudineus,climbing perch,Metazoa,Chordata,Actinopteri,Anabantidae,Anabas,climbing perch,Anabantiformes
+Cluster 547,KAB1253106,790,Camelus dromedarius,One-humped Camel,Metazoa,Chordata,Mammalia,Camelidae,Camelus,One-humped Camel,Artiodactyla
+Cluster 548,XP_008694637,790,Ursus maritimus,Polar Bear,Metazoa,Chordata,Mammalia,Ursidae,Ursus,Polar Bear,Carnivora
+Cluster 548,XP_008694637,790,Ursus maritimus,Polar Bear,Metazoa,Chordata,Mammalia,Ursidae,Ursus,Polar Bear,Carnivora
+Cluster 548,XP_008694637,790,Ursus maritimus,Polar Bear,Metazoa,Chordata,Mammalia,Ursidae,Ursus,Polar Bear,Carnivora
+Cluster 549,ENSACDP00005003620_A,790,NA,NA,NA,NA,NA,NA,NA,ENSACDP00005003620_A,NA
+Cluster 550,ENSSARP00000002205_S,790,NA,NA,NA,NA,NA,NA,NA,ENSSARP00000002205_S,NA
+Cluster 551,ENSETEP00000001535_E,790,NA,NA,NA,NA,NA,NA,NA,ENSETEP00000001535_E,NA
+Cluster 552,ENSPVAP00000009627_P,790,NA,NA,NA,NA,NA,NA,NA,ENSPVAP00000009627_P,NA
+Cluster 553,ACT66270,789,Cavia porcellus,Domesticated Guinea Pig,Metazoa,Chordata,Mammalia,Caviidae,Cavia,Domesticated Guinea Pig,Rodentia
+Cluster 554,XP_023998967,789,Salvelinus alpinus,Arctic char,Metazoa,Chordata,Actinopteri,Salmonidae,Salvelinus,Arctic char,Salmoniformes
+Cluster 554,XP_023998967,789,Salvelinus alpinus,Arctic char,Metazoa,Chordata,Actinopteri,Salmonidae,Salvelinus,Arctic char,Salmoniformes
+Cluster 554,XP_023998967,789,Salvelinus alpinus,Arctic char,Metazoa,Chordata,Actinopteri,Salmonidae,Salvelinus,Arctic char,Salmoniformes
+Cluster 555,TKS69643,789,Collichthys lucidus,NA,Metazoa,Chordata,Actinopteri,Sciaenidae,Collichthys,Collichthys lucidus,NA
+Cluster 556,ENSSCAP00000018750_S,789,Serinus canaria,Common Canary,Metazoa,Chordata,Aves,Fringillidae,Serinus,Common Canary,Passeriformes
+Cluster 557,ACT66265,787,Sus scrofa domesticus,domestic pig,Metazoa,Chordata,Mammalia,Suidae,Sus,domestic pig,Artiodactyla
+Cluster 558,ACT66269,787,Mus musculus,souris commune,Metazoa,Chordata,Mammalia,Muridae,Mus,souris commune,Rodentia
+Cluster 559,KAB0353863,787,Muntiacus reevesi,Reeves's muntjac,Metazoa,Chordata,Mammalia,Cervidae,Muntiacus,Reeves's muntjac,Artiodactyla
+Cluster 560,ENSLBEP00000033675_L,787,NA,NA,NA,NA,NA,NA,NA,ENSLBEP00000033675_L,NA
+Cluster 561,ENSOPRP00000008034_O,787,NA,NA,NA,NA,NA,NA,NA,ENSOPRP00000008034_O,NA
+Cluster 562,ENSMEUP00000006093_N,787,NA,NA,NA,NA,NA,NA,NA,ENSMEUP00000006093_N,NA
+Cluster 563,ENSORLP00020018998_O,786,NA,NA,NA,NA,NA,NA,NA,ENSORLP00020018998_O,NA
+Cluster 564,NP_001007298,785,Danio rerio,zebra danio,Metazoa,Chordata,Actinopteri,Danionidae,Danio,zebra danio,Cypriniformes
+Cluster 564,NP_001007298,785,Danio rerio,zebra danio,Metazoa,Chordata,Actinopteri,Danionidae,Danio,zebra danio,Cypriniformes
+Cluster 565,ACT66278,785,Mesocricetus auratus,Golden Hamster,Metazoa,Chordata,Mammalia,Cricetidae,Mesocricetus,Golden Hamster,Rodentia
+Cluster 566,ENSSMRP00000029381_S,785,NA,NA,NA,NA,NA,NA,NA,ENSSMRP00000029381_S,NA
+Cluster 567,QJF77817,784,Pipistrellus javanicus,Javan pipistrelle,Metazoa,Chordata,Mammalia,Vespertilionidae,Pipistrellus,Javan pipistrelle,Chiroptera
+Cluster 568,ENSACIP00000006327_A,784,NA,NA,NA,NA,NA,NA,NA,ENSACIP00000006327_A,NA
+Cluster 569,ACT66271,783,Oryctolagus cuniculus,European Rabbit,Metazoa,Chordata,Mammalia,Leporidae,Oryctolagus,European Rabbit,Lagomorpha
+Cluster 570,XP_014713133,783,Equus asinus,burro,Metazoa,Chordata,Mammalia,Equidae,Equus,burro,Perissodactyla
+Cluster 570,XP_014713133,783,Equus asinus,burro,Metazoa,Chordata,Mammalia,Equidae,Equus,burro,Perissodactyla
+Cluster 570,XP_014713133,783,Equus asinus,burro,Metazoa,Chordata,Mammalia,Equidae,Equus,burro,Perissodactyla
+Cluster 571,ACT66276,782,Felis catus,Domestic Cat,Metazoa,Chordata,Mammalia,Felidae,Felis,Domestic Cat,Carnivora
+Cluster 572,ENSEEEP00000010240_E,782,Electrophorus electricus,electric eel,Metazoa,Chordata,Actinopteri,Gymnotidae,Electrophorus,electric eel,Gymnotiformes
+Cluster 573,ENSSFAP00005011731_S,782,Salarias fasciatus,lineated blenny,Metazoa,Chordata,Actinopteri,Blenniidae,Salarias,lineated blenny,Blenniiformes
+Cluster 574,ENSMUNP00000003900_M,782,Melopsittacus undulatus,Budgerigar,Metazoa,Chordata,Aves,Psittaculidae,Melopsittacus,Budgerigar,Psittaciformes
+Cluster 575,RVE74318,781,Oryzias javanicus,java medaka,Metazoa,Chordata,Actinopteri,Adrianichthyidae,Oryzias,java medaka,Beloniformes
+Cluster 576,ENSMMDP00005008687_M,781,Myripristis murdjan,blacktipped soldierfish,Metazoa,Chordata,Actinopteri,Holocentridae,Myripristis,blacktipped soldierfish,Holocentriformes
+Cluster 577,ENSCPIP00010006017_C,780,NA,NA,NA,NA,NA,NA,NA,ENSCPIP00010006017_C,NA
+Cluster 578,ENSNPEP00000015571_N,780,Nothoprocta perdicaria,Chilean Tinamou,Metazoa,Chordata,Aves,Tinamidae,Nothoprocta,Chilean Tinamou,Tinamiformes
+Cluster 579,ENSCCRP00015072463_C,779,NA,NA,NA,NA,NA,NA,NA,ENSCCRP00015072463_C,NA
+Cluster 580,ENSMMOP00000024461_M,779,NA,NA,NA,NA,NA,NA,NA,ENSMMOP00000024461_M,NA
+Cluster 581,XP_016422243,777,Sinocyclocheilus rhinocerous,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus rhinocerous,Cypriniformes
+Cluster 581,XP_016422243,777,Sinocyclocheilus rhinocerous,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus rhinocerous,Cypriniformes
+Cluster 582,XP_013805736,777,Apteryx mantelli mantelli,NA,Metazoa,Chordata,Aves,Apterygidae,Apteryx,Apteryx mantelli mantelli,Apterygiformes
+Cluster 583,ENSECRP00000002547_E,776,Erpetoichthys calabaricus,snakefish,Metazoa,Chordata,Cladistia,Polypteridae,Erpetoichthys,snakefish,Polypteriformes
+Cluster 584,TNM90895,775,Takifugu bimaculatus,NA,Metazoa,Chordata,Actinopteri,Tetraodontidae,Takifugu,Takifugu bimaculatus,Tetraodontiformes
+Cluster 585,XP_018418558,773,Nanorana parkeri,NA,Metazoa,Chordata,Amphibia,Dicroglossidae,Nanorana,Nanorana parkeri,Anura
+Cluster 585,XP_018418558,773,Nanorana parkeri,NA,Metazoa,Chordata,Amphibia,Dicroglossidae,Nanorana,Nanorana parkeri,Anura
+Cluster 585,XP_018418558,773,Nanorana parkeri,NA,Metazoa,Chordata,Amphibia,Dicroglossidae,Nanorana,Nanorana parkeri,Anura
+Cluster 586,XP_032888812,773,Amblyraja radiata,raie épineuse,Metazoa,Chordata,Chondrichthyes,Rajidae,Amblyraja,raie épineuse,Rajiformes
+Cluster 586,XP_032888812,773,Amblyraja radiata,raie épineuse,Metazoa,Chordata,Chondrichthyes,Rajidae,Amblyraja,raie épineuse,Rajiformes
+Cluster 587,ENSCCRP00020099350_C,773,NA,NA,NA,NA,NA,NA,NA,ENSCCRP00020099350_C,NA
+Cluster 588,ENSMSIP00000010562_M,773,NA,NA,NA,NA,NA,NA,NA,ENSMSIP00000010562_M,NA
+Cluster 589,RLW07695,772,Erythrura gouldiae,NA,Metazoa,Chordata,Aves,Estrildidae,Erythrura,Erythrura gouldiae,Passeriformes
+Cluster 590,RXM99888,771,Acipenser ruthenus,sterlet,Metazoa,Chordata,Actinopteri,Acipenseridae,Acipenser,sterlet,Acipenseriformes
+Cluster 591,KAF1401258,770,Spheniscus magellanicus,Magellanic Penguin,Metazoa,Chordata,Aves,Spheniscidae,Spheniscus,Magellanic Penguin,Sphenisciformes
+Cluster 592,KAF1452145,770,Spheniscus demersus,Jackass Penguin,Metazoa,Chordata,Aves,Spheniscidae,Spheniscus,Jackass Penguin,Sphenisciformes
+Cluster 593,KAF1676228,770,Pygoscelis papua,Gentoo Penguin,Metazoa,Chordata,Aves,Spheniscidae,Pygoscelis,Gentoo Penguin,Sphenisciformes
+Cluster 594,KAF1516848,770,Eudyptula albosignata,NA,Metazoa,Chordata,Aves,Spheniscidae,Eudyptula,Eudyptula albosignata,Sphenisciformes
+Cluster 595,KAF1544712,770,Eudyptula minor,Fairy Penguin,Metazoa,Chordata,Aves,Spheniscidae,Eudyptula,Fairy Penguin,Sphenisciformes
+Cluster 596,KAF1478330,770,Pygoscelis antarcticus,Chinstrap Penguin,Metazoa,Chordata,Aves,Spheniscidae,Pygoscelis,Chinstrap Penguin,Sphenisciformes
+Cluster 597,KAF1644867,770,Aptenodytes patagonicus,King Penguin,Metazoa,Chordata,Aves,Spheniscidae,Aptenodytes,King Penguin,Sphenisciformes
+Cluster 598,KAF1479752,770,Eudyptula novaehollandiae,NA,Metazoa,Chordata,Aves,Spheniscidae,Eudyptula,Eudyptula novaehollandiae,Sphenisciformes
+Cluster 599,KAF1650452,770,Eudyptes chrysocome,Rockhopper Penguin,Metazoa,Chordata,Aves,Spheniscidae,Eudyptes,Rockhopper Penguin,Sphenisciformes
+Cluster 600,KAF1629602,770,Eudyptes filholi,NA,Metazoa,Chordata,Aves,Spheniscidae,Eudyptes,Eudyptes filholi,Sphenisciformes
+Cluster 601,KAF1608779,770,Eudyptes chrysolophus,Macaroni Penguin,Metazoa,Chordata,Aves,Spheniscidae,Eudyptes,Macaroni Penguin,Sphenisciformes
+Cluster 602,KAF1593913,770,Eudyptes robustus,Snares Penguin,Metazoa,Chordata,Aves,Spheniscidae,Eudyptes,Snares Penguin,Sphenisciformes
+Cluster 603,KAF1575046,770,Eudyptes pachyrhynchus,Fiordland Penguin,Metazoa,Chordata,Aves,Spheniscidae,Eudyptes,Fiordland Penguin,Sphenisciformes
+Cluster 604,KAF1567194,770,Eudyptes schlegeli,Royal Penguin,Metazoa,Chordata,Aves,Spheniscidae,Eudyptes,Royal Penguin,Sphenisciformes
+Cluster 605,KAF1522443,770,Eudyptes sclateri,Erect-crested Penguin,Metazoa,Chordata,Aves,Spheniscidae,Eudyptes,Erect-crested Penguin,Sphenisciformes
+Cluster 606,KAF1485285,770,Megadyptes antipodes antipodes,NA,Metazoa,Chordata,Aves,Spheniscidae,Megadyptes,Megadyptes antipodes antipodes,Sphenisciformes
+Cluster 607,PKU45654,770,Limosa lapponica baueri,NA,Metazoa,Chordata,Aves,Scolopacidae,Limosa,Limosa lapponica baueri,Charadriiformes
+Cluster 608,ENSAPEP00000034669_A,770,NA,NA,NA,NA,NA,NA,NA,ENSAPEP00000034669_A,NA
+Cluster 609,ENSNBRP00000027355_N,769,Neolamprologus brichardi,fairy cichlid,Metazoa,Chordata,Actinopteri,Cichlidae,Neolamprologus,fairy cichlid,Cichliformes
+Cluster 610,ENSRBIP00000023980_R,769,Rhinopithecus bieti,Yunnan Snub-nosed Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Rhinopithecus,Yunnan Snub-nosed Monkey,Primates
+Cluster 611,OXB65505,767,Callipepla squamata,Scaled Quail,Metazoa,Chordata,Aves,Odontophoridae,Callipepla,Scaled Quail,Galliformes
+Cluster 612,TRY62286,766,Danionella translucida,NA,Metazoa,Chordata,Actinopteri,Danionidae,Danionella,Danionella translucida,Cypriniformes
+Cluster 613,ENSRNOP00000047913_R,766,Rattus norvegicus,rat surmulot,Metazoa,Chordata,Mammalia,Muridae,Rattus,rat surmulot,Rodentia
+Cluster 614,XP_021536486,764,Neomonachus schauinslandi,Hawaiian monk seal,Metazoa,Chordata,Mammalia,Phocidae,Neomonachus,Hawaiian monk seal,Carnivora
+Cluster 615,ENSGMOP00000008812_G,764,NA,NA,NA,NA,NA,NA,NA,ENSGMOP00000008812_G,NA
+Cluster 616,ENSSGRP00000111021_S,762,Sinocyclocheilus grahami,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus grahami,Cypriniformes
+Cluster 617,ENSAMXP00005008647_A,759,NA,NA,NA,NA,NA,NA,NA,ENSAMXP00005008647_A,NA
+Cluster 618,XP_017583883,758,Corvus brachyrhynchos,Cuervo americano,Metazoa,Chordata,Aves,Corvidae,Corvus,Cuervo americano,Passeriformes
+Cluster 618,XP_017583883,758,Corvus brachyrhynchos,Cuervo americano,Metazoa,Chordata,Aves,Corvidae,Corvus,Cuervo americano,Passeriformes
+Cluster 618,XP_017583883,758,Corvus brachyrhynchos,Cuervo americano,Metazoa,Chordata,Aves,Corvidae,Corvus,Cuervo americano,Passeriformes
+Cluster 619,ENSSHBP00005022750_S,758,Strigops habroptila,Kakapo,Metazoa,Chordata,Aves,Psittacidae,Strigops,Kakapo,Psittaciformes
+Cluster 620,OXB80355,756,Colinus virginianus,Codorniz cotuí,Metazoa,Chordata,Aves,Odontophoridae,Colinus,Codorniz cotuí,Galliformes
+Cluster 621,KPP70804,754,Scleropages formosus,Asian bonytongue,Metazoa,Chordata,Actinopteri,Osteoglossidae,Scleropages,Asian bonytongue,Osteoglossiformes
+Cluster 622,XP_014399783,754,Myotis brandtii,Brandt's Myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,Brandt's Myotis,Chiroptera
+Cluster 623,CAB1327497,753,Coregonus sp. 'balchen',NA,Metazoa,Chordata,Actinopteri,Salmonidae,Coregonus,Coregonus sp. 'balchen',Salmoniformes
+Cluster 624,VTJ58197,752,Marmota monax,marmotte commune,Metazoa,Chordata,Mammalia,Sciuridae,Marmota,marmotte commune,Rodentia
+Cluster 625,ENSSORP00005031450_S,750,Sphaeramia orbicularis,NA,Metazoa,Chordata,Actinopteri,Apogonidae,Sphaeramia,Sphaeramia orbicularis,Kurtiformes
+Cluster 626,ENSHHUP00000061568_H,750,NA,NA,NA,NA,NA,NA,NA,ENSHHUP00000061568_H,NA
+Cluster 627,XP_010579828,745,Haliaeetus leucocephalus,Águila cabeza blanca,Metazoa,Chordata,Aves,Accipitridae,Haliaeetus,Águila cabeza blanca,Accipitriformes
+Cluster 627,XP_010579828,745,Haliaeetus leucocephalus,Águila cabeza blanca,Metazoa,Chordata,Aves,Accipitridae,Haliaeetus,Águila cabeza blanca,Accipitriformes
+Cluster 627,XP_010579828,745,Haliaeetus leucocephalus,Águila cabeza blanca,Metazoa,Chordata,Aves,Accipitridae,Haliaeetus,Águila cabeza blanca,Accipitriformes
+Cluster 628,XP_013912095,743,Thamnophis sirtalis,Common Garter Snake,Metazoa,Chordata,Lepidosauria,Colubridae,Thamnophis,Common Garter Snake,Squamata
+Cluster 629,ENSVPAP00000009479_V,743,NA,NA,NA,NA,NA,NA,NA,ENSVPAP00000009479_V,NA
+Cluster 630,MT560519,743,Nanger dama,Dama Gazelle,Metazoa,Chordata,Mammalia,Bovidae,Nanger,Dama Gazelle,Artiodactyla
+Cluster 631,XP_014062928,686,Salmo salar,Atlantic salmon,Metazoa,Chordata,Actinopteri,Salmonidae,Salmo,Atlantic salmon,Salmoniformes
+Cluster 631,ENSSSAP00000082815_S,742,Salmo salar,Atlantic salmon,Metazoa,Chordata,Actinopteri,Salmonidae,Salmo,Atlantic salmon,Salmoniformes
+Cluster 632,ENSCHOP00000005282_C,742,NA,NA,NA,NA,NA,NA,NA,ENSCHOP00000005282_C,NA
+Cluster 633,ENSPCAP00000012014_P,742,NA,NA,NA,NA,NA,NA,NA,ENSPCAP00000012014_P,NA
+Cluster 634,XP_012887573,740,Dipodomys ordii,Rata-canguro común,Metazoa,Chordata,Mammalia,Heteromyidae,Dipodomys,Rata-canguro común,Rodentia
+Cluster 635,KAB0390968,737,Balaenoptera physalus,Fin Whale,Metazoa,Chordata,Mammalia,Balaenopteridae,Balaenoptera,Fin Whale,Artiodactyla
+Cluster 636,ELK12924,732,Pteropus alecto,black flying fox,Metazoa,Chordata,Mammalia,Pteropodidae,Pteropus,black flying fox,Chiroptera
+Cluster 637,XP_004415448,732,Odobenus rosmarus divergens,Pacific walrus,Metazoa,Chordata,Mammalia,Odobenidae,Odobenus,Pacific walrus,Carnivora
+Cluster 637,XP_004415448,732,Odobenus rosmarus divergens,Pacific walrus,Metazoa,Chordata,Mammalia,Odobenidae,Odobenus,Pacific walrus,Carnivora
+Cluster 638,KAF3812876,728,Mirounga leonina,Southern Elephant Seal,Metazoa,Chordata,Mammalia,Phocidae,Mirounga,Southern Elephant Seal,Carnivora
+Cluster 639,ENSEBUP00000008798_E,727,NA,NA,NA,NA,NA,NA,NA,ENSEBUP00000008798_E,NA
+Cluster 640,ETE61880,726,Ophiophagus hannah,King Cobra,Metazoa,Chordata,Lepidosauria,Elapidae,Ophiophagus,King Cobra,Squamata
+Cluster 641,ENSSGRP00000034807_S,725,Sinocyclocheilus grahami,NA,Metazoa,Chordata,Actinopteri,Cyprinidae,Sinocyclocheilus,Sinocyclocheilus grahami,Cypriniformes
+Cluster 642,KTF80794,724,Cyprinus carpio,common carp,Metazoa,Chordata,Actinopteri,Cyprinidae,Cyprinus,common carp,Cypriniformes
+Cluster 643,XP_017744069,724,Rhinopithecus bieti,Yunnan Snub-nosed Monkey,Metazoa,Chordata,Mammalia,Cercopithecidae,Rhinopithecus,Yunnan Snub-nosed Monkey,Primates
+Cluster 644,XP_019935235,721,Paralichthys olivaceus,bastard halibut,Metazoa,Chordata,Actinopteri,Paralichthyidae,Paralichthys,bastard halibut,Pleuronectiformes
+Cluster 644,XP_019935235,721,Paralichthys olivaceus,bastard halibut,Metazoa,Chordata,Actinopteri,Paralichthyidae,Paralichthys,bastard halibut,Pleuronectiformes
+Cluster 645,QJF77812,719,Thyroptera tricolor,Spix's disk-winged bat,Metazoa,Chordata,Mammalia,Thyropteridae,Thyroptera,Spix's disk-winged bat,Chiroptera
+Cluster 646,RXM32683,707,Acipenser ruthenus,sterlet,Metazoa,Chordata,Actinopteri,Acipenseridae,Acipenser,sterlet,Acipenseriformes
+Cluster 647,XP_009978415,703,Tauraco erythrolophus,Red-crested Turaco,Metazoa,Chordata,Aves,Musophagidae,Tauraco,Red-crested Turaco,Musophagiformes
+Cluster 647,XP_009978415,703,Tauraco erythrolophus,Red-crested Turaco,Metazoa,Chordata,Aves,Musophagidae,Tauraco,Red-crested Turaco,Musophagiformes
+Cluster 647,XP_009978415,703,Tauraco erythrolophus,Red-crested Turaco,Metazoa,Chordata,Aves,Musophagidae,Tauraco,Red-crested Turaco,Musophagiformes
+Cluster 648,ENSPKIP00000033366_P,695,Paramormyrops kingsleyae,NA,Metazoa,Chordata,Actinopteri,Mormyridae,Paramormyrops,Paramormyrops kingsleyae,Osteoglossiformes
+Cluster 649,ENSCAFP00030035858_C,695,NA,NA,NA,NA,NA,NA,NA,ENSCAFP00030035858_C,NA
+Cluster 650,ENSPSTP00000018227_P,694,NA,NA,NA,NA,NA,NA,NA,ENSPSTP00000018227_P,NA
+Cluster 651,ENSTBEP00000000243_T,690,NA,NA,NA,NA,NA,NA,NA,ENSTBEP00000000243_T,NA
+Cluster 652,RLQ60272,683,Cricetulus griseus,NA,Metazoa,Chordata,Mammalia,Cricetidae,Cricetulus,Cricetulus griseus,Rodentia
+Cluster 653,ENSHCOP00000016641_H,681,NA,NA,NA,NA,NA,NA,NA,ENSHCOP00000016641_H,NA
+Cluster 654,OBS71437,679,Neotoma lepida,Rata-cambalachera desértica,Metazoa,Chordata,Mammalia,Cricetidae,Neotoma,Rata-cambalachera desértica,Rodentia
+Cluster 655,XP_020768965,679,Odocoileus virginianus texanus,NA,Metazoa,Chordata,Mammalia,Cervidae,Odocoileus,Odocoileus virginianus texanus,Artiodactyla
+Cluster 655,XP_020768965,679,Odocoileus virginianus texanus,NA,Metazoa,Chordata,Mammalia,Cervidae,Odocoileus,Odocoileus virginianus texanus,Artiodactyla
+Cluster 656,ENSSDUP00000003028_S,677,Seriola dumerili,greater amberjack,Metazoa,Chordata,Actinopteri,Carangidae,Seriola,greater amberjack,Carangiformes
+Cluster 657,ENSPMGP00000017256_P,666,NA,NA,NA,NA,NA,NA,NA,ENSPMGP00000017256_P,NA
+Cluster 658,ENSCANP00000027116_C,666,Colobus angolensis palliatus,Peters' Angolan Colobus,Metazoa,Chordata,Mammalia,Cercopithecidae,Colobus,Peters' Angolan Colobus,Primates
+Cluster 659,XP_010206054,656,Colius striatus,Speckled Mousebird,Metazoa,Chordata,Aves,Coliidae,Colius,Speckled Mousebird,Coliiformes
+Cluster 660,ENSAPLP00000014389_A,653,Anas platyrhynchos,Pato de collar,Metazoa,Chordata,Aves,Anatidae,Anas,Pato de collar,Anseriformes
+Cluster 661,ENSSORP00005031460_S,645,NA,NA,NA,NA,NA,NA,NA,ENSSORP00005031460_S,NA
+Cluster 662,EGW01658,644,Cricetulus griseus,NA,Metazoa,Chordata,Mammalia,Cricetidae,Cricetulus,Cricetulus griseus,Rodentia
+Cluster 663,XP_009574896,632,Fulmarus glacialis,Fulmar norteño,Metazoa,Chordata,Aves,Procellariidae,Fulmarus,Fulmar norteño,Procellariiformes
+Cluster 663,XP_009574896,632,Fulmarus glacialis,Fulmar norteño,Metazoa,Chordata,Aves,Procellariidae,Fulmarus,Fulmar norteño,Procellariiformes
+Cluster 664,XP_010084373,631,Pterocles gutturalis,Yellow-throated Sandgrouse,Metazoa,Chordata,Aves,Pteroclidae,Pterocles,Yellow-throated Sandgrouse,Ciconiiformes
+Cluster 664,XP_010084373,631,Pterocles gutturalis,Yellow-throated Sandgrouse,Metazoa,Chordata,Aves,Pteroclidae,Pterocles,Yellow-throated Sandgrouse,Ciconiiformes
+Cluster 665,XP_009925641,629,Haliaeetus albicilla,White-tailed Eagle,Metazoa,Chordata,Aves,Accipitridae,Haliaeetus,White-tailed Eagle,Accipitriformes
+Cluster 665,XP_009925641,629,Haliaeetus albicilla,White-tailed Eagle,Metazoa,Chordata,Aves,Accipitridae,Haliaeetus,White-tailed Eagle,Accipitriformes
+Cluster 666,XP_010012481,618,Nestor notabilis,Kea,Metazoa,Chordata,Aves,Psittacidae,Nestor,Kea,Psittaciformes
+Cluster 667,XP_009082150,609,Acanthisitta chloris,Rifleman,Metazoa,Chordata,Aves,Acanthisittidae,Acanthisitta,Rifleman,Passeriformes
+Cluster 668,ENSMUGP00000023567_M,581,NA,NA,NA,NA,NA,NA,NA,ENSMUGP00000023567_M,NA
+Cluster 669,ENSSHAP00000016912_S,564,NA,NA,NA,NA,NA,NA,NA,ENSSHAP00000016912_S,NA
+Cluster 670,ENSMUGP00000022713_M,533,NA,NA,NA,NA,NA,NA,NA,ENSMUGP00000022713_M,NA
+Cluster 671,ENSSSAP00000032791_S,477,NA,NA,NA,NA,NA,NA,NA,ENSSSAP00000032791_S,NA
+Cluster 672,XP_013926936,461,Thamnophis sirtalis,Common Garter Snake,Metazoa,Chordata,Lepidosauria,Colubridae,Thamnophis,Common Garter Snake,Squamata
+Cluster 672,XP_013926936,461,Thamnophis sirtalis,Common Garter Snake,Metazoa,Chordata,Lepidosauria,Colubridae,Thamnophis,Common Garter Snake,Squamata
+Cluster 673,XP_009909849,387,Picoides pubescens,Downy Woodpecker,Metazoa,Chordata,Aves,Picidae,Picoides,Downy Woodpecker,Piciformes
+Cluster 674,ADN93473,358,Hipposideros pratti,Pratt's roundleaf bat,Metazoa,Chordata,Mammalia,Hipposideridae,Hipposideros,Pratt's roundleaf bat,Chiroptera
+Cluster 675,ADN93476,357,Myotis daubentonii,Daubenton's Myotis,Metazoa,Chordata,Mammalia,Vespertilionidae,Myotis,Daubenton's Myotis,Chiroptera
+Cluster 676,XP_030886750,344,Leptonychotes weddellii,Weddell Seal,Metazoa,Chordata,Mammalia,Phocidae,Leptonychotes,Weddell Seal,Carnivora
