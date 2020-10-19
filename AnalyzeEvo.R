@@ -49,5 +49,5 @@ seqs.tab.t.short$order <- c(NA, tax_info_order$order)
 seqs.tab.t.short$family <- c(NA, tax_info_order$family)
 seqs.tab.t.short$genus <- c(NA, tax_info_order$genus)
 seqs.tab.t.short$species <- c(NA, tax_info_order$sci)
-write.csv(seqs.tab.t.short, "results/google_sheet_homo_sapien_aas.csv", quote = F)
+#write.csv(seqs.tab.t.short, "results/google_sheet_homo_sapien_aas.csv", quote = F)
 

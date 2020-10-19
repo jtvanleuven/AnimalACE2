@@ -196,3 +196,23 @@ ggplot(aacnt.plot, aes(x=position, y=aacnt)) +
 #alignment and tree from ENSEMBL  
 #rate4site.exe -s ENSGT00940000158077_gene_tree.fa -t ENSGT00940000158077_gene_tree.newick -o ENSGT00940000158077_gene_tree.rate4site
 ###didn't run. need to troubleshoot
+
+
+
+##manually curated list of sequences then aligned with muscle
+##extracted human amino acid index
+##plot gglogo
+rbd <- data.frame(sites = c(19, 24, 27, 28, 30, 31, 33, 34, 35, 37, 38, 41, 42, 45, 79, 82, 83, 321, 322, 323, 324, 325, 326, 327, 329, 330, 353, 354, 355, 356, 357, 383, 386, 387, 389, 393, 555), homo_aa=NA)
+jalview <- read.csv("results/google_sheet_homo_sapien_aas.csv")
+jalview.plot <- jalview[2:712,2:806]
+jalview.plot <- jalview.plot[,rbd$sites]
+rdb.seqs <- c(apply(jalview.plot[,1:37], 1, paste, collapse=""))
+rbd$homo_aa <- as.character(jalview.plot[which(str_detect(jalview$X, "sapien")),])
+rbd$label <- paste(rbd$homo_aa, rbd$sites, sep="")
+library(ggseqlogo)
+ggplot() + 
+  geom_logo(rdb.seqs, method = "prob") + 
+  scale_x_discrete(limits=as.character(rbd$label)) +
+  theme_logo()+
+  theme(axis.text.x = element_text(angle=90), axis.text.y=element_blank(), legend.position = "none") +
+  ylab('')
