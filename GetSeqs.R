@@ -119,6 +119,8 @@ damas <- read.csv("raw_data/damas_table.csv")
 damas_short <- damas[!is.na(damas$seq),]
 #write.fasta(sequences=as.list(damas_short$seq), names = damas_short$Data.availability, as.string = T, file.out="raw_data/damas.fa")
 
+
+
 ##what is the overlap??
 species <- list(damas=damas_short$Species, bats=bats_seqs$name, refseq=ncbi_names$scientific, blast=cov90names$V2, ensembl=ensembl_names$Scientific.name)
 library(UpSetR)
@@ -174,21 +176,21 @@ if(run){
     cdhit[i,]$sci <- unique(names_all[str_detect(names_all$str, cdhit[i,]$V2),]$scientific)
     if(!is.na(cdhit[i,]$sci)){
       tax_class <- classification(cdhit[i,]$sci, db = 'ncbi', return_id = F)
-      if(!is.na(tax_class[i])){
-        if("kingdom" %in% tax_class[[i]]$rank){
-          cdhit[i,]$kingdom <- tax_class[[i]]$name[which(tax_class[[i]]$rank=="kingdom")]
+      if(!is.na(tax_class[1])){
+        if("kingdom" %in% tax_class[[1]]$rank){
+          cdhit[i,]$kingdom <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="kingdom")]
         }
-        if("phylum" %in% tax_class[[i]]$rank){
-          cdhit[i,]$phylum <- tax_class[[i]]$name[which(tax_class[[i]]$rank=="phylum")]
+        if("phylum" %in% tax_class[[1]]$rank){
+          cdhit[i,]$phylum <- tax_class[[i]]$name[which(tax_class[[1]]$rank=="phylum")]
         }
-        if("class" %in% tax_class[[i]]$rank){
-          cdhit[i,]$class <- tax_class[[i]]$name[which(tax_class[[i]]$rank=="class")]
+        if("class" %in% tax_class[[1]]$rank){
+          cdhit[i,]$class <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="class")]
         }
-        if("family" %in% tax_class[[i]]$rank){
-          cdhit[i,]$family <- tax_class[[i]]$name[which(tax_class[[i]]$rank=="family")]
+        if("family" %in% tax_class[[1]]$rank){
+          cdhit[i,]$family <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="family")]
         }
-        if("genus" %in% tax_class[[i]]$rank){
-          cdhit[i,]$genus <- tax_class[[i]]$name[which(tax_class[[i]]$rank=="genus")]
+        if("genus" %in% tax_class[[1]]$rank){
+          cdhit[i,]$genus <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="genus")]
         }
       }
       x <- sci2comm(sci=cdhit[i,]$sci, db='itis',simplify = T)
@@ -262,6 +264,125 @@ rodents <- which(cdhit_short$order == "Rodentia")
 write.fasta(sequences=as.list(cdhit_short[rodents,]$seq), names = str_replace(cdhit_short[rodents,]$header, " ", "_"), as.string = T, file.out = "results/combined_filtered_rodents.faa")
 
 
+###opened cdhit_short in google docs. hand editing list by 
+#####1. Fixing ensembl gene names
+#####2. remove duplicate sequences
+#####3. incorporate ACE2 f##authors of Damas et al 2020 shared sequences with me
+
+
+damas_fa <- read.fasta("../../data/damas/one_PROTEIN_perSPS.410species.4APR2020.fasta", as.string = T)
+#just overwrite the sequences that I pulled from ncbi for damas data
+for (i in 1:length(damas_fa)){
+  damas_fa[i]  <- toupper(str_replace_all(as.character(damas_fa[i]),"-",""))
+}
+
+add_damas <- damas[is.na(damas$seq),]
+#add_damas <- damas
+for(i in 1:nrow(add_damas)){
+  species <- str_replace_all(add_damas$Species[i]," ","_")
+  get <- which(str_detect(names(damas_fa), species))
+  if(length(get) > 1){
+    print(paste("multiple hits for ",species,sep = ""))
+  }else if(length(get) == 1){
+    add_damas$seq[i] <- as.character(damas_fa[get])
+  }
+}
+
+add_damas$sci <- "NA"
+add_damas$kingdom <- "NA"
+add_damas$phylum <- "NA"
+add_damas$class <- "NA"
+add_damas$order <- "NA"
+add_damas$family <- "NA"
+add_damas$genus <- "NA"
+run <- F
+if(run){
+  for(i in 1:nrow(add_damas)){
+    if(!is.na(add_damas[i,]$Species)){
+      tax_class <- classification(add_damas[i,]$Species, db = 'itis', return_id = F)
+      if(!is.na(tax_class[1])){
+        if("kingdom" %in% tax_class[[1]]$rank){
+          add_damas[i,]$kingdom <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="kingdom")]
+        }
+        if("phylum" %in% tax_class[[1]]$rank){
+          add_damas[i,]$phylum <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="phylum")]
+        }
+        if("class" %in% tax_class[[1]]$rank){
+          add_damas[i,]$class <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="class")]
+        }
+        if("family" %in% tax_class[[1]]$rank){
+          add_damas[i,]$family <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="family")]
+        }
+        if("genus" %in% tax_class[[1]]$rank){
+          add_damas[i,]$genus <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="genus")]
+        }
+      }
+    }
+  }
+  add_damas$order <- add_damas$Order
+  add_damas$header <- add_damas$Common.name
+  add_damas[is.na(add_damas$header),]$header <- add_damas[is.na(add_damas$header),]$sci
+  add_damas[is.na(add_damas$header),]$header <-add_damas[is.na(add_damas$header),]$V2
+  add_damas_short <- add_damas[,c("Data.availability", "seq", "Species", "Common.name", "kingdom", "phylum", "class", "order", "family", "genus", "header")]
+  write.csv(add_damas_short, "results/add_damas.csv", quote = F, row.names = F)
+}
+
+
+
+#I couldn't get the R import function to work with google sheets, so it must be exported as .csv occassionaly
+googlesheet <- read.csv("results/cdhit_clusters_nodups - cdhit_clusters_nodups.csv", stringsAsFactors = F)
+length(unique(googlesheet$sci))
+
+##after looking up names by had, I went back and found taxonomy info
+run <- F  ###only needs run once
+if(run){
+  for(i in 1:nrow(googlesheet)){
+    if(is.na(googlesheet[i,]$genus)){
+      tax_class <- classification(googlesheet[i,]$sci, db = 'ncbi', return_id = F)
+      if(!is.na(tax_class[1])){
+        if("kingdom" %in% tax_class[[1]]$rank){
+          googlesheet[i,]$kingdom <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="kingdom")]
+        }
+        if("phylum" %in% tax_class[[1]]$rank){
+          googlesheet[i,]$phylum <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="phylum")]
+        }
+        if("class" %in% tax_class[[1]]$rank){
+          googlesheet[i,]$class <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="class")]
+        }
+        if("family" %in% tax_class[[1]]$rank){
+          googlesheet[i,]$family <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="family")]
+        }
+        if("genus" %in% tax_class[[1]]$rank){
+          googlesheet[i,]$genus <- tax_class[[1]]$name[which(tax_class[[1]]$rank=="genus")]
+        }
+      }
+      x <- sci2comm(sci=googlesheet[i,]$sci, db='itis',simplify = T)
+      googlesheet[i,]$common <- x[[1]][1]
+    }
+  }
+}
+
+
+
+
+
+library(ggsci)
+write.csv(googlesheet, "results/googlesheet_update.csv", quote = F, row.names = F)
+plot.tab <- data.frame(table(googlesheet$class), stringsAsFactors = F)
+plot.tab <- plot.tab[order(plot.tab$Freq),]
+ggplot(plot.tab, aes(x=reorder(Var1,Freq), y=Freq, fill=Var1)) +
+  geom_bar(stat="identity", show.legend = F) +
+  coord_flip() +
+  theme_classic() +
+  scale_fill_aaas() +
+  theme(axis.title.x = element_blank(), axis.title.y = element_blank())
+  
+
+
 align <- read.fasta("results/combine_filtered_muscle.fa", as.string = T)
 cdhit_short_tab <- data.frame(name=names(align), seq=unlist(align))
 write.csv(cdhit_short_tab, file="results/combine_filtered_muscle_tab.csv", quote = F)
+
+
+
+
