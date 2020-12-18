@@ -1,0 +1,677 @@
+name,val,sci,common,kingdom,phylum,class,order,family,genus
+Western Lowland Gorilla,0,Gorilla gorilla gorilla,Western Lowland Gorilla,Metazoa,Chordata,Mammalia,Primates,Hominidae,Gorilla
+man,0,Homo sapiens,man,Metazoa,Chordata,Mammalia,Primates,Hominidae,Homo
+Chimpanzee,0,Pan troglodytes,Chimpanzee,Metazoa,Chordata,Mammalia,Primates,Hominidae,Pan
+pygmy chimpanzee,0,Pan paniscus,pygmy chimpanzee,Metazoa,Chordata,Mammalia,Primates,Hominidae,Pan
+pygmy chimpanzee,0,Pan paniscus,pygmy chimpanzee,Metazoa,Chordata,Mammalia,Primates,Hominidae,Pan
+Patas monkey,0.0263344262877836,Erythrocebus patas,Patas monkey,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Erythrocebus
+Red-shanked douc,0.0263344262877836,Pygathrix nemaeus,Red-shanked douc,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Pygathrix
+Sooty Mangabey,0.0263344262877836,Cercocebus atys,Sooty Mangabey,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Cercocebus
+Green Monkey,0.0263344262877836,Chlorocebus sabaeus,Green Monkey,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Chlorocebus
+Long-tailed Macaque,0.0263344262877836,Macaca fascicularis,Long-tailed Macaque,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Macaca
+pigtail macaque,0.0263344262877836,Macaca nemestrina,pigtail macaque,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Macaca
+Rhesus Monkey,0.0263344262877836,Macaca mulatta,Rhesus Monkey,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Macaca
+Drill,0.0263344262877836,Mandrillus leucophaeus,Drill,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Mandrillus
+Olive Baboon,0.0263344262877836,Papio anubis,Olive Baboon,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Papio
+Ashy Red Colobus,0.0263344262877836,Piliocolobus tephrosceles,Ashy Red Colobus,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Piliocolobus
+gelada baboon,0.0263344262877836,Theropithecus gelada,gelada baboon,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Theropithecus
+silvery gibbon,0.0263344262877836,Hylobates moloch,silvery gibbon,Metazoa,Chordata,Mammalia,Primates,Hylobatidae,Hylobates
+Northern White-cheeked Crested Gibbon,0.0263344262877836,Nomascus leucogenys,Northern White-cheeked Crested Gibbon,Metazoa,Chordata,Mammalia,Primates,Hylobatidae,Nomascus
+Northern White-cheeked Crested Gibbon,0.0263344262877836,Nomascus leucogenys,Northern White-cheeked Crested Gibbon,Metazoa,Chordata,Mammalia,Primates,Hylobatidae,Nomascus
+Sumatran Orangutan,0.0530945259278035,Pongo abelii,Sumatran Orangutan,Metazoa,Chordata,Mammalia,Primates,Hominidae,Pongo
+Sumatran Orangutan,0.0530945259278035,Pongo abelii,Sumatran Orangutan,Metazoa,Chordata,Mammalia,Primates,Hominidae,Pongo
+Angola colobus,0.0533590078853648,Colobus angolensis,Angola colobus,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Colobus
+Proboscis monkey,0.0536449526519117,Nasalis larvatus,Proboscis monkey,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Nasalis
+Golden Snub-nosed Monkey,0.0536449526519117,Rhinopithecus roxellana,Golden Snub-nosed Monkey,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Rhinopithecus
+Golden Snub-nosed Monkey,0.0536449526519117,Rhinopithecus roxellana,Golden Snub-nosed Monkey,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Rhinopithecus
+Coquerel's Sifaka,0.0884729998596078,Propithecus coquereli,Coquerel's Sifaka,Metazoa,Chordata,Mammalia,Primates,Indriidae,Propithecus
+François' leaf monkey,0.114432325606213,Trachypithecus francoisi,François' leaf monkey,Metazoa,Chordata,Mammalia,Primates,Cercopithecidae,Trachypithecus
+Greater bamboo lemur,0.118357895101827,Prolemur simus,Greater Bamboo Lemur,Metazoa,Chordata,Mammalia,Primates,Lemuridae,Prolemur
+Aye-aye,0.120473404209117,Daubentonia madagascariensis,Aye-aye,Animalia,Chordata,Mammalia,Primates,Daubentoniidae,Daubentonia
+White-faced saki,0.138607169426947,Pithecia pithecia,White-faced saki,Animalia,Chordata,Mammalia,Primates,Pitheciidae,Pithecia
+Ma's Night Monkey,0.138607169426947,Aotus nancymaae,Ma's Night Monkey,Metazoa,Chordata,Mammalia,Primates,Aotidae,Aotus
+Common marmoset,0.138607169426947,Callithrix jacchus,white-tufted-ear marmoset,Metazoa,Chordata,Mammalia,Primates,Cebidae,Callithrix
+Common marmoset,0.138607169426947,Callithrix jacchus,white-tufted-ear marmoset,Metazoa,Chordata,Mammalia,Primates,Cebidae,Callithrix
+Cebus capucinus imitator,0.138607169426947,Cebus capucinus imitator,Panamanian white-faced capuchin,Metazoa,Chordata,Mammalia,Primates,Cebidae,Cebus
+Cebus capucinus imitator,0.138607169426947,Cebus capucinus imitator,Panamanian white-faced capuchin,Metazoa,Chordata,Mammalia,Primates,Cebidae,Cebus
+Bolivian Squirrel Monkey,0.138607169426947,Saimiri boliviensis boliviensis,Bolivian Squirrel Monkey,Metazoa,Chordata,Mammalia,Primates,Cebidae,Saimiri
+Guianan Brown Capuchin,0.138607169426947,Sapajus apella,Guianan Brown Capuchin,Metazoa,Chordata,Mammalia,Primates,Cebidae,Sapajus
+White-eared titi,0.138607169426947,Callicebus donacophilus,White-eared titi,Metazoa,Chordata,Mammalia,Primates,Pitheciidae,Callicebus
+Nannospalax galili,0.140524726718119,Nannospalax galili,Northern Israeli blind subterranean mole rat,Metazoa,Chordata,Mammalia,Rodentia,Spalacidae,Nannospalax
+Daurian ground squirrel,0.140946634836394,Spermophilus dauricus,Daurian ground squirrel,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Spermophilus
+Thirteen-lined Ground Squirrel,0.140946634836394,Ictidomys tridecemlineatus,Thirteen-lined Ground Squirrel,Metazoa,Chordata,Mammalia,Rodentia,Sciuridae,Ictidomys
+Marmota marmota marmota,0.140946634836394,Marmota marmota marmota,alpine marmot,Metazoa,Chordata,Mammalia,Rodentia,Sciuridae,Marmota
+Daurian ground squirrel,0.140946634836394,Spermophilus dauricus,Daurian ground squirrel,Metazoa,Chordata,Mammalia,Rodentia,Sciuridae,Spermophilus
+Golden Hamster,0.146444341983468,Mesocricetus auratus,Golden Hamster,Metazoa,Chordata,Mammalia,Rodentia,Cricetidae,Mesocricetus
+Fat-tailed dwarf lemur,0.149261085531517,Cheirogaleus medius,Fat-tailed dwarf lemur,Animalia,Chordata,Mammalia,Primates,Cheirogaleidae,Cheirogaleus
+Yellow-bellied Marmot,0.150629649141058,Marmota flaviventris,Yellow-bellied Marmot,Metazoa,Chordata,Mammalia,Rodentia,Sciuridae,Marmota
+Indri,0.153950983977651,Indri indri,Indri,Animalia,Chordata,Mammalia,Primates,Indriidae,Indri
+Common gundi,0.155586428524866,Ctenodactylus gundi,Common gundi,Animalia,Chordata,Mammalia,Rodentia,Ctenodactylidae,Ctenodactylus
+Southern tamandua,0.163686167695169,Tamandua tetradactyla,Southern tamandua,Animalia,Chordata,Mammalia,Pilosa,Myrmecophagidae,Tamandua
+Reindeer,0.164856936494066,Rangifer tarandus,Reindeer,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rangifer
+Red Muntjac,0.164856936494066,Muntiacus muntjak,Red Muntjac,Metazoa,Chordata,Mammalia,Artiodactyla,Cervidae,Muntiacus
+Dama Gazelle,0.165998275660052,Nanger dama,Dama Gazelle,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Nanger
+Tibetan antelope,0.166641711165936,Pantholops hodgsonii,Tibetan antelope,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Pantholops
+aurochs,0.166641711165936,Bos taurus,aurochs,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos
+Domestic yak,0.166641711165936,Bos grunniens,grunting ox,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos
+Bos indicus x Bos taurus,0.166641711165936,Bos indicus x Bos taurus,hybrid cattle,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos
+wild yak,0.166641711165936,Bos mutus,wild yak,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos
+Bos indicus x Bos taurus,0.166641711165936,Bos indicus x Bos taurus,hybrid cattle,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos
+aurochs,0.166641711165936,Bos taurus,aurochs,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos
+aurochs,0.166641711165936,Bos taurus,aurochs,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos
+wild yak,0.166641711165936,Bos mutus,wild yak,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos
+water buffalo,0.166641711165936,Bubalus bubalis,water buffalo,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bubalus
+Siberian musk deer,0.166641711165936,Moschus moschiferus,Siberian musk deer,Metazoa,Chordata,Mammalia,Artiodactyla,Moschidae,Moschus
+Jaguar,0.166672379083198,Panthera onca,Jaguar,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera
+Domestic Cat,0.166672379083198,Felis catus,Domestic Cat,Metazoa,Chordata,Mammalia,Carnivora,Felidae,Felis
+Domestic Cat,0.166672379083198,Felis catus,Domestic Cat,Metazoa,Chordata,Mammalia,Carnivora,Felidae,Felis
+Domestic Cat,0.166672379083198,Felis catus,Domestic Cat,Metazoa,Chordata,Mammalia,Carnivora,Felidae,Felis
+Canadian Lynx,0.166672379083198,Lynx canadensis,Canadian Lynx,Metazoa,Chordata,Mammalia,Carnivora,Felidae,Lynx
+Spanish lynx,0.166672379083198,Lynx pardinus,Spanish lynx,Metazoa,Chordata,Mammalia,Carnivora,Felidae,Lynx
+Neofelis diardi,0.166672379083198,Neofelis diardi,Sunda clouded leopard,Metazoa,Chordata,Mammalia,Carnivora,Felidae,Neofelis
+Leopard,0.166672379083198,Panthera pardus,Leopard,Metazoa,Chordata,Mammalia,Carnivora,Felidae,Panthera
+Siberian tiger,0.166672379083198,Panthera tigris altaica,Siberian tiger,Metazoa,Chordata,Mammalia,Carnivora,Felidae,Panthera
+Cougar,0.166672379083198,Puma concolor,Cougar,Metazoa,Chordata,Mammalia,Carnivora,Felidae,Puma
+Arctic fox,0.16683441994488,Vulpes lagopus,Arctic fox,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes
+Red Fox,0.16683441994488,Vulpes vulpes,Red Fox,Metazoa,Chordata,Mammalia,Carnivora,Canidae,Vulpes
+Mantled howler,0.168200565600252,Alouatta palliata,Mantled howler,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta
+Geoffroy's spider monkey,0.168570686280169,Ateles geoffroyi,Geoffroy's spider monkey,Animalia,Chordata,Mammalia,Primates,Atelidae,Ateles
+Emperor tamarin,0.168977876159951,Saguinus imperator,Emperor tamarin,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus
+Black rhinoceros,0.169957328752204,Diceros bicornis,Black rhinoceros,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Diceros
+Northern white rhinoceros,0.169957328752204,Ceratotherium simum cottoni,Northern white rhinoceros,Metazoa,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium
+Northern white rhinoceros,0.169957328752204,Ceratotherium simum cottoni,Northern white rhinoceros,Metazoa,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium
+Masai giraffe,0.171225174684425,Giraffa tippelskirchi,Masai giraffe,Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Giraffa
+Okapi,0.171225174684425,Okapia johnstoni,Okapi,Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Okapia
+Pronghorn,0.172466245387815,Antilocapra americana,Pronghorn,Animalia,Chordata,Mammalia,Artiodactyla,Antilocapridae,Antilocapra
+Scimitar oryx,0.173293821512672,Oryx dammah,Scimitar oryx,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Oryx
+Arctic Ground Squirrel,0.176921719201324,Urocitellus parryii,Arctic Ground Squirrel,Metazoa,Chordata,Mammalia,Rodentia,Sciuridae,Urocitellus
+Cricetulus griseus,0.179728464626924,Cricetulus griseus,Chinese hamster,Metazoa,Chordata,Mammalia,Rodentia,Cricetidae,Cricetulus
+Cricetulus griseus,0.179728464626924,Cricetulus griseus,Chinese hamster,Metazoa,Chordata,Mammalia,Rodentia,Cricetidae,Cricetulus
+Coquerel's giant mouse lemur,0.180209031334665,Mirza coquereli,Coquerel's giant mouse lemur,Animalia,Chordata,Mammalia,Primates,Cheirogaleidae,Mirza
+Blue-eyed black lemur,0.183684348564766,Eulemur flavifrons,Blue-eyed black lemur,Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur
+Little pocket mouse,0.186259257047588,Perognathus longimembris,Little pocket mouse,Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Perognathus
+souris à pattes blanches,0.187791808355128,Peromyscus leucopus,souris à pattes blanches,Metazoa,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus
+Gambian pouched rat,0.190833918825482,Cricetomys gambianus,Gambian pouched rat,Animalia,Chordata,Mammalia,Rodentia,Nesomyidae,Cricetomys
+Giant anteater,0.191091309550086,Myrmecophaga tridactyla,Giant anteater,Animalia,Chordata,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga
+Pere David's deer,0.193614628278991,Elaphurus davidianus,Pere David's deer,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Elaphurus
+Brahma cattle,0.196268553414214,Bos indicus,Brahma cattle,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos
+Brahma cattle,0.196268553414214,Bos indicus,Brahma cattle,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Bos
+Raccoon dog,0.196336328190823,Nyctereutes procyonoides,Raccoon dog,Metazoa,Chordata,Mammalia,Carnivora,Canidae,Nyctereutes
+Barbary sheep,0.197302447202872,Ammotragus lervia,Barbary sheep,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ammotragus
+Nilgiri tahr,0.197302447202872,Hemitragus hylocrius,Nilgiri tahr,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Hemitragus
+Red Sheep,0.197302447202872,Ovis aries,Red Sheep,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis
+Red Sheep,0.197302447202872,Ovis aries,Red Sheep,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis
+dingo,0.197398180167432,Canis lupus dingo,dingo,Metazoa,Chordata,Mammalia,Carnivora,Canidae,Canis
+domestic dog,0.197398180167432,Canis lupus familiaris,domestic dog,Metazoa,Chordata,Mammalia,Carnivora,Canidae,Canis
+Maned Wolf,0.197398180167432,Chrysocyon brachyurus,Maned Wolf,Metazoa,Chordata,Mammalia,Carnivora,Canidae,Chrysocyon
+Cheetah,0.197643321991208,Acinonyx jubatus,Cheetah,Metazoa,Chordata,Mammalia,Carnivora,Felidae,Acinonyx
+Snowshoe hare,0.19811615838848,Lepus americanus,Snowshoe hare,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus
+European Rabbit,0.19811615838848,Oryctolagus cuniculus,European Rabbit,Metazoa,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus
+Malayan tapir,0.198899783011082,Tapirus indicus,Malayan tapir,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Tapirus
+South American tapir,0.198899783011082,Tapirus terrestris,South American tapir,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Tapirus
+Stephens's kangaroo rat,0.199229125566269,Dipodomys stephensi,Stephens's kangaroo rat,Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Dipodomys
+Rata-canguro común,0.199229125566269,Dipodomys ordii,Rata-canguro común,Metazoa,Chordata,Mammalia,Rodentia,Heteromyidae,Dipodomys
+Muskrat,0.199358484629799,Ondatra zibethicus,Muskrat,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Ondatra
+Gobi jerboa,0.201479491588092,Allactaga bullata,Gobi jerboa,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Allactaga
+Hirola,0.204076992706335,Beatragus hunteri,Hirola,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Beatragus
+Wild goat,0.204076992706335,Capra aegagrus,Wild goat,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Capra
+Wild goat,0.204076992706335,Capra aegagrus,Wild goat,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Capra
+domestic goat,0.204076992706335,Capra hircus,domestic goat,Metazoa,Chordata,Mammalia,Artiodactyla,Bovidae,Capra
+Transcaucasian mole vole,0.211592429864662,Ellobius lutescens,Transcaucasian mole vole,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Ellobius
+American Pika,0.212182719181547,Ochotona princeps,American Pika,Metazoa,Chordata,Mammalia,Lagomorpha,Ochotonidae,Ochotona
+Peromyscus maniculatus bairdii,0.217488578258693,Peromyscus maniculatus bairdii,Prairie Deer Mouse,Metazoa,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus
+Sunda flying lemur,0.217496365269492,Galeopterus variegatus,Sunda flying lemur,Animalia,Chordata,Mammalia,Dermoptera,Cynocephalidae,Galeopterus
+Raccoon,0.223646571360068,Procyon lotor,Raccoon,Metazoa,Chordata,Mammalia,Carnivora,Procyonidae,Procyon
+Donkey,0.228949390170299,Equus asinus asinus,Donkey,Metazoa,Chordata,Mammalia,Perissodactyla,Equidae,Equus
+Przewalski's horse,0.228949390170299,Equus przewalskii,Przewalski's horse,Metazoa,Chordata,Mammalia,Perissodactyla,Equidae,Equus
+feral horse,0.228949390170299,Equus caballus,feral horse,Metazoa,Chordata,Mammalia,Perissodactyla,Equidae,Equus
+burro,0.228949390170299,Equus asinus,burro,Metazoa,Chordata,Mammalia,Perissodactyla,Equidae,Equus
+Bush Dog,0.229042114549984,Speothos venaticus,Bush Dog,Metazoa,Chordata,Mammalia,Carnivora,Canidae,Speothos
+Hawaiian monk seal,0.229397482422971,Neomonachus schauinslandi,Hawaiian monk seal,Metazoa,Chordata,Mammalia,Carnivora,Phocidae,Neomonachus
+Sumatran rhinoceros,0.229837179856117,Dicerorhinus sumatrensis,Sumatran rhinoceros,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Dicerorhinus
+Giant Panda,0.231799612547026,Ailuropoda melanoleuca,Giant Panda,Metazoa,Chordata,Mammalia,Carnivora,Ursidae,Ailuropoda
+American black bear,0.231799612547026,Ursus americanus,American Black Bear,Metazoa,Chordata,Mammalia,Carnivora,Ursidae,Ursus
+brown bear,0.231799612547026,Ursus arctos horribilis,brown bear,Metazoa,Chordata,Mammalia,Carnivora,Ursidae,Ursus
+Polar Bear,0.231799612547026,Ursus maritimus,Polar Bear,Metazoa,Chordata,Mammalia,Carnivora,Ursidae,Ursus
+Steller Sea Lion,0.233164926744102,Eumetopias jubatus,Steller Sea Lion,Metazoa,Chordata,Mammalia,Carnivora,Otariidae,Eumetopias
+domestic dog,0.233587426382052,Canis lupus familiaris,domestic dog,Metazoa,Chordata,Mammalia,Carnivora,Canidae,Canis
+Crested porcupine,0.23419907445112,Hystrix cristata,Crested porcupine,Animalia,Chordata,Mammalia,Rodentia,Hystricidae,Hystrix
+Rock hyrax,0.235683943241422,Procavia capensis,Rock hyrax,Animalia,Chordata,Mammalia,Hyracoidea,Procaviidae,Procavia
+Java mouse-deer,0.236338114843956,Tragulus javanicus,Java mouse-deer,Animalia,Chordata,Mammalia,Artiodactyla,Tragulidae,Tragulus
+Harbour porpoise,0.237042770648497,Phocoena phocoena,Harbour porpoise,Animalia,Chordata,Mammalia,Cetacea,Phocoenidae,Phocoena
+white whale,0.237042770648497,Delphinapterus leucas,white whale,Metazoa,Chordata,Mammalia,Artiodactyla,Monodontidae,Delphinapterus
+Narwhal,0.237042770648497,Monodon monoceros,Narwhal,Metazoa,Chordata,Mammalia,Artiodactyla,Monodontidae,Monodon
+Yangtze finless porpoise,0.237042770648497,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,Metazoa,Chordata,Mammalia,Artiodactyla,Phocoenidae,Neophocaena
+cochito,0.237042770648497,Phocoena sinus,cochito,Metazoa,Chordata,Mammalia,Artiodactyla,Phocoenidae,Phocoena
+Hippopotamus,0.237200021134911,Hippopotamus amphibius,Hippopotamus,Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus
+Gray Mouse Lemur,0.23729966589217,Microcebus murinus,Gray Mouse Lemur,Metazoa,Chordata,Mammalia,Primates,Cheirogaleidae,Microcebus
+Gray Mouse Lemur,0.23729966589217,Microcebus murinus,Gray Mouse Lemur,Metazoa,Chordata,Mammalia,Primates,Cheirogaleidae,Microcebus
+Gray whale,0.239835408697842,Eschrichtius robustus,Gray whale,Animalia,Chordata,Mammalia,Cetacea,Eschrichtiidae,Eschrichtius
+Lesser Egyptian Jerboa,0.242367070249238,Jaculus jaculus,Lesser Egyptian Jerboa,Metazoa,Chordata,Mammalia,Rodentia,Dipodidae,Jaculus
+Campbell's hamster,0.242391567668413,Phodopus campbelli,Campbell's hamster,Metazoa,Chordata,Mammalia,Rodentia,Cricetidae,Phodopus
+Florida manatee,0.24323635523746,Trichechus manatus latirostris,Florida manatee,Metazoa,Chordata,Mammalia,Sirenia,Trichechidae,Trichechus
+Sperm Whale,0.243714613239069,Physeter catodon,Sperm Whale,Metazoa,Chordata,Mammalia,Artiodactyla,Physeteridae,Physeter
+Prairie Vole,0.245542148681739,Microtus ochrogaster,Prairie Vole,Metazoa,Chordata,Mammalia,Rodentia,Cricetidae,Microtus
+Capybara,0.248490822435371,Hydrochoerus hydrochaeris,Capybara,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Hydrochoerus
+One-humped Camel,0.249052414352914,Camelus dromedarius,One-humped Camel,Metazoa,Chordata,Mammalia,Artiodactyla,Camelidae,Camelus
+Camelus ferus,0.249052414352914,Camelus ferus,wild Bactrian camel,Metazoa,Chordata,Mammalia,Artiodactyla,Camelidae,Camelus
+Naked Mole-rat,0.249358014292225,Heterocephalus glaber,Naked Mole-rat,Metazoa,Chordata,Mammalia,Rodentia,Bathyergidae,Heterocephalus
+Naked Mole-rat,0.249358014292225,Heterocephalus glaber,Naked Mole-rat,Metazoa,Chordata,Mammalia,Rodentia,Bathyergidae,Heterocephalus
+domestic pig,0.253641718868084,Sus scrofa domesticus,domestic pig,Metazoa,Chordata,Mammalia,Artiodactyla,Suidae,Sus
+wild boar,0.253641718868084,Sus scrofa,wild boar,Metazoa,Chordata,Mammalia,Artiodactyla,Suidae,Sus
+wild boar,0.253641718868084,Sus scrofa,wild boar,Metazoa,Chordata,Mammalia,Artiodactyla,Suidae,Sus
+wild boar,0.253641718868084,Sus scrofa,wild boar,Metazoa,Chordata,Mammalia,Artiodactyla,Suidae,Sus
+Harbor Seal,0.256727622717167,Phoca vitulina,Harbor Seal,Metazoa,Chordata,Mammalia,Carnivora,Phocidae,Phoca
+Alpaca,0.257161045020701,Vicugna pacos,Alpaca,Metazoa,Chordata,Mammalia,Artiodactyla,Camelidae,Vicugna
+Masked Palm Civet,0.259220817550851,Paguma larvata,Masked Palm Civet,Metazoa,Chordata,Mammalia,Carnivora,Viverridae,Paguma
+European Rabbit,0.261218100142429,Oryctolagus cuniculus,European Rabbit,Metazoa,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus
+Philippine Tarsier,0.261481541392902,Carlito syrichta,Philippine Tarsier,Metazoa,Chordata,Mammalia,Primates,Tarsiidae,Carlito
+Wolverine,0.26198947912984,Gulo gulo,Wolverine,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Gulo
+Northern elephant seal,0.26304114629074,Mirounga angustirostris,Northern elephant seal,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Mirounga
+Southern Elephant Seal,0.26304114629074,Mirounga leonina,Southern Elephant Seal,Metazoa,Chordata,Mammalia,Carnivora,Phocidae,Mirounga
+American badger,0.263438657809514,Taxidea taxus,American badger,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Taxidea
+Northern Fur Seal,0.264471862793728,Callorhinus ursinus,Northern Fur Seal,Metazoa,Chordata,Mammalia,Carnivora,Otariidae,Callorhinus
+Fukomys damarensis,0.264928876396512,Fukomys damarensis,Damaraland mole-rat,Metazoa,Chordata,Mammalia,Rodentia,Bathyergidae,Fukomys
+Yellow-spotted rock hyrax,0.265758154836935,Heterohyrax brucei,Yellow-spotted rock hyrax,Animalia,Chordata,Mammalia,Hyracoidea,Procaviidae,Heterohyrax
+Pacific walrus,0.267395359307542,Odobenus rosmarus divergens,Pacific walrus,Metazoa,Chordata,Mammalia,Carnivora,Odobenidae,Odobenus
+Chinese river dolphin,0.269449497250236,Lipotes vexillifer,Chinese river dolphin,Metazoa,Chordata,Mammalia,Artiodactyla,Lipotidae,Lipotes
+Western spotted skunk,0.269749860378476,Spilogale gracilis,Western spotted skunk,Animalia,Chordata,Mammalia,Carnivora,Mephitidae,Spilogale
+Polar Bear,0.271555963050447,Ursus maritimus,Polar Bear,Metazoa,Chordata,Mammalia,Carnivora,Ursidae,Ursus
+globicéphale noir de l'Atlantique,0.271748701398919,Globicephala melas,globicéphale noir de l'Atlantique,Metazoa,Chordata,Mammalia,Artiodactyla,Delphinidae,Globicephala
+Pacific White-sided Dolphin,0.271748701398919,Lagenorhynchus obliquidens,Pacific White-sided Dolphin,Metazoa,Chordata,Mammalia,Artiodactyla,Delphinidae,Lagenorhynchus
+Killer Whale,0.271748701398919,Orcinus orca,Killer Whale,Metazoa,Chordata,Mammalia,Artiodactyla,Delphinidae,Orcinus
+Bottlenose Dolphin,0.271748701398919,Tursiops truncatus,Bottlenose Dolphin,Metazoa,Chordata,Mammalia,Artiodactyla,Delphinidae,Tursiops
+greenish naked-backed fruit bat,0.272530726124245,Dobsonia viridis,greenish naked-backed fruit bat,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Dobsonia
+African savannah elephant,0.274151194671915,Loxodonta africana,African savannah elephant,Metazoa,Chordata,Mammalia,Proboscidea,Elephantidae,Loxodonta
+Antarctic minke whale,0.276261736355251,Balaenoptera bonaerensis,Antarctic minke whale,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera
+North Pacific minke whale,0.276261736355251,Balaenoptera acutorostrata scammoni,North Pacific minke whale,Metazoa,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Balaenoptera
+Lesser dawn bat,0.276439396938861,Eonycteris spelaea,Lesser dawn bat,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Eonycteris
+southern blossom bat,0.277846252214605,Syconycteris australis,southern blossom bat,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Syconycteris
+Lyle's flying fox,0.279333702995893,Pteropus lylei,Lyle's flying fox,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus
+Egyptian rousette,0.281425090760242,Rousettus aegyptiacus,Egyptian rousette,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Rousettus
+Leschenault's Rousette,0.281425090760242,Rousettus leschenaultii,Leschenault's Rousette,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Rousettus
+Leschenault's Rousette,0.281425090760242,Rousettus leschenaultii,Leschenault's Rousette,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Rousettus
+greater horseshoe bat,0.281425090760242,Rhinolophus ferrumequinum,greater horseshoe bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+Woodland dormouse,0.282425313124693,Graphiurus murinus,Woodland dormouse,Animalia,Chordata,Mammalia,Rodentia,Gliridae,Graphiurus
+Pearson's horseshoe bat,0.28319091139292,Rhinolophus pearsonii,Pearson's horseshoe bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+Long-tailed Chinchilla,0.284568704485826,Chinchilla lanigera,Long-tailed Chinchilla,Metazoa,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla
+Chinchilla lanigera,0.284568704485826,Chinchilla lanigera,long-tailed chinchilla,Metazoa,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla
+Chinese Rufous Horseshoe Bat,0.286402701596119,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+Pantagonian mara,0.287235885711324,Dolichotis patagonum,Pantagonian mara,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Dolichotis
+Grammomys surdaster,0.287579957981939,Grammomys surdaster,African woodland thicket rat,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Grammomys
+Honey badger,0.28991897763314,Mellivora capensis,Honey badger,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mellivora
+Asian palm civet,0.290813754916699,Paradoxurus hermaphroditus,Asian palm civet,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Paradoxurus
+Chacoan peccary,0.29416444273061,Catagonus wagneri,Chacoan peccary,Animalia,Chordata,Mammalia,Artiodactyla,Tayassuidae,Catagonus
+Ermine,0.294207671305811,Mustela erminea,Ermine,Metazoa,Chordata,Mammalia,Carnivora,Mustelidae,Mustela
+northern sea otter,0.295865229373177,Enhydra lutris kenyoni,northern sea otter,Metazoa,Chordata,Mammalia,Carnivora,Mustelidae,Enhydra
+northern sea otter,0.295865229373177,Enhydra lutris kenyoni,northern sea otter,Metazoa,Chordata,Mammalia,Carnivora,Mustelidae,Enhydra
+Central American agouti,0.297721855066399,Dasyprocta punctata,Central American agouti,Animalia,Chordata,Mammalia,Rodentia,Dasyproctidae,Dasyprocta
+California Sealion,0.298692626105203,Zalophus californianus,California Sealion,Metazoa,Chordata,Mammalia,Carnivora,Otariidae,Zalophus
+American mink,0.298746161353815,Neovison vison,American Mink,Metazoa,Chordata,Mammalia,Carnivora,Mustelidae,Neovison
+Geoffroy's tailless bat,0.298849028632144,Anoura geoffroyi,Geoffroy's tailless bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Anoura
+Striped hyena,0.301237158594085,Hyaena hyaena,Striped hyena,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Hyaena
+Spotted Hyena,0.301237158594085,Crocuta crocuta,Spotted Hyena,Metazoa,Chordata,Mammalia,Carnivora,Hyaenidae,Crocuta
+North American River Otter,0.302091266280685,Lontra canadensis,North American River Otter,Metazoa,Chordata,Mammalia,Carnivora,Mustelidae,Lontra
+Wahlberg's epauletted fruit bat,0.304148960080012,Epomophorus wahlbergi,Wahlberg's epauletted fruit bat,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Epomophorus
+Fin Whale,0.304346683720651,Balaenoptera physalus,Fin Whale,Metazoa,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Balaenoptera
+Straw-colored fruit bat,0.310234417861363,Eidolon helvum,Straw-colored fruit bat,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Eidolon
+black flying fox,0.310898148512396,Pteropus alecto,black flying fox,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus
+large flying fox,0.310898148512396,Pteropus vampyrus,large flying fox,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus
+black flying fox,0.310898148512396,Pteropus alecto,black flying fox,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus
+Degu,0.311968151877077,Octodon degus,Degu,Metazoa,Chordata,Mammalia,Rodentia,Octodontidae,Octodon
+Underwood's long-tongued bat,0.314916088152498,Hylonycteris underwoodi,Underwood's long-tongued bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Hylonycteris
+Pearson's horseshoe bat,0.317474898410562,Rhinolophus pearsonii,Pearson's horseshoe bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+Chinese Rufous Horseshoe Bat,0.323065764994985,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+Chinese Rufous Horseshoe Bat,0.323787875328613,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+Greater bulldog bat,0.325559068619304,Noctilio leporinus,Greater bulldog bat,Animalia,Chordata,Mammalia,Chiroptera,Noctilionidae,Noctilio
+Mustela putorius furo,0.328558148334671,Mustela putorius furo,ferret,Metazoa,Chordata,Mammalia,Carnivora,Mustelidae,Mustela
+European Mink,0.328558148334671,Mustela lutreola,European Mink,Metazoa,Chordata,Mammalia,Carnivora,Mustelidae,Mustela
+Giant otter,0.328775381830866,Pteronura brasiliensis,Giant otter,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Pteronura
+Chinese Rufous Horseshoe Bat,0.329127568388464,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+small-eared galago,0.330164758635965,Otolemur garnettii,small-eared galago,Metazoa,Chordata,Mammalia,Primates,Galagidae,Otolemur
+small-eared galago,0.330164758635965,Otolemur garnettii,small-eared galago,Metazoa,Chordata,Mammalia,Primates,Galagidae,Otolemur
+Black-footed Ferret,0.333573353055425,Mustela nigripes,Black-footed Ferret,Metazoa,Chordata,Mammalia,Carnivora,Mustelidae,Mustela
+Fossa,0.335647576939773,Cryptoprocta ferox,Fossa,Animalia,Chordata,Mammalia,Carnivora,Eupleridae,Cryptoprocta
+Cantor's roundleaf bat,0.336044488539936,Hipposideros galeritus,Cantor's roundleaf bat,Animalia,Chordata,Mammalia,Chiroptera,Hipposideridae,Hipposideros
+Pallas's long-tongued bat,0.33852542804872,Glossophaga soricina,Pallas's long-tongued bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Glossophaga
+Montane guinea pig,0.342247562648281,Cavia tschudii,Montane guinea pig,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia
+Domesticated Guinea Pig,0.342247562648281,Cavia porcellus,Domesticated Guinea Pig,Metazoa,Chordata,Mammalia,Rodentia,Caviidae,Cavia
+Commissaris's long-tongued bat,0.342837984139957,Glossophaga commissarisi,Commissaris's long-tongued bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Glossophaga
+Sowell's Short-tailed Bat,0.344317000913251,Carollia sowelli,Sowell's Short-tailed Bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Carollia
+Southern African Mastomys,0.345580566829361,Mastomys coucha,Southern African Mastomys,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Mastomys
+greater false vampire bat,0.346953733668613,Megaderma lyra,greater false vampire bat,Metazoa,Chordata,Mammalia,Chiroptera,Megadermatidae,Megaderma
+condylure étoilé,0.346953757452884,Condylura cristata,condylure étoilé,Metazoa,Chordata,Mammalia,Eulipotyphla,Talpidae,Condylura
+Ryukyu Mouse,0.348121443166356,Mus caroli,Ryukyu Mouse,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Mus
+Steppe mouse,0.348121443166356,Mus spicilegus,Steppe mouse,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Mus
+Pratt's roundleaf bat,0.348491975421498,Hipposideros pratti,Pratt's roundleaf bat,Metazoa,Chordata,Mammalia,Chiroptera,Hipposideridae,Hipposideros
+great roundleaf bat,0.348491975421498,Hipposideros armiger,great roundleaf bat,Metazoa,Chordata,Mammalia,Chiroptera,Hipposideridae,Hipposideros
+Bowhead whale,0.349037150985071,Balaena mysticetus,Bowhead whale,Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Balaena
+Lesser short-nosed fruit bat,0.35110125917415,Cynopterus brachyotis,Lesser short-nosed fruit bat,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Cynopterus
+greater short-nosed fruit bat,0.35110125917415,Cynopterus sphinx,greater short-nosed fruit bat,Metazoa,Chordata,Mammalia,Chiroptera,Pteropodidae,Cynopterus
+Algerian mouse,0.35231069544564,Mus spretus,Western Mediterranean Mouse,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Mus
+Dassie rat,0.352712331069731,Petromus typicus,Dassie rat,Animalia,Chordata,Mammalia,Rodentia,Petromuridae,Petromus
+Chinese pangolin,0.353295183949081,Manis pentadactyla,Chinese pangolin,Animalia,Chordata,Mammalia,Pholidota,Manidae,Manis
+Sunda Pangolin,0.353295183949081,Manis javanica,Sunda Pangolin,Metazoa,Chordata,Mammalia,Pholidota,Manidae,Manis
+Meadow jumping mouse,0.35359219439402,Zapus hudsonius,Meadow jumping mouse,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Zapus
+Indochinese Shrewlike Mouse,0.355126052191546,Mus pahari,Indochinese Shrewlike Mouse,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Mus
+Long-tongued fruit bat,0.35738207124949,Macroglossus sobrinus,Long-tongued fruit bat,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Macroglossus
+African Arvicanthis,0.358881269343874,Arvicanthis niloticus,African Arvicanthis,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Arvicanthis
+Tailed tailless bat,0.360522086552042,Anoura caudifer,Tailed tailless bat,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Anoura
+Handley's tailless bat,0.360522086552042,Anoura cultrata,Handley's tailless bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Anoura
+Seba's short-tailed bat,0.362720248565959,Carollia perspicillata,Seba's short-tailed bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Carollia
+chestnut short-tailed bat,0.362720248565959,Carollia castanea,chestnut short-tailed bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Carollia
+Social tudo-tuco,0.364391986933306,Ctenomys sociabilis,Social tudo-tuco,Animalia,Chordata,Mammalia,Rodentia,Ctenomyidae,Ctenomys
+African sheath-tailed bat,0.368370010285951,Coleura afra,African sheath-tailed bat,Metazoa,Chordata,Mammalia,Chiroptera,Emballonuridae,Coleura
+Chinese Rufous Horseshoe Bat,0.36858810572301,Rhinolophus sinicus,Chinese Rufous Horseshoe Bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+Eastern mole,0.369209403010446,Scalopus aquaticus,Eastern mole,Animalia,Chordata,Mammalia,Eulipotyphla,Talpidae,Scalopus
+least horseshoe bat,0.369298167900588,Rhinolophus pusillus,least horseshoe bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+Theobald's tomb bat,0.371498496019443,Taphozous theobaldi,Theobald's tomb bat,Metazoa,Chordata,Mammalia,Chiroptera,Emballonuridae,Taphozous
+black-bearded tomb bat,0.371498496019443,Taphozous melanopogon,black-bearded tomb bat,Metazoa,Chordata,Mammalia,Chiroptera,Emballonuridae,Taphozous
+Cape Elephant Shrew,0.372129990145413,Elephantulus edwardii,Cape Elephant Shrew,Metazoa,Chordata,Mammalia,Macroscelidea,Macroscelididae,Elephantulus
+Hoffmann's two-toed sloth,0.374404270188518,Choloepus hoffmanni,Hoffmann's two-toed sloth,Animalia,Chordata,Mammalia,Pilosa,Megalonychidae,Choloepus
+Javan pipistrelle,0.374638665954189,Pipistrellus javanicus,Javan pipistrelle,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Pipistrellus
+Cairo spiny mouse,0.375529454181574,Acomys cahirinus,Cairo spiny mouse,Animalia,Chordata,Mammalia,Rodentia,Muridae,Acomys
+small Asian sheath-tailed bat,0.385166523380452,Emballonura alecto,small Asian sheath-tailed bat,Metazoa,Chordata,Mammalia,Chiroptera,Emballonuridae,Emballonura
+Coypu,0.386887037026837,Myocastor coypus,Coypu,Animalia,Chordata,Mammalia,Rodentia,Myocastoridae,Myocastor
+souris commune,0.389835822757175,Mus musculus,souris commune,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Mus
+souris commune,0.389835822757175,Mus musculus,souris commune,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Mus
+White-bellied pangolin,0.390436776532601,Phataginus tricuspis,White-bellied pangolin,Metazoa,Chordata,Mammalia,Pholidota,Manidae,Phataginus
+Sowerby's beaked whale,0.394128051933374,Mesoplodon bidens,Sowerby's beaked whale,Animalia,Chordata,Mammalia,Cetacea,Hyperoodontidae,Mesoplodon
+Cape Golden Mole,0.394684283570553,Chrysochloris asiatica,Cape Golden Mole,Metazoa,Chordata,Mammalia,Afrosoricida,Chrysochloridae,Chrysochloris
+Jamaican fruit-eating bat,0.39469721861728,Artibeus jamaicensis,Jamaican fruit-eating bat,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Artibeus
+Jamaican fruit-eating bat,0.39469721861728,Artibeus jamaicensis,Jamaican fruit-eating bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Artibeus
+Pygmy Fruit-eating Bat,0.39469721861728,Artibeus phaeotis,Pygmy Fruit-eating Bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Artibeus
+Artibeus glaucus watsoni,0.39469721861728,Artibeus glaucus watsoni,Thomas's fruit-eating bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Artibeus
+great fruit-eating bat,0.39469721861728,Artibeus lituratus,great fruit-eating bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Artibeus
+Salvin's big-eyed bat,0.39469721861728,Chiroderma salvini,Salvin's big-eyed bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Chiroderma
+hairy big-eyed bat,0.39469721861728,Chiroderma villosum,hairy big-eyed bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Chiroderma
+Heller's broad-nosed bat,0.39469721861728,Platyrrhinus helleri,Heller's broad-nosed bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Platyrrhinus
+greater broad-nosed bat,0.39469721861728,Platyrrhinus vittatus,greater broad-nosed bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Platyrrhinus
+tent-making bat,0.39469721861728,Uroderma bilobatum,tent-making bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Uroderma
+Red panda,0.396309529068057,Ailurus fulgens styani,Red panda,Metazoa,Chordata,Mammalia,Carnivora,Ailuridae,Ailurus
+Common dwarf mongoose,0.397119075905404,Helogale parvula,Common dwarf mongoose,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Helogale
+Banded mongoose,0.397119075905404,Mungos mungo,Banded mongoose,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Mungos
+Orycteropus afer afer,0.400859447541497,Orycteropus afer afer,Southern Aardvark,Metazoa,Chordata,Mammalia,Tubulidentata,Orycteropodidae,Orycteropus
+long-nosed armadillo,0.402892841954048,Dasypus novemcinctus,long-nosed armadillo,Metazoa,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus
+long-nosed armadillo,0.402892841954048,Dasypus novemcinctus,long-nosed armadillo,Metazoa,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus
+big-eared horseshoe bat,0.404309832456296,Rhinolophus macrotis,big-eared horseshoe bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+gray sac-winged bat,0.40583712718761,Balantiopteryx plicata,gray sac-winged bat,Metazoa,Chordata,Mammalia,Chiroptera,Emballonuridae,Balantiopteryx
+greater horseshoe bat,0.407072052986631,Rhinolophus ferrumequinum,greater horseshoe bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+greater horseshoe bat,0.407072052986631,Rhinolophus ferrumequinum,greater horseshoe bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+greater horseshoe bat,0.407072052986631,Rhinolophus ferrumequinum,greater horseshoe bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+Sturnira hondurensis,0.408018249737894,Sturnira hondurensis,Choco yellow-shouldered bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Sturnira
+Sturnira parvidens,0.408018249737894,Sturnira parvidens,Northern yellow-shouldered bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Sturnira
+highland yellow-shouldered bat,0.408018249737894,Sturnira ludovici,highland yellow-shouldered bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Sturnira
+Stripe-headed round-eared bat,0.408318889097881,Tonatia saurophila,Stripe-headed round-eared bat,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Tonatia
+Suricata suricatta,0.411467186732865,Suricata suricatta,Meerkat,Metazoa,Chordata,Mammalia,Carnivora,Herpestidae,Suricata
+Meerkat,0.411467186732865,Suricata suricatta,Meerkat,Metazoa,Chordata,Mammalia,Carnivora,Herpestidae,Suricata
+David's Myotis,0.414434600092076,Myotis davidii,David's Myotis,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+David's Myotis,0.414434600092076,Myotis davidii,David's Myotis,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+Orange Nectar Bat,0.42166870594339,Lonchophylla robusta,Orange Nectar Bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Lonchophylla
+Thomas's Shaggy Bat,0.422455517590969,Centronycteris centralis,Thomas's Shaggy Bat,Metazoa,Chordata,Mammalia,Chiroptera,Emballonuridae,Centronycteris
+Greater mouse-eared bat,0.424659017440292,Myotis myotis,Greater mouse-eared bat,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+Greater cane rat,0.424856790185209,Thryonomys swinderianus,Greater cane rat,Animalia,Chordata,Mammalia,Rodentia,Thryonomyidae,Thryonomys
+Antillean ghost-faced bat,0.426321305846028,Mormoops blainvillei,Antillean ghost-faced bat,Animalia,Chordata,Mammalia,Chiroptera,Mormoopidae,Mormoops
+Hispaniolan solenodon,0.427561277253836,Solenodon paradoxus,Hispaniolan solenodon,Animalia,Chordata,Mammalia,Eulipotyphla,Solenodontidae,Solenodon
+Fat sand rat,0.430240937091244,Psammomys obesus,Fat sand rat,Animalia,Chordata,Mammalia,Rodentia,Muridae,Psammomys
+Mongolian gerbil,0.4319729985109,Meriones unguiculatus,Mongolian gerbil,Animalia,Chordata,Mammalia,Rodentia,Muridae,Meriones
+Brazilian free-tailed bat,0.433950105382888,Tadarida brasiliensis,Brazilian free-tailed bat,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Tadarida
+rat noir,0.435042490417359,Rattus rattus,rat noir,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Rattus
+rat surmulot,0.435042490417359,Rattus norvegicus,rat surmulot,Metazoa,Chordata,Mammalia,Rodentia,Muridae,Rattus
+Domesticated Guinea Pig,0.435722662953516,Cavia porcellus,Domesticated Guinea Pig,Metazoa,Chordata,Mammalia,Rodentia,Caviidae,Cavia
+Common big-eared bat,0.441047524426895,Micronycteris microtis,Common Big-eared Bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Micronycteris
+pallid bat,0.44214512997208,Antrozous pallidus,pallid bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Antrozous
+Schreibers' long-fingered bat,0.442769436207657,Miniopterus schreibersii,Schreibers' long-fingered bat,Animalia,Chordata,Mammalia,Chiroptera,Miniopteridae,Miniopterus
+Tasmanian Devil,0.451270153632074,Sarcophilus harrisii,Tasmanian Devil,Metazoa,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sarcophilus
+proboscis bat,0.452632138107567,Rhynchonycteris naso,proboscis bat,Metazoa,Chordata,Mammalia,Chiroptera,Emballonuridae,Rhynchonycteris
+Lander's horseshoe bat,0.453808545928074,Rhinolophus landeri,Lander's horseshoe bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+Velvety free-tailed bat,0.454979371992269,Molossus molossus,Velvety free-tailed bat,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Molossus
+Natal Long-fingered Bat,0.455136318699813,Miniopterus natalensis,Natal Long-fingered Bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Miniopterus
+big brown bat,0.45802115551929,Eptesicus fuscus,big brown bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus
+big brown bat,0.45802115551929,Eptesicus fuscus,big brown bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus
+Brandt's Myotis,0.458410371540843,Myotis brandtii,Brandt's Myotis,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+little brown bat,0.458410371540843,Myotis lucifugus,little brown bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+Brandt's Myotis,0.458410371540843,Myotis brandtii,Brandt's Myotis,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+little brown bat,0.458410371540843,Myotis lucifugus,little brown bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+Cape hairy bat,0.458410371540843,Myotis tricolor,Cape hairy bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+little brown bat,0.458410371540843,Myotis lucifugus,little brown bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+Brazilian brown bat,0.46067741159815,Eptesicus brasiliensis,Brazilian brown bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus
+Little tube-nosed bat,0.463755339172867,Murina feae,Little tube-nosed bat,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Murina
+Halcyon horseshoe bat,0.470470567078063,Rhinolophus alcyone,Halcyon horseshoe bat,Metazoa,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus
+greater bamboo bat,0.477954638409162,Tylonycteris robustula,greater bamboo bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Tylonycteris
+hairy-legged myotis,0.479418676190486,Myotis keaysi,hairy-legged myotis,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+African yellow bat,0.486481595878406,Scotophilus dinganii,African yellow bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Scotophilus
+Gracile shrew mole,0.488543940464282,Uropsilus gracilis,Gracile shrew mole,Animalia,Chordata,Mammalia,Eulipotyphla,Talpidae,Uropsilus
+Gray Short-tailed Opossum,0.488558510579092,Monodelphis domestica,Gray Short-tailed Opossum,Metazoa,Chordata,Mammalia,Didelphimorphia,Didelphidae,Monodelphis
+greater spear-nosed bat,0.489385736597621,Phyllostomus hastatus,greater spear-nosed bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Phyllostomus
+Koala,0.491375748793411,Phascolarctos cinereus,Koala,Metazoa,Chordata,Mammalia,Diprotodontia,Phascolarctidae,Phascolarctos
+Koala,0.491375748793411,Phascolarctos cinereus,Koala,Metazoa,Chordata,Mammalia,Diprotodontia,Phascolarctidae,Phascolarctos
+Common Wombat,0.491375748793411,Vombatus ursinus,Common Wombat,Metazoa,Chordata,Mammalia,Diprotodontia,Vombatidae,Vombatus
+Common Wombat,0.491375748793411,Vombatus ursinus,Common Wombat,Metazoa,Chordata,Mammalia,Diprotodontia,Vombatidae,Vombatus
+riparian myotis,0.497629480005338,Myotis riparius,riparian myotis,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+clear-winged woolly bat,0.498048680574512,Kerivoula pellucida,clear-winged woolly bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Kerivoula
+greater sac-winged bat,0.501092004674143,Saccopteryx bilineata,greater sac-winged bat,Metazoa,Chordata,Mammalia,Chiroptera,Emballonuridae,Saccopteryx
+Hairy big-eared bat,0.51889221953757,Micronycteris hirsuta,Hairy big-eared bat,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Micronycteris
+vampire bat,0.520466896047127,Desmodus rotundus,vampire bat,Metazoa,Chordata,Mammalia,Chiroptera,Phyllostomidae,Desmodus
+lesser Asiatic yellow bat,0.522394946834802,Scotophilus kuhlii,lesser Asiatic yellow bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Scotophilus
+Aeorestes cinereus,0.523160283960856,Aeorestes cinereus,hoary bat,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Aeorestes
+duck-billed platypus,0.52551290355625,Ornithorhynchus anatinus,duck-billed platypus,Metazoa,Chordata,Mammalia,Monotremata,Ornithorhynchidae,Ornithorhynchus
+duck-billed platypus,0.52551290355625,Ornithorhynchus anatinus,duck-billed platypus,Metazoa,Chordata,Mammalia,Monotremata,Ornithorhynchidae,Ornithorhynchus
+Tupaia chinensis,0.526751486274115,Tupaia chinensis,Chinese tree shrew,Metazoa,Chordata,Mammalia,Scandentia,Tupaiidae,Tupaia
+Cuervo americano,0.530846904516026,Corvus brachyrhynchos,Cuervo americano,Metazoa,Chordata,Aves,Passeriformes,Corvidae,Corvus
+Banana Pipistrelle,0.534222868089455,Neoromicia nanus,Banana Pipistrelle,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Neoromicia
+Lesser Hedgehog Tenrec,0.535595498497187,Echinops telfairi,Lesser Hedgehog Tenrec,Metazoa,Chordata,Mammalia,Afrosoricida,Tenrecidae,Echinops
+Common Cuckoo,0.561726142394533,Cuculus canorus,Common Cuckoo,Metazoa,Chordata,Aves,Cuculiformes,Cuculidae,Cuculus
+West European Hedgehog,0.566901691585926,Erinaceus europaeus,West European Hedgehog,Metazoa,Chordata,Mammalia,Eulipotyphla,Erinaceidae,Erinaceus
+Parnell's mustached bat,0.569213147241974,Pteronotus parnellii,Parnell's mustached bat,Animalia,Chordata,Mammalia,Chiroptera,Mormoopidae,Pteronotus
+Kuhl's pipistrelle,0.572178722045069,Pipistrellus kuhlii,Kuhl's pipistrelle,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Pipistrellus
+Common pipistrelle,0.572819204659423,Pipistrellus pipistrellus,Common pipistrelle,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Pipistrellus
+Reeves's muntjac,0.578065362601503,Muntiacus reevesi,Reeves's muntjac,Metazoa,Chordata,Mammalia,Artiodactyla,Cervidae,Muntiacus
+Talazac's shrew tenrec,0.580252352327188,Microgale talazaci,Talazac's shrew tenrec,Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Microgale
+Common Canary,0.59040424380558,Serinus canaria,Common Canary,Metazoa,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+Common Shrew,0.598063595397171,Sorex araneus,Common Shrew,Metazoa,Chordata,Mammalia,Eulipotyphla,Soricidae,Sorex
+Phoenicopterus ruber ruber,0.608962952332433,Phoenicopterus ruber ruber,Caribbean flamingo,Metazoa,Chordata,Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus
+Gekko japonicus,0.611626316532407,Gekko japonicus,Schlegel's Japanese gecko,Metazoa,Chordata,Lepidosauria,Squamata,Gekkonidae,Gekko
+New Caledonian Crow,0.614058570967712,Corvus moneduloides,New Caledonian Crow,Metazoa,Chordata,Aves,Passeriformes,Corvidae,Corvus
+Little Egret,0.615114593152407,Egretta garzetta,Little Egret,Metazoa,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta
+Tuatara,0.616666843646759,Sphenodon punctatus,Tuatara,Metazoa,Chordata,Lepidosauria,Rhynchocephalia,Sphenodontidae,Sphenodon
+Chuck-will's-widow,0.626021619529875,Antrostomus carolinensis,Chuck-will's-widow,Metazoa,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Antrostomus
+Small Tree Finch,0.626345635918811,Camarhynchus parvulus,Small Tree Finch,Metazoa,Chordata,Aves,Passeriformes,Thraupidae,Camarhynchus
+Medium Ground Finch,0.626345635918811,Geospiza fortis,Medium Ground Finch,Metazoa,Chordata,Aves,Passeriformes,Thraupidae,Geospiza
+Collared Flycatcher,0.636538125522492,Ficedula albicollis,Collared Flycatcher,Metazoa,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula
+Common Canary,0.639876094457037,Serinus canaria,Common Canary,Metazoa,Chordata,Aves,Passeriformes,Fringillidae,Serinus
+Japanese Pipistrelle,0.653162005935074,Pipistrellus abramus,Japanese Pipistrelle,Metazoa,Chordata,Mammalia,Chiroptera,Vespertilionidae,Pipistrellus
+Corvus cornix cornix,0.655687889745793,Corvus cornix cornix,hooded crow,Metazoa,Chordata,Aves,Passeriformes,Corvidae,Corvus
+White-throated Tinamou,0.658543168160092,Tinamus guttatus,White-throated Tinamou,Metazoa,Chordata,Aves,Tinamiformes,Tinamidae,Tinamus
+Wallaby,0.660283803875711,Notamacropus eugenii,tammar wallaby,Metazoa,Chordata,Mammalia,Diprotodontia,Macropodidae,Notamacropus
+Dalmatian Pelican,0.666479407215629,Pelecanus crispus,Dalmatian Pelican,Metazoa,Chordata,Aves,Pelecaniformes,Pelecanidae,Pelecanus
+Paloma doméstica,0.673388187715981,Columba livia,Paloma doméstica,Metazoa,Chordata,Aves,Columbiformes,Columbidae,Columba
+Chilean Tinamou,0.67407151234326,Nothoprocta perdicaria,Chilean Tinamou,Metazoa,Chordata,Aves,Tinamiformes,Tinamidae,Nothoprocta
+Zebra Finch,0.67838006922652,Taeniopygia guttata,Zebra Finch,Metazoa,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia
+Zebra Finch,0.67838006922652,Taeniopygia guttata,Zebra Finch,Metazoa,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia
+Dark-eyed junco,0.685538554581449,Junco hyemalis,dark-eyed junco,Metazoa,Chordata,Aves,Passeriformes,Passerellidae,Junco
+Gouldian finch,0.687327906144477,Erythrura gouldiae,Gouldian finch,Metazoa,Chordata,Aves,Passeriformes,Estrildidae,Erythrura
+Colimbo menor,0.690957049524879,Gavia stellata,Colimbo menor,Metazoa,Chordata,Aves,Gaviiformes,Gaviidae,Gavia
+Melospiza melodia maxima,0.692628197799361,Melospiza melodia maxima,giant song sparrow,Metazoa,Chordata,Aves,Passeriformes,Passerellidae,Melospiza
+Estornino pinto,0.692895741434951,Sturnus vulgaris,Estornino pinto,Metazoa,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
+Saffron-crested Neopelma,0.699371417412607,Neopelma chrysocephalum,Saffron-crested Neopelma,Metazoa,Chordata,Aves,Passeriformes,Pipridae,Neopelma
+Pink-footed goose,0.709513948203373,Anser brachyrhynchus,Pink-footed Goose,Metazoa,Chordata,Aves,Anseriformes,Anatidae,Anser
+Black Swan,0.709513948203373,Cygnus atratus,Black Swan,Metazoa,Chordata,Aves,Anseriformes,Anatidae,Cygnus
+Red Junglefowl,0.71259218122704,Gallus gallus,Red Junglefowl,Metazoa,Chordata,Aves,Galliformes,Phasianidae,Gallus
+Red Junglefowl,0.71259218122704,Gallus gallus,Red Junglefowl,Metazoa,Chordata,Aves,Galliformes,Phasianidae,Gallus
+Red Junglefowl,0.71259218122704,Gallus gallus,Red Junglefowl,Metazoa,Chordata,Aves,Galliformes,Phasianidae,Gallus
+Anser cygnoides domesticus,0.713650343714792,Anser cygnoides domesticus,Domestic geese,Metazoa,Chordata,Aves,Anseriformes,Anatidae,Anser
+Great Cormorant,0.718183626312842,Phalacrocorax carbo,Great Cormorant,Metazoa,Chordata,Aves,Pelecaniformes,Phalacrocoracidae,Phalacrocorax
+Tufted Duck,0.72036214297888,Aythya fuligula,Tufted Duck,Metazoa,Chordata,Aves,Anseriformes,Anatidae,Aythya
+Common Pheasant,0.722173784706543,Phasianus colchicus,Common Pheasant,Metazoa,Chordata,Aves,Galliformes,Phasianidae,Phasianus
+Common Pheasant,0.722173784706543,Phasianus colchicus,Common Pheasant,Metazoa,Chordata,Aves,Galliformes,Phasianidae,Phasianus
+Tyto alba alba,0.722437484237911,Tyto alba alba,western barn owl,Metazoa,Chordata,Aves,Strigiformes,Tytonidae,Tyto
+Blue-crowned Manakin,0.723955829331713,Lepidothrix coronata,Blue-crowned Manakin,Metazoa,Chordata,Aves,Passeriformes,Pipridae,Lepidothrix
+Blue-crowned Manakin,0.723955829331713,Lepidothrix coronata,Blue-crowned Manakin,Metazoa,Chordata,Aves,Passeriformes,Pipridae,Lepidothrix
+Golden-collared Manakin,0.723955829331713,Manacus vitellinus,Golden-collared Manakin,Metazoa,Chordata,Aves,Passeriformes,Pipridae,Manacus
+Golden-collared Manakin,0.723955829331713,Manacus vitellinus,Golden-collared Manakin,Metazoa,Chordata,Aves,Passeriformes,Pipridae,Manacus
+Golden-collared Manakin,0.723955829331713,Manacus vitellinus,Golden-collared Manakin,Metazoa,Chordata,Aves,Passeriformes,Pipridae,Manacus
+Wire-tailed Manakin,0.723955829331713,Pipra filicauda,Wire-tailed Manakin,Metazoa,Chordata,Aves,Passeriformes,Pipridae,Pipra
+Rabijunco cola blanca,0.726846536302297,Phaethon lepturus,Rabijunco cola blanca,Metazoa,Chordata,Aves,Pelecaniformes,Phaethontidae,Phaethon
+Tecolote llanero,0.726846536302297,Athene cunicularia,Tecolote llanero,Metazoa,Chordata,Aves,Strigiformes,Strigidae,Athene
+Tecolote llanero,0.726846536302297,Athene cunicularia,Tecolote llanero,Metazoa,Chordata,Aves,Strigiformes,Strigidae,Athene
+Zopilote aura,0.727398314731504,Cathartes aura,Zopilote aura,Metazoa,Chordata,Aves,Accipitriformes,Cathartidae,Cathartes
+Lonchura striata domestica,0.72963894366723,Lonchura striata domestica,society finch,Metazoa,Chordata,Aves,Passeriformes,Estrildidae,Lonchura
+Pato de collar,0.731909045720228,Anas platyrhynchos,Mallard,Metazoa,Chordata,Aves,Anseriformes,Anatidae,Anas
+Pato de collar,0.731909045720228,Anas platyrhynchos,Mallard,Metazoa,Chordata,Aves,Anseriformes,Anatidae,Anas
+South African Shelduck,0.731909045720228,Tadorna cana,South African Shelduck,Metazoa,Chordata,Aves,Anseriformes,Anatidae,Tadorna
+Turkey,0.732311502850149,Meleagris gallopavo,Guajolote norteño,Metazoa,Chordata,Aves,Galliformes,Phasianidae,Meleagris
+Turkey,0.732311502850149,Meleagris gallopavo,Guajolote norteño,Metazoa,Chordata,Aves,Galliformes,Phasianidae,Meleagris
+Pato tepalcate,0.732694001744355,Oxyura jamaicensis,Pato tepalcate,Metazoa,Chordata,Aves,Anseriformes,Anatidae,Oxyura
+Emu,0.735183126702565,Dromaius novaehollandiae,Emu,Metazoa,Chordata,Aves,Casuariiformes,Dromaiidae,Dromaius
+Gorrión garganta blanca,0.737925285230305,Zonotrichia albicollis,Gorrión garganta blanca,Metazoa,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia
+Palla's mastiff bat,0.737925285230305,Molossus molossus,Palla's mastiff bat,Metazoa,Chordata,Mammalia,Chiroptera,Molossidae,Molossus
+Palla's mastiff bat,0.737925285230305,Molossus molossus,Palla's mastiff bat,Metazoa,Chordata,Mammalia,Chiroptera,Molossidae,Molossus
+Palla's mastiff bat,0.737925285230305,Molossus molossus,Palla's mastiff bat,Metazoa,Chordata,Mammalia,Chiroptera,Molossidae,Molossus
+Palla's mastiff bat,0.737925285230305,Molossus molossus,Palla's mastiff bat,Metazoa,Chordata,Mammalia,Chiroptera,Molossidae,Molossus
+Palla's mastiff bat,0.737925285230305,Molossus molossus,Palla's mastiff bat,Metazoa,Chordata,Mammalia,Chiroptera,Molossidae,Molossus
+Emperor Penguin,0.737996193559518,Aptenodytes forsteri,Emperor Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Aptenodytes
+King Penguin,0.737996193559518,Aptenodytes patagonicus,King Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Aptenodytes
+Megadyptes antipodes antipodes,0.737996193559518,Megadyptes antipodes antipodes,yellow-eyed penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Megadyptes
+Adelie Penguin,0.737996193559518,Pygoscelis adeliae,Adelie Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Pygoscelis
+Adelie Penguin,0.737996193559518,Pygoscelis adeliae,Adelie Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Pygoscelis
+Gentoo Penguin,0.737996193559518,Pygoscelis papua,Gentoo Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Pygoscelis
+Jackass Penguin,0.737996193559518,Spheniscus demersus,Jackass Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus
+Magellanic Penguin,0.737996193559518,Spheniscus magellanicus,Magellanic Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus
+Mosquero saucero,0.742358536440958,Empidonax traillii,Mosquero saucero,Metazoa,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax
+Buceros rhinoceros silvestris,0.745826909304867,Buceros rhinoceros silvestris,Javan Rhinoceros Hornbill,Metazoa,Chordata,Aves,Bucerotiformes,Bucerotidae,Buceros
+Blue Tit,0.746744445009098,Cyanistes caeruleus,Blue Tit,Metazoa,Chordata,Aves,Passeriformes,Paridae,Cyanistes
+Brown Mesite,0.747396849703359,Mesitornis unicolor,Brown Mesite,Metazoa,Chordata,Aves,Gruiformes,Mesitornithidae,Mesitornis
+Chinstrap Penguin,0.748484527868296,Pygoscelis antarcticus,Chinstrap Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Pygoscelis
+Great spotted kiwi,0.749016252663118,Apteryx haastii,Great Spotted Kiwi,Metazoa,Chordata,Aves,Apterygiformes,Apterygidae,Apteryx
+Little spotted kiwi,0.749016252663118,Apteryx owenii,Little Spotted Kiwi,Metazoa,Chordata,Aves,Apterygiformes,Apterygidae,Apteryx
+Okarito Brown Kiwi,0.749016252663118,Apteryx rowi,Okarito Brown Kiwi,Metazoa,Chordata,Aves,Apterygiformes,Apterygidae,Apteryx
+Chorlo tildío,0.749225096091424,Charadrius vociferus,Chorlo tildío,Metazoa,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius
+White-ruffed Manakin,0.749488564991654,Corapipo altera,White-ruffed Manakin,Metazoa,Chordata,Aves,Passeriformes,Pipridae,Corapipo
+Cuckoo-Roller,0.752146094505666,Leptosomus discolor,Cuckoo-Roller,Metazoa,Chordata,Aves,Coraciiformes,Leptosomidae,Leptosomus
+Erect-crested Penguin,0.756834960648121,Eudyptes sclateri,Erect-crested Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes
+Fiordland Penguin,0.756834960648121,Eudyptes pachyrhynchus,Fiordland Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes
+Snares Penguin,0.756834960648121,Eudyptes robustus,Snares Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes
+Rockhopper Penguin,0.756834960648121,Eudyptes chrysocome,Rockhopper Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes
+Eudyptes filholi,0.756834960648121,Eudyptes filholi,eastern rockhopper penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes
+Macaroni Penguin,0.756834960648121,Eudyptes chrysolophus,Macaroni Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes
+Royal Penguin,0.756834960648121,Eudyptes schlegeli,Royal Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes
+Eudyptula novaehollandiae,0.756834960648121,Eudyptula novaehollandiae,Australian fairy penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptula
+Eudyptula albosignata,0.756834960648121,Eudyptula albosignata,white-flippered penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptula
+Fairy Penguin,0.756834960648121,Eudyptula minor,Fairy Penguin,Metazoa,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptula
+Anna's Hummingbird,0.759782605026255,Calypte anna,Anna's Hummingbird,Metazoa,Chordata,Aves,Apodiformes,Trochilidae,Calypte
+Red-legged Seriema,0.761626574097953,Cariama cristata,Red-legged Seriema,Metazoa,Chordata,Aves,Cariamiformes,Cariamidae,Cariama
+Budgerigar,0.767044446978703,Melopsittacus undulatus,Budgerigar,Metazoa,Chordata,Aves,Psittaciformes,Psittaculidae,Melopsittacus
+Lance-tailed Manakin,0.7670821426032,Chiroxiphia lanceolata,Lance-tailed Manakin,Metazoa,Chordata,Aves,Passeriformes,Pipridae,Chiroxiphia
+Helmeted Guineafowl,0.769522512693852,Numida meleagris,Helmeted Guineafowl,Metazoa,Chordata,Aves,Galliformes,Numididae,Numida
+Golden pheasant,0.769942061410491,Chrysolophus pictus,Golden pheasant,Metazoa,Chordata,Aves,Galliformes,Phasianidae,Chrysolophus
+Common Barn-Owl,0.770011250922534,Tyto alba,Common Barn-Owl,Metazoa,Chordata,Aves,Strigiformes,Tytonidae,Tyto
+Yellow-billed parrot,0.780830198283378,Amazona collaria,Yellow-billed Amazon,Metazoa,Chordata,Aves,Psittaciformes,Psittacidae,Amazona
+Águila cabeza blanca,0.785037302376891,Haliaeetus leucocephalus,Águila cabeza blanca,Metazoa,Chordata,Aves,Accipitriformes,Accipitridae,Haliaeetus
+Pseudopodoces humilis,0.785089416763615,Pseudopodoces humilis,ground tit,Metazoa,Chordata,Aves,Passeriformes,Paridae,Pseudopodoces
+Patagioenas fasciata monilis,0.786619956677229,Patagioenas fasciata monilis,western Band-tailed Pigeon,Metazoa,Chordata,Aves,Columbiformes,Columbidae,Patagioenas
+Macqueen's Bustard,0.787633635352172,Chlamydotis macqueenii,Macqueen's Bustard,Metazoa,Chordata,Aves,Gruiformes,Otididae,Chlamydotis
+Macqueen's Bustard,0.787633635352172,Chlamydotis macqueenii,Macqueen's Bustard,Metazoa,Chordata,Aves,Gruiformes,Otididae,Chlamydotis
+Gavial,0.789973693703597,Gavialis gangeticus,Gavial,Metazoa,Chordata,Reptilia,Crocodylia,Gavialidae,Gavialis
+Kakapo,0.790437082022532,Strigops habroptila,Kakapo,Metazoa,Chordata,Aves,Psittaciformes,Psittacidae,Strigops
+Kakapo,0.790437082022532,Strigops habroptila,Kakapo,Metazoa,Chordata,Aves,Psittaciformes,Psittacidae,Strigops
+Zorzal de Swainson,0.791660590864508,Catharus ustulatus,Zorzal de Swainson,Metazoa,Chordata,Aves,Passeriformes,Turdidae,Catharus
+Eurasian sparrowhawk,0.79484906886829,Accipiter nisus,Eurasian Sparrowhawk,Metazoa,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter
+Struthio camelus australis,0.7976128533507,Struthio camelus australis,South African ostrich,Metazoa,Chordata,Aves,Struthioniformes,Struthionidae,Struthio
+Struthio camelus australis,0.7976128533507,Struthio camelus australis,South African ostrich,Metazoa,Chordata,Aves,Struthioniformes,Struthionidae,Struthio
+Aquila chrysaetos chrysaetos,0.798874153646886,Aquila chrysaetos chrysaetos,golden eagle,Metazoa,Chordata,Aves,Accipitriformes,Accipitridae,Aquila
+Aquila chrysaetos chrysaetos,0.798874153646886,Aquila chrysaetos chrysaetos,golden eagle,Metazoa,Chordata,Aves,Accipitriformes,Accipitridae,Aquila
+Japanese Crested Ibis,0.799732092014084,Nipponia nippon,Japanese Crested Ibis,Metazoa,Chordata,Aves,Pelecaniformes,Threskiornithidae,Nipponia
+Japanese Crested Ibis,0.799732092014084,Nipponia nippon,Japanese Crested Ibis,Metazoa,Chordata,Aves,Pelecaniformes,Threskiornithidae,Nipponia
+Saker Falcon,0.80837648356211,Falco cherrug,Saker Falcon,Metazoa,Chordata,Aves,Falconiformes,Falconidae,Falco
+Hoatzin,0.81369078887602,Opisthocomus hoazin,Hoatzin,Metazoa,Chordata,Aves,Opisthocomiformes,Opisthocomidae,Opisthocomus
+Hoatzin,0.81369078887602,Opisthocomus hoazin,Hoatzin,Metazoa,Chordata,Aves,Opisthocomiformes,Opisthocomidae,Opisthocomus
+Turquoise-fronted Amazon,0.820001183147455,Amazona aestiva,Turquoise-fronted Amazon,Metazoa,Chordata,Aves,Psittaciformes,Psittacidae,Amazona
+Vencejo de chimenea,0.820819959531373,Chaetura pelagica,Vencejo de chimenea,Metazoa,Chordata,Aves,Apodiformes,Apodidae,Chaetura
+Hirundo rustica rustica,0.821301323654966,Hirundo rustica rustica,barn swallow,Metazoa,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo
+Northern Carmine Bee-eater,0.82280277498072,Merops nubicus,Northern Carmine Bee-eater,Metazoa,Chordata,Aves,Coraciiformes,Meropidae,Merops
+Paroedura picta,0.823598594700681,Paroedura picta,ocelot gecko,Metazoa,Chordata,Lepidosauria,Squamata,Gekkonidae,Paroedura
+Chinese Softshell,0.825867242225861,Pelodiscus sinensis,Chinese Softshell,Metazoa,Chordata,Reptilia,Testudines,Trionychidae,Pelodiscus
+Peregrine Falcon,0.829515339398332,Falco peregrinus,Peregrine Falcon,Metazoa,Chordata,Aves,Falconiformes,Falconidae,Falco
+Geotrypetes seraphini,0.832617571408729,Geotrypetes seraphini,Gaboon caecilian,Metazoa,Chordata,Amphibia,Gymnophiona,Dermophiidae,Geotrypetes
+American Alligator,0.838867583990971,Alligator mississippiensis,American Alligator,Metazoa,Chordata,Reptilia,Crocodylia,Alligatoridae,Alligator
+Nile mouthbreeder,0.843374487401793,Oreochromis niloticus,Nile mouthbreeder,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Oreochromis
+Nile mouthbreeder,0.843374487401793,Oreochromis niloticus,Nile mouthbreeder,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Oreochromis
+Japanese Quail,0.85050658949252,Coturnix japonica,Japanese Quail,Metazoa,Chordata,Aves,Galliformes,Phasianidae,Coturnix
+Central Bearded Dragon,0.854792108752711,Pogona vitticeps,Central Bearded Dragon,Metazoa,Chordata,Lepidosauria,Squamata,Agamidae,Pogona
+Great Tit,0.855726662315563,Parus major,Great Tit,Metazoa,Chordata,Aves,Passeriformes,Paridae,Parus
+Argentine black and white tegu,0.858417455729612,Salvator merianae,Argentine black and white tegu,Metazoa,Chordata,Lepidosauria,Squamata,Teiidae,Salvator
+saltwater crocodile,0.860623846224716,Crocodylus porosus,saltwater crocodile,Metazoa,Chordata,Reptilia,Crocodylia,Crocodylidae,Crocodylus
+Chinese Alligator,0.861625564216511,Alligator sinensis,Chinese Alligator,Metazoa,Chordata,Reptilia,Crocodylia,Alligatoridae,Alligator
+Zootoca vivipara,0.866367719726132,Zootoca vivipara,viviparous lizard,Metazoa,Chordata,Lepidosauria,Squamata,Lacertidae,Zootoca
+Eastern Corn Snake,0.869696214124591,Pantherophis guttatus,Eastern Corn Snake,Metazoa,Chordata,Lepidosauria,Squamata,Colubridae,Pantherophis
+Spoon-billed sandpiper,0.870668351214293,Calidris pygmaea,spoon-billed sandpiper,Metazoa,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+Brown Spotted Pitviper,0.874066272425918,Protobothrops mucrosquamatus,Brown Spotted Pitviper,Metazoa,Chordata,Lepidosauria,Squamata,Viperidae,Protobothrops
+zebra danio,0.874964603712349,Danio rerio,zebra danio,Metazoa,Chordata,Actinopteri,Cypriniformes,Danionidae,Danio
+zebra danio,0.874964603712349,Danio rerio,zebra danio,Metazoa,Chordata,Actinopteri,Cypriniformes,Danionidae,Danio
+Painted Turtle,0.876366246757433,Chrysemys picta,Painted Turtle,Metazoa,Chordata,Reptilia,Testudines,Emydidae,Chrysemys
+Western Painted Turtle,0.876366246757433,Chrysemys picta bellii,Western Painted Turtle,Metazoa,Chordata,Reptilia,Testudines,Emydidae,Chrysemys
+Red-eared Slider,0.876366246757433,Trachemys scripta elegans,Red-eared Slider,Metazoa,Chordata,Reptilia,Testudines,Emydidae,Trachemys
+Green Anole,0.87893750576274,Anolis carolinensis,Green Anole,Metazoa,Chordata,Lepidosauria,Squamata,Dactyloidae,Anolis
+Ave sol,0.880680730114946,Eurypyga helias,Ave sol,Metazoa,Chordata,Aves,Gruiformes,Eurypygidae,Eurypyga
+Limosa lapponica baueri,0.892011436857174,Limosa lapponica baueri,Eastern Bar-tailed Godwit,Metazoa,Chordata,Aves,Charadriiformes,Scolopacidae,Limosa
+King Cobra,0.893056172667308,Ophiophagus hannah,King Cobra,Metazoa,Chordata,Lepidosauria,Squamata,Elapidae,Ophiophagus
+Green Sea Turtle,0.898742813175205,Chelonia mydas,Green Sea Turtle,Metazoa,Chordata,Reptilia,Testudines,Cheloniidae,Chelonia
+Three-toed Box Turtle,0.898742813175205,Terrapene carolina triunguis,Three-toed Box Turtle,Metazoa,Chordata,Reptilia,Testudines,Emydidae,Terrapene
+Three-toed Box Turtle,0.898742813175205,Terrapene carolina triunguis,Three-toed Box Turtle,Metazoa,Chordata,Reptilia,Testudines,Emydidae,Terrapene
+Three-toed Box Turtle,0.898742813175205,Terrapene carolina triunguis,Three-toed Box Turtle,Metazoa,Chordata,Reptilia,Testudines,Emydidae,Terrapene
+Big-headed Turtle,0.898742813175205,Platysternon megacephalum,Big-headed Turtle,Metazoa,Chordata,Reptilia,Testudines,Platysternidae,Platysternon
+Astatotilapia calliptera,0.905094597002142,Astatotilapia calliptera,eastern happy,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Astatotilapia
+Haplochromis burtoni,0.905094597002142,Haplochromis burtoni,Burton's mouthbrooder,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Haplochromis
+Maylandia zebra,0.905094597002142,Maylandia zebra,zebra mbuna,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Maylandia
+tilapia azul,0.905094597002142,Oreochromis aureus,tilapia azul,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Oreochromis
+tilapia azul,0.905094597002142,Oreochromis aureus,tilapia azul,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Oreochromis
+Pundamilia nyererei,0.905094597002142,Pundamilia nyererei,Ruti Island Cichlid,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Pundamilia
+fairy cichlid,0.907634875602822,Neolamprologus brichardi,fairy cichlid,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Neolamprologus
+Mainland Tiger Snake,0.913214498516955,Notechis scutatus,Mainland Tiger Snake,Metazoa,Chordata,Lepidosauria,Squamata,Elapidae,Notechis
+Mainland Tiger Snake,0.913214498516955,Notechis scutatus,Mainland Tiger Snake,Metazoa,Chordata,Lepidosauria,Squamata,Elapidae,Notechis
+Eastern Brown Snake,0.913803090912516,Pseudonaja textilis,Eastern Brown Snake,Metazoa,Chordata,Lepidosauria,Squamata,Elapidae,Pseudonaja
+yellow croaker,0.926287527351621,Larimichthys crocea,yellow croaker,Metazoa,Chordata,Actinopteri,Perciformes,Sciaenidae,Larimichthys
+yellow croaker,0.926287527351621,Larimichthys crocea,yellow croaker,Metazoa,Chordata,Actinopteri,Perciformes,Sciaenidae,Larimichthys
+Xenopus tropicalis,0.940692189704394,Xenopus tropicalis,western clawed frog,Metazoa,Chordata,Amphibia,Anura,Pipidae,Xenopus
+Xenopus tropicalis,0.940692189704394,Xenopus tropicalis,western clawed frog,Metazoa,Chordata,Amphibia,Anura,Pipidae,Xenopus
+Barramundi perch,0.943389359926895,Lates calcarifer,giant perch,Metazoa,Chordata,Actinopteri,Perciformes,Centropomidae,Lates
+giant perch,0.943389359926895,Lates calcarifer,giant perch,Metazoa,Chordata,Actinopteri,Perciformes,Centropomidae,Lates
+Calidris pugnax,0.943564119065163,Calidris pugnax,ruff,Metazoa,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+Calidris pugnax,0.943564119065163,Calidris pugnax,ruff,Metazoa,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+Eastern Brown Snake,0.945927460309533,Pseudonaja textilis,Eastern Brown Snake,Metazoa,Chordata,Lepidosauria,Squamata,Elapidae,Pseudonaja
+Archocentrus centrarchus,0.947714781079853,Archocentrus centrarchus,Flier cichlid,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Archocentrus
+Pinta Giant Tortoise,0.954471246962209,Chelonoidis abingdonii,Pinta Giant Tortoise,Metazoa,Chordata,Reptilia,Testudines,Testudinidae,Chelonoidis
+Pinta Giant Tortoise,0.954471246962209,Chelonoidis abingdonii,Pinta Giant Tortoise,Metazoa,Chordata,Reptilia,Testudines,Testudinidae,Chelonoidis
+Goode's Thornscrub Tortoise,0.954471246962209,Gopherus evgoodei,Goode's Thornscrub Tortoise,Metazoa,Chordata,Reptilia,Testudines,Testudinidae,Gopherus
+snakefish,0.957670995747243,Erpetoichthys calabaricus,snakefish,Metazoa,Chordata,Cladistia,Polypteriformes,Polypteridae,Erpetoichthys
+Callorhinchus milii,0.95956633079076,Callorhinchus milii,Australian ghostshark,Metazoa,Chordata,Chondrichthyes,Chimaeriformes,Callorhinchidae,Callorhinchus
+Callorhinchus milii,0.95956633079076,Callorhinchus milii,Australian ghostshark,Metazoa,Chordata,Chondrichthyes,Chimaeriformes,Callorhinchidae,Callorhinchus
+Collichthys lucidus,0.977141153590855,Collichthys lucidus,big head croaker,Metazoa,Chordata,Actinopteri,Perciformes,Sciaenidae,Collichthys
+northern wolffish,0.99257854419235,Anarrhichthys ocellatus,northern wolffish,Metazoa,Chordata,Actinopteri,Perciformes,Anarhichadidae,Anarrhichthys
+Western Terrestrial Garter Snake,0.994382120942009,Thamnophis elegans,Western Terrestrial Garter Snake,Metazoa,Chordata,Lepidosauria,Squamata,Colubridae,Thamnophis
+Midas cichlid,1.00166099076387,Amphilophus citrinellus,Midas cichlid,Metazoa,Chordata,Actinopteri,Cichliformes,Cichlidae,Amphilophus
+Rhinatrema bivittatum,1.00362334642647,Rhinatrema bivittatum,two-lined caecilian,Metazoa,Chordata,Amphibia,Gymnophiona,Rhinatrematidae,Rhinatrema
+Burmese Python,1.00703502181799,Python bivittatus,Burmese Python,Metazoa,Chordata,Lepidosauria,Squamata,Pythonidae,Python
+Hippocampus comes,1.03909664364323,Hippocampus comes,tiger tail seahorse,Metazoa,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Hippocampus
+Dissostichus mawsoni,1.04219701258143,Dissostichus mawsoni,Antarctic toothfish,Metazoa,Chordata,Actinopteri,Perciformes,Nototheniidae,Dissostichus
+chopita bicolor,1.04422700172171,Stegastes partitus,chopita bicolor,Metazoa,Chordata,Actinopteri,Perciformes,Pomacentridae,Stegastes
+Sinocyclocheilus anshuiensis,1.04917792195281,Sinocyclocheilus anshuiensis,Blind barbel,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Sinocyclocheilus
+Sinocyclocheilus anshuiensis,1.04917792195281,Sinocyclocheilus anshuiensis,Blind barbel,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Sinocyclocheilus
+Rhinatrema bivittatum,1.05355850275701,Rhinatrema bivittatum,two-lined caecilian,Metazoa,Chordata,Amphibia,Gymnophiona,Rhinatrematidae,Rhinatrema
+Tetraodon,1.056963172898,Tetraodon nigroviridis,spotted green pufferfish,Metazoa,Chordata,Actinopteri,Tetraodontiformes,Tetraodontidae,Tetraodon
+African Clawed Frog,1.05997036090033,Xenopus laevis,African Clawed Frog,Metazoa,Chordata,Amphibia,Anura,Pipidae,Xenopus
+African Clawed Frog,1.05997036090033,Xenopus laevis,African Clawed Frog,Metazoa,Chordata,Amphibia,Anura,Pipidae,Xenopus
+swamp eel,1.06306975843426,Monopterus albus,swamp eel,Metazoa,Chordata,Actinopteri,Synbranchiformes,Synbranchidae,Monopterus
+goldfish,1.06859994718519,Carassius auratus,goldfish,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Carassius
+West Indian Ocean coelacanth,1.07584098381531,Latimeria chalumnae,West Indian Ocean coelacanth,Metazoa,Chordata,Coelacanthimorpha,Coelacanthiformes,Coelacanthidae,Latimeria
+Common carp german mirror,1.07663859465017,Cyprinus carpio,Common carp german mirror,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Cyprinus
+Komodo dragon,1.07785978696481,Varanus komodoensis,Komodo Monitor,Metazoa,Chordata,Lepidosauria,Squamata,Varanidae,Varanus
+Triplophysa tibetana,1.07892537863945,Triplophysa tibetana,stone loach,Metazoa,Chordata,Actinopteri,Cypriniformes,Nemacheilidae,Triplophysa
+clown anemonefish,1.07949441949224,Amphiprion ocellaris,clown anemonefish,Metazoa,Chordata,Actinopteri,Perciformes,Pomacentridae,Amphiprion
+Orange clownfish,1.07949441949224,Amphiprion percula,clown fish,Metazoa,Chordata,Actinopteri,Perciformes,Pomacentridae,Amphiprion
+Ocean sunfish,1.08127091345869,Mola mola,ocean sunfish,Metazoa,Chordata,Actinopteri,Tetraodontiformes,Molidae,Mola
+West Indian Ocean coelacanth,1.084283990313,Latimeria chalumnae,West Indian Ocean coelacanth,Metazoa,Chordata,Coelacanthimorpha,Coelacanthiformes,Coelacanthidae,Latimeria
+river perch,1.08458020643663,Perca fluviatilis,river perch,Metazoa,Chordata,Actinopteri,Perciformes,Percidae,Perca
+Sinocyclocheilus anshuiensis,1.08612611341219,Sinocyclocheilus anshuiensis,Blind barbel,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Sinocyclocheilus
+Sinocyclocheilus anshuiensis,1.08612611341219,Sinocyclocheilus anshuiensis,Blind barbel,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Sinocyclocheilus
+Sinocyclocheilus rhinocerous,1.08612611341219,Sinocyclocheilus rhinocerous,horned Golden-line barbel,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Sinocyclocheilus
+Sinocyclocheilus rhinocerous,1.08612611341219,Sinocyclocheilus rhinocerous,horned Golden-line barbel,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Sinocyclocheilus
+Common carp hebao red,1.08999034102762,Cyprinus carpio,Common carp hebao red,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Cyprinus
+common carp,1.08999034102762,Cyprinus carpio,common carp,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Cyprinus
+Common carp huanghe,1.08999034102762,Cyprinus carpio,Common carp huanghe,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Cyprinus
+Notothenia coriiceps,1.0900512616273,Notothenia coriiceps,black rockcod,Metazoa,Chordata,Actinopteri,Perciformes,Nototheniidae,Notothenia
+Sinocyclocheilus rhinocerous,1.09152012905238,Sinocyclocheilus rhinocerous,horned Golden-line barbel,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Sinocyclocheilus
+Sinocyclocheilus rhinocerous,1.09152012905238,Sinocyclocheilus rhinocerous,horned Golden-line barbel,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Sinocyclocheilus
+Stickleback,1.09304982947091,Gasterosteus aculeatus,Alaskan stickleback,Metazoa,Chordata,Actinopteri,Perciformes,Gasterosteidae,Gasterosteus
+lineated blenny,1.0970899205675,Salarias fasciatus,lineated blenny,Metazoa,Chordata,Actinopteri,Blenniiformes,Blenniidae,Salarias
+lineated blenny,1.0970899205675,Salarias fasciatus,lineated blenny,Metazoa,Chordata,Actinopteri,Blenniiformes,Blenniidae,Salarias
+lineated blenny,1.0970899205675,Salarias fasciatus,lineated blenny,Metazoa,Chordata,Actinopteri,Blenniiformes,Blenniidae,Salarias
+whitefish,1.09915660530011,Coregonus sp. 'balchen',whitefish,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Coregonus
+Microcaecilia unicolor,1.1092345730739,Microcaecilia unicolor,tiny Cayenne caecilian,Metazoa,Chordata,Amphibia,Gymnophiona,Siphonopidae,Microcaecilia
+yellow perch,1.11042734086727,Perca flavescens,yellow perch,Metazoa,Chordata,Actinopteri,Perciformes,Percidae,Perca
+pikeperch,1.11042734086727,Sander lucioperca,pikeperch,Metazoa,Chordata,Actinopteri,Perciformes,Percidae,Sander
+Labeo rohita,1.11182151040709,Labeo rohita,rohu,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Labeo
+Indian glassfish,1.12111832815538,Parambassis ranga,Indian glassfish,Metazoa,Chordata,Actinopteri,Perciformes,Ambassidae,Parambassis
+cloudy catshark,1.12347191657047,Scyliorhinus torazame,cloudy catshark,Metazoa,Chordata,Chondrichthyes,Carcharhiniformes,Scyliorhinidae,Scyliorhinus
+snakehead,1.12550158356377,Channa argus,snakehead,Metazoa,Chordata,Actinopteri,Anabantiformes,Channidae,Channa
+mummichog,1.13378448329643,Fundulus heteroclitus,mummichog,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Fundulidae,Fundulus
+African Clawed Frog,1.13738797759923,Xenopus laevis,African Clawed Frog,Metazoa,Chordata,Amphibia,Anura,Pipidae,Xenopus
+Danionella translucida,1.13822360188196,Danionella translucida,micro glassfish,Metazoa,Chordata,Actinopteri,Cypriniformes,Danionidae,Danionella
+orangethroat darter,1.13925736212331,Etheostoma spectabile,orangethroat darter,Metazoa,Chordata,Actinopteri,Perciformes,Percidae,Etheostoma
+orangethroat darter,1.13925736212331,Etheostoma spectabile,orangethroat darter,Metazoa,Chordata,Actinopteri,Perciformes,Percidae,Etheostoma
+Oryzias melastigma,1.14436325087463,Oryzias melastigma,marine medaka,Metazoa,Chordata,Actinopteri,Beloniformes,Adrianichthyidae,Oryzias
+spiny eel,1.1445427319881,Mastacembelus armatus,spiny eel,Metazoa,Chordata,Actinopteri,Synbranchiformes,Mastacembelidae,Mastacembelus
+Nothobranchius furzeri,1.14684503615515,Nothobranchius furzeri,turquoise killifish,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Nothobranchiidae,Nothobranchius
+Takifugu bimaculatus,1.14687267141222,Takifugu bimaculatus,Futatsuboshi-fugu,Metazoa,Chordata,Actinopteri,Tetraodontiformes,Tetraodontidae,Takifugu
+Takifugu rubripes,1.14687267141222,Takifugu rubripes,Japanese Puffer,Metazoa,Chordata,Actinopteri,Tetraodontiformes,Tetraodontidae,Takifugu
+Denticeps clupeoides,1.14770838140031,Denticeps clupeoides,denticle herring,Metazoa,Chordata,Actinopteri,Clupeiformes,Denticipitidae,Denticeps
+Denticeps clupeoides,1.14770838140031,Denticeps clupeoides,denticle herring,Metazoa,Chordata,Actinopteri,Clupeiformes,Denticipitidae,Denticeps
+bolín,1.15328457916493,Cyprinodon variegatus,bolín,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Cyprinodontidae,Cyprinodon
+Oryzias melastigma,1.15387977794788,Oryzias melastigma,marine medaka,Metazoa,Chordata,Actinopteri,Beloniformes,Adrianichthyidae,Oryzias
+java medaka,1.15387977794788,Oryzias javanicus,java medaka,Metazoa,Chordata,Actinopteri,Beloniformes,Adrianichthyidae,Oryzias
+siamese fighting fish,1.15508803576954,Betta splendens,siamese fighting fish,Metazoa,Chordata,Actinopteri,Anabantiformes,Osphronemidae,Betta
+Austrofundulus limnaeus,1.16061900636019,Austrofundulus limnaeus,Killifish,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Rivulidae,Austrofundulus
+sharksucker,1.16758566014424,Echeneis naucrates,sharksucker,Metazoa,Chordata,Actinopteri,Carangiformes,Echeneidae,Echeneis
+sharksucker,1.16758566014424,Echeneis naucrates,sharksucker,Metazoa,Chordata,Actinopteri,Carangiformes,Echeneidae,Echeneis
+sterlet,1.16888157265566,Acipenser ruthenus,sterlet,Metazoa,Chordata,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser
+Sparus aurata,1.17094827535792,Sparus aurata,gilt-head bream,Metazoa,Chordata,Actinopteri,Spariformes,Sparidae,Sparus
+blacktipped soldierfish,1.17328448520556,Myripristis murdjan,blacktipped soldierfish,Metazoa,Chordata,Actinopteri,Holocentriformes,Holocentridae,Myripristis
+Pygocentrus nattereri,1.17543568659081,Pygocentrus nattereri,red-bellied piranha,Metazoa,Chordata,Actinopteri,Characiformes,Serrasalmidae,Pygocentrus
+northern pike,1.17577885621096,Esox lucius,northern pike,Metazoa,Chordata,Actinopteri,Esociformes,Esocidae,Esox
+climbing perch,1.17878040808906,Anabas testudineus,climbing perch,Metazoa,Chordata,Actinopteri,Anabantiformes,Anabantidae,Anabas
+espada de Monterrey,1.18318510091484,Xiphophorus couchianus,espada de Monterrey,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Poeciliidae,Xiphophorus
+Sphaeramia orbicularis,1.18607043423981,Sphaeramia orbicularis,orbiculate cardinalfish,Metazoa,Chordata,Actinopteri,Kurtiformes,Apogonidae,Sphaeramia
+platy,1.18637041747536,Xiphophorus maculatus,platy,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Poeciliidae,Xiphophorus
+channel catfish,1.1887376908665,Ictalurus punctatus,channel catfish,Metazoa,Chordata,Actinopteri,Siluriformes,Ictaluridae,Ictalurus
+Cottoperca gobio,1.19268556948889,Cottoperca gobio,channel bull blenny,Metazoa,Chordata,Actinopteri,Perciformes,Bovichtidae,Cottoperca
+greater amberjack,1.19482091933952,Seriola dumerili,greater amberjack,Metazoa,Chordata,Actinopteri,Carangiformes,Carangidae,Seriola
+Seriola lalandi dorsalis,1.19482091933952,Seriola lalandi dorsalis,yellowtail amberjack,Metazoa,Chordata,Actinopteri,Carangiformes,Carangidae,Seriola
+rainbow trout,1.19596649547667,Oncorhynchus mykiss,rainbow trout,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Oncorhynchus
+Baltic herring,1.19774874752813,Clupea harengus,Baltic herring,Metazoa,Chordata,Actinopteri,Clupeiformes,Clupeidae,Clupea
+sabalote,1.19961547074646,Chanos chanos,sabalote,Metazoa,Chordata,Actinopteri,Gonorynchiformes,Chanidae,Chanos
+Pangasianodon hypophthalmus,1.20189790511062,Pangasianodon hypophthalmus,iridescent shark,Metazoa,Chordata,Actinopteri,Siluriformes,Pangasiidae,Pangasianodon
+gupi,1.20505418656034,Poecilia reticulata,gupi,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Poeciliidae,Poecilia
+Bagarius yarrelli,1.2116926404881,Bagarius yarrelli,giant devil catfish,Metazoa,Chordata,Actinopteri,Siluriformes,Sisoridae,Bagarius
+mosquitofish,1.21234929607042,Gambusia affinis,mosquitofish,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Poeciliidae,Gambusia
+Indian glassfish,1.21567737412293,Parambassis ranga,Indian glassfish,Metazoa,Chordata,Actinopteri,Perciformes,Ambassidae,Parambassis
+Cynoglossus semilaevis,1.21916268862228,Cynoglossus semilaevis,Tongue sole,Metazoa,Chordata,Actinopteri,Pleuronectiformes,Cynoglossidae,Cynoglossus
+Huchen,1.22233959200534,Hucho hucho,Danube salmon,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Hucho
+Japanese medaka HSOK,1.22432576356818,Oryzias latipes,Japanese killifish,Metazoa,Chordata,Actinopteri,Beloniformes,Adrianichthyidae,Oryzias
+shortfin molly,1.23085898828406,Poecilia mexicana,shortfin molly,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Poeciliidae,Poecilia
+topote amazona,1.23085898828406,Poecilia formosa,topote amazona,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Poeciliidae,Poecilia
+Baltic herring,1.23334269932079,Clupea harengus,Baltic herring,Metazoa,Chordata,Actinopteri,Clupeiformes,Clupeidae,Clupea
+Baltic herring,1.23334269932079,Clupea harengus,Baltic herring,Metazoa,Chordata,Actinopteri,Clupeiformes,Clupeidae,Clupea
+cola de espada,1.2336527917666,Xiphophorus hellerii,cola de espada,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Poeciliidae,Xiphophorus
+sardinita mexicana,1.23868596121146,Astyanax mexicanus,sardinita mexicana,Metazoa,Chordata,Actinopteri,Characiformes,Characidae,Astyanax
+turbot,1.23937537861894,Scophthalmus maximus,turbot,Metazoa,Chordata,Actinopteri,Pleuronectiformes,Scophthalmidae,Scophthalmus
+Takifugu flavidus,1.24575557068057,Takifugu flavidus,Yellowbelly pufferfish,Metazoa,Chordata,Actinopteri,Tetraodontiformes,Tetraodontidae,Takifugu
+Takifugu rubripes,1.24575557068057,Takifugu rubripes,Japanese Puffer,Metazoa,Chordata,Actinopteri,Tetraodontiformes,Tetraodontidae,Takifugu
+brown trout,1.24632649842078,Salmo trutta,brown trout,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salmo
+brown trout,1.24632649842078,Salmo trutta,brown trout,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salmo
+brown trout,1.24632649842078,Salmo trutta,brown trout,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salmo
+coho salmon,1.2464052744595,Oncorhynchus kisutch,coho salmon,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Oncorhynchus
+coho salmon,1.2464052744595,Oncorhynchus kisutch,coho salmon,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Oncorhynchus
+electric eel,1.24713744146939,Electrophorus electricus,electric eel,Metazoa,Chordata,Actinopteri,Gymnotiformes,Gymnotidae,Electrophorus
+sailfin molly,1.25255304873876,Poecilia latipinna,sailfin molly,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Poeciliidae,Poecilia
+Kryptolebias marmoratus,1.2531104757248,Kryptolebias marmoratus,mangrove rivulus fish,Metazoa,Chordata,Actinopteri,Cyprinodontiformes,Rivulidae,Kryptolebias
+Tachysurus fulvidraco,1.25356263413284,Tachysurus fulvidraco,yellowhead catfish,Metazoa,Chordata,Actinopteri,Siluriformes,Bagridae,Tachysurus
+ballan wrasse,1.27224863043374,Labrus bergylta,ballan wrasse,Metazoa,Chordata,Actinopteri,Labriformes,Labridae,Labrus
+Asian bonytongue,1.27447816267122,Scleropages formosus,Asian bonytongue,Metazoa,Chordata,Actinopteri,Osteoglossiformes,Osteoglossidae,Scleropages
+Asian bonytongue,1.27447816267122,Scleropages formosus,Asian bonytongue,Metazoa,Chordata,Actinopteri,Osteoglossiformes,Osteoglossidae,Scleropages
+Arctic char,1.27637629632963,Salvelinus alpinus,Arctic char,Metazoa,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salvelinus
+Sphaeramia orbicularis,1.28309202956344,Sphaeramia orbicularis,orbiculate cardinalfish,Metazoa,Chordata,Actinopteri,Kurtiformes,Apogonidae,Sphaeramia
+Sphaeramia orbicularis,1.28309202956344,Sphaeramia orbicularis,orbiculate cardinalfish,Metazoa,Chordata,Actinopteri,Kurtiformes,Apogonidae,Sphaeramia
+spotty-tail,1.28500059476834,Acanthochromis polyacanthus,spotty-tail,Metazoa,Chordata,Actinopteri,Perciformes,Pomacentridae,Acanthochromis
+Gouania willdenowi,1.30412883520535,Gouania willdenowi,blunt-snouted clingfish,Metazoa,Chordata,Actinopteri,Blenniiformes,Gobiesocidae,Gouania
+Paramormyrops kingsleyae,1.31654887903224,Paramormyrops kingsleyae,Old Calabar mormyrid,Metazoa,Chordata,Actinopteri,Osteoglossiformes,Mormyridae,Paramormyrops
+raie épineuse,1.3903601761751,Amblyraja radiata,raie épineuse,Metazoa,Chordata,Chondrichthyes,Rajiformes,Rajidae,Amblyraja
+Nanorana parkeri,1.39041151213031,Nanorana parkeri,High Himalaya frog,Metazoa,Chordata,Amphibia,Anura,Dicroglossidae,Nanorana
+Round goby,1.40983342565419,Neogobius melanostomus,gobie à taches noires,Metazoa,Chordata,Actinopteri,Perciformes,Gobiidae,Neogobius
+Cod,1.44607577850906,Gadus morhua,morue de l'Atlantique,Metazoa,Chordata,Actinopteri,Gadiformes,Gadidae,Gadus
+Sinocyclocheilus grahami,1.46070234984469,Sinocyclocheilus grahami,golden-line barbel,Metazoa,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Sinocyclocheilus
+spotted gar,1.50344712421336,Lepisosteus oculatus,spotted gar,Metazoa,Chordata,Actinopteri,Semionotiformes,Lepisosteidae,Lepisosteus
+spotted gar,1.50344712421336,Lepisosteus oculatus,spotted gar,Metazoa,Chordata,Actinopteri,Semionotiformes,Lepisosteidae,Lepisosteus
+Boleophthalmus pectinirostris,1.53653883999365,Boleophthalmus pectinirostris,Great blue spotted mudskipper,Metazoa,Chordata,Actinopteri,Gobiiformes,Gobiidae,Boleophthalmus
+sabalote,1.56533555293385,Chanos chanos,sabalote,Metazoa,Chordata,Actinopteri,Gonorynchiformes,Chanidae,Chanos
+sea lamprey,1.62430291208943,Petromyzon marinus,sea lamprey,Metazoa,Chordata,Hyperoartia,Petromyzontiformes,Petromyzontidae,Petromyzon

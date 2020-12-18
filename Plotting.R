@@ -6,6 +6,8 @@ library(cowplot)
 library(ape)
 library(genbankr)
 library(ggseqlogo)
+library(dplyr)
+library(reshape2)
 
 
 s_seq_aln <- readDNAStringSet("COVID19_S.fst")
@@ -216,3 +218,60 @@ ggplot() +
   theme_logo()+
   theme(axis.text.x = element_text(angle=90), axis.text.y=element_blank(), legend.position = "none") +
   ylab('')
+
+
+#jalview and tax_info_order have same tax
+#read in phylogenetic info
+#google sheets file that has been curated
+tax_info <- read.csv("results/cdhit_clusters_nodups - 100620_drops_removed.csv")
+tax_info <- read.csv("results/cdhit_clusters_nodups-jeremy.csv")
+matchup <- data.frame(name=row.names(seqs.tab.t), seqs = NA)
+for(i in 1:length(matchup$name)){
+  tmp <- paste(as.character(as.matrix(seqs.tab.t)[i,]),collapse="")
+  matchup$seqs[i] <- str_replace_all(tmp, "-","")
+}
+table(matchup$seqs %in% tax_info$seq)  ##make sure using sequence as index will work
+tax_info_order <- na.omit(tax_info[match(matchup$seqs, tax_info$seq), ])
+get <- which(tax_info_order$name %in% tax_info$name)
+jalview.plot.s <- jalview.plot[get,]
+names(jalview.plot.s) <- c(19, 24, 27, 28, 30, 31, 33, 34, 35, 37, 38, 41, 42, 45, 79, 82, 83, 321, 322, 323, 324, 325, 326, 327, 329, 330, 353, 354, 355, 356, 357, 383, 386, 387, 389, 393, 555)
+jalview.plot.s <- cbind(tax_info_order[,c("name","header","kingdom","phylum","class","order","family","genus")], jalview.plot.s)
+jalview.plot.long <- melt(jalview.plot.s, id.vars = c("name","header","kingdom","phylum","class","order","family","genus"))
+names(jalview.plot.long) <- c("name","header","kingdom","phylum","class","order","family","genus","site","aa")
+jalview.plot.long[jalview.plot.long$aa=="-",]$aa <- NA
+jalview.plot.long <- jalview.plot.long %>%
+  arrange(kingdom, phylum, class, order, family, genus)
+  
+
+
+aa_palette <- data.frame(aa=c("D", "E", "C", "M", "K", "R", "S", "T", "F", "Y", "N", "Q", "G", "L", "V", "I", "A", "W", "H", "P", "X"),
+                         col=c("#E60A0A", "#E60A0A", "#E6E600", "#E6E600", "#145AFF", "#145AFF", "#FA9600", "#FA9600", "#3232AA", "#3232AA", "#00DCDC", "#00DCDC", "#EBEBEB", "#0F820F", "#0F820F", "#0F820F", "#C8C8C8", "#B45AB4", "#8282D2", "#DC9682", "white"))
+lookup <- aa_palette$col
+names(lookup) <- aa_palette$aa
+
+ggplot(jalview.plot.long, aes(x=as.factor(site), y=header, fill=aa)) +
+  geom_tile() +
+  scale_y_discrete(limits=unique(jalview.plot.long$header)) +
+  scale_fill_manual(values =  unname(lookup[names(table(na.omit(jalview.plot.long$aa)))]), na.value="white")
+
+
+
+#####################################evolutionary distance of rbd
+dist.man <- read.csv("results/dist2man.csv")
+tmp <- table(dist.man$order)
+cut <- names(tmp[!tmp<5])
+n <- length(cut)
+rainbow <- rev(inlmisc::GetTolColors(n, scheme = "smooth rainbow"))
+pie(rep(1,n), col = rainbow)
+top_orders <- dist.man[dist.man$order %in% cut,]
+order.list <- unique(top_orders$order)
+top_orders$order <- factor(top_orders$order, levels=order.list)
+ggplot(top_orders, aes(x=val, y=order, fill=order, color=order)) +
+  geom_density_ridges() +
+  scale_y_discrete(limits=rev(order.list), labels=paste(rev(order.list),' (', as.character(tmp[rev(order.list)]), ')',sep="")) +
+  scale_fill_manual(values = rainbow) +
+  scale_color_manual(values = rainbow) +
+  theme_classic() +
+  theme(legend.position = "none") +
+  labs(x="Corrected AA distance", y="")
+ggsave(filename = "plots/aa_dist_histos.pdf", width = 5.5, height= 7, units = "in")
