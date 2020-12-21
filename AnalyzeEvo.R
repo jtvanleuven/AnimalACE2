@@ -76,8 +76,10 @@ rdb.seqs <- str_replace_all(rdb.seqs, "X", "-")
 ##some of these have bad gaps. just get rid of them
 gap.seqs <- which(str_detect(rdb.seqs, "---"))
 rdb.seqs.nogap <- rdb.seqs[-gap.seqs]
+jalview.plot.s <- jalview.plot.s[-gap.seqs,]
+write.csv(jalview.plot.s, "results/jalview.plot.s.csv", quote = F, row.names = F)
 
-write.FASTA(as.AAbin(as.list(rdb.seqs.nogap)), file="results/rbd.ape.fasta", header = tax_info_order[-gap.seqs,]$header)
+#write.FASTA(as.AAbin(as.list(rdb.seqs.nogap)), file="results/rbd.ape.fasta", header = tax_info_order[-gap.seqs,]$header)
 rdb.seqs.nogap <- read.FASTA("results/rbd.ape.fasta", type="AA")
 dat <- read.phyDat("results/rbd.ape.fasta", type="AA", format = "fasta")
 #modelTest(dat, model=c("JTT", "LG", "WAG"))
@@ -103,8 +105,10 @@ dist.man <- data.frame(name=tax_info_order[-gap.seqs,]$header, val=dist.wide[,"m
 dist.man <- cbind(dist.man, tax_info_order[-gap.seqs,c('sci', 'common', 'kingdom', 'phylum','class','order','family','genus')])
 dist.man <- dist.man %>%
   arrange(val,kingdom, phylum, class, order, family, genus)
-write.csv(dist.man, file="results/dist2man.csv", quote = F, row.names = F)
+#write.csv(dist.man, file="results/dist2man.csv", quote = F, row.names = F)
 
 
 
-  
+##north american animal species
+#from https://www.mammaldiversity.org/
+na.animals <- read.csv("raw_data/mdd.csv")

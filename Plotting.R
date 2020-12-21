@@ -8,12 +8,14 @@ library(genbankr)
 library(ggseqlogo)
 library(dplyr)
 library(reshape2)
+library(gggenes)
+library(vegan)
+library(ggridges)
 
-
-s_seq_aln <- readDNAStringSet("COVID19_S.fst")
+s_seq_aln <- readDNAStringSet("raw_data/COVID19_S.fst")
 #exported alignment at AA from seaview
 #still contains a few indels. maybe check lit to see if correct?
-s_seq_aln_AA <- readAAStringSet("COVID19_S_AA.fst")
+s_seq_aln_AA <- readAAStringSet("raw_data/COVID19_S_AA.fst")
 sAAmat <- as.matrix(s_seq_aln_AA)
 sAAtab <- table(sAAmat)
 sAAvars <- vector(mode='list', length = ncol(sAAmat))
@@ -55,29 +57,29 @@ ace.pos.count <- ace.pos.count[order(as.numeric(row.names(ace.pos.count))),]
 
 
 ##plots
-library(gggenes)
-ace.pdb <- read.table("ace2_interface_residues.pdb")      
-s.pdb <- read.table("S-RBD_interface_residues.pdb")
+ace.pdb <- read.table("raw_data/ace2_interface_residues.pdb")      
+s.pdb <- read.table("raw_data/S-RBD_interface_residues.pdb")
 
 ace.bind <- data.frame(unique(ace.pdb$V6))
 #ace.gene <- data.frame("molecule"="chrX","gene"="ace2", "start"=15494520, "end"=15602158, "direction"=-1)
-ace.gene <- data.frame("molecule"="chrX","gene"="ACE2", "start"=1, "end"=805)
+ace.gene <- data.frame(molecule="chrX",gene="ACE2", start=1, end=805)
 ace.gene[2:6,] <- ace.gene[1,]
 ace.gene$bind <- c("motif1","motif2","motif3","motif4","motif5","motif6")
-        ace.gene$from <- c(26, 79, 324, 330, 353, 393)
+ace.gene$from <- c(26, 79, 324, 330, 353, 393)
 ace.gene$to <- c(45, 83, 325, 331, 357, 394)
+rbd <- c(19, 24, 27, 28, 30, 31, 33, 34, 35, 37, 38, 41, 42, 45, 79, 82, 83, 321, 322, 323, 324, 325, 326, 327, 329, 330, 353, 354, 355, 356, 357, 383, 386, 387, 389, 393, 555)
 
 s.bind <- data.frame(unique(s.pdb$V6))
-s.gene <- data.frame("molecule"="COVID19","gene"="S", "start"=1, "end"=1274)
+s.gene <- data.frame(molecule="COVID19",gene="S", start=1, end=1274)
 s.gene[2:4,] <- s.gene[1,]
 s.gene$bind <- c("motif1","motif2","motif3","motif4")
 s.gene$from <- c(403, 446, 473, 486)
 s.gene$to <- c(404, 456, 477, 505)
 
 plot <- rbind(ace.gene, s.gene)
-a <- as.numeric(row.names(ace.plot))
+a <- as.numeric(row.names(plot))
 s <- which(sAAvarcnt.df > 1)
-vlines <- data.frame("x"=c(a, s), "molecule"=c(rep("chrX", length(a)),rep("COVID19", length(s))))
+vlines <- data.frame(x=c(rbd, s), molecule=c(rep("chrX", length(rbd)),rep("COVID19", length(s))))
                      
 ggplot(plot, aes(xmin=start, xmax=end, y=molecule, fill=gene)) +
   geom_gene_arrow() +
@@ -94,14 +96,9 @@ ggplot(plot, aes(xmin=start, xmax=end, y=molecule, fill=gene)) +
 #############################try to make a conservation colored pdb file
 ##check out list that paul made
 
-library(ggseqlogo)
 data(ggseqlogo_sample)
 ggplot() + geom_logo( seqs_aa$AKT1 ) + theme_logo()
-library(ape)
-library(vegan)
-#hmdir <- "~/Dropbox/projects/coronavirus/"
-#setwd(hmdir)
-names <- read.csv("EnsemblSpeciesTable.csv")
+names <- read.csv("raw_data/EnsemblSpeciesTable.csv")
 #aln <- read.nexus.data("ENSGT00940000158077_gene_tree.nex")
 fa <- read.FASTA("ENSGT00940000158077_gene_tree.fa")
 for (i in 1:length(fa)){
@@ -147,9 +144,9 @@ for (i in 2:nrow(hace2string)-1){
 
 }
 
-write.table(hace2shannon, file="hace2_shannonbeta.pdb", quote = F, row.names = F, col.names = F)
-write.table(hace2div, file="hace2_aacntsbeta.pdb", quote = F, row.names = F, col.names = F)
-write.table(hace2simpson, file="hace2_simpsonbeta.pdb", quote = F, row.names = F, col.names = F)
+#write.table(hace2shannon, file="hace2_shannonbeta.pdb", quote = F, row.names = F, col.names = F)
+#write.table(hace2div, file="hace2_aacntsbeta.pdb", quote = F, row.names = F, col.names = F)
+#write.table(hace2simpson, file="hace2_simpsonbeta.pdb", quote = F, row.names = F, col.names = F)
 
 plot.dat <- data.frame(shannon)
 ggplot(data=plot.dat, aes(x=shannon)) +
@@ -211,9 +208,16 @@ jalview.plot <- jalview.plot[,rbd$sites]
 rdb.seqs <- c(apply(jalview.plot[,1:37], 1, paste, collapse=""))
 rbd$homo_aa <- as.character(jalview.plot[which(str_detect(jalview$X, "sapien")),])
 rbd$label <- paste(rbd$homo_aa, rbd$sites, sep="")
-library(ggseqlogo)
+##update with reduced sequence set
+rdb.seqs.nogap <- read.FASTA("results/rbd.ape.fasta", type="AA")
+rdb.seqs2 <- vector(length = length(rdb.seqs.nogap), mode = "character")
+for(i in 1:length(rdb.seqs.nogap)){
+  rdb.seqs2[i] <- paste(as.character(rdb.seqs.nogap)[[i]],collapse="")
+}
+names(rdb.seqs2) <- as.character(1:length(rdb.seq2))
+
 ggplot() + 
-  geom_logo(rdb.seqs, method = "prob") + 
+  geom_logo(rdb.seqs2, method = "prob") + 
   scale_x_discrete(limits=as.character(rbd$label)) +
   theme_logo()+
   theme(axis.text.x = element_text(angle=90), axis.text.y=element_blank(), legend.position = "none") +
@@ -222,30 +226,17 @@ ggplot() +
 
 #jalview and tax_info_order have same tax
 #read in phylogenetic info
-#google sheets file that has been curated
-tax_info <- read.csv("results/cdhit_clusters_nodups - 100620_drops_removed.csv")
-tax_info <- read.csv("results/cdhit_clusters_nodups-jeremy.csv")
-matchup <- data.frame(name=row.names(seqs.tab.t), seqs = NA)
-for(i in 1:length(matchup$name)){
-  tmp <- paste(as.character(as.matrix(seqs.tab.t)[i,]),collapse="")
-  matchup$seqs[i] <- str_replace_all(tmp, "-","")
-}
-table(matchup$seqs %in% tax_info$seq)  ##make sure using sequence as index will work
-tax_info_order <- na.omit(tax_info[match(matchup$seqs, tax_info$seq), ])
-get <- which(tax_info_order$name %in% tax_info$name)
-jalview.plot.s <- jalview.plot[get,]
-names(jalview.plot.s) <- c(19, 24, 27, 28, 30, 31, 33, 34, 35, 37, 38, 41, 42, 45, 79, 82, 83, 321, 322, 323, 324, 325, 326, 327, 329, 330, 353, 354, 355, 356, 357, 383, 386, 387, 389, 393, 555)
-jalview.plot.s <- cbind(tax_info_order[,c("name","header","kingdom","phylum","class","order","family","genus")], jalview.plot.s)
+jalview.plot.s <- read.csv("results/jalview.plot.s.csv", stringsAsFactors = F, colClasses = c("character"))
+names(jalview.plot.s)[9:45] <- as.character(rbd$sites)
 jalview.plot.long <- melt(jalview.plot.s, id.vars = c("name","header","kingdom","phylum","class","order","family","genus"))
 names(jalview.plot.long) <- c("name","header","kingdom","phylum","class","order","family","genus","site","aa")
-jalview.plot.long[jalview.plot.long$aa=="-",]$aa <- NA
+jalview.plot.long[jalview.plot.long$aa=="-",]$aa <- 'NA'
+jalview.plot.long[jalview.plot.long$aa=="X",]$aa <- 'NA'
 jalview.plot.long <- jalview.plot.long %>%
   arrange(kingdom, phylum, class, order, family, genus)
-  
 
-
-aa_palette <- data.frame(aa=c("D", "E", "C", "M", "K", "R", "S", "T", "F", "Y", "N", "Q", "G", "L", "V", "I", "A", "W", "H", "P", "X"),
-                         col=c("#E60A0A", "#E60A0A", "#E6E600", "#E6E600", "#145AFF", "#145AFF", "#FA9600", "#FA9600", "#3232AA", "#3232AA", "#00DCDC", "#00DCDC", "#EBEBEB", "#0F820F", "#0F820F", "#0F820F", "#C8C8C8", "#B45AB4", "#8282D2", "#DC9682", "white"))
+aa_palette <- data.frame(aa=c("D", "E", "C", "M", "K", "R", "S", "T", "F", "Y", "N", "Q", "G", "L", "V", "I", "A", "W", "H", "P", "NA"),
+                         col=c("#E60A0A", "#E60A0A", "#E6E600", "#E6E600", "#145AFF", "#145AFF", "#FA9600", "#FA9600", "#3232AA", "#3232AA", "#00DCDC", "#00DCDC", "#EBEBEB", "#0F820F", "#0F820F", "#0F820F", "#C8C8C8", "#B45AB4", "#8282D2", "#DC9682", "black"))
 lookup <- aa_palette$col
 names(lookup) <- aa_palette$aa
 
@@ -253,7 +244,6 @@ ggplot(jalview.plot.long, aes(x=as.factor(site), y=header, fill=aa)) +
   geom_tile() +
   scale_y_discrete(limits=unique(jalview.plot.long$header)) +
   scale_fill_manual(values =  unname(lookup[names(table(na.omit(jalview.plot.long$aa)))]), na.value="white")
-
 
 
 #####################################evolutionary distance of rbd
@@ -266,6 +256,8 @@ pie(rep(1,n), col = rainbow)
 top_orders <- dist.man[dist.man$order %in% cut,]
 order.list <- unique(top_orders$order)
 top_orders$order <- factor(top_orders$order, levels=order.list)
+order.cols <- data.frame(order=order.list, col=rainbow)
+
 ggplot(top_orders, aes(x=val, y=order, fill=order, color=order)) +
   geom_density_ridges() +
   scale_y_discrete(limits=rev(order.list), labels=paste(rev(order.list),' (', as.character(tmp[rev(order.list)]), ')',sep="")) +
@@ -275,3 +267,48 @@ ggplot(top_orders, aes(x=val, y=order, fill=order, color=order)) +
   theme(legend.position = "none") +
   labs(x="Corrected AA distance", y="")
 ggsave(filename = "plots/aa_dist_histos.pdf", width = 5.5, height= 7, units = "in")
+
+
+##reorder aa aligment plot
+order.means <- dist.man %>%
+  group_by(order) %>%
+  summarise(order_mean = mean(val)) %>%
+  arrange(order_mean)
+#mean may not be the best. order it by max similarity
+
+jalview.plot.long$order <- as.factor(jalview.plot.long$order)
+align.p <- ggplot(jalview.plot.long, aes(x=site, y=header, fill=aa)) +
+  geom_tile() +
+  scale_y_discrete(limits=rev(unique(dist.man$name))) +
+  scale_fill_manual(values =  unname(lookup[names(table(na.omit(jalview.plot.long$aa)))])) +
+  theme_classic() +
+  theme(axis.text.x =  element_text(angle=-90), axis.text.y = element_text(size=5))
+
+row.names(order.cols) <- order.cols$order
+#tmp$col <- order.cols[as.character(tmp$order),]$col
+ggplot(order.cols, aes(x=1, y=order, fill=order)) +
+  geom_tile() +
+  scale_y_discrete(limits=rev(order.list)) +
+  scale_fill_manual(values = order.cols[names(table(order.cols$order)),]$col) +
+  theme(legend.position = "none")
+
+tmp <- jalview.plot.long[jalview.plot.long$site==19,]
+tmp$order <- as.character(tmp$order)
+col <- tmp$col
+order.p <- ggplot(tmp, aes(x=site, y=header, fill=order)) +
+  geom_tile() +
+  scale_y_discrete(limits=rev(unique(dist.man$name))) +
+  scale_fill_manual(values=order.cols[names(table(tmp$order)),]$col, na.value="white") +
+  theme_classic() +
+  theme(axis.text.y = element_text(size=5), legend.position = "none", axis.ticks.x = element_blank(), axis.text.x = element_blank())+
+  xlab("Order")
+
+
+plot_grid(order.p, 
+          align.p + 
+            theme(axis.text.y = element_blank(), axis.title.y = element_blank(), axis.ticks.y = element_blank()),
+          nrow = 1, 
+          rel_widths = c(1,4),
+          align = "h", axis="bt"
+          )
+ggsave(filename = "plots/alignment_worders.pdf", width = 10, height= 30, units = "in")
