@@ -227,9 +227,9 @@ ggplot() +
 #jalview and tax_info_order have same tax
 #read in phylogenetic info
 jalview.plot.s <- read.csv("results/jalview.plot.s.csv", stringsAsFactors = F, colClasses = c("character"))
-names(jalview.plot.s)[9:45] <- as.character(rbd$sites)
-jalview.plot.long <- melt(jalview.plot.s, id.vars = c("name","header","kingdom","phylum","class","order","family","genus"))
-names(jalview.plot.long) <- c("name","header","kingdom","phylum","class","order","family","genus","site","aa")
+names(jalview.plot.s)[11:47] <- as.character(rbd$sites)
+jalview.plot.long <- melt(jalview.plot.s, id.vars = c("name","header","kingdom","phylum","class","order","family","genus", "sci", "seq"))
+names(jalview.plot.long) <- c("name","header","kingdom","phylum","class","order","family","genus","sci",'seq',"site","aa")
 jalview.plot.long[jalview.plot.long$aa=="-",]$aa <- 'NA'
 jalview.plot.long[jalview.plot.long$aa=="X",]$aa <- 'NA'
 jalview.plot.long <- jalview.plot.long %>%
@@ -266,7 +266,7 @@ ggplot(top_orders, aes(x=val, y=order, fill=order, color=order)) +
   theme_classic() +
   theme(legend.position = "none") +
   labs(x="Corrected AA distance", y="")
-ggsave(filename = "plots/aa_dist_histos.pdf", width = 5.5, height= 7, units = "in")
+#ggsave(filename = "plots/aa_dist_histos.pdf", width = 5.5, height= 7, units = "in")
 
 
 ##reorder aa aligment plot
@@ -312,3 +312,40 @@ plot_grid(order.p,
           align = "h", axis="bt"
           )
 ggsave(filename = "plots/alignment_worders.pdf", width = 10, height= 30, units = "in")
+
+
+##redo plot with just NA animals
+jalview.plot.s.animaldist <- read.delim('results/jalview_animalDist.tab', header = T, sep = "\t", stringsAsFactors = F, colClasses = c("character"))
+northamerica <- which(str_detect(jalview.plot.s.animaldist$countryDistribution, "United States|Canada|Mexico"))
+man <- which(jalview.plot.s.animaldist$header=='man')
+plot.w <- jalview.plot.s.animaldist[c(northamerica,man),]
+plot.l <- melt(plot.w, id.vars = c("name","header","kingdom","phylum","class","order","family","genus", "sci", "seq", 'biogeographicRealm', 'countryDistribution', 'iucnStatus', 'extinct', 'domestic'))
+names(plot.l) <- c("name","header","kingdom","phylum","class","order","family","genus","sci",'seq', 'biogeographicRealm', 'countryDistribution', 'iucnStatus', 'extinct', 'domestic',"site","aa")
+plot.l$site <- str_replace(plot.l$site, "X", "")
+plot.l$site <- as.numeric(as.character(plot.l$site))
+dist.short <- dist.man[dist.man$name %in% plot.l$header,]
+align.na.p <- ggplot(plot.l, aes(x=factor(site), y=header, fill=aa)) +
+  geom_tile() +
+  scale_y_discrete(limits=rev(unique(dist.short$name))) +
+  scale_fill_manual(values =  unname(lookup[names(table(na.omit(plot.l$aa)))])) +
+  theme_classic() +
+  theme(axis.text.x =  element_text(angle=-90), axis.text.y = element_text(size=5))
+
+tmp <- plot.l[plot.l$site==19,]
+tmp$order <- as.character(tmp$order)
+order.na.p <- ggplot(tmp, aes(x=factor(site), y=header, fill=order)) +
+  geom_tile() +
+  scale_y_discrete(limits=rev(unique(dist.short$name))) +
+  scale_fill_manual(values=order.cols[names(table(tmp$order)),]$col, na.value="white") +
+  theme_classic() +
+  theme(axis.text.y = element_text(size=5), legend.position = "none", axis.ticks.x = element_blank(), axis.text.x = element_blank())+
+  xlab("Order")
+
+plot_grid(order.na.p, 
+          align.na.p + 
+            theme(axis.text.y = element_blank(), axis.title.y = element_blank(), axis.title.x = element_blank(), axis.ticks.y = element_blank()),
+          nrow = 1, 
+          rel_widths = c(1,3.5),
+          align = "h", axis="bt"
+)
+ggsave(filename = "plots/alignment_northamerica.pdf", width = 8, height= 8, units = "in")

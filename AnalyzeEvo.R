@@ -45,6 +45,7 @@ for(i in 1:length(matchup$name)){
 }
 table(matchup$seqs %in% tax_info$seq)  ##make sure using sequence as index will work
 tax_info_order <- tax_info[match(matchup$seqs, tax_info$seq), ]
+#write.csv(tax_info_order, "results/tax_info_order.csv", quote = F, row.names = F)
 
 #join tax info with homo sapien-matched index table
 seqs.tab.t.short$kingdom <- c(NA, tax_info_order$kingdom)
@@ -64,9 +65,9 @@ get <- which(tax_info_order$name %in% tax_info$name)
 jalview.plot.s <- jalview.plot[get,]
 names(jalview.plot.s) <- rbd$sites
 tax_info_order <- na.omit(tax_info[match(matchup$seqs, tax_info$seq), ])
-jalview.plot.s <- cbind(tax_info_order[,c("name","header","kingdom","phylum","class","order","family","genus")], jalview.plot.s)
-jalview.plot.long <- melt(jalview.plot.s, id.vars = c("name","header","kingdom","phylum","class","order","family","genus"))
-names(jalview.plot.long) <- c("name","header","kingdom","phylum","class","order","family","genus","site","aa")
+jalview.plot.s <- cbind(tax_info_order[,c("sci", "name","header","kingdom","phylum","class","order","family","genus", "seq")], jalview.plot.s)
+jalview.plot.long <- melt(jalview.plot.s, id.vars = c("name","header","kingdom","phylum","class","order","family","genus", "sci", "seq"))
+names(jalview.plot.long) <- c("name","header","kingdom","phylum","class","order","family","genus","sci",'seq',"site","aa")
 jalview.plot.long[jalview.plot.long$aa %in% c("-","X"),]$aa <- NA
 jalview.plot.long <- jalview.plot.long %>%
   arrange(kingdom, phylum, class, order, family, genus)
@@ -111,4 +112,14 @@ dist.man <- dist.man %>%
 
 ##north american animal species
 #from https://www.mammaldiversity.org/
-na.animals <- read.csv("raw_data/mdd.csv")
+animals <- read.csv("raw_data/mdd.csv")
+animals$sciName <- str_replace(animals$sciName, "_", " ")
+na.animals <- animals[str_detect(animals$countryDistribution, 'States|Canada'),]
+na.animals <- na.animals[!is.na(na.animals$sciName),]
+row.names(na.animals) <- na.animals$sciName
+nrow(na.animals)
+
+animals.s <- animals[,c('sciName',"biogeographicRealm", 'countryDistribution', 'iucnStatus', 'extinct', 'domestic')]
+jalview.plot.s.animaldist <- left_join(jalview.plot.s, animals.s, by=c('sci' = 'sciName'))
+write.table(jalview.plot.s.animaldist, "results/jalview_animalDist.tab", quote = F, row.names = F, sep="\t")
+
