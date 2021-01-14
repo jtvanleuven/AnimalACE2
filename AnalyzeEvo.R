@@ -30,8 +30,25 @@ seqs.tab.t.short <- seqs.tab.t[,man_numbs]
 conserv <- read.csv("results/jalview_conservation.csv", header = F, row.names = 1, stringsAsFactors = F)
 conserv.short <- conserv[,man_numbs]
 names(conserv.short) <- as.character(1:length(man_numbs))
-names(seqs.tab.t.short) <- as.character(1:length(man_numbs))
-seqs.tab.t.short <- rbind(conserv.short,seqs.tab.t.short)
+plot.conserv <- data.frame(score=t(conserv.short), type='All residues')
+add <- data.frame(score=t(conserv.short[rbd$sites]), type='S-binding residues')
+plot.conserv <- rbind(plot.conserv, add)
+
+ggplot(plot.conserv, aes(Conservation, fill=type, colour=type)) +
+  geom_density(alpha=0.2) +
+  #geom_histogram(bins = 10, alpha=0.5, position='stack') +
+  theme_classic() +
+  labs(x='Per-site variation', y='') +
+  scale_fill_nejm() +
+  scale_color_nejm()
+
+ggplot(plot.conserv, aes(x=Conservation, y=type, fill=type, colour=type)) +
+  geom_violin(alpha=0.9, adjust = 1.2) +
+  theme_classic() +
+  labs(x='Per-site variation', y='') +
+  scale_fill_nejm() +
+  scale_color_nejm() +
+  theme(legend.position = 'none')
 
 
 #read in phylogenetic info

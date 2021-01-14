@@ -222,7 +222,8 @@ ggplot() +
   theme_logo()+
   theme(axis.text.x = element_text(angle=90), axis.text.y=element_blank(), legend.position = "none") +
   ylab('')
-
+#ggsave(filename = "plots/weblogo676seqs.pdf", width = 7.5, height= 2, units = "in")
+#ggsave(filename = "plots/weblogo676seqs.png", width = 7.5, height= 2, units = "in")
 
 #jalview and tax_info_order have same tax
 #read in phylogenetic info
@@ -267,6 +268,7 @@ ggplot(top_orders, aes(x=val, y=order, fill=order, color=order)) +
   theme(legend.position = "none") +
   labs(x="Corrected AA distance", y="")
 #ggsave(filename = "plots/aa_dist_histos.pdf", width = 5.5, height= 7, units = "in")
+#ggsave(filename = "plots/aa_dist_histos.png", width = 5.5, height= 7, units = "in")
 
 
 ##reorder aa aligment plot
@@ -311,7 +313,7 @@ plot_grid(order.p,
           rel_widths = c(1,4),
           align = "h", axis="bt"
           )
-ggsave(filename = "plots/alignment_worders.pdf", width = 10, height= 30, units = "in")
+#ggsave(filename = "plots/alignment_worders.pdf", width = 10, height= 30, units = "in")
 
 
 ##redo plot with just NA animals
@@ -348,4 +350,34 @@ plot_grid(order.na.p,
           rel_widths = c(1,3.5),
           align = "h", axis="bt"
 )
-ggsave(filename = "plots/alignment_northamerica.pdf", width = 8, height= 8, units = "in")
+#ggsave(filename = "plots/alignment_northamerica.pdf", width = 8, height= 8, units = "in")
+
+
+#conservation score from jalview
+#This is an automatically calculated quantitative alignment annotation which measures the number of conserved physico-chemical properties conserved for each column of the alignment. Its calculation is based on the one used in the AMAS method of multiple sequence alignment analysis :
+#Livingstone C.D. and Barton G.J. (1993), Protein Sequence Alignments: A Strategy for the Hierarchical Analysis of Residue Conservation. CABIOS Vol. 9 No. 6 (745-756)).
+conserv <- read.csv("results/jalview_conservation.csv", header = F, row.names = 1, stringsAsFactors = F)
+conserv.short <- conserv[,man_numbs]
+names(conserv.short) <- as.character(1:length(man_numbs))
+plot.conserv <- data.frame(score=t(conserv.short), type='All residues')
+add <- data.frame(score=t(conserv.short[rbd$sites]), type='S-binding residues')
+plot.conserv <- rbind(plot.conserv, add)
+
+ggplot(plot.conserv, aes(Conservation, fill=type, colour=type)) +
+  geom_density(alpha=0.2) +
+  #geom_histogram(bins = 10, alpha=0.5, position='stack') +
+  theme_classic() +
+  labs(x='Per-site variation', y='') +
+  scale_fill_nejm() +
+  scale_color_nejm()
+
+ggplot(plot.conserv, aes(x=Conservation, y=type, fill=type, colour=type)) +
+  geom_violin(alpha=0.9, adjust = 1.2) +
+  theme_classic() +
+  labs(x='Per-site variation', y='') +
+  scale_fill_nejm() +
+  scale_color_nejm() +
+  theme(legend.position = 'none')
+
+#ggsave(filename = "plots/conservation.pdf", width = 2.5, height= 2, units = "in")
+#ggsave(filename = "plots/conservation.png", width = 2.5, height= 2, units = "in")
