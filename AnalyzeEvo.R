@@ -3,6 +3,8 @@ library(ape)
 library(phytools)
 library(reshape2)
 library(dplyr)
+library(Biostrings)
+library(ggplot2)
 
 seqs <- read.table("results/jalview_blc_aligment.txt", stringsAsFactors = F)
 names <- seqs$V1[which(str_detect(seqs$V1,">"))]
@@ -138,5 +140,37 @@ nrow(na.animals)
 
 animals.s <- animals[,c('sciName',"biogeographicRealm", 'countryDistribution', 'iucnStatus', 'extinct', 'domestic')]
 jalview.plot.s.animaldist <- left_join(jalview.plot.s, animals.s, by=c('sci' = 'sciName'))
-write.table(jalview.plot.s.animaldist, "results/jalview_animalDist.tab", quote = F, row.names = F, sep="\t")
+#write.table(jalview.plot.s.animaldist, "results/jalview_animalDist.tab", quote = F, row.names = F, sep="\t")
 
+
+
+##jagdish needs indexed sequences
+jalview.plot.s.animaldist <- read.csv('results/jalview_animalDist.tab', sep='\t')
+dist.man <- read.csv("results/dist2man.csv")
+rodent.scores <- read.csv("results/rodent_scores.csv", stringsAsFactors = F, colClasses = c("character"))
+rodent.scores <- rodent.scores[!is.na(rodent.scores$Index),]
+rodent.scores$Index <- as.numeric(rodent.scores$Index)
+rodent.scores <- rodent.scores[,1:43]
+rodent.scores$dist <- NA
+rodent.scores$acc <- jalview.plot.s.animaldist[rodent.scores$Index,]$name
+rodent.scores$seq <- jalview.plot.s.animaldist[rodent.scores$Index,]$seq
+for(i in 1:nrow(rodent.scores)){
+  get <- rodent.scores[i,]$sci
+  rodent.scores[i,]$dist <- paste(unique(dist.man[dist.man$sci == get,]$val),collapse = ':')
+}
+
+#write.csv(rodent.scores, 'results/rodent_scores_wdists.csv', quote = F, row.names = F)
+plot.rodent <- rodent.scores[!str_detect(rodent.scores$dist, ':'),]
+plot.rodent$mean.docking.score <- as.numeric(plot.rodent$mean.docking.score)
+plot.rodent$mean.complex.score <- as.numeric(plot.rodent$mean.complex.score)
+plot.rodent$dist <- as.numeric(plot.rodent$dist)
+
+ggplot(plot.rodent, aes(x=dist,y=mean.docking.score)) +
+  geom_point() +
+  theme_light() +
+  labs(x='Genetic distance to human', y='Mean Docking Score')
+
+ggplot(plot.rodent, aes(x=dist,y=mean.complex.score)) +
+  geom_point() +
+  theme_light() +
+  labs(x='Genetic distance to human', 'Mean Complex Score')
