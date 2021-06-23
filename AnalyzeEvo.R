@@ -5,7 +5,10 @@ library(reshape2)
 library(dplyr)
 library(Biostrings)
 library(ggplot2)
+library(ggsci)
+library(phangorn)
 
+rbd <- data.frame(sites = c(19, 24, 27, 28, 30, 31, 33, 34, 35, 37, 38, 41, 42, 45, 79, 82, 83, 321, 322, 323, 324, 325, 326, 327, 329, 330, 353, 354, 355, 356, 357, 383, 386, 387, 389, 393, 555), homo_aa=NA)
 seqs <- read.table("results/jalview_blc_aligment.txt", stringsAsFactors = F)
 names <- seqs$V1[which(str_detect(seqs$V1,">"))]
 seqs <- seqs$V1[which(!str_detect(seqs$V1,">"))]
@@ -63,7 +66,7 @@ for(i in 1:length(matchup$name)){
   matchup$seqs[i] <- str_replace_all(tmp, "-","")
 }
 table(matchup$seqs %in% tax_info$seq)  ##make sure using sequence as index will work
-tax_info_order <- tax_info[match(matchup$seqs, tax_info$seq), ]
+tax_info_order <- tax_info[match(tax_info$seq, matchup$seqs), ]
 #write.csv(tax_info_order, "results/tax_info_order.csv", quote = F, row.names = F)
 
 #join tax info with homo sapien-matched index table
@@ -76,7 +79,6 @@ seqs.tab.t.short$genus <- c(NA, tax_info_order$genus)
 seqs.tab.t.short$species <- c(NA, tax_info_order$sci)
 #write.csv(seqs.tab.t.short, "results/google_sheet_homo_sapien_aas.csv", quote = F)
 
-rbd <- data.frame(sites = c(19, 24, 27, 28, 30, 31, 33, 34, 35, 37, 38, 41, 42, 45, 79, 82, 83, 321, 322, 323, 324, 325, 326, 327, 329, 330, 353, 354, 355, 356, 357, 383, 386, 387, 389, 393, 555), homo_aa=NA)
 jalview <- read.csv("results/google_sheet_homo_sapien_aas.csv")
 jalview.plot <- jalview[2:712,2:806]
 jalview.plot <- jalview.plot[,rbd$sites]
@@ -97,7 +99,7 @@ rdb.seqs <- str_replace_all(rdb.seqs, "X", "-")
 gap.seqs <- which(str_detect(rdb.seqs, "---"))
 rdb.seqs.nogap <- rdb.seqs[-gap.seqs]
 jalview.plot.s <- jalview.plot.s[-gap.seqs,]
-write.csv(jalview.plot.s, "results/jalview.plot.s.csv", quote = F, row.names = F)
+#write.csv(jalview.plot.s, "results/jalview.plot.s.csv", quote = F, row.names = F)
 
 #write.FASTA(as.AAbin(as.list(rdb.seqs.nogap)), file="results/rbd.ape.fasta", header = tax_info_order[-gap.seqs,]$header)
 rdb.seqs.nogap <- read.FASTA("results/rbd.ape.fasta", type="AA")
